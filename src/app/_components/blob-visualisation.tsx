@@ -370,24 +370,58 @@ export const BlobVisualisation = () => {
     // Track which submitters are in the new data
     const currentSubmitters = new Set(data.map((item) => item.blob_submitter));
 
-    // Remove blobs that are no longer in the data
-    const submittersToRemove = Object.keys(circlesRef.current).filter(
+    // For blobs that are no longer in the data, shrink them to a minimal size instead of removing them
+    const submittersToShrink = Object.keys(circlesRef.current).filter(
       (submitter) => !currentSubmitters.has(submitter)
     );
 
-    submittersToRemove.forEach((submitter) => {
+    submittersToShrink.forEach((submitter) => {
       if (circlesRef.current[submitter]) {
-        World.remove(world, circlesRef.current[submitter]);
-        delete circlesRef.current[submitter];
-      }
+        const circle = circlesRef.current[submitter];
+        const currentRadius = circle.circleRadius || minSize;
 
-      if (labelElementsRef.current[submitter]) {
-        labelElementsRef.current[submitter].remove();
-        delete labelElementsRef.current[submitter];
-      }
+        // Animate shrinking to nearly invisible size
+        const animate = () => {
+          const targetRadius = 1; // Very small but still exists
+          const radiusDifference = targetRadius - currentRadius;
+          const totalSteps = 15;
+          let currentStep = 0;
 
-      if (nameElementsRef.current[submitter]) {
-        delete nameElementsRef.current[submitter];
+          const animation = setInterval(() => {
+            if (currentStep >= totalSteps) {
+              clearInterval(animation);
+
+              // Hide the label element after animation completes
+              if (labelElementsRef.current[submitter]) {
+                labelElementsRef.current[submitter].style.visibility = "hidden";
+              }
+              return;
+            }
+
+            // Calculate new size
+            const newRadius =
+              currentRadius +
+              (radiusDifference * (currentStep + 1)) / totalSteps;
+
+            // Avoid scaling to zero which can cause issues
+            const scaleFactor = Math.max(
+              newRadius / (circle.circleRadius || 1),
+              0.01
+            );
+
+            // Apply changes
+            Matter.Body.scale(circle, scaleFactor, scaleFactor);
+
+            currentStep++;
+          }, 16);
+        };
+
+        animate();
+
+        // Hide name element immediately
+        if (nameElementsRef.current[submitter]) {
+          nameElementsRef.current[submitter].style.display = "none";
+        }
       }
     });
 
@@ -415,6 +449,11 @@ export const BlobVisualisation = () => {
         // Update existing blob - keep position, only change size
         const circle = circlesRef.current[submitter];
         const currentRadius = circle.circleRadius || minSize;
+
+        // Make sure the label is visible in case it was previously hidden
+        if (labelElementsRef.current[submitter]) {
+          labelElementsRef.current[submitter].style.visibility = "visible";
+        }
 
         // Animate only size changes
         const animate = () => {
@@ -476,6 +515,7 @@ export const BlobVisualisation = () => {
         label.style.pointerEvents = "none";
         label.style.left = `${position.x}px`;
         label.style.top = `${position.y}px`;
+        label.style.visibility = "visible";
 
         // Create submitter name element (hidden by default)
         const nameElement = document.createElement("div");
