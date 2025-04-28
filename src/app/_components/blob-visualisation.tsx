@@ -4,11 +4,12 @@ import { useEffect, useRef } from "react";
 import Matter from "matter-js";
 import { getSubmitter } from "./blob-info";
 import { useBlobStore } from "./blob.provider";
-import { getBlobs } from "@/api";
+import { BlobData, getBlobs } from "@/api";
 import { useQuery } from "@tanstack/react-query";
 
 export const BlobVisualisation = () => {
   const { selectedDate } = useBlobStore();
+  const previousDataRef = useRef<BlobData[] | null>(null);
 
   const { data } = useQuery({
     queryKey: ["blobs", selectedDate],
@@ -16,28 +17,20 @@ export const BlobVisualisation = () => {
   });
 
   const containerRef = useRef<HTMLDivElement>(null);
-  const engineRef = useRef<Matter.Engine>(null);
-  const renderRef = useRef<Matter.Render>(null);
-  const runnerRef = useRef<Matter.Runner>(null);
-  const labelsContainerRef = useRef<HTMLDivElement>(null);
+  const engineRef = useRef<Matter.Engine | null>(null);
+  const renderRef = useRef<Matter.Render | null>(null);
+  const runnerRef = useRef<Matter.Runner | null>(null);
+  const labelsContainerRef = useRef<HTMLDivElement | null>(null);
+  const worldRef = useRef<Matter.World | null>(null);
+  const circlesRef = useRef<{ [key: string]: Matter.Body }>({});
+  const labelElementsRef = useRef<{ [key: string]: HTMLDivElement }>({});
+  const nameElementsRef = useRef<{ [key: string]: HTMLDivElement }>({});
+  const initialized = useRef(false);
 
+  // Set up Matter.js engine and renderer once on initial mount
   useEffect(() => {
-    if (!data) return;
-    if (!containerRef.current) return;
-
-    // Clear any existing canvas
-    containerRef.current.innerHTML = "";
-
-    // Create labels container
-    const labelsContainer = document.createElement("div");
-    labelsContainer.style.position = "absolute";
-    labelsContainer.style.top = "0";
-    labelsContainer.style.left = "0";
-    labelsContainer.style.width = "100%";
-    labelsContainer.style.height = "100%";
-    labelsContainer.style.pointerEvents = "none";
-    containerRef.current.appendChild(labelsContainer);
-    labelsContainerRef.current = labelsContainer;
+    if (!containerRef.current || initialized.current) return;
+    initialized.current = true;
 
     // Matter.js modules
     const Engine = Matter.Engine;
@@ -54,10 +47,22 @@ export const BlobVisualisation = () => {
     const engine = Engine.create();
     const world = engine.world;
     engineRef.current = engine;
+    worldRef.current = world;
 
     // Get dimensions from container
     const width = window.innerWidth;
     const height = window.innerHeight;
+
+    // Create labels container
+    const labelsContainer = document.createElement("div");
+    labelsContainer.style.position = "absolute";
+    labelsContainer.style.top = "0";
+    labelsContainer.style.left = "0";
+    labelsContainer.style.width = "100%";
+    labelsContainer.style.height = "100%";
+    labelsContainer.style.pointerEvents = "none";
+    containerRef.current.appendChild(labelsContainer);
+    labelsContainerRef.current = labelsContainer;
 
     // Create renderer
     const render = Render.create({
@@ -79,21 +84,6 @@ export const BlobVisualisation = () => {
     const runner = Runner.create();
     runnerRef.current = runner;
     Runner.run(runner, engine);
-
-    // Configure circle options with different colors
-    const getCircleOptions = (index: number) => {
-      const { color } = getSubmitter(data[index].blob_submitter);
-
-      return {
-        friction: 0.05,
-        frictionStatic: 0.1,
-        restitution: 0, // Add more bounce
-        render: {
-          fillStyle: color,
-          lineWidth: 0,
-        },
-      };
-    };
 
     // Create walls function that we can reuse for resize
     const wallThickness = 50;
@@ -122,162 +112,9 @@ export const BlobVisualisation = () => {
       ];
     };
 
-    // Create circles based on data
-    const circles = [];
-    const labelElements: HTMLDivElement[] = [];
-    const nameElements: HTMLDivElement[] = []; // Store references to name elements
-
-    if (data && data.length > 0) {
-      // Find the max blob value to normalize sizes
-      const maxBlobValue = Math.max(...data.map((item) => item.blobs));
-      const minSize = 30; // Minimum radius for smallest blob
-      const maxSize = 200; // Maximum radius for largest blob
-
-      // Calculate sizes first to plan layout
-      const blobSizes = data.map((item) => {
-        const blobRatio = item.blobs / maxBlobValue;
-        return minSize + blobRatio * (maxSize - minSize);
-      });
-
-      // Calculate positions to prevent overlap
-      const positions: { x: number; y: number }[] = [];
-
-      // Calculate positions based on sizes to prevent overlap
-      const totalItems = data.length;
-      const horizontalPadding = width * 0.1; // 10% padding on each side
-      const verticalPadding = height * 0.15; // 15% padding on top and bottom
-
-      // Calculate available space
-      const availableWidth = width - horizontalPadding * 2;
-      const availableHeight = height - verticalPadding * 2;
-
-      // Position calculation helpers
-      const getX = (index: number) => {
-        if (totalItems === 1) return width / 2;
-
-        // More sophisticated positioning for multiple blobs
-        return horizontalPadding + (availableWidth * index) / (totalItems - 1);
-      };
-
-      // Create alternating Y positions to prevent direct overlaps
-      const getY = (index: number) => {
-        // Create a wave pattern of positions
-        const centerY = height / 2;
-        const amplitude = availableHeight / 3; // Use 1/3 of available height as amplitude
-
-        // Alternate between upper and lower positions
-        if (totalItems <= 3) {
-          // For 1-3 items, position them at different heights
-          const positions = [
-            centerY,
-            centerY - amplitude * 0.8,
-            centerY + amplitude * 0.8,
-          ];
-          return positions[index % positions.length];
-        } else {
-          // For more items, create a wave pattern
-          return centerY + Math.sin((index * Math.PI) / 2) * amplitude * 0.7;
-        }
-      };
-
-      // Calculate positions for all blobs
-      for (let i = 0; i < totalItems; i++) {
-        positions.push({
-          x: getX(i),
-          y: getY(i),
-        });
-      }
-
-      // Create a circle for each data item
-      data.forEach((item, index) => {
-        const radius = blobSizes[index];
-        const xPosition = positions[index].x;
-        const yPosition = positions[index].y;
-
-        // Create a simple circle with the calculated radius
-        const circle = Bodies.circle(
-          xPosition,
-          yPosition,
-          radius,
-          getCircleOptions(index)
-        );
-
-        // Add a label with the submitter name
-        circle.label = item.blob_submitter;
-        circles.push(circle);
-
-        const { icon } = getSubmitter(item.blob_submitter);
-        // Create label container
-        const label = document.createElement("div");
-        label.style.position = "absolute";
-        label.style.textAlign = "center";
-        label.style.transform = "translate(-50%, -50%)";
-        label.style.pointerEvents = "none"; // Disable pointer events on label
-
-        // Create submitter name element (hidden by default)
-        const nameElement = document.createElement("div");
-        nameElement.textContent = item.blob_submitter;
-        nameElement.style.position = "absolute";
-        nameElement.style.bottom = "130%"; // Position above the icon
-        nameElement.style.left = "50%";
-        nameElement.style.transform = "translateX(-50%)";
-        nameElement.style.color = "#fff";
-        nameElement.style.fontSize = "14px";
-        nameElement.style.fontWeight = "bold";
-        nameElement.style.textShadow = "1px 1px 2px rgba(0,0,0,0.7)";
-        nameElement.style.backgroundColor = "rgba(0,0,0,0.5)";
-        nameElement.style.padding = "3px 6px";
-        nameElement.style.borderRadius = "4px";
-        nameElement.style.whiteSpace = "nowrap";
-        nameElement.style.display = "none"; // Hidden by default
-        nameElement.style.zIndex = "100";
-        nameElements.push(nameElement); // Store reference to name element
-
-        if (icon) {
-          // Create and add icon
-          const img = document.createElement("img");
-          img.src = icon;
-          img.style.width = "28px";
-          img.style.height = "28px";
-          img.style.borderRadius = "50%";
-          img.style.border = "2px solid white";
-          img.style.backgroundColor = "white";
-          img.style.boxShadow = "0px 0px 4px rgba(0,0,0,0.3)";
-          label.appendChild(img);
-          label.appendChild(nameElement);
-        } else {
-          // If no icon, use circle color as indicator but keep name hidden initially
-          const placeholder = document.createElement("div");
-          placeholder.style.width = "20px";
-          placeholder.style.height = "20px";
-          placeholder.style.borderRadius = "50%";
-          placeholder.style.backgroundColor = getSubmitter(
-            item.blob_submitter
-          ).color;
-          placeholder.style.border = "2px solid white";
-          placeholder.style.boxShadow = "0px 0px 4px rgba(0,0,0,0.3)";
-
-          label.appendChild(placeholder);
-          label.appendChild(nameElement);
-        }
-
-        labelsContainer.appendChild(label);
-        labelElements.push(label);
-      });
-    } else {
-      // Fallback to default circles if no data
-      circles.push(
-        Bodies.circle(width * 0.25, height * 0.3, 40, getCircleOptions(0)),
-        Bodies.circle(width * 0.5, height * 0.5, 60, getCircleOptions(1)),
-        Bodies.circle(width * 0.75, height * 0.7, 50, getCircleOptions(2))
-      );
-    }
-
     // Add walls
     const walls = createWalls(width, height);
-
-    // Add all bodies to world
-    World.add(world, [...circles, ...walls]);
+    World.add(world, walls);
 
     // Add mouse control
     const mouse = Mouse.create(render.canvas);
@@ -316,18 +153,19 @@ export const BlobVisualisation = () => {
       );
 
       // Check if mouse is inside any circle
-      circleBodies.forEach((body, index) => {
+      circleBodies.forEach((body) => {
+        const submitter = body.label;
         // Use Matter.js to check if point is inside circle
         const isInside = Matter.Query.point([body], mousePosition).length > 0;
 
         // Show/hide the name based on whether mouse is inside circle
-        if (index < nameElements.length) {
+        if (nameElementsRef.current[submitter]) {
           if (isInside) {
-            nameElements[index].style.display = "block";
-            hoveredCircles.add(index);
-          } else if (hoveredCircles.has(index)) {
-            nameElements[index].style.display = "none";
-            hoveredCircles.delete(index);
+            nameElementsRef.current[submitter].style.display = "block";
+            hoveredCircles.add(submitter);
+          } else if (hoveredCircles.has(submitter)) {
+            nameElementsRef.current[submitter].style.display = "none";
+            hoveredCircles.delete(submitter);
           }
         }
       });
@@ -335,10 +173,9 @@ export const BlobVisualisation = () => {
 
     // Also handle mouseleave on canvas to reset all hovers
     render.canvas.addEventListener("mouseleave", () => {
-      hoveredCircles.forEach((index) => {
-        const _index = index as number;
-        if (_index < nameElements.length) {
-          nameElements[_index].style.display = "none";
+      hoveredCircles.forEach((submitter) => {
+        if (nameElementsRef.current[submitter as string]) {
+          nameElementsRef.current[submitter as string].style.display = "none";
         }
       });
       hoveredCircles.clear();
@@ -355,10 +192,15 @@ export const BlobVisualisation = () => {
       );
 
       // Match label positions to their bodies
-      bodies.forEach((body, i) => {
-        if (i < labelElements.length) {
-          labelElements[i].style.left = `${body.position.x}px`;
-          labelElements[i].style.top = `${body.position.y}px`;
+      bodies.forEach((body) => {
+        const submitter = body.label;
+        if (labelElementsRef.current[submitter]) {
+          labelElementsRef.current[
+            submitter
+          ].style.left = `${body.position.x}px`;
+          labelElementsRef.current[
+            submitter
+          ].style.top = `${body.position.y}px`;
         }
       });
     });
@@ -395,45 +237,8 @@ export const BlobVisualisation = () => {
       const newWalls = createWalls(newWidth, newHeight);
       World.add(world, newWalls);
 
-      // Reposition circles based on new dimensions
-      const circleBodies = Composite.allBodies(world).filter(
-        (body) =>
-          body.label !== "topWall" &&
-          body.label !== "bottomWall" &&
-          body.label !== "leftWall" &&
-          body.label !== "rightWall"
-      );
-
-      if (circleBodies.length > 0 && data && data.length > 0) {
-        const horizontalPadding = newWidth * 0.1;
-        const verticalPadding = newHeight * 0.15;
-        const availableWidth = newWidth - horizontalPadding * 2;
-        const availableHeight = newHeight - verticalPadding * 2;
-        const totalItems = circleBodies.length;
-
-        circleBodies.forEach((circle, index) => {
-          const centerY = newHeight / 2;
-          const amplitude = availableHeight / 3;
-
-          let xPos =
-            horizontalPadding + (availableWidth * index) / (totalItems - 1);
-          if (totalItems === 1) xPos = newWidth / 2;
-
-          let yPos;
-          if (totalItems <= 3) {
-            const positions = [
-              centerY,
-              centerY - amplitude * 0.8,
-              centerY + amplitude * 0.8,
-            ];
-            yPos = positions[index % positions.length];
-          } else {
-            yPos = centerY + Math.sin((index * Math.PI) / 2) * amplitude * 0.7;
-          }
-
-          Matter.Body.setPosition(circle, { x: xPos, y: yPos });
-        });
-      }
+      // Reposition circles
+      updateBlobPositions(newWidth, newHeight);
 
       // Update the viewport
       Render.lookAt(render, {
@@ -466,7 +271,267 @@ export const BlobVisualisation = () => {
       if (labelsContainerRef.current) {
         labelsContainerRef.current.remove();
       }
+      initialized.current = false;
     };
+  }, []);
+
+  // Function to calculate positions for blobs
+  const calculatePositions = (
+    totalItems: number,
+    width: number,
+    height: number
+  ) => {
+    const positions: { x: number; y: number }[] = [];
+    const horizontalPadding = width * 0.1;
+    const verticalPadding = height * 0.15;
+    const availableWidth = width - horizontalPadding * 2;
+    const availableHeight = height - verticalPadding * 2;
+    const centerY = height / 2;
+    const amplitude = availableHeight / 3;
+
+    for (let i = 0; i < totalItems; i++) {
+      let xPos = horizontalPadding + (availableWidth * i) / (totalItems - 1);
+      if (totalItems === 1) xPos = width / 2;
+
+      let yPos;
+      if (totalItems <= 3) {
+        const positions = [
+          centerY,
+          centerY - amplitude * 0.8,
+          centerY + amplitude * 0.8,
+        ];
+        yPos = positions[i % positions.length];
+      } else {
+        yPos = centerY + Math.sin((i * Math.PI) / 2) * amplitude * 0.7;
+      }
+
+      positions.push({ x: xPos, y: yPos });
+    }
+
+    return positions;
+  };
+
+  // Function to update blob positions (used during resize)
+  const updateBlobPositions = (width: number, height: number) => {
+    if (!worldRef.current) return;
+
+    const world = worldRef.current;
+    const circleBodies = Matter.Composite.allBodies(world).filter(
+      (body) =>
+        body.label !== "topWall" &&
+        body.label !== "bottomWall" &&
+        body.label !== "leftWall" &&
+        body.label !== "rightWall"
+    );
+
+    if (circleBodies.length === 0) return;
+
+    const positions = calculatePositions(circleBodies.length, width, height);
+
+    circleBodies.forEach((circle, index) => {
+      Matter.Body.setPosition(circle, positions[index]);
+    });
+  };
+
+  // Update blobs when data changes
+  useEffect(() => {
+    if (
+      !data ||
+      !worldRef.current ||
+      !engineRef.current ||
+      !labelsContainerRef.current
+    )
+      return;
+
+    const world = worldRef.current;
+    const width = window.innerWidth;
+    const height = window.innerHeight;
+    const Bodies = Matter.Bodies;
+    const World = Matter.World;
+
+    // Find max blob value for sizing
+    const maxBlobValue = Math.max(...data.map((item) => item.blobs));
+    const minSize = 30;
+    const maxSize = 200;
+
+    // Calculate positions based on total number of items - only for new blobs
+    const existingSubmitters = new Set(Object.keys(circlesRef.current));
+    const newSubmitters = data
+      .map((item) => item.blob_submitter)
+      .filter((submitter) => !existingSubmitters.has(submitter));
+
+    // Calculate positions only for new blobs, to avoid repositioning existing ones
+    const newBlobPositions = calculatePositions(
+      newSubmitters.length,
+      width,
+      height
+    );
+
+    // Track which submitters are in the new data
+    const currentSubmitters = new Set(data.map((item) => item.blob_submitter));
+
+    // Remove blobs that are no longer in the data
+    const submittersToRemove = Object.keys(circlesRef.current).filter(
+      (submitter) => !currentSubmitters.has(submitter)
+    );
+
+    submittersToRemove.forEach((submitter) => {
+      if (circlesRef.current[submitter]) {
+        World.remove(world, circlesRef.current[submitter]);
+        delete circlesRef.current[submitter];
+      }
+
+      if (labelElementsRef.current[submitter]) {
+        labelElementsRef.current[submitter].remove();
+        delete labelElementsRef.current[submitter];
+      }
+
+      if (nameElementsRef.current[submitter]) {
+        delete nameElementsRef.current[submitter];
+      }
+    });
+
+    // Update or add blobs
+    data.forEach((item) => {
+      const submitter = item.blob_submitter;
+      const blobRatio = item.blobs / maxBlobValue;
+      const targetRadius = minSize + blobRatio * (maxSize - minSize);
+
+      // Configure circle options with color
+      const getCircleOptions = () => {
+        const { color } = getSubmitter(submitter);
+        return {
+          friction: 0.05,
+          frictionStatic: 0.1,
+          restitution: 0,
+          render: {
+            fillStyle: color,
+            lineWidth: 0,
+          },
+        };
+      };
+
+      if (circlesRef.current[submitter]) {
+        // Update existing blob - keep position, only change size
+        const circle = circlesRef.current[submitter];
+        const currentRadius = circle.circleRadius || minSize;
+
+        // Animate only size changes
+        const animate = () => {
+          const radiusDifference = targetRadius - currentRadius;
+          const totalSteps = 20;
+          let currentStep = 0;
+
+          const animation = setInterval(() => {
+            if (currentStep >= totalSteps) {
+              clearInterval(animation);
+              return;
+            }
+
+            // Calculate new size
+            const newRadius =
+              currentRadius +
+              (radiusDifference * (currentStep + 1)) / totalSteps;
+            const scaleFactor = newRadius / (circle.circleRadius || 1);
+
+            // Apply changes
+            Matter.Body.scale(circle, scaleFactor, scaleFactor);
+
+            currentStep++;
+          }, 16); // ~60fps for smoother animation
+        };
+
+        animate();
+      } else {
+        // Find a position for the new blob
+        const newBlobIndex = newSubmitters.indexOf(submitter);
+        const position =
+          newBlobIndex !== -1
+            ? newBlobPositions[newBlobIndex]
+            : { x: width / 2, y: height / 2 }; // Fallback position if something went wrong
+
+        // Create a new blob
+        const circle = Bodies.circle(
+          position.x,
+          position.y,
+          targetRadius,
+          getCircleOptions()
+        );
+
+        // Add a label with the submitter name
+        circle.label = submitter;
+        circlesRef.current[submitter] = circle;
+
+        // Add to world
+        World.add(world, circle);
+
+        // Create label elements
+        const { icon } = getSubmitter(submitter);
+
+        // Create label container
+        const label = document.createElement("div");
+        label.style.position = "absolute";
+        label.style.textAlign = "center";
+        label.style.transform = "translate(-50%, -50%)";
+        label.style.pointerEvents = "none";
+        label.style.left = `${position.x}px`;
+        label.style.top = `${position.y}px`;
+
+        // Create submitter name element (hidden by default)
+        const nameElement = document.createElement("div");
+        nameElement.textContent = submitter;
+        nameElement.style.position = "absolute";
+        nameElement.style.bottom = "130%";
+        nameElement.style.left = "50%";
+        nameElement.style.transform = "translateX(-50%)";
+        nameElement.style.color = "#fff";
+        nameElement.style.fontSize = "14px";
+        nameElement.style.fontWeight = "bold";
+        nameElement.style.textShadow = "1px 1px 2px rgba(0,0,0,0.7)";
+        nameElement.style.backgroundColor = "rgba(0,0,0,0.5)";
+        nameElement.style.padding = "3px 6px";
+        nameElement.style.borderRadius = "4px";
+        nameElement.style.whiteSpace = "nowrap";
+        nameElement.style.display = "none";
+        nameElement.style.zIndex = "100";
+        nameElementsRef.current[submitter] = nameElement;
+
+        if (icon) {
+          // Create and add icon
+          const img = document.createElement("img");
+          img.src = icon;
+          img.style.width = "28px";
+          img.style.height = "28px";
+          img.style.borderRadius = "50%";
+          img.style.border = "2px solid white";
+          img.style.backgroundColor = "white";
+          img.style.boxShadow = "0px 0px 4px rgba(0,0,0,0.3)";
+          label.appendChild(img);
+          label.appendChild(nameElement);
+        } else {
+          // If no icon, use circle color as indicator
+          const placeholder = document.createElement("div");
+          placeholder.style.width = "20px";
+          placeholder.style.height = "20px";
+          placeholder.style.borderRadius = "50%";
+          placeholder.style.backgroundColor = getSubmitter(submitter).color;
+          placeholder.style.border = "2px solid white";
+          placeholder.style.boxShadow = "0px 0px 4px rgba(0,0,0,0.3)";
+
+          label.appendChild(placeholder);
+          label.appendChild(nameElement);
+        }
+
+        // Add null check before accessing labelsContainerRef.current
+        if (labelsContainerRef.current) {
+          labelsContainerRef.current.appendChild(label);
+          labelElementsRef.current[submitter] = label;
+        }
+      }
+    });
+
+    // Store the current data for future comparison
+    previousDataRef.current = data;
   }, [data]);
 
   return (
