@@ -37,7 +37,7 @@ export const Controls = () => {
           <span className="inline mr-1 bg-foreground p-1 rounded">
             <CircleDotDashed className="text-background size-3" />{" "}
           </span>
-          <span className="font-black">
+          <span className="font-black font-pt-mono">
             blobspace
             <span className="text-muted-foreground font-medium">.fun</span>
           </span>
@@ -53,7 +53,8 @@ export const Controls = () => {
           </p>
         </a>
       </div>
-      <div className="flex items-center w-full gap-4 p-2 bg-white rounded-lg shadow">
+
+      <div className="flex items-center w-full gap-4 p-2 bg-white/50 rounded-lg shadow">
         {
           <Button
             size="icon"

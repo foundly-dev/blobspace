@@ -1,20 +1,9 @@
 // import "@coinbase/onchainkit/styles.css";
-import "./styles/globals.css";
+import "@/styles/globals.css";
 
 import type { Metadata, Viewport } from "next";
 import { Providers } from "./providers";
-
-import { Geist, Geist_Mono } from "next/font/google";
-
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
+import { fonts } from "@/components/ui/font";
 
 export const viewport: Viewport = {
   width: "device-width",
@@ -53,9 +42,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
+      <body className={`${fonts} antialiased`}>
         <Providers>{children}</Providers>
       </body>
     </html>

@@ -1,6 +1,10 @@
 import { createStore } from "zustand/vanilla";
+import { KnownSubmitters } from "./blob-info";
 
 export interface BlobStore {
+  selectedSubmitter: KnownSubmitters | null;
+  setSelectedSubmitter: (submitter: KnownSubmitters | null) => void;
+  hoveredSubmitters: Set<string>;
   selectedDate: string;
   setSelectedDate: (date: string) => void;
   isPlaying: boolean;

@@ -16,6 +16,9 @@ export const BlobProvider = ({ children }: { children: ReactNode }) => {
   const storeRef = useRef<BlobStoreApi | null>(null);
 
   storeRef.current ??= createBlobStore({
+    selectedSubmitter: null,
+    setSelectedSubmitter: () => {},
+    hoveredSubmitters: new Set(),
     isPlaying: false,
     selectedDate: getLatestDate(),
     setSelectedDate: () => {},

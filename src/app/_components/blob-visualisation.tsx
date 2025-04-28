@@ -1,14 +1,16 @@
 "use client";
 
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 import Matter from "matter-js";
-import { getSubmitter } from "./blob-info";
+import { getSubmitter, KnownSubmitters } from "./blob-info";
 import { useBlobStore } from "./blob.provider";
 import { BlobData, getBlobs } from "@/api";
 import { useQuery } from "@tanstack/react-query";
 
 export const BlobVisualisation = () => {
-  const { selectedDate } = useBlobStore();
+  const { selectedDate, hoveredSubmitters } = useBlobStore();
+  const [activeSubmitter, setActiveSubmitter] =
+    useState<KnownSubmitters | null>(null);
   const previousDataRef = useRef<BlobData[] | null>(null);
 
   const { data } = useQuery({
@@ -73,7 +75,7 @@ export const BlobVisualisation = () => {
         height: height,
         showAngleIndicator: false,
         wireframes: false,
-        background: "#f0f0f0",
+        background: "transparent",
       },
     });
     renderRef.current = render;
@@ -133,9 +135,6 @@ export const BlobVisualisation = () => {
     // Keep the mouse in sync with rendering
     render.mouse = mouse;
 
-    // Track which circles are being hovered
-    const hoveredCircles = new Set();
-
     // Add mousemove listener to the canvas to detect hovering over circles
     render.canvas.addEventListener("mousemove", (event) => {
       const mousePosition = {
@@ -162,10 +161,12 @@ export const BlobVisualisation = () => {
         if (nameElementsRef.current[submitter]) {
           if (isInside) {
             nameElementsRef.current[submitter].style.display = "block";
-            hoveredCircles.add(submitter);
-          } else if (hoveredCircles.has(submitter)) {
+            hoveredSubmitters.add(submitter);
+            setActiveSubmitter(submitter as KnownSubmitters);
+          } else if (hoveredSubmitters.has(submitter)) {
             nameElementsRef.current[submitter].style.display = "none";
-            hoveredCircles.delete(submitter);
+            hoveredSubmitters.delete(submitter);
+            setActiveSubmitter(null);
           }
         }
       });
@@ -173,12 +174,12 @@ export const BlobVisualisation = () => {
 
     // Also handle mouseleave on canvas to reset all hovers
     render.canvas.addEventListener("mouseleave", () => {
-      hoveredCircles.forEach((submitter) => {
+      hoveredSubmitters.forEach((submitter) => {
         if (nameElementsRef.current[submitter as string]) {
           nameElementsRef.current[submitter as string].style.display = "none";
         }
       });
-      hoveredCircles.clear();
+      hoveredSubmitters.clear();
     });
 
     // Update label positions on each render step
@@ -195,12 +196,10 @@ export const BlobVisualisation = () => {
       bodies.forEach((body) => {
         const submitter = body.label;
         if (labelElementsRef.current[submitter]) {
-          labelElementsRef.current[
-            submitter
-          ].style.left = `${body.position.x}px`;
-          labelElementsRef.current[
-            submitter
-          ].style.top = `${body.position.y}px`;
+          labelElementsRef.current[submitter].style.left =
+            `${body.position.x}px`;
+          labelElementsRef.current[submitter].style.top =
+            `${body.position.y}px`;
         }
       });
     });
@@ -442,7 +441,7 @@ export const BlobVisualisation = () => {
             fillStyle: color,
             lineWidth: 0,
           },
-        };
+        } satisfies Matter.IBodyDefinition;
       };
 
       if (circlesRef.current[submitter]) {
@@ -576,6 +575,7 @@ export const BlobVisualisation = () => {
 
   return (
     <div
+      className="transition-colors"
       ref={containerRef}
       style={{
         width: "100vw",
@@ -586,6 +586,9 @@ export const BlobVisualisation = () => {
         position: "absolute",
         top: 0,
         left: 0,
+        backgroundColor: activeSubmitter
+          ? `${getSubmitter(activeSubmitter).color}55`
+          : "#f0f0f0",
       }}
     />
   );
