@@ -3,17 +3,18 @@
 import { useEffect, useRef } from "react";
 import Matter from "matter-js";
 import { getSubmitter } from "./blob-info";
-interface BlobData {
-  blob_submitter: string;
-  blobs: number;
-  time: string;
-}
+import { useBlobStore } from "./blob.provider";
+import { getBlobs } from "@/api";
+import { useQuery } from "@tanstack/react-query";
 
-interface BlobVisualizationProps {
-  data: BlobData[];
-}
+export const BlobVisualisation = () => {
+  const { selectedDate } = useBlobStore();
 
-export const BlobVisualisation = ({ data }: BlobVisualizationProps) => {
+  const { data } = useQuery({
+    queryKey: ["blobs", selectedDate],
+    queryFn: () => getBlobs(selectedDate),
+  });
+
   const containerRef = useRef<HTMLDivElement>(null);
   const engineRef = useRef<Matter.Engine>(null);
   const renderRef = useRef<Matter.Render>(null);
@@ -21,6 +22,7 @@ export const BlobVisualisation = ({ data }: BlobVisualizationProps) => {
   const labelsContainerRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
+    if (!data) return;
     if (!containerRef.current) return;
 
     // Clear any existing canvas
@@ -123,6 +125,7 @@ export const BlobVisualisation = ({ data }: BlobVisualizationProps) => {
     // Create circles based on data
     const circles = [];
     const labelElements: HTMLDivElement[] = [];
+    const nameElements: HTMLDivElement[] = []; // Store references to name elements
 
     if (data && data.length > 0) {
       // Find the max blob value to normalize sizes
@@ -203,17 +206,60 @@ export const BlobVisualisation = ({ data }: BlobVisualizationProps) => {
         circle.label = item.blob_submitter;
         circles.push(circle);
 
-        // Create text label element
+        const { icon } = getSubmitter(item.blob_submitter);
+        // Create label container
         const label = document.createElement("div");
-        label.textContent = item.blob_submitter;
         label.style.position = "absolute";
-        label.style.fontSize = "14px";
-        label.style.fontWeight = "bold";
-        label.style.color = "#fff";
         label.style.textAlign = "center";
         label.style.transform = "translate(-50%, -50%)";
-        label.style.textShadow = "1px 1px 2px rgba(0,0,0,0.7)";
-        label.style.pointerEvents = "none";
+        label.style.pointerEvents = "none"; // Disable pointer events on label
+
+        // Create submitter name element (hidden by default)
+        const nameElement = document.createElement("div");
+        nameElement.textContent = item.blob_submitter;
+        nameElement.style.position = "absolute";
+        nameElement.style.bottom = "130%"; // Position above the icon
+        nameElement.style.left = "50%";
+        nameElement.style.transform = "translateX(-50%)";
+        nameElement.style.color = "#fff";
+        nameElement.style.fontSize = "14px";
+        nameElement.style.fontWeight = "bold";
+        nameElement.style.textShadow = "1px 1px 2px rgba(0,0,0,0.7)";
+        nameElement.style.backgroundColor = "rgba(0,0,0,0.5)";
+        nameElement.style.padding = "3px 6px";
+        nameElement.style.borderRadius = "4px";
+        nameElement.style.whiteSpace = "nowrap";
+        nameElement.style.display = "none"; // Hidden by default
+        nameElement.style.zIndex = "100";
+        nameElements.push(nameElement); // Store reference to name element
+
+        if (icon) {
+          // Create and add icon
+          const img = document.createElement("img");
+          img.src = icon;
+          img.style.width = "28px";
+          img.style.height = "28px";
+          img.style.borderRadius = "50%";
+          img.style.border = "2px solid white";
+          img.style.backgroundColor = "white";
+          img.style.boxShadow = "0px 0px 4px rgba(0,0,0,0.3)";
+          label.appendChild(img);
+          label.appendChild(nameElement);
+        } else {
+          // If no icon, use circle color as indicator but keep name hidden initially
+          const placeholder = document.createElement("div");
+          placeholder.style.width = "20px";
+          placeholder.style.height = "20px";
+          placeholder.style.borderRadius = "50%";
+          placeholder.style.backgroundColor = getSubmitter(
+            item.blob_submitter
+          ).color;
+          placeholder.style.border = "2px solid white";
+          placeholder.style.boxShadow = "0px 0px 4px rgba(0,0,0,0.3)";
+
+          label.appendChild(placeholder);
+          label.appendChild(nameElement);
+        }
 
         labelsContainer.appendChild(label);
         labelElements.push(label);
@@ -249,6 +295,54 @@ export const BlobVisualisation = ({ data }: BlobVisualizationProps) => {
 
     // Keep the mouse in sync with rendering
     render.mouse = mouse;
+
+    // Track which circles are being hovered
+    const hoveredCircles = new Set();
+
+    // Add mousemove listener to the canvas to detect hovering over circles
+    render.canvas.addEventListener("mousemove", (event) => {
+      const mousePosition = {
+        x: event.clientX,
+        y: event.clientY,
+      };
+
+      // Get all non-wall bodies
+      const circleBodies = Composite.allBodies(world).filter(
+        (body) =>
+          body.label !== "topWall" &&
+          body.label !== "bottomWall" &&
+          body.label !== "leftWall" &&
+          body.label !== "rightWall"
+      );
+
+      // Check if mouse is inside any circle
+      circleBodies.forEach((body, index) => {
+        // Use Matter.js to check if point is inside circle
+        const isInside = Matter.Query.point([body], mousePosition).length > 0;
+
+        // Show/hide the name based on whether mouse is inside circle
+        if (index < nameElements.length) {
+          if (isInside) {
+            nameElements[index].style.display = "block";
+            hoveredCircles.add(index);
+          } else if (hoveredCircles.has(index)) {
+            nameElements[index].style.display = "none";
+            hoveredCircles.delete(index);
+          }
+        }
+      });
+    });
+
+    // Also handle mouseleave on canvas to reset all hovers
+    render.canvas.addEventListener("mouseleave", () => {
+      hoveredCircles.forEach((index) => {
+        const _index = index as number;
+        if (_index < nameElements.length) {
+          nameElements[_index].style.display = "none";
+        }
+      });
+      hoveredCircles.clear();
+    });
 
     // Update label positions on each render step
     Events.on(engine, "afterUpdate", () => {
