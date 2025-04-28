@@ -19,15 +19,12 @@ import {
   WalletDropdownDisconnect,
 } from "@coinbase/onchainkit/wallet";
 import { useEffect, useMemo, useState, useCallback } from "react";
-import { Button } from "./components/DemoComponents";
-import { Icon } from "./components/DemoComponents";
-import { Home } from "./components/DemoComponents";
-import { Features } from "./components/DemoComponents";
+import { Button } from "@/components/ui/button";
+import { CheckIcon, SaveIcon } from "lucide-react";
 
 export default function App() {
   const { setFrameReady, isFrameReady, context } = useMiniKit();
   const [frameAdded, setFrameAdded] = useState(false);
-  const [activeTab, setActiveTab] = useState("home");
 
   const addFrame = useAddFrame();
   const openUrl = useOpenUrl();
@@ -51,8 +48,8 @@ export default function App() {
           size="sm"
           onClick={handleAddFrame}
           className="text-[var(--app-accent)] p-4"
-          icon={<Icon name="plus" size="sm" />}
         >
+          <SaveIcon className="w-4 h-4" />
           Save Frame
         </Button>
       );
@@ -61,7 +58,7 @@ export default function App() {
     if (frameAdded) {
       return (
         <div className="flex items-center space-x-1 text-sm font-medium text-[#0052FF] animate-fade-out">
-          <Icon name="check" size="sm" className="text-[#0052FF]" />
+          <CheckIcon className="w-4 h-4" />
           <span>Saved</span>
         </div>
       );
@@ -94,11 +91,6 @@ export default function App() {
           </div>
           <div>{saveFrameButton}</div>
         </header>
-
-        <main className="flex-1">
-          {activeTab === "home" && <Home setActiveTab={setActiveTab} />}
-          {activeTab === "features" && <Features setActiveTab={setActiveTab} />}
-        </main>
 
         <footer className="mt-2 pt-4 flex justify-center">
           <Button
