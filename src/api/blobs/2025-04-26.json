@@ -1,0 +1,250 @@
+{
+  "execution_id": "01JSRAS5XY0379D5ZAWDNS37S2",
+  "query_id": 5042034,
+  "is_execution_finished": true,
+  "state": "QUERY_STATE_COMPLETED",
+  "submitted_at": "2025-04-26T05:58:01.406659Z",
+  "expires_at": "2025-07-25T05:59:46.32932Z",
+  "execution_started_at": "2025-04-26T05:59:43.031469Z",
+  "execution_ended_at": "2025-04-26T05:59:46.329318Z",
+  "result": {
+    "rows": [
+      {
+        "blob_submitter": "Boba Network",
+        "blobs": 5,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Morph",
+        "blobs": 14,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Superseed",
+        "blobs": 4,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Lumio",
+        "blobs": 3,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "zkSync Era",
+        "blobs": 5,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Mint",
+        "blobs": 3,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Shape",
+        "blobs": 9,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Abstract",
+        "blobs": 40,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Swan Chain",
+        "blobs": 1,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Others",
+        "blobs": 59,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "SNAXchain",
+        "blobs": 3,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Blast",
+        "blobs": 174,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Debank Chain",
+        "blobs": 4,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Kroma",
+        "blobs": 15,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Fuel",
+        "blobs": 8,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Arena-Z",
+        "blobs": 1,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "ZORA",
+        "blobs": 9,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "pegglecoin",
+        "blobs": 7,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Camp Network",
+        "blobs": 5,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Scroll",
+        "blobs": 6,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Base",
+        "blobs": 1385,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Mode",
+        "blobs": 9,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "R0AR Chain",
+        "blobs": 1,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Soneium",
+        "blobs": 150,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Ink",
+        "blobs": 18,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Unichain",
+        "blobs": 157,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Binary",
+        "blobs": 2,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Kinto",
+        "blobs": 1,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Infinaeon",
+        "blobs": 1,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Arbitrum One",
+        "blobs": 288,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Hemi",
+        "blobs": 16,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Ethernity",
+        "blobs": 1,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Zircuit",
+        "blobs": 19,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Polynomial",
+        "blobs": 5,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Lisk",
+        "blobs": 4,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Taiko",
+        "blobs": 551,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Paradex",
+        "blobs": 21,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Phala Network",
+        "blobs": 3,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Linea",
+        "blobs": 13,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Optopia",
+        "blobs": 1,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "Metal",
+        "blobs": 68,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "StarkNet",
+        "blobs": 66,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "OP Mainnet",
+        "blobs": 115,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "World Chain",
+        "blobs": 1041,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      },
+      {
+        "blob_submitter": "RACE",
+        "blobs": 4,
+        "time": "2025-04-26 00:00:00.000 UTC"
+      }
+    ],
+    "metadata": {
+      "column_names": ["time", "blob_submitter", "blobs"],
+      "column_types": ["timestamp(3) with time zone", "varchar", "bigint"],
+      "row_count": 45,
+      "result_set_bytes": 2004,
+      "total_row_count": 45,
+      "total_result_set_bytes": 1045,
+      "datapoint_count": 135,
+      "pending_time_millis": 101624,
+      "execution_time_millis": 3297
+    }
+  }
+}
