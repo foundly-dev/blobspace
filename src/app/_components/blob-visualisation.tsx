@@ -85,7 +85,7 @@ export const BlobVisualisation = ({ data }: BlobVisualizationProps) => {
       return {
         friction: 0.05,
         frictionStatic: 0.1,
-        restitution: 0.8, // Add more bounce
+        restitution: 0, // Add more bounce
         render: {
           fillStyle: color,
           lineWidth: 0,
