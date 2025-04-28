@@ -2,7 +2,7 @@
 
 import { Button } from "@/components/ui/button";
 import { Slider } from "@/components/ui/slider";
-import { CircleDotDashed, Pause, Play, Radio } from "lucide-react";
+import { CircleDotDashed, Pause, Play } from "lucide-react";
 import { getDates } from "@/api";
 import { useBlobStore } from "./blob.provider";
 import { useInterval } from "usehooks-ts";
@@ -16,10 +16,6 @@ export const Controls = () => {
 
   const onValueChange = (value: number[]) => {
     setSelectedDate(dates[value[0]]);
-  };
-
-  const onSetLive = () => {
-    setSelectedDate(dates[count - 1]);
   };
 
   useInterval(() => {
