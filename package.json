@@ -6,7 +6,10 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "scripts:index-all": "pnpm with-env tsx src/scripts/index-all.ts",
+    "scripts:write-dates": "pnpm with-env tsx src/scripts/write-dates.ts",
+    "with-env": "dotenv -e .env --"
   },
   "dependencies": {
     "@coinbase/onchainkit": "^0.38.8",
@@ -35,10 +38,12 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "dotenv-cli": "^8.0.0",
     "eslint": "^9",
     "eslint-config-next": "15.3.1",
     "prettier-plugin-tailwindcss": "^0.6.11",
     "tailwindcss": "^4",
+    "tsx": "^4.19.3",
     "tw-animate-css": "^1.2.8",
     "typescript": "^5"
   }

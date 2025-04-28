@@ -1,4 +1,4 @@
-import dates from "./data.json";
+import dates from "./dates.json";
 
 export interface BlobData {
   blob_submitter: string;
@@ -7,8 +7,10 @@ export interface BlobData {
 }
 
 export const getBlobs = async (date: string): Promise<BlobData[]> => {
-  const blobs = await import(`./${date}.json`);
-  return blobs.result.rows;
+  const blobs = await import(`./data/${date}.json`).then((module) => {
+    return module.default;
+  });
+  return blobs;
 };
 
 export const getDates = () => {

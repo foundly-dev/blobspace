@@ -31,8 +31,8 @@ export const Controls = () => {
   }, 500);
 
   return (
-    <div className="absolute top-4 left-4 right-4 z-50 flex items-center gap-4">
-      <div className="flex flex-col gap-0.5">
+    <div className="absolute top-4 left-4 right-4 z-50 flex items-center flex-col md:flex-row gap-4">
+      <div className="flex md:flex-col gap-0.5 items-end md:items-start justify-between w-full md:w-fit px-2 md:px-0">
         <div className="flex items-center">
           <span className="inline mr-1 bg-foreground p-1 rounded">
             <CircleDotDashed className="text-background size-3" />{" "}
@@ -78,10 +78,10 @@ export const Controls = () => {
           className="w-full"
         />
         <p className="text-sm min-w-fit line-clamp-1">{selectedDate}</p>
-        <Button variant="outline" size="sm" onClick={onSetLive}>
+        {/* <Button variant="outline" size="sm" onClick={onSetLive}>
           <Radio className="mr-2 h-4 w-4" />
           Live
-        </Button>
+        </Button> */}
       </div>
     </div>
   );

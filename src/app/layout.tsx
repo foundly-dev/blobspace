@@ -3,7 +3,7 @@ import "@/styles/globals.css";
 
 import type { Metadata, Viewport } from "next";
 import { Providers } from "./providers";
-import { fonts } from "@/components/ui/font";
+import { fontVariables } from "@/components/ui/fonts";
 
 export const viewport: Viewport = {
   width: "device-width",
@@ -42,7 +42,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${fonts} antialiased`}>
+      <body className={`${fontVariables} antialiased`} suppressHydrationWarning>
         <Providers>{children}</Providers>
       </body>
     </html>
