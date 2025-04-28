@@ -2,15 +2,17 @@
 
 import { Button } from "@/components/ui/button";
 import { Slider } from "@/components/ui/slider";
-import { CircleDotDashed, Radio } from "lucide-react";
+import { CircleDotDashed, Pause, Play, Radio } from "lucide-react";
 import { getDates } from "@/api";
 import { useBlobStore } from "./blob.provider";
+import { useInterval } from "usehooks-ts";
 
 const dates = getDates();
 const count = dates.length;
 
 export const Controls = () => {
-  const { selectedDate, setSelectedDate } = useBlobStore();
+  const { selectedDate, setSelectedDate, isPlaying, setIsPlaying } =
+    useBlobStore();
 
   const onValueChange = (value: number[]) => {
     setSelectedDate(dates[value[0]]);
@@ -19,6 +21,14 @@ export const Controls = () => {
   const onSetLive = () => {
     setSelectedDate(dates[count - 1]);
   };
+
+  useInterval(() => {
+    if (isPlaying) {
+      const currentIndex = dates.indexOf(selectedDate);
+      const nextIndex = (currentIndex + 1) % count;
+      setSelectedDate(dates[nextIndex]);
+    }
+  }, 500);
 
   return (
     <div className="absolute top-4 left-4 right-4 z-50 flex items-center gap-4">
@@ -39,11 +49,25 @@ export const Controls = () => {
           rel="noopener noreferrer"
         >
           <p className="text-sm text-muted-foreground">
-            by <span className="font-black underline">mfbevan</span>
+            by <span className="font-medium underline">mfbevan</span>
           </p>
         </a>
       </div>
       <div className="flex items-center w-full gap-4 p-2 bg-white rounded-lg shadow">
+        {
+          <Button
+            size="icon"
+            variant="ghost"
+            className="rounded-full"
+            onClick={() => setIsPlaying(!isPlaying)}
+          >
+            {isPlaying ? (
+              <Pause className="size-3" fill="currentColor" />
+            ) : (
+              <Play className="size-3" fill="currentColor" />
+            )}
+          </Button>
+        }
         <Slider
           min={0}
           max={count - 1}

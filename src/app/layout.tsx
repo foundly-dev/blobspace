@@ -1,6 +1,7 @@
-import "@coinbase/onchainkit/styles.css";
+// import "@coinbase/onchainkit/styles.css";
+import "./styles/globals.css";
+
 import type { Metadata, Viewport } from "next";
-import "./globals.css";
 import { Providers } from "./providers";
 
 import { Geist, Geist_Mono } from "next/font/google";

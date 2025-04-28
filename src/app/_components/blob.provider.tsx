@@ -16,8 +16,10 @@ export const BlobProvider = ({ children }: { children: ReactNode }) => {
   const storeRef = useRef<BlobStoreApi | null>(null);
 
   storeRef.current ??= createBlobStore({
+    isPlaying: false,
     selectedDate: getLatestDate(),
     setSelectedDate: () => {},
+    setIsPlaying: () => {},
   });
 
   return (
