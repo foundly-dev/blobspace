@@ -2,18 +2,32 @@
 
 import { Button } from "@/components/ui/button";
 import { Slider } from "@/components/ui/slider";
-import { CircleDotDashed, Grid2x2, Pause, Play } from "lucide-react";
+import { CircleDotDashed, Grid2x2, Pause, Play, Timer } from "lucide-react";
 import { getDates } from "@/api";
 import { useBlobStore } from "./blob.provider";
 import { useInterval } from "usehooks-ts";
-import { TabsList, TabsTrigger } from "../../../~/components/ui/tabs";
+import { TabsList, TabsTrigger } from "@/components/ui/tabs";
+import {
+  Select,
+  SelectContent,
+  SelectGroup,
+  SelectItem,
+  SelectLabel,
+  SelectTrigger,
+} from "@/components/ui/select";
 
 const dates = getDates();
 const count = dates.length;
 
 export const Controls = () => {
-  const { selectedDate, setSelectedDate, isPlaying, setIsPlaying } =
-    useBlobStore();
+  const {
+    selectedDate,
+    setSelectedDate,
+    isPlaying,
+    setIsPlaying,
+    interval,
+    setInterval,
+  } = useBlobStore();
 
   const onValueChange = (value: number[]) => {
     setSelectedDate(dates[value[0]]);
@@ -25,7 +39,7 @@ export const Controls = () => {
       const nextIndex = (currentIndex + 1) % count;
       setSelectedDate(dates[nextIndex]);
     }
-  }, 500);
+  }, interval);
 
   return (
     <div className="absolute top-4 left-4 right-4 z-50 flex gap-2 flex-col ">
@@ -52,7 +66,7 @@ export const Controls = () => {
           </a>
         </div>
 
-        <div className="flex items-center w-full gap-4 p-2 bg-white rounded-lg shadow">
+        <div className="flex items-center w-full  p-2 bg-gray-50 rounded-lg shadow-inner">
           {
             <Button
               size="icon"
@@ -67,13 +81,35 @@ export const Controls = () => {
               )}
             </Button>
           }
+
+          <Select
+            value={interval.toString()}
+            onValueChange={(value) => setInterval(parseInt(value))}
+          >
+            <SelectTrigger
+              className="rounded-full border-none bg-none shadow-none hover:bg-accent"
+              chevron={false}
+            >
+              <Timer className="text-primary size-3" />
+            </SelectTrigger>
+            <SelectContent>
+              <SelectGroup>
+                <SelectLabel>Interval</SelectLabel>
+                <SelectItem value="1000">1 second</SelectItem>
+                <SelectItem value="500">500ms</SelectItem>
+                <SelectItem value="250">250ms</SelectItem>
+                <SelectItem value="100">100ms</SelectItem>
+              </SelectGroup>
+            </SelectContent>
+          </Select>
+
           <Slider
             min={0}
             max={count - 1}
             step={1}
             value={[dates.indexOf(selectedDate)]}
             onValueChange={onValueChange}
-            className="w-full"
+            className="w-full mx-2"
           />
           <p className="text-sm min-w-fit line-clamp-1">{selectedDate}</p>
         </div>

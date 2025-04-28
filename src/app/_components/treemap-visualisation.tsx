@@ -4,7 +4,7 @@ import { useRef, useState, useEffect } from "react";
 import { useBlobStore } from "./blob.provider";
 import { getBlobs } from "@/api";
 import { useQuery } from "@tanstack/react-query";
-import { getSubmitter, KnownSubmitters } from "./blob-info";
+import { getSubmitter } from "./blob-info";
 import { Group } from "@visx/group";
 import { Treemap, hierarchy, treemapSquarify } from "@visx/hierarchy";
 import { scaleOrdinal } from "@visx/scale";

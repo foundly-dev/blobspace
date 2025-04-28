@@ -1,16 +1,14 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef } from "react";
 import Matter from "matter-js";
-import { getSubmitter, KnownSubmitters } from "./blob-info";
+import { getSubmitter } from "./blob-info";
 import { useBlobStore } from "./blob.provider";
 import { BlobData, getBlobs } from "@/api";
 import { useQuery } from "@tanstack/react-query";
 
 export const BlobVisualisation = () => {
   const { selectedDate, hoveredSubmitters } = useBlobStore();
-  const [activeSubmitter, setActiveSubmitter] =
-    useState<KnownSubmitters | null>(null);
   const previousDataRef = useRef<BlobData[] | null>(null);
 
   const { data } = useQuery({
@@ -162,11 +160,9 @@ export const BlobVisualisation = () => {
           if (isInside) {
             nameElementsRef.current[submitter].style.display = "block";
             hoveredSubmitters.add(submitter);
-            setActiveSubmitter(submitter as KnownSubmitters);
           } else if (hoveredSubmitters.has(submitter)) {
             nameElementsRef.current[submitter].style.display = "none";
             hoveredSubmitters.delete(submitter);
-            setActiveSubmitter(null);
           }
         }
       });
@@ -586,9 +582,6 @@ export const BlobVisualisation = () => {
         position: "absolute",
         top: 0,
         left: 0,
-        backgroundColor: activeSubmitter
-          ? `${getSubmitter(activeSubmitter).color}55`
-          : "#f0f0f0",
       }}
     />
   );

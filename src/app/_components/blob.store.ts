@@ -1,14 +1,13 @@
 import { createStore } from "zustand/vanilla";
-import { KnownSubmitters } from "./blob-info";
 
 export interface BlobStore {
-  selectedSubmitter: KnownSubmitters | null;
-  setSelectedSubmitter: (submitter: KnownSubmitters | null) => void;
   hoveredSubmitters: Set<string>;
   selectedDate: string;
   setSelectedDate: (date: string) => void;
   isPlaying: boolean;
   setIsPlaying: (isPlaying: boolean) => void;
+  interval: number;
+  setInterval: (interval: number) => void;
 }
 
 export const createBlobStore = (initialState: BlobStore) => {
@@ -16,5 +15,6 @@ export const createBlobStore = (initialState: BlobStore) => {
     ...initialState,
     setSelectedDate: (date: string) => set({ selectedDate: date }),
     setIsPlaying: (isPlaying: boolean) => set({ isPlaying }),
+    setInterval: (interval: number) => set({ interval }),
   }));
 };

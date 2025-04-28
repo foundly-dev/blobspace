@@ -8,6 +8,7 @@ import { createContext } from "react";
 import { createBlobStore } from "./blob.store";
 import { useStore } from "zustand";
 import { getLatestDate } from "@/api";
+
 export type BlobStoreApi = ReturnType<typeof createBlobStore>;
 
 export const BlobStoreContext = createContext<BlobStoreApi | null>(null);
@@ -16,13 +17,13 @@ export const BlobProvider = ({ children }: { children: ReactNode }) => {
   const storeRef = useRef<BlobStoreApi | null>(null);
 
   storeRef.current ??= createBlobStore({
-    selectedSubmitter: null,
-    setSelectedSubmitter: () => {},
     hoveredSubmitters: new Set(),
     isPlaying: false,
+    setIsPlaying: () => {},
     selectedDate: getLatestDate(),
     setSelectedDate: () => {},
-    setIsPlaying: () => {},
+    interval: 500,
+    setInterval: () => {},
   });
 
   return (
