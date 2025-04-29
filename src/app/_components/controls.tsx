@@ -33,6 +33,7 @@ import {
 } from "@/components/ui/dialog";
 import { format } from "date-fns";
 import { cn } from "@/lib/utils";
+
 const dates = getDates();
 const count = dates.length;
 
@@ -148,16 +149,14 @@ export const Controls = () => {
             {format(new Date(selectedDate), "MMM d, yyyy")}
           </p>
 
-          <Tabs className="hidden md:flex" />
+          <TabSelect className="hidden md:flex" />
         </div>
       </div>
-
-      <Tabs className="flex md:hidden" />
     </div>
   );
 };
 
-const Tabs = ({ className }: { className?: string }) => {
+export const TabSelect = ({ className }: { className?: string }) => {
   return (
     <div className={cn("flex self-end items-center", className)}>
       <Button
@@ -195,9 +194,9 @@ const About = ({ children }: { children: React.ReactNode }) => {
           </DialogTitle>
           <DialogDescription className="text-left">
             This is a visualization tool for exploring blob data on Ethereum.
-            Explore historical blob data since the Dencun upgrade using the
-            historical timeline. Switch between the interactive blob and treemap
-            views. Data is automatically updated once per day from the{" "}
+            Explore historical daily blob data since the Dencun upgrade using
+            the historical timeline. Switch between the interactive blob and
+            treemap views. Data is automatically updated once per day from the{" "}
             <a
               href="https://dune.com/hildobby/blobs"
               target="_blank"

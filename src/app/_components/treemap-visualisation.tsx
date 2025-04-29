@@ -9,13 +9,15 @@ import { scaleOrdinal } from "@visx/scale";
 import { useBlobData } from "@/hooks/use-blob-data";
 import { Spinner } from "@/components/ui/spinner";
 
+const offset = 108;
+
 export const TreemapVisualisation = () => {
   const { selectedDate, hoveredSubmitters } = useBlobStore();
   const containerRef = useRef<HTMLDivElement>(null);
   const [initialRender, setInitialRender] = useState(true);
   const [dimensions, setDimensions] = useState({
     width: typeof window !== "undefined" ? window.innerWidth : 1000,
-    height: typeof window !== "undefined" ? window.innerHeight - 72 : 600,
+    height: typeof window !== "undefined" ? window.innerHeight - offset : 600,
   });
 
   // Fetch blob data based on selected date
@@ -33,7 +35,7 @@ export const TreemapVisualisation = () => {
     const handleResize = () => {
       setDimensions({
         width: window.innerWidth,
-        height: window.innerHeight - 72,
+        height: window.innerHeight - offset,
       });
     };
 
@@ -127,8 +129,7 @@ export const TreemapVisualisation = () => {
                   const color = colorScale(submitter);
                   const nodeWidth = node.x1 - node.x0;
                   const nodeHeight = node.y1 - node.y0;
-                  // scale the border radius to the size of the node
-                  const borderRadius = Math.min(nodeWidth, nodeHeight) / 16;
+                  const borderRadius = Math.min(nodeWidth, nodeHeight) / 24;
 
                   const fontSize = Math.min(nodeWidth, nodeHeight) / 8;
                   const { icon } = getSubmitter(submitter);

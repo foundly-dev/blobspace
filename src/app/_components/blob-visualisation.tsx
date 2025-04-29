@@ -542,7 +542,7 @@ export const BlobVisualisation = () => {
         nameElement.style.borderRadius = "4px";
         nameElement.style.whiteSpace = "nowrap";
         nameElement.style.display = "none";
-        nameElement.style.zIndex = "100";
+        nameElement.style.zIndex = "40";
         nameElementsRef.current[submitter] = nameElement;
 
         if (icon) {
