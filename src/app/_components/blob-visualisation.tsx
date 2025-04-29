@@ -8,6 +8,7 @@ import { BlobData, getBlobs } from "@/api";
 import { useQuery } from "@tanstack/react-query";
 import { useMobileDesktop } from "@/hooks/use-is-mobile";
 
+// This is majorly vibecoded. Enjoy trying to fix it.
 export const BlobVisualisation = () => {
   const { selectedDate, hoveredSubmitters } = useBlobStore();
   const previousDataRef = useRef<BlobData[] | null>(null);
