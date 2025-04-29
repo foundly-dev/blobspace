@@ -21,7 +21,7 @@ const keywords = [
   "Blob",
   "Blobspace.fun",
 ];
-const image = "/blobspace.jpeg";
+const image = "/preview.png";
 const alt = "blobspace.fun";
 const url = "https://www.blobspace.fun";
 
