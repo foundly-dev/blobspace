@@ -99,7 +99,7 @@ export const Controls = () => {
           </About>
         </div>
 
-        <div className="flex items-center w-full  p-2 bg-gray-50 rounded-lg shadow-inner">
+        <div className="flex items-center w-full  p-2 bg-gray-50 rounded-lg shadow-inner border border-border/30">
           {
             <Button
               size="icon"
@@ -170,7 +170,7 @@ const Tabs = ({ className }: { className?: string }) => {
       >
         <RotateCw className="size-3" />
       </Button>
-      <TabsList>
+      <TabsList className="border-border/30 border">
         <TabsTrigger value="blobs">
           <CircleDotDashed /> Blobs
         </TabsTrigger>
