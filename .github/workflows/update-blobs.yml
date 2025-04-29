@@ -6,9 +6,15 @@ on:
     - cron: '0 1 * * *'
   workflow_dispatch:
 
+# Add permissions block to grant write access
+permissions:
+  contents: write
+
 jobs:
   update-blobs:
     runs-on: ubuntu-latest
+    # Add condition to only run on main branch
+    if: github.ref == 'refs/heads/main'
 
     steps:
       - name: Checkout repository
