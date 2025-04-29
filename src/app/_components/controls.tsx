@@ -2,7 +2,14 @@
 
 import { Button } from "@/components/ui/button";
 import { Slider } from "@/components/ui/slider";
-import { CircleDotDashed, Grid2x2, Pause, Play, Timer } from "lucide-react";
+import {
+  CircleDotDashed,
+  CircleHelp,
+  Grid2x2,
+  Pause,
+  Play,
+  Timer,
+} from "lucide-react";
 import { getDates } from "@/api";
 import { useBlobStore } from "./blob.provider";
 import { useInterval } from "usehooks-ts";
@@ -76,7 +83,9 @@ export const Controls = () => {
 
         <div className="md:flex hidden items-center">
           <About>
-            <div className="rounded-full p-3 hover:bg-accent transition-colors"></div>
+            <div className="rounded-full p-3 hover:bg-accent transition-colors">
+              <CircleHelp className="size-3" />
+            </div>
           </About>
         </div>
 
@@ -166,7 +175,15 @@ const About = ({ children }: { children: React.ReactNode }) => {
             This is a visualization tool for exploring blob data on Ethereum.
             Explore historical blob data since the Dencun upgrade using the
             historical timeline. Switch between the interactive blob and treemap
-            views.
+            views. Data is automatically updated once per day from the{" "}
+            <a
+              href="https://dune.com/hildobby/blobs"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-medium underline"
+            >
+              hildobby Ethereum Blobs Dune dashboard.
+            </a>{" "}
           </DialogDescription>
         </DialogHeader>
         <div className="flex flex-col gap-2">
