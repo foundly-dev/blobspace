@@ -53,11 +53,14 @@ const writeFiles = (groupedData: Record<string, BlobData[]>) => {
     fs.mkdirSync(dir);
   }
 
-  Object.entries(groupedData).forEach(([date, items]) => {
-    const filename = `${dir}/${date}.json`;
-    fs.writeFileSync(filename, JSON.stringify(items, null, 2));
-    console.log(`Written ${items.length} items to ${filename}`);
-  });
+  Object.entries(groupedData)
+    .sort(([a], [b]) => new Date(b).getTime() - new Date(a).getTime())
+    .slice(1)
+    .forEach(([date, items]) => {
+      const filename = `${dir}/${date}.json`;
+      fs.writeFileSync(filename, JSON.stringify(items, null, 2));
+      console.log(`Written ${items.length} items to ${filename}`);
+    });
 };
 
 const main = async () => {

@@ -7,6 +7,7 @@ import { Group } from "@visx/group";
 import { Treemap, hierarchy, treemapSquarify } from "@visx/hierarchy";
 import { scaleOrdinal } from "@visx/scale";
 import { useBlobData } from "@/hooks/use-blob-data";
+import { Spinner } from "@/components/ui/spinner";
 
 export const TreemapVisualisation = () => {
   const { selectedDate, hoveredSubmitters } = useBlobStore();
@@ -74,8 +75,16 @@ export const TreemapVisualisation = () => {
     hoveredSubmitters.delete(submitter);
   };
 
+  if (!data) {
+    return (
+      <div className="flex h-full w-full items-center justify-center">
+        <Spinner />
+      </div>
+    );
+  }
+
   return (
-    <div ref={containerRef} className="w-full h-full transition-colors">
+    <div ref={containerRef} className="w-full h-full">
       <style jsx global>{`
         .treemap-node {
           transition: ${initialRender

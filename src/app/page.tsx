@@ -8,7 +8,7 @@ export default async function Home() {
   return (
     <main className="h-screen w-screen overflow-hidden">
       <BlobProvider>
-        <Tabs defaultValue="blobs">
+        <Tabs defaultValue="treemap">
           <Controls />
 
           <TabsContent value="blobs">

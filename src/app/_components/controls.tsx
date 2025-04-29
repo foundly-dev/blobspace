@@ -32,6 +32,7 @@ import {
   DialogTrigger,
 } from "@/components/ui/dialog";
 import { format } from "date-fns";
+import { cn } from "@/lib/utils";
 const dates = getDates();
 const count = dates.length;
 
@@ -146,29 +147,37 @@ export const Controls = () => {
           <p className="text-sm min-w-fit line-clamp-1">
             {format(new Date(selectedDate), "MMM d, yyyy")}
           </p>
+
+          <Tabs className="hidden md:flex" />
         </div>
       </div>
 
-      <div className="flex self-end items-center">
-        <Button
-          size="icon"
-          variant="ghost"
-          className="rounded-full"
-          onClick={() => {
-            window.location.reload();
-          }}
-        >
-          <RotateCw className="size-3" />
-        </Button>
-        <TabsList>
-          <TabsTrigger value="blobs">
-            <CircleDotDashed /> Blobs
-          </TabsTrigger>
-          <TabsTrigger value="treemap">
-            <Grid2x2 /> Treemap
-          </TabsTrigger>
-        </TabsList>
-      </div>
+      <Tabs className="flex md:hidden" />
+    </div>
+  );
+};
+
+const Tabs = ({ className }: { className?: string }) => {
+  return (
+    <div className={cn("flex self-end items-center", className)}>
+      <Button
+        size="icon"
+        variant="ghost"
+        className="rounded-full"
+        onClick={() => {
+          window.location.reload();
+        }}
+      >
+        <RotateCw className="size-3" />
+      </Button>
+      <TabsList>
+        <TabsTrigger value="blobs">
+          <CircleDotDashed /> Blobs
+        </TabsTrigger>
+        <TabsTrigger value="treemap">
+          <Grid2x2 /> Treemap
+        </TabsTrigger>
+      </TabsList>
     </div>
   );
 };
