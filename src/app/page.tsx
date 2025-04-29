@@ -6,7 +6,7 @@ import { TreemapVisualisation } from "./_components/treemap-visualisation";
 
 export default async function Home() {
   return (
-    <main className="h-screen w-screen">
+    <main className="h-screen w-screen overflow-hidden">
       <BlobProvider>
         <Tabs defaultValue="blobs">
           <Controls />

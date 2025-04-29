@@ -6,10 +6,16 @@ import { getSubmitter } from "./blob-info";
 import { useBlobStore } from "./blob.provider";
 import { BlobData, getBlobs } from "@/api";
 import { useQuery } from "@tanstack/react-query";
+import { useMobileDesktop } from "@/hooks/use-is-mobile";
 
 export const BlobVisualisation = () => {
   const { selectedDate, hoveredSubmitters } = useBlobStore();
   const previousDataRef = useRef<BlobData[] | null>(null);
+
+  const { sizes } = useMobileDesktop(
+    { sizes: { min: 20, max: 100 } },
+    { sizes: { min: 25, max: 200 } }
+  );
 
   const { data } = useQuery({
     queryKey: ["blobs", selectedDate],
@@ -266,7 +272,17 @@ export const BlobVisualisation = () => {
       if (labelsContainerRef.current) {
         labelsContainerRef.current.remove();
       }
+
+      // Reset all refs
       initialized.current = false;
+      engineRef.current = null;
+      renderRef.current = null;
+      runnerRef.current = null;
+      worldRef.current = null;
+      circlesRef.current = {};
+      labelElementsRef.current = {};
+      nameElementsRef.current = {};
+      labelsContainerRef.current = null;
     };
   }, []);
 
@@ -346,8 +362,8 @@ export const BlobVisualisation = () => {
 
     // Find max blob value for sizing
     const maxBlobValue = Math.max(...data.map((item) => item.blobs));
-    const minSize = 30;
-    const maxSize = 200;
+    const minSize = sizes.min;
+    const maxSize = sizes.max;
 
     // Calculate positions based on total number of items - only for new blobs
     const existingSubmitters = new Set(Object.keys(circlesRef.current));
@@ -571,7 +587,6 @@ export const BlobVisualisation = () => {
 
   return (
     <div
-      className="transition-colors"
       ref={containerRef}
       style={{
         width: "100vw",

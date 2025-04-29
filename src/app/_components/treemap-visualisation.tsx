@@ -13,6 +13,10 @@ export const TreemapVisualisation = () => {
   const { selectedDate, hoveredSubmitters } = useBlobStore();
   const containerRef = useRef<HTMLDivElement>(null);
   const [initialRender, setInitialRender] = useState(true);
+  const [dimensions, setDimensions] = useState({
+    width: typeof window !== "undefined" ? window.innerWidth : 1000,
+    height: typeof window !== "undefined" ? window.innerHeight - 72 : 600,
+  });
 
   // Fetch blob data based on selected date
   const { data } = useQuery({
@@ -27,6 +31,19 @@ export const TreemapVisualisation = () => {
       setTimeout(() => setInitialRender(false), 100);
     }
   }, [initialRender]);
+
+  // Add resize listener
+  useEffect(() => {
+    const handleResize = () => {
+      setDimensions({
+        width: window.innerWidth,
+        height: window.innerHeight - 72,
+      });
+    };
+
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
+  }, []);
 
   // Convert flat blob data to hierarchical structure for treemap
   const treeData = {
@@ -44,9 +61,9 @@ export const TreemapVisualisation = () => {
     .sum((d) => ("size" in d ? d.size : 0))
     .sort((a, b) => (b.value || 0) - (a.value || 0));
 
-  // Get window dimensions for responsive treemap
-  const width = typeof window !== "undefined" ? window.innerWidth : 1000;
-  const height = typeof window !== "undefined" ? window.innerHeight - 72 : 600;
+  // Replace static dimension calculations with state values
+  const width = dimensions.width;
+  const height = dimensions.height;
 
   // Create color scale for the treemap blocks
   const colorScale = scaleOrdinal({
@@ -63,7 +80,7 @@ export const TreemapVisualisation = () => {
   };
 
   return (
-    <div ref={containerRef} className="w-screen h-screen transition-colors">
+    <div ref={containerRef} className="w-full h-full transition-colors">
       <style jsx global>{`
         .treemap-node {
           transition: ${initialRender
@@ -106,9 +123,11 @@ export const TreemapVisualisation = () => {
                   const color = colorScale(submitter);
                   const nodeWidth = node.x1 - node.x0;
                   const nodeHeight = node.y1 - node.y0;
+                  // scale the border radius to the size of the node
+                  const borderRadius = Math.min(nodeWidth, nodeHeight) / 16;
+
                   const fontSize = Math.min(nodeWidth, nodeHeight) / 8;
                   const { icon } = getSubmitter(submitter);
-
                   return (
                     <g
                       key={`node-${submitter}-${selectedDate}`}
@@ -122,8 +141,8 @@ export const TreemapVisualisation = () => {
                         width={nodeWidth}
                         height={nodeHeight}
                         fill={color}
-                        rx={16}
-                        ry={16}
+                        rx={borderRadius}
+                        ry={borderRadius}
                         stroke="#fff"
                         strokeWidth={2}
                       />
