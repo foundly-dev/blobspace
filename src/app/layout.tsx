@@ -26,7 +26,6 @@ const alt = "blobspace.fun";
 const url = "https://www.blobspace.fun";
 
 export const metadata: Metadata = {
-  metadataBase: new URL(url),
   title,
   description,
   keywords,
