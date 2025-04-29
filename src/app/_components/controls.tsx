@@ -31,7 +31,7 @@ import {
   DialogTitle,
   DialogTrigger,
 } from "@/components/ui/dialog";
-
+import { format } from "date-fns";
 const dates = getDates();
 const count = dates.length;
 
@@ -143,7 +143,9 @@ export const Controls = () => {
             onValueChange={onValueChange}
             className="w-full mx-2"
           />
-          <p className="text-sm min-w-fit line-clamp-1">{selectedDate}</p>
+          <p className="text-sm min-w-fit line-clamp-1">
+            {format(new Date(selectedDate), "MMM d, yyyy")}
+          </p>
         </div>
       </div>
 

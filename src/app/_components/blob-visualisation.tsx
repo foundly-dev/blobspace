@@ -4,13 +4,13 @@ import { useEffect, useRef } from "react";
 import Matter from "matter-js";
 import { getSubmitter } from "./blob-info";
 import { useBlobStore } from "./blob.provider";
-import { BlobData, getBlobs } from "@/api";
-import { useQuery } from "@tanstack/react-query";
+import { BlobData } from "@/api";
 import { useMobileDesktop } from "@/hooks/use-is-mobile";
+import { useBlobData } from "@/hooks/use-blob-data";
 
 // This is majorly vibecoded. Enjoy trying to fix it.
 export const BlobVisualisation = () => {
-  const { selectedDate, hoveredSubmitters } = useBlobStore();
+  const { hoveredSubmitters } = useBlobStore();
   const previousDataRef = useRef<BlobData[] | null>(null);
 
   const { sizes } = useMobileDesktop(
@@ -18,10 +18,7 @@ export const BlobVisualisation = () => {
     { sizes: { min: 25, max: 200 } }
   );
 
-  const { data } = useQuery({
-    queryKey: ["blobs", selectedDate],
-    queryFn: () => getBlobs(selectedDate),
-  });
+  const { data } = useBlobData();
 
   const containerRef = useRef<HTMLDivElement>(null);
   const engineRef = useRef<Matter.Engine | null>(null);

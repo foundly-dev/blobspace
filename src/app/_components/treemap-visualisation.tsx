@@ -2,12 +2,11 @@
 
 import { useRef, useState, useEffect } from "react";
 import { useBlobStore } from "./blob.provider";
-import { getBlobs } from "@/api";
-import { useQuery } from "@tanstack/react-query";
 import { getSubmitter } from "./blob-info";
 import { Group } from "@visx/group";
 import { Treemap, hierarchy, treemapSquarify } from "@visx/hierarchy";
 import { scaleOrdinal } from "@visx/scale";
+import { useBlobData } from "@/hooks/use-blob-data";
 
 export const TreemapVisualisation = () => {
   const { selectedDate, hoveredSubmitters } = useBlobStore();
@@ -19,11 +18,7 @@ export const TreemapVisualisation = () => {
   });
 
   // Fetch blob data based on selected date
-  const { data } = useQuery({
-    queryKey: ["blobs", selectedDate],
-    queryFn: () => getBlobs(selectedDate),
-    placeholderData: (keepPreviousData) => keepPreviousData,
-  });
+  const { data } = useBlobData();
 
   useEffect(() => {
     // Disable animation on first render, enable after
