@@ -183,7 +183,19 @@ const About = ({ children }: { children: React.ReactNode }) => {
               className="font-medium underline"
             >
               hildobby Ethereum Blobs Dune dashboard.
-            </a>{" "}
+            </a>
+            <br />
+            <br />
+            If you are interested in finding out more about Ethereum Blobs,
+            check out the following article by Block Native:{" "}
+            <a
+              href="https://www.blocknative.com/blog/eip-4844-blobs-and-blob-gas-what-you-need-to-know"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-medium underline"
+            >
+              Ethereum Blobs Explainer
+            </a>
           </DialogDescription>
         </DialogHeader>
         <div className="flex flex-col gap-2">
