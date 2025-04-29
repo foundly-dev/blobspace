@@ -45,6 +45,14 @@ export const metadata: Metadata = {
       },
     ],
   },
+  icons: {
+    icon: "/favicon.ico",
+    apple: "/favicon.ico",
+    other: {
+      rel: "icon",
+      url: "/favicon.ico",
+    },
+  },
   twitter: {
     card: "summary_large_image",
     site: "@0xmfbevan",
@@ -55,10 +63,13 @@ export const metadata: Metadata = {
       {
         url: image,
         alt,
+        width: 1200,
+        height: 630,
       },
     ],
   },
 };
+
 export default function RootLayout({
   children,
 }: Readonly<{
