@@ -8,6 +8,7 @@ import {
   Grid2x2,
   Pause,
   Play,
+  RotateCw,
   Timer,
 } from "lucide-react";
 import { getDates } from "@/api";
@@ -146,7 +147,17 @@ export const Controls = () => {
         </div>
       </div>
 
-      <div className="flex self-end">
+      <div className="flex self-end items-center">
+        <Button
+          size="icon"
+          variant="ghost"
+          className="rounded-full"
+          onClick={() => {
+            window.location.reload();
+          }}
+        >
+          <RotateCw className="size-3" />
+        </Button>
         <TabsList>
           <TabsTrigger value="blobs">
             <CircleDotDashed /> Blobs
