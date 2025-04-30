@@ -6,11 +6,17 @@ export interface BlobData {
   time: string;
 }
 
-export const getBlobs = async (date: string): Promise<BlobData[]> => {
+export const getBlobs = async (
+  date: string
+): Promise<{ blobs: BlobData[]; total: number }> => {
   const blobs = await import(`./data/${date}.json`).then((module) => {
     return module.default;
   });
-  return blobs;
+  const total = blobs.reduce(
+    (acc: number, curr: BlobData) => acc + curr.blobs,
+    0
+  );
+  return { blobs, total };
 };
 
 export const getDates = () => {

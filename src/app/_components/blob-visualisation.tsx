@@ -359,13 +359,13 @@ export const BlobVisualisation = () => {
     const World = Matter.World;
 
     // Find max blob value for sizing
-    const maxBlobValue = Math.max(...data.map((item) => item.blobs));
+    const maxBlobValue = Math.max(...data.blobs.map((item) => item.blobs));
     const minSize = sizes.min;
     const maxSize = sizes.max;
 
     // Calculate positions based on total number of items - only for new blobs
     const existingSubmitters = new Set(Object.keys(circlesRef.current));
-    const newSubmitters = data
+    const newSubmitters = data.blobs
       .map((item) => item.blob_submitter)
       .filter((submitter) => !existingSubmitters.has(submitter));
 
@@ -377,7 +377,9 @@ export const BlobVisualisation = () => {
     );
 
     // Track which submitters are in the new data
-    const currentSubmitters = new Set(data.map((item) => item.blob_submitter));
+    const currentSubmitters = new Set(
+      data.blobs.map((item) => item.blob_submitter)
+    );
 
     // For blobs that are no longer in the data, shrink them to a minimal size instead of removing them
     const submittersToShrink = Object.keys(circlesRef.current).filter(
@@ -435,7 +437,7 @@ export const BlobVisualisation = () => {
     });
 
     // Update or add blobs
-    data.forEach((item) => {
+    data.blobs.forEach((item) => {
       const submitter = item.blob_submitter;
       const blobRatio = item.blobs / maxBlobValue;
       const targetRadius = minSize + blobRatio * (maxSize - minSize);
@@ -580,7 +582,7 @@ export const BlobVisualisation = () => {
     });
 
     // Store the current data for future comparison
-    previousDataRef.current = data;
+    previousDataRef.current = data.blobs;
   }, [data]);
 
   return (

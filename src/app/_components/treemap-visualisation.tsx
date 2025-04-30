@@ -47,7 +47,7 @@ export const TreemapVisualisation = () => {
   const treeData = {
     name: "root",
     children:
-      data?.map((item) => ({
+      data?.blobs.map((item) => ({
         name: item.blob_submitter,
         size: item.blobs,
       })) ?? [],
@@ -65,8 +65,8 @@ export const TreemapVisualisation = () => {
 
   // Create color scale for the treemap blocks
   const colorScale = scaleOrdinal({
-    domain: data?.map((d) => d.blob_submitter) ?? [],
-    range: data?.map((d) => getSubmitter(d.blob_submitter).color) ?? [],
+    domain: data?.blobs.map((d) => d.blob_submitter) ?? [],
+    range: data?.blobs.map((d) => getSubmitter(d.blob_submitter).color) ?? [],
   });
 
   const handleMouseOver = (submitter: string) => {
@@ -133,6 +133,9 @@ export const TreemapVisualisation = () => {
 
                   const fontSize = Math.min(nodeWidth, nodeHeight) / 8;
                   const { icon } = getSubmitter(submitter);
+                  const percentage = node.value
+                    ? (node.value / data.total) * 100
+                    : 0;
                   return (
                     <g
                       key={`node-${submitter}-${selectedDate}`}
@@ -193,7 +196,7 @@ export const TreemapVisualisation = () => {
                             pointerEvents="none"
                             style={{ textShadow: "0 1px 2px rgba(0,0,0,0.5)" }}
                           >
-                            {node.value}
+                            {node.value} ({percentage.toFixed(0)}%)
                           </text>
                         </>
                       )}
