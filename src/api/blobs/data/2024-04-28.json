@@ -5,13 +5,13 @@
     "time": "2024-04-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 159,
+    "blob_submitter": "StarkNet",
+    "blobs": 198,
     "time": "2024-04-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 198,
+    "blob_submitter": "Kroma",
+    "blobs": 159,
     "time": "2024-04-28 00:00:00.000 UTC"
   },
   {
@@ -25,8 +25,48 @@
     "time": "2024-04-28 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1980,
+    "time": "2024-04-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-04-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 168,
+    "time": "2024-04-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 8,
+    "time": "2024-04-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 8,
+    "time": "2024-04-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 4,
+    "time": "2024-04-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1812,
+    "time": "2024-04-28 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Parallel",
     "blobs": 2,
+    "time": "2024-04-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 466,
     "time": "2024-04-28 00:00:00.000 UTC"
   },
   {
@@ -37,46 +77,6 @@
   {
     "blob_submitter": "Base",
     "blobs": 3798,
-    "time": "2024-04-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1812,
-    "time": "2024-04-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 466,
-    "time": "2024-04-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 4,
-    "time": "2024-04-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1980,
-    "time": "2024-04-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 8,
-    "time": "2024-04-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 168,
-    "time": "2024-04-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 8,
-    "time": "2024-04-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
     "time": "2024-04-28 00:00:00.000 UTC"
   }
 ]
