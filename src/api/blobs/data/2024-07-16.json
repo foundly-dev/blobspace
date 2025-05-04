@@ -1,45 +1,5 @@
 [
   {
-    "blob_submitter": "World Chain",
-    "blobs": 15,
-    "time": "2024-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
-    "time": "2024-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 94,
-    "time": "2024-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 141,
-    "time": "2024-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 9,
-    "time": "2024-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 455,
-    "time": "2024-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 215,
-    "time": "2024-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2024-07-16 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arbitrum One",
     "blobs": 2340,
     "time": "2024-07-16 00:00:00.000 UTC"
@@ -85,38 +45,13 @@
     "time": "2024-07-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 188,
+    "blob_submitter": "Camp Network",
+    "blobs": 34,
     "time": "2024-07-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 17,
-    "time": "2024-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 362,
-    "time": "2024-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 3750,
-    "time": "2024-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 979,
-    "time": "2024-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1830,
-    "time": "2024-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 76,
+    "blob_submitter": "Debank Chain",
+    "blobs": 38,
     "time": "2024-07-16 00:00:00.000 UTC"
   },
   {
@@ -125,13 +60,13 @@
     "time": "2024-07-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
+    "blob_submitter": "River",
+    "blobs": 188,
     "time": "2024-07-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 34,
+    "blob_submitter": "Optopia",
+    "blobs": 71,
     "time": "2024-07-16 00:00:00.000 UTC"
   },
   {
@@ -150,8 +85,13 @@
     "time": "2024-07-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 38,
+    "blob_submitter": "RACE",
+    "blobs": 76,
+    "time": "2024-07-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 4105,
     "time": "2024-07-16 00:00:00.000 UTC"
   },
   {
@@ -165,8 +105,68 @@
     "time": "2024-07-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 4105,
+    "blob_submitter": "Polynomial",
+    "blobs": 17,
+    "time": "2024-07-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 5,
+    "time": "2024-07-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 15,
+    "time": "2024-07-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1830,
+    "time": "2024-07-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 979,
+    "time": "2024-07-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 3750,
+    "time": "2024-07-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 362,
+    "time": "2024-07-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 94,
+    "time": "2024-07-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 455,
+    "time": "2024-07-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 141,
+    "time": "2024-07-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 9,
+    "time": "2024-07-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 215,
+    "time": "2024-07-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
     "time": "2024-07-16 00:00:00.000 UTC"
   }
 ]

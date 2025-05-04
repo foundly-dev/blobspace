@@ -1,45 +1,5 @@
 [
   {
-    "blob_submitter": "Base",
-    "blobs": 4645,
-    "time": "2024-08-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
-    "time": "2024-08-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
-    "time": "2024-08-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 1,
-    "time": "2024-08-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 34,
-    "time": "2024-08-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 228,
-    "time": "2024-08-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 49,
-    "time": "2024-08-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 25,
-    "time": "2024-08-15 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Lumio",
     "blobs": 16,
     "time": "2024-08-15 00:00:00.000 UTC"
@@ -110,13 +70,33 @@
     "time": "2024-08-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "PandaSea",
-    "blobs": 24,
+    "blob_submitter": "Others",
+    "blobs": 143,
     "time": "2024-08-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 15,
+    "blob_submitter": "zkSync Era",
+    "blobs": 139,
+    "time": "2024-08-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 47,
+    "time": "2024-08-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 26,
+    "time": "2024-08-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2343,
+    "time": "2024-08-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "PandaSea",
+    "blobs": 24,
     "time": "2024-08-15 00:00:00.000 UTC"
   },
   {
@@ -127,6 +107,36 @@
   {
     "blob_submitter": "Zircuit",
     "blobs": 492,
+    "time": "2024-08-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 4645,
+    "time": "2024-08-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 18,
+    "time": "2024-08-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 29,
+    "time": "2024-08-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 8,
+    "time": "2024-08-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 1447,
+    "time": "2024-08-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 93,
     "time": "2024-08-15 00:00:00.000 UTC"
   },
   {
@@ -145,53 +155,43 @@
     "time": "2024-08-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 29,
+    "blob_submitter": "Shape",
+    "blobs": 15,
     "time": "2024-08-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 8,
+    "blob_submitter": "Parallel",
+    "blobs": 1,
     "time": "2024-08-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 18,
+    "blob_submitter": "Lambda",
+    "blobs": 14,
     "time": "2024-08-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 1447,
+    "blob_submitter": "Kinto",
+    "blobs": 6,
     "time": "2024-08-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 93,
+    "blob_submitter": "Inscriptions",
+    "blobs": 34,
     "time": "2024-08-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 139,
+    "blob_submitter": "StarkNet",
+    "blobs": 228,
     "time": "2024-08-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 47,
+    "blob_submitter": "Nal",
+    "blobs": 49,
     "time": "2024-08-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 143,
-    "time": "2024-08-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2343,
-    "time": "2024-08-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 26,
+    "blob_submitter": "Binary",
+    "blobs": 25,
     "time": "2024-08-15 00:00:00.000 UTC"
   }
 ]
