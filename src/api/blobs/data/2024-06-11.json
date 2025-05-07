@@ -1,15 +1,5 @@
 [
   {
-    "blob_submitter": "Base",
-    "blobs": 5280,
-    "time": "2024-06-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 23,
-    "time": "2024-06-11 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "OP Mainnet",
     "blobs": 2070,
     "time": "2024-06-11 00:00:00.000 UTC"
@@ -35,6 +25,11 @@
     "time": "2024-06-11 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2817,
+    "time": "2024-06-11 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Scroll",
     "blobs": 1376,
     "time": "2024-06-11 00:00:00.000 UTC"
@@ -42,21 +37,6 @@
   {
     "blob_submitter": "Mode",
     "blobs": 150,
-    "time": "2024-06-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2817,
-    "time": "2024-06-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 167,
-    "time": "2024-06-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 8,
     "time": "2024-06-11 00:00:00.000 UTC"
   },
   {
@@ -80,8 +60,23 @@
     "time": "2024-06-11 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Mint",
+    "blobs": 8,
+    "time": "2024-06-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 167,
+    "time": "2024-06-11 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Taiko",
     "blobs": 3113,
+    "time": "2024-06-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 185,
     "time": "2024-06-11 00:00:00.000 UTC"
   },
   {
@@ -90,8 +85,13 @@
     "time": "2024-06-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 185,
+    "blob_submitter": "Camp Network",
+    "blobs": 23,
+    "time": "2024-06-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 5280,
     "time": "2024-06-11 00:00:00.000 UTC"
   },
   {
@@ -120,8 +120,8 @@
     "time": "2024-06-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 372,
+    "blob_submitter": "Parallel",
+    "blobs": 24,
     "time": "2024-06-11 00:00:00.000 UTC"
   },
   {
@@ -130,8 +130,8 @@
     "time": "2024-06-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 24,
+    "blob_submitter": "Paradex",
+    "blobs": 372,
     "time": "2024-06-11 00:00:00.000 UTC"
   }
 ]

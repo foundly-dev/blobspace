@@ -50,13 +50,18 @@
     "time": "2024-04-27 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Base",
+    "blobs": 3840,
+    "time": "2024-04-27 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "ZORA",
     "blobs": 120,
     "time": "2024-04-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 3840,
+    "blob_submitter": "Paradex",
+    "blobs": 187,
     "time": "2024-04-27 00:00:00.000 UTC"
   },
   {
@@ -72,11 +77,6 @@
   {
     "blob_submitter": "zkSync Era",
     "blobs": 426,
-    "time": "2024-04-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 187,
     "time": "2024-04-27 00:00:00.000 UTC"
   }
 ]

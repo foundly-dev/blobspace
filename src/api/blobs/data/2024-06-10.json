@@ -1,22 +1,7 @@
 [
   {
-    "blob_submitter": "Taiko",
-    "blobs": 3421,
-    "time": "2024-06-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 2205,
-    "time": "2024-06-10 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "zkSync Era",
     "blobs": 430,
-    "time": "2024-06-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 195,
     "time": "2024-06-10 00:00:00.000 UTC"
   },
   {
@@ -35,6 +20,11 @@
     "time": "2024-06-10 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Paradex",
+    "blobs": 195,
+    "time": "2024-06-10 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Optopia",
     "blobs": 71,
     "time": "2024-06-10 00:00:00.000 UTC"
@@ -50,13 +40,23 @@
     "time": "2024-06-10 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Base",
+    "blobs": 5142,
+    "time": "2024-06-10 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Debank Chain",
     "blobs": 14,
     "time": "2024-06-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 5142,
+    "blob_submitter": "Taiko",
+    "blobs": 3421,
+    "time": "2024-06-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 2205,
     "time": "2024-06-10 00:00:00.000 UTC"
   },
   {
@@ -90,21 +90,6 @@
     "time": "2024-06-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 150,
-    "time": "2024-06-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 102,
-    "time": "2024-06-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 1135,
-    "time": "2024-06-10 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Scroll",
     "blobs": 1285,
     "time": "2024-06-10 00:00:00.000 UTC"
@@ -125,6 +110,11 @@
     "time": "2024-06-10 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Mode",
+    "blobs": 150,
+    "time": "2024-06-10 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Parallel",
     "blobs": 12,
     "time": "2024-06-10 00:00:00.000 UTC"
@@ -132,6 +122,16 @@
   {
     "blob_submitter": "Inscriptions",
     "blobs": 14,
+    "time": "2024-06-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 1135,
+    "time": "2024-06-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 102,
     "time": "2024-06-10 00:00:00.000 UTC"
   }
 ]

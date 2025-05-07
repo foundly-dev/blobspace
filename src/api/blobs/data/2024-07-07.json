@@ -50,33 +50,13 @@
     "time": "2024-07-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1915,
-    "time": "2024-07-07 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Zircuit",
     "blobs": 514,
     "time": "2024-07-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 191,
-    "time": "2024-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 302,
-    "time": "2024-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 15,
-    "time": "2024-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 147,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1915,
     "time": "2024-07-07 00:00:00.000 UTC"
   },
   {
@@ -95,6 +75,26 @@
     "time": "2024-07-07 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Others",
+    "blobs": 147,
+    "time": "2024-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 15,
+    "time": "2024-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 302,
+    "time": "2024-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 191,
+    "time": "2024-07-07 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Blast",
     "blobs": 672,
     "time": "2024-07-07 00:00:00.000 UTC"
@@ -105,28 +105,13 @@
     "time": "2024-07-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 538,
-    "time": "2024-07-07 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Polynomial",
     "blobs": 16,
     "time": "2024-07-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 90,
-    "time": "2024-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2190,
-    "time": "2024-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
+    "blob_submitter": "Linea",
+    "blobs": 538,
     "time": "2024-07-07 00:00:00.000 UTC"
   },
   {
@@ -145,8 +130,8 @@
     "time": "2024-07-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
-    "blobs": 25,
+    "blob_submitter": "Mode",
+    "blobs": 90,
     "time": "2024-07-07 00:00:00.000 UTC"
   },
   {
@@ -157,6 +142,21 @@
   {
     "blob_submitter": "Inscriptions",
     "blobs": 16,
+    "time": "2024-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 25,
+    "time": "2024-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2190,
+    "time": "2024-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
     "time": "2024-07-07 00:00:00.000 UTC"
   }
 ]

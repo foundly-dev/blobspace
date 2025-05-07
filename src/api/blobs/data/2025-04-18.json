@@ -1,20 +1,5 @@
 [
   {
-    "blob_submitter": "ZORA",
-    "blobs": 33,
-    "time": "2025-04-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 786,
-    "time": "2025-04-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
-    "blobs": 57,
-    "time": "2025-04-18 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Base",
     "blobs": 5555,
     "time": "2025-04-18 00:00:00.000 UTC"
@@ -35,16 +20,6 @@
     "time": "2025-04-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 49,
-    "time": "2025-04-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 3,
-    "time": "2025-04-18 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arbitrum One",
     "blobs": 741,
     "time": "2025-04-18 00:00:00.000 UTC"
@@ -62,6 +37,16 @@
   {
     "blob_submitter": "Scroll",
     "blobs": 45,
+    "time": "2025-04-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 49,
+    "time": "2025-04-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 3,
     "time": "2025-04-18 00:00:00.000 UTC"
   },
   {
@@ -100,26 +85,6 @@
     "time": "2025-04-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 438,
-    "time": "2025-04-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 36,
-    "time": "2025-04-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Phala Network",
-    "blobs": 16,
-    "time": "2025-04-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2025-04-18 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Linea",
     "blobs": 54,
     "time": "2025-04-18 00:00:00.000 UTC"
@@ -130,13 +95,8 @@
     "time": "2025-04-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 46,
-    "time": "2025-04-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Abstract",
-    "blobs": 5971,
+    "blob_submitter": "Phala Network",
+    "blobs": 16,
     "time": "2025-04-18 00:00:00.000 UTC"
   },
   {
@@ -152,6 +112,46 @@
   {
     "blob_submitter": "Swan Chain",
     "blobs": 7,
+    "time": "2025-04-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 46,
+    "time": "2025-04-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2025-04-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 438,
+    "time": "2025-04-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 36,
+    "time": "2025-04-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Abstract",
+    "blobs": 5971,
+    "time": "2025-04-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 33,
+    "time": "2025-04-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Soneium",
+    "blobs": 786,
+    "time": "2025-04-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 57,
     "time": "2025-04-18 00:00:00.000 UTC"
   },
   {
@@ -190,11 +190,6 @@
     "time": "2025-04-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZERO Network",
-    "blobs": 3,
-    "time": "2025-04-18 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "StarkNet",
     "blobs": 33,
     "time": "2025-04-18 00:00:00.000 UTC"
@@ -227,6 +222,11 @@
   {
     "blob_submitter": "Metal",
     "blobs": 361,
+    "time": "2025-04-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERO Network",
+    "blobs": 3,
     "time": "2025-04-18 00:00:00.000 UTC"
   }
 ]

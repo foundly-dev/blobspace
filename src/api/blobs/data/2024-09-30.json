@@ -1,30 +1,5 @@
 [
   {
-    "blob_submitter": "ZORA",
-    "blobs": 61,
-    "time": "2024-09-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 24,
-    "time": "2024-09-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 62,
-    "time": "2024-09-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 6,
-    "time": "2024-09-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 25,
-    "time": "2024-09-30 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Camp Network",
     "blobs": 35,
     "time": "2024-09-30 00:00:00.000 UTC"
@@ -60,13 +35,13 @@
     "time": "2024-09-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 5005,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2274,
     "time": "2024-09-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2274,
+    "blob_submitter": "Base",
+    "blobs": 5005,
     "time": "2024-09-30 00:00:00.000 UTC"
   },
   {
@@ -75,18 +50,8 @@
     "time": "2024-09-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 102,
-    "time": "2024-09-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
-    "time": "2024-09-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 206,
+    "blob_submitter": "Paradex",
+    "blobs": 54,
     "time": "2024-09-30 00:00:00.000 UTC"
   },
   {
@@ -95,13 +60,28 @@
     "time": "2024-09-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 54,
+    "blob_submitter": "Linea",
+    "blobs": 206,
+    "time": "2024-09-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2024-09-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 146,
     "time": "2024-09-30 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Blast",
     "blobs": 606,
+    "time": "2024-09-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 102,
     "time": "2024-09-30 00:00:00.000 UTC"
   },
   {
@@ -115,8 +95,28 @@
     "time": "2024-09-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 146,
+    "blob_submitter": "Binary",
+    "blobs": 24,
+    "time": "2024-09-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 62,
+    "time": "2024-09-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 6,
+    "time": "2024-09-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 25,
+    "time": "2024-09-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 265,
     "time": "2024-09-30 00:00:00.000 UTC"
   },
   {
@@ -145,18 +145,13 @@
     "time": "2024-09-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 265,
-    "time": "2024-09-30 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Hemi",
     "blobs": 60,
     "time": "2024-09-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 361,
+    "blob_submitter": "ZORA",
+    "blobs": 61,
     "time": "2024-09-30 00:00:00.000 UTC"
   },
   {
@@ -165,13 +160,8 @@
     "time": "2024-09-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 389,
-    "time": "2024-09-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 11,
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
     "time": "2024-09-30 00:00:00.000 UTC"
   },
   {
@@ -180,13 +170,23 @@
     "time": "2024-09-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2024-09-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
     "blobs": 5,
     "time": "2024-09-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
+    "blob_submitter": "StarkNet",
+    "blobs": 389,
+    "time": "2024-09-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 361,
     "time": "2024-09-30 00:00:00.000 UTC"
   },
   {
@@ -195,8 +195,8 @@
     "time": "2024-09-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
+    "blob_submitter": "Polynomial",
+    "blobs": 11,
     "time": "2024-09-30 00:00:00.000 UTC"
   }
 ]

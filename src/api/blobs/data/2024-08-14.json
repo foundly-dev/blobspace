@@ -1,32 +1,7 @@
 [
   {
-    "blob_submitter": "XGA",
-    "blobs": 14,
-    "time": "2024-08-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2202,
-    "time": "2024-08-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 33,
-    "time": "2024-08-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 38,
-    "time": "2024-08-14 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Metal",
     "blobs": 360,
-    "time": "2024-08-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 141,
     "time": "2024-08-14 00:00:00.000 UTC"
   },
   {
@@ -40,12 +15,12 @@
     "time": "2024-08-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "PandaSea",
-    "blobs": 24,
+    "blob_submitter": "Others",
+    "blobs": 141,
     "time": "2024-08-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
+    "blob_submitter": "PandaSea",
     "blobs": 24,
     "time": "2024-08-14 00:00:00.000 UTC"
   },
@@ -55,8 +30,8 @@
     "time": "2024-08-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 278,
+    "blob_submitter": "Camp Network",
+    "blobs": 24,
     "time": "2024-08-14 00:00:00.000 UTC"
   },
   {
@@ -67,6 +42,16 @@
   {
     "blob_submitter": "World Chain",
     "blobs": 47,
+    "time": "2024-08-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 278,
+    "time": "2024-08-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
     "time": "2024-08-14 00:00:00.000 UTC"
   },
   {
@@ -85,8 +70,28 @@
     "time": "2024-08-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 16,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2202,
+    "time": "2024-08-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
+    "blobs": 14,
+    "time": "2024-08-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 33,
+    "time": "2024-08-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 38,
+    "time": "2024-08-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 492,
     "time": "2024-08-14 00:00:00.000 UTC"
   },
   {
@@ -105,6 +110,11 @@
     "time": "2024-08-14 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Blast",
+    "blobs": 1425,
+    "time": "2024-08-14 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Scroll",
     "blobs": 477,
     "time": "2024-08-14 00:00:00.000 UTC"
@@ -120,21 +130,6 @@
     "time": "2024-08-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 1425,
-    "time": "2024-08-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 492,
-    "time": "2024-08-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
-    "time": "2024-08-14 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Kroma",
     "blobs": 167,
     "time": "2024-08-14 00:00:00.000 UTC"
@@ -145,6 +140,11 @@
     "time": "2024-08-14 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Kinto",
+    "blobs": 6,
+    "time": "2024-08-14 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Swan Chain",
     "blobs": 8,
     "time": "2024-08-14 00:00:00.000 UTC"
@@ -152,31 +152,6 @@
   {
     "blob_submitter": "Ethernity",
     "blobs": 5,
-    "time": "2024-08-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1055,
-    "time": "2024-08-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 241,
-    "time": "2024-08-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 4785,
-    "time": "2024-08-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2024-08-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 3683,
     "time": "2024-08-14 00:00:00.000 UTC"
   },
   {
@@ -192,6 +167,31 @@
   {
     "blob_submitter": "RACE",
     "blobs": 76,
+    "time": "2024-08-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 4785,
+    "time": "2024-08-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 3683,
+    "time": "2024-08-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2024-08-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 241,
+    "time": "2024-08-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1055,
     "time": "2024-08-14 00:00:00.000 UTC"
   }
 ]

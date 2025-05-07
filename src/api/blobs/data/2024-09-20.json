@@ -1,35 +1,5 @@
 [
   {
-    "blob_submitter": "Mode",
-    "blobs": 109,
-    "time": "2024-09-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 14,
-    "time": "2024-09-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
-    "time": "2024-09-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 407,
-    "time": "2024-09-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "XGA",
-    "blobs": 77,
-    "time": "2024-09-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 127,
-    "time": "2024-09-20 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "StarkNet",
     "blobs": 121,
     "time": "2024-09-20 00:00:00.000 UTC"
@@ -115,16 +85,6 @@
     "time": "2024-09-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 17,
-    "time": "2024-09-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 371,
-    "time": "2024-09-20 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Others",
     "blobs": 143,
     "time": "2024-09-20 00:00:00.000 UTC"
@@ -135,8 +95,48 @@
     "time": "2024-09-20 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Kroma",
+    "blobs": 371,
+    "time": "2024-09-20 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Paradex",
     "blobs": 58,
+    "time": "2024-09-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 17,
+    "time": "2024-09-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 14,
+    "time": "2024-09-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 6,
+    "time": "2024-09-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
+    "blobs": 77,
+    "time": "2024-09-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 127,
+    "time": "2024-09-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 407,
+    "time": "2024-09-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 109,
     "time": "2024-09-20 00:00:00.000 UTC"
   },
   {
@@ -160,6 +160,16 @@
     "time": "2024-09-20 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "River",
+    "blobs": 59,
+    "time": "2024-09-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 113,
+    "time": "2024-09-20 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Superseed",
     "blobs": 16,
     "time": "2024-09-20 00:00:00.000 UTC"
@@ -170,8 +180,8 @@
     "time": "2024-09-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 359,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1610,
     "time": "2024-09-20 00:00:00.000 UTC"
   },
   {
@@ -185,18 +195,8 @@
     "time": "2024-09-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 59,
-    "time": "2024-09-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1610,
-    "time": "2024-09-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 113,
+    "blob_submitter": "Metal",
+    "blobs": 359,
     "time": "2024-09-20 00:00:00.000 UTC"
   }
 ]

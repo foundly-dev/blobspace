@@ -25,13 +25,13 @@
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 1772,
+    "blob_submitter": "Base",
+    "blobs": 5945,
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 5945,
+    "blob_submitter": "Scroll",
+    "blobs": 1772,
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
@@ -65,13 +65,13 @@
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
+    "blob_submitter": "Others",
+    "blobs": 206,
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 206,
+    "blob_submitter": "Swan Chain",
+    "blobs": 12,
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
@@ -80,8 +80,8 @@
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 12,
+    "blob_submitter": "Lumio",
+    "blobs": 16,
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
@@ -110,16 +110,6 @@
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 17,
-    "time": "2024-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 47,
-    "time": "2024-06-24 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arbitrum One",
     "blobs": 3072,
     "time": "2024-06-24 00:00:00.000 UTC"
@@ -130,13 +120,23 @@
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 16,
+    "blob_submitter": "Blast",
+    "blobs": 1340,
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 1340,
+    "blob_submitter": "Mint",
+    "blobs": 17,
+    "time": "2024-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 47,
+    "time": "2024-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 16,
     "time": "2024-06-24 00:00:00.000 UTC"
   }
 ]
