@@ -1,12 +1,17 @@
 [
   {
-    "blob_submitter": "Base",
-    "blobs": 3396,
+    "blob_submitter": "Others",
+    "blobs": 2,
     "time": "2024-03-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 100,
+    "blob_submitter": "Paradex",
+    "blobs": 60,
+    "time": "2024-03-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 3396,
     "time": "2024-03-30 00:00:00.000 UTC"
   },
   {
@@ -15,13 +20,8 @@
     "time": "2024-03-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 2,
-    "time": "2024-03-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 60,
+    "blob_submitter": "ZORA",
+    "blobs": 100,
     "time": "2024-03-30 00:00:00.000 UTC"
   },
   {
@@ -45,13 +45,13 @@
     "time": "2024-03-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1878,
+    "blob_submitter": "Metal",
+    "blobs": 12,
     "time": "2024-03-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 12,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1878,
     "time": "2024-03-30 00:00:00.000 UTC"
   },
   {

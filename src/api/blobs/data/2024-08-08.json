@@ -1,57 +1,12 @@
 [
   {
-    "blob_submitter": "Shape",
-    "blobs": 15,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 3932,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 1450,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 18,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 184,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 472,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 218,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 16,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 40,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 8,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arbitrum One",
     "blobs": 2541,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
     "time": "2024-08-08 00:00:00.000 UTC"
   },
   {
@@ -70,18 +25,13 @@
     "time": "2024-08-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 361,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "OP Mainnet",
     "blobs": 1025,
     "time": "2024-08-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
+    "blob_submitter": "Metal",
+    "blobs": 361,
     "time": "2024-08-08 00:00:00.000 UTC"
   },
   {
@@ -92,6 +42,66 @@
   {
     "blob_submitter": "Mode",
     "blobs": 96,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 3932,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 1450,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 15,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 18,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 184,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 218,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 472,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 8,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 40,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 485,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
     "time": "2024-08-08 00:00:00.000 UTC"
   },
   {
@@ -150,28 +160,13 @@
     "time": "2024-08-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 485,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Optopia",
     "blobs": 71,
     "time": "2024-08-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 291,
+    "blob_submitter": "RACE",
+    "blobs": 77,
     "time": "2024-08-08 00:00:00.000 UTC"
   },
   {
@@ -180,8 +175,13 @@
     "time": "2024-08-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 77,
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 291,
     "time": "2024-08-08 00:00:00.000 UTC"
   }
 ]

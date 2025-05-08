@@ -1,30 +1,5 @@
 [
   {
-    "blob_submitter": "Kroma",
-    "blobs": 295,
-    "time": "2024-07-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
-    "time": "2024-07-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 157,
-    "time": "2024-07-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 6,
-    "time": "2024-07-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 77,
-    "time": "2024-07-29 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Nal",
     "blobs": 50,
     "time": "2024-07-29 00:00:00.000 UTC"
@@ -55,16 +30,6 @@
     "time": "2024-07-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 32,
-    "time": "2024-07-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "XGA",
-    "blobs": 14,
-    "time": "2024-07-29 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Base",
     "blobs": 5465,
     "time": "2024-07-29 00:00:00.000 UTC"
@@ -77,6 +42,46 @@
   {
     "blob_submitter": "PandaSea",
     "blobs": 24,
+    "time": "2024-07-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 295,
+    "time": "2024-07-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
+    "time": "2024-07-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 157,
+    "time": "2024-07-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 6,
+    "time": "2024-07-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 77,
+    "time": "2024-07-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 32,
+    "time": "2024-07-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
+    "blobs": 14,
+    "time": "2024-07-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 906,
     "time": "2024-07-29 00:00:00.000 UTC"
   },
   {
@@ -130,13 +135,28 @@
     "time": "2024-07-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 906,
+    "blob_submitter": "Lisk",
+    "blobs": 5,
     "time": "2024-07-29 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Linea",
     "blobs": 787,
+    "time": "2024-07-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
+    "time": "2024-07-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 219,
+    "time": "2024-07-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 14,
     "time": "2024-07-29 00:00:00.000 UTC"
   },
   {
@@ -147,16 +167,6 @@
   {
     "blob_submitter": "OP Mainnet",
     "blobs": 1416,
-    "time": "2024-07-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 14,
-    "time": "2024-07-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 219,
     "time": "2024-07-29 00:00:00.000 UTC"
   },
   {
@@ -171,16 +181,6 @@
   },
   {
     "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2024-07-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
-    "time": "2024-07-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
     "blobs": 16,
     "time": "2024-07-29 00:00:00.000 UTC"
   }

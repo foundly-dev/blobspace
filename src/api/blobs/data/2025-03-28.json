@@ -1,40 +1,5 @@
 [
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2406,
-    "time": "2025-03-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 40,
-    "time": "2025-03-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Infinaeon",
-    "blobs": 59,
-    "time": "2025-03-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Unichain",
-    "blobs": 212,
-    "time": "2025-03-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 638,
-    "time": "2025-03-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 26,
-    "time": "2025-03-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERO Network",
-    "blobs": 7,
-    "time": "2025-03-28 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "StarkNet",
     "blobs": 76,
     "time": "2025-03-28 00:00:00.000 UTC"
@@ -80,13 +45,53 @@
     "time": "2025-03-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Hemi",
-    "blobs": 86,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2406,
+    "time": "2025-03-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 40,
+    "time": "2025-03-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Infinaeon",
+    "blobs": 59,
+    "time": "2025-03-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 638,
+    "time": "2025-03-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 26,
+    "time": "2025-03-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERO Network",
+    "blobs": 7,
+    "time": "2025-03-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Unichain",
+    "blobs": 212,
+    "time": "2025-03-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swell",
+    "blobs": 25,
     "time": "2025-03-28 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Mode",
     "blobs": 80,
+    "time": "2025-03-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 86,
     "time": "2025-03-28 00:00:00.000 UTC"
   },
   {
@@ -100,6 +105,11 @@
     "time": "2025-03-28 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
+    "time": "2025-03-28 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Binary",
     "blobs": 8,
     "time": "2025-03-28 00:00:00.000 UTC"
@@ -107,11 +117,6 @@
   {
     "blob_submitter": "Swan Chain",
     "blobs": 8,
-    "time": "2025-03-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
     "time": "2025-03-28 00:00:00.000 UTC"
   },
   {
@@ -170,8 +175,8 @@
     "time": "2025-03-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swell",
-    "blobs": 25,
+    "blob_submitter": "Optopia",
+    "blobs": 8,
     "time": "2025-03-28 00:00:00.000 UTC"
   },
   {
@@ -185,38 +190,13 @@
     "time": "2025-03-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 3207,
-    "time": "2025-03-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 2886,
-    "time": "2025-03-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
-    "time": "2025-03-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 358,
-    "time": "2025-03-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
-    "time": "2025-03-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 24,
-    "time": "2025-03-28 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "OP Mainnet",
     "blobs": 875,
+    "time": "2025-03-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 38,
     "time": "2025-03-28 00:00:00.000 UTC"
   },
   {
@@ -235,8 +215,28 @@
     "time": "2025-03-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 38,
+    "blob_submitter": "World Chain",
+    "blobs": 3207,
+    "time": "2025-03-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 24,
+    "time": "2025-03-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 2886,
+    "time": "2025-03-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2025-03-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 358,
     "time": "2025-03-28 00:00:00.000 UTC"
   }
 ]
