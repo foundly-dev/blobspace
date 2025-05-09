@@ -1,5 +1,35 @@
 [
   {
+    "blob_submitter": "Base",
+    "blobs": 6155,
+    "time": "2024-10-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 14,
+    "time": "2024-10-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
+    "blobs": 76,
+    "time": "2024-10-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 60,
+    "time": "2024-10-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1944,
+    "time": "2024-10-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 70,
+    "time": "2024-10-13 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Blast",
     "blobs": 636,
     "time": "2024-10-13 00:00:00.000 UTC"
@@ -40,31 +70,6 @@
     "time": "2024-10-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
-    "time": "2024-10-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1944,
-    "time": "2024-10-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 6155,
-    "time": "2024-10-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "XGA",
-    "blobs": 76,
-    "time": "2024-10-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 60,
-    "time": "2024-10-13 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Camp Network",
     "blobs": 29,
     "time": "2024-10-13 00:00:00.000 UTC"
@@ -72,11 +77,6 @@
   {
     "blob_submitter": "Fuel",
     "blobs": 186,
-    "time": "2024-10-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 70,
     "time": "2024-10-13 00:00:00.000 UTC"
   },
   {
@@ -160,6 +160,11 @@
     "time": "2024-10-13 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
+    "time": "2024-10-13 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "River",
     "blobs": 65,
     "time": "2024-10-13 00:00:00.000 UTC"
@@ -177,11 +182,6 @@
   {
     "blob_submitter": "Polynomial",
     "blobs": 12,
-    "time": "2024-10-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
     "time": "2024-10-13 00:00:00.000 UTC"
   },
   {

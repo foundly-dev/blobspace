@@ -1,5 +1,20 @@
 [
   {
+    "blob_submitter": "Others",
+    "blobs": 6,
+    "time": "2024-07-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 177,
+    "time": "2024-07-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 35,
+    "time": "2024-07-21 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Arbitrum One",
     "blobs": 2166,
     "time": "2024-07-21 00:00:00.000 UTC"
@@ -30,6 +45,16 @@
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Base",
+    "blobs": 4655,
+    "time": "2024-07-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 5,
+    "time": "2024-07-21 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "XGA",
     "blobs": 14,
     "time": "2024-07-21 00:00:00.000 UTC"
@@ -55,23 +80,13 @@
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 6,
+    "blob_submitter": "Blast",
+    "blobs": 966,
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "World Chain",
     "blobs": 14,
-    "time": "2024-07-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 35,
-    "time": "2024-07-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 966,
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
@@ -87,21 +102,6 @@
   {
     "blob_submitter": "Taiko",
     "blobs": 3671,
-    "time": "2024-07-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 4655,
-    "time": "2024-07-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
-    "time": "2024-07-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 177,
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
@@ -155,23 +155,23 @@
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 719,
-    "time": "2024-07-21 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Polynomial",
     "blobs": 16,
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 186,
+    "blob_submitter": "Linea",
+    "blobs": 719,
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Lumio",
     "blobs": 17,
+    "time": "2024-07-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 186,
     "time": "2024-07-21 00:00:00.000 UTC"
   }
 ]

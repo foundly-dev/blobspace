@@ -1,5 +1,25 @@
 [
   {
+    "blob_submitter": "StarkNet",
+    "blobs": 42,
+    "time": "2025-02-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ink",
+    "blobs": 149,
+    "time": "2025-02-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 12,
+    "time": "2025-02-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Unichain",
+    "blobs": 305,
+    "time": "2025-02-18 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Superseed",
     "blobs": 16,
     "time": "2025-02-18 00:00:00.000 UTC"
@@ -12,11 +32,6 @@
   {
     "blob_submitter": "Boba Network",
     "blobs": 25,
-    "time": "2025-02-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 65,
     "time": "2025-02-18 00:00:00.000 UTC"
   },
   {
@@ -35,28 +50,18 @@
     "time": "2025-02-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 42,
-    "time": "2025-02-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ink",
-    "blobs": 149,
-    "time": "2025-02-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 12,
-    "time": "2025-02-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 49,
+    "blob_submitter": "zkSync Era",
+    "blobs": 65,
     "time": "2025-02-18 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Hemi",
     "blobs": 7,
+    "time": "2025-02-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 49,
     "time": "2025-02-18 00:00:00.000 UTC"
   },
   {
@@ -67,11 +72,6 @@
   {
     "blob_submitter": "Soneium",
     "blobs": 1175,
-    "time": "2025-02-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Unichain",
-    "blobs": 305,
     "time": "2025-02-18 00:00:00.000 UTC"
   },
   {
@@ -150,6 +150,11 @@
     "time": "2025-02-18 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "R0AR Chain",
+    "blobs": 8,
+    "time": "2025-02-18 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Morph",
     "blobs": 120,
     "time": "2025-02-18 00:00:00.000 UTC"
@@ -165,8 +170,8 @@
     "time": "2025-02-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 8,
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
     "time": "2025-02-18 00:00:00.000 UTC"
   },
   {
@@ -195,11 +200,6 @@
     "time": "2025-02-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
-    "time": "2025-02-18 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Shape",
     "blobs": 9,
     "time": "2025-02-18 00:00:00.000 UTC"
@@ -212,6 +212,16 @@
   {
     "blob_submitter": "pegglecoin",
     "blobs": 27,
+    "time": "2025-02-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 21,
+    "time": "2025-02-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 43,
     "time": "2025-02-18 00:00:00.000 UTC"
   },
   {
@@ -232,16 +242,6 @@
   {
     "blob_submitter": "Swell",
     "blobs": 25,
-    "time": "2025-02-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 21,
-    "time": "2025-02-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 43,
     "time": "2025-02-18 00:00:00.000 UTC"
   }
 ]

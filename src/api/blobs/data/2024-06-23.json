@@ -20,6 +20,11 @@
     "time": "2024-06-23 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Lambda",
+    "blobs": 15,
+    "time": "2024-06-23 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "ZORA",
     "blobs": 104,
     "time": "2024-06-23 00:00:00.000 UTC"
@@ -35,18 +40,13 @@
     "time": "2024-06-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 281,
-    "time": "2024-06-23 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Others",
     "blobs": 747,
     "time": "2024-06-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 15,
+    "blob_submitter": "zkSync Era",
+    "blobs": 281,
     "time": "2024-06-23 00:00:00.000 UTC"
   },
   {
@@ -95,13 +95,13 @@
     "time": "2024-06-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 279,
+    "blob_submitter": "River",
+    "blobs": 184,
     "time": "2024-06-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 184,
+    "blob_submitter": "StarkNet",
+    "blobs": 279,
     "time": "2024-06-23 00:00:00.000 UTC"
   },
   {

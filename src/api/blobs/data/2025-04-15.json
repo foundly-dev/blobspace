@@ -1,5 +1,35 @@
 [
   {
+    "blob_submitter": "Infinaeon",
+    "blobs": 8,
+    "time": "2025-04-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 103,
+    "time": "2025-04-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1260,
+    "time": "2025-04-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 25,
+    "time": "2025-04-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 20,
+    "time": "2025-04-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 28,
+    "time": "2025-04-15 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Shape",
     "blobs": 128,
     "time": "2025-04-15 00:00:00.000 UTC"
@@ -70,33 +100,8 @@
     "time": "2025-04-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 103,
-    "time": "2025-04-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1260,
-    "time": "2025-04-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 25,
-    "time": "2025-04-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 20,
-    "time": "2025-04-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 28,
-    "time": "2025-04-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Infinaeon",
-    "blobs": 8,
+    "blob_submitter": "ZERO Network",
+    "blobs": 5,
     "time": "2025-04-15 00:00:00.000 UTC"
   },
   {
@@ -112,11 +117,6 @@
   {
     "blob_submitter": "Optopia",
     "blobs": 8,
-    "time": "2025-04-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERO Network",
-    "blobs": 5,
     "time": "2025-04-15 00:00:00.000 UTC"
   },
   {
@@ -190,16 +190,6 @@
     "time": "2025-04-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Morph",
-    "blobs": 133,
-    "time": "2025-04-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 60,
-    "time": "2025-04-15 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arbitrum One",
     "blobs": 1842,
     "time": "2025-04-15 00:00:00.000 UTC"
@@ -207,6 +197,16 @@
   {
     "blob_submitter": "Ethernity",
     "blobs": 5,
+    "time": "2025-04-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Morph",
+    "blobs": 133,
+    "time": "2025-04-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 60,
     "time": "2025-04-15 00:00:00.000 UTC"
   },
   {

@@ -1,5 +1,20 @@
 [
   {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 955,
+    "time": "2024-08-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 76,
+    "time": "2024-08-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-08-09 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "River",
     "blobs": 184,
     "time": "2024-08-09 00:00:00.000 UTC"
@@ -30,11 +45,6 @@
     "time": "2024-08-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
-    "blobs": 24,
-    "time": "2024-08-09 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Polynomial",
     "blobs": 16,
     "time": "2024-08-09 00:00:00.000 UTC"
@@ -55,28 +65,13 @@
     "time": "2024-08-09 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Binary",
+    "blobs": 24,
+    "time": "2024-08-09 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Inscriptions",
     "blobs": 26,
-    "time": "2024-08-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 955,
-    "time": "2024-08-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 76,
-    "time": "2024-08-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
-    "time": "2024-08-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 448,
     "time": "2024-08-09 00:00:00.000 UTC"
   },
   {
@@ -85,13 +80,18 @@
     "time": "2024-08-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 92,
+    "blob_submitter": "Scroll",
+    "blobs": 448,
     "time": "2024-08-09 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Metal",
     "blobs": 360,
+    "time": "2024-08-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 92,
     "time": "2024-08-09 00:00:00.000 UTC"
   },
   {
@@ -145,13 +145,13 @@
     "time": "2024-08-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 4536,
+    "blob_submitter": "PandaSea",
+    "blobs": 24,
     "time": "2024-08-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "PandaSea",
-    "blobs": 24,
+    "blob_submitter": "Base",
+    "blobs": 4536,
     "time": "2024-08-09 00:00:00.000 UTC"
   },
   {

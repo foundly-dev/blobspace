@@ -1,45 +1,5 @@
 [
   {
-    "blob_submitter": "Kinto",
-    "blobs": 15,
-    "time": "2024-10-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 8,
-    "time": "2024-10-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "XGA",
-    "blobs": 76,
-    "time": "2024-10-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2024-10-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2289,
-    "time": "2024-10-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 76,
-    "time": "2024-10-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 25,
-    "time": "2024-10-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 985,
-    "time": "2024-10-30 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Shape",
     "blobs": 15,
     "time": "2024-10-30 00:00:00.000 UTC"
@@ -75,13 +35,68 @@
     "time": "2024-10-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 227,
+    "blob_submitter": "Mint",
+    "blobs": 152,
+    "time": "2024-10-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 15,
+    "time": "2024-10-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 8,
+    "time": "2024-10-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
+    "blobs": 76,
+    "time": "2024-10-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
+    "time": "2024-10-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 25,
+    "time": "2024-10-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 492,
+    "time": "2024-10-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 50,
+    "time": "2024-10-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 985,
+    "time": "2024-10-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2289,
+    "time": "2024-10-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 76,
     "time": "2024-10-30 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Kroma",
     "blobs": 440,
+    "time": "2024-10-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 227,
     "time": "2024-10-30 00:00:00.000 UTC"
   },
   {
@@ -102,21 +117,6 @@
   {
     "blob_submitter": "Swan Chain",
     "blobs": 129,
-    "time": "2024-10-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 492,
-    "time": "2024-10-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 50,
-    "time": "2024-10-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 152,
     "time": "2024-10-30 00:00:00.000 UTC"
   },
   {
@@ -190,11 +190,6 @@
     "time": "2024-10-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "PandaSea",
-    "blobs": 8,
-    "time": "2024-10-30 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "ZORA",
     "blobs": 157,
     "time": "2024-10-30 00:00:00.000 UTC"
@@ -202,6 +197,11 @@
   {
     "blob_submitter": "Hemi",
     "blobs": 59,
+    "time": "2024-10-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "PandaSea",
+    "blobs": 8,
     "time": "2024-10-30 00:00:00.000 UTC"
   },
   {

@@ -1,7 +1,27 @@
 [
   {
-    "blob_submitter": "Shape",
-    "blobs": 14,
+    "blob_submitter": "Metal",
+    "blobs": 358,
+    "time": "2024-10-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 506,
+    "time": "2024-10-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERO Network",
+    "blobs": 8,
+    "time": "2024-10-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 1025,
+    "time": "2024-10-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1121,
     "time": "2024-10-23 00:00:00.000 UTC"
   },
   {
@@ -17,6 +37,11 @@
   {
     "blob_submitter": "Polynomial",
     "blobs": 12,
+    "time": "2024-10-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 14,
     "time": "2024-10-23 00:00:00.000 UTC"
   },
   {
@@ -80,23 +105,13 @@
     "time": "2024-10-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 358,
+    "blob_submitter": "Boba Network",
+    "blobs": 55,
     "time": "2024-10-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 506,
-    "time": "2024-10-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERO Network",
-    "blobs": 8,
-    "time": "2024-10-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 1025,
+    "blob_submitter": "Mode",
+    "blobs": 40,
     "time": "2024-10-23 00:00:00.000 UTC"
   },
   {
@@ -107,16 +122,6 @@
   {
     "blob_submitter": "RACE",
     "blobs": 76,
-    "time": "2024-10-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 55,
-    "time": "2024-10-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 40,
     "time": "2024-10-23 00:00:00.000 UTC"
   },
   {
@@ -137,11 +142,6 @@
   {
     "blob_submitter": "Optopia",
     "blobs": 73,
-    "time": "2024-10-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1121,
     "time": "2024-10-23 00:00:00.000 UTC"
   },
   {
@@ -190,13 +190,13 @@
     "time": "2024-10-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Morph",
-    "blobs": 72,
+    "blob_submitter": "XGA",
+    "blobs": 77,
     "time": "2024-10-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "XGA",
-    "blobs": 77,
+    "blob_submitter": "Morph",
+    "blobs": 72,
     "time": "2024-10-23 00:00:00.000 UTC"
   },
   {
@@ -210,13 +210,13 @@
     "time": "2024-10-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 1,
+    "blob_submitter": "Mint",
+    "blobs": 76,
     "time": "2024-10-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 76,
+    "blob_submitter": "Inscriptions",
+    "blobs": 1,
     "time": "2024-10-23 00:00:00.000 UTC"
   }
 ]

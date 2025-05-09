@@ -1,5 +1,30 @@
 [
   {
+    "blob_submitter": "Nal",
+    "blobs": 50,
+    "time": "2024-09-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 35,
+    "time": "2024-09-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 14,
+    "time": "2024-09-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 71,
+    "time": "2024-09-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
+    "blobs": 76,
+    "time": "2024-09-30 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Shape",
     "blobs": 19,
     "time": "2024-09-30 00:00:00.000 UTC"
@@ -50,21 +75,6 @@
     "time": "2024-09-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
-    "time": "2024-09-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 50,
-    "time": "2024-09-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 35,
-    "time": "2024-09-30 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "PandaSea",
     "blobs": 167,
     "time": "2024-09-30 00:00:00.000 UTC"
@@ -75,23 +85,13 @@
     "time": "2024-09-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 5005,
-    "time": "2024-09-30 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arbitrum One",
     "blobs": 2274,
     "time": "2024-09-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
-    "time": "2024-09-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "XGA",
-    "blobs": 76,
+    "blob_submitter": "Base",
+    "blobs": 5005,
     "time": "2024-09-30 00:00:00.000 UTC"
   },
   {
@@ -185,6 +185,11 @@
     "time": "2024-09-30 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Metal",
+    "blobs": 361,
+    "time": "2024-09-30 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "StarkNet",
     "blobs": 389,
     "time": "2024-09-30 00:00:00.000 UTC"
@@ -192,11 +197,6 @@
   {
     "blob_submitter": "Polynomial",
     "blobs": 11,
-    "time": "2024-09-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 361,
     "time": "2024-09-30 00:00:00.000 UTC"
   }
 ]

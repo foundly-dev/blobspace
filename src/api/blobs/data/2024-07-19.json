@@ -1,12 +1,27 @@
 [
   {
-    "blob_submitter": "River",
-    "blobs": 186,
+    "blob_submitter": "Mode",
+    "blobs": 88,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
-    "blobs": 24,
+    "blob_submitter": "zkSync Era",
+    "blobs": 157,
+    "time": "2024-07-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 361,
+    "time": "2024-07-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1825,
+    "time": "2024-07-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 5,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
@@ -17,6 +32,16 @@
   {
     "blob_submitter": "StarkNet",
     "blobs": 439,
+    "time": "2024-07-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 186,
+    "time": "2024-07-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 24,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
@@ -55,38 +80,13 @@
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 157,
-    "time": "2024-07-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 361,
-    "time": "2024-07-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 88,
-    "time": "2024-07-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1825,
-    "time": "2024-07-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Kroma",
     "blobs": 269,
-    "time": "2024-07-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
@@ -145,13 +145,13 @@
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 523,
+    "blob_submitter": "Lambda",
+    "blobs": 14,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
+    "blob_submitter": "Scroll",
+    "blobs": 523,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
@@ -165,13 +165,13 @@
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 6,
+    "blob_submitter": "Camp Network",
+    "blobs": 23,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 23,
+    "blob_submitter": "Others",
+    "blobs": 6,
     "time": "2024-07-19 00:00:00.000 UTC"
   }
 ]

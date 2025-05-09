@@ -1,5 +1,40 @@
 [
   {
+    "blob_submitter": "Mint",
+    "blobs": 16,
+    "time": "2025-04-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 546,
+    "time": "2025-04-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "R0AR Chain",
+    "blobs": 8,
+    "time": "2025-04-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 42,
+    "time": "2025-04-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 56,
+    "time": "2025-04-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 3325,
+    "time": "2025-04-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 203,
+    "time": "2025-04-14 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "RACE",
     "blobs": 24,
     "time": "2025-04-14 00:00:00.000 UTC"
@@ -40,6 +75,11 @@
     "time": "2025-04-14 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2052,
+    "time": "2025-04-14 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Mode",
     "blobs": 64,
     "time": "2025-04-14 00:00:00.000 UTC"
@@ -52,31 +92,6 @@
   {
     "blob_submitter": "Unichain",
     "blobs": 341,
-    "time": "2025-04-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 546,
-    "time": "2025-04-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 8,
-    "time": "2025-04-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 16,
-    "time": "2025-04-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 42,
-    "time": "2025-04-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 56,
     "time": "2025-04-14 00:00:00.000 UTC"
   },
   {
@@ -115,6 +130,11 @@
     "time": "2025-04-14 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "World Chain",
+    "blobs": 2925,
+    "time": "2025-04-14 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Morph",
     "blobs": 111,
     "time": "2025-04-14 00:00:00.000 UTC"
@@ -122,26 +142,6 @@
   {
     "blob_submitter": "Lumio",
     "blobs": 16,
-    "time": "2025-04-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 2925,
-    "time": "2025-04-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2052,
-    "time": "2025-04-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 3325,
-    "time": "2025-04-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 203,
     "time": "2025-04-14 00:00:00.000 UTC"
   },
   {
@@ -195,11 +195,6 @@
     "time": "2025-04-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 26,
-    "time": "2025-04-14 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Swan Chain",
     "blobs": 7,
     "time": "2025-04-14 00:00:00.000 UTC"
@@ -207,6 +202,11 @@
   {
     "blob_submitter": "Ink",
     "blobs": 188,
+    "time": "2025-04-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 26,
     "time": "2025-04-14 00:00:00.000 UTC"
   },
   {

@@ -1,7 +1,17 @@
 [
   {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
+    "blob_submitter": "Paradex",
+    "blobs": 138,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 196,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 185,
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
@@ -12,6 +22,11 @@
   {
     "blob_submitter": "Mode",
     "blobs": 67,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 5,
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
@@ -47,21 +62,6 @@
   {
     "blob_submitter": "PandaSea",
     "blobs": 25,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 196,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 138,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 185,
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
@@ -130,6 +130,11 @@
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Shape",
     "blobs": 15,
     "time": "2024-08-18 00:00:00.000 UTC"
@@ -150,18 +155,13 @@
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 170,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Kinto",
     "blobs": 6,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 170,
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
@@ -180,6 +180,11 @@
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Kroma",
+    "blobs": 164,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Nal",
     "blobs": 50,
     "time": "2024-08-18 00:00:00.000 UTC"
@@ -187,11 +192,6 @@
   {
     "blob_submitter": "SNAXchain",
     "blobs": 16,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 164,
     "time": "2024-08-18 00:00:00.000 UTC"
   }
 ]

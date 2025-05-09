@@ -1,5 +1,30 @@
 [
   {
+    "blob_submitter": "Boba Network",
+    "blobs": 47,
+    "time": "2024-09-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 83,
+    "time": "2024-09-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 164,
+    "time": "2024-09-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 147,
+    "time": "2024-09-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2024-09-14 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Kinto",
     "blobs": 6,
     "time": "2024-09-14 00:00:00.000 UTC"
@@ -35,33 +60,8 @@
     "time": "2024-09-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 83,
-    "time": "2024-09-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 164,
-    "time": "2024-09-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 47,
-    "time": "2024-09-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
-    "time": "2024-09-14 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arbitrum One",
     "blobs": 1539,
-    "time": "2024-09-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 147,
     "time": "2024-09-14 00:00:00.000 UTC"
   },
   {
@@ -165,6 +165,16 @@
     "time": "2024-09-14 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "River",
+    "blobs": 52,
+    "time": "2024-09-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
+    "time": "2024-09-14 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Linea",
     "blobs": 401,
     "time": "2024-09-14 00:00:00.000 UTC"
@@ -187,16 +197,6 @@
   {
     "blob_submitter": "Lisk",
     "blobs": 4,
-    "time": "2024-09-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 52,
-    "time": "2024-09-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
     "time": "2024-09-14 00:00:00.000 UTC"
   }
 ]

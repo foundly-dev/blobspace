@@ -1,5 +1,35 @@
 [
   {
+    "blob_submitter": "Mode",
+    "blobs": 54,
+    "time": "2024-12-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2703,
+    "time": "2024-12-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 24,
+    "time": "2024-12-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Unichain",
+    "blobs": 24,
+    "time": "2024-12-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 25,
+    "time": "2024-12-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 479,
+    "time": "2024-12-23 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Kroma",
     "blobs": 160,
     "time": "2024-12-23 00:00:00.000 UTC"
@@ -50,6 +80,11 @@
     "time": "2024-12-23 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Abstract",
+    "blobs": 3,
+    "time": "2024-12-23 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Swan Chain",
     "blobs": 13,
     "time": "2024-12-23 00:00:00.000 UTC"
@@ -65,31 +100,6 @@
     "time": "2024-12-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 54,
-    "time": "2024-12-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 24,
-    "time": "2024-12-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Unichain",
-    "blobs": 24,
-    "time": "2024-12-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2703,
-    "time": "2024-12-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 479,
-    "time": "2024-12-23 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Binary",
     "blobs": 12,
     "time": "2024-12-23 00:00:00.000 UTC"
@@ -97,6 +107,11 @@
   {
     "blob_submitter": "Ethernity",
     "blobs": 5,
+    "time": "2024-12-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 93,
     "time": "2024-12-23 00:00:00.000 UTC"
   },
   {
@@ -117,21 +132,6 @@
   {
     "blob_submitter": "RACE",
     "blobs": 24,
-    "time": "2024-12-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 93,
-    "time": "2024-12-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Abstract",
-    "blobs": 3,
-    "time": "2024-12-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 25,
     "time": "2024-12-23 00:00:00.000 UTC"
   },
   {

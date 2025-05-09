@@ -1,5 +1,25 @@
 [
   {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 830,
+    "time": "2024-08-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-08-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2307,
+    "time": "2024-08-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 14,
+    "time": "2024-08-04 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Parallel",
     "blobs": 2,
     "time": "2024-08-04 00:00:00.000 UTC"
@@ -17,11 +37,6 @@
   {
     "blob_submitter": "Inscriptions",
     "blobs": 15,
-    "time": "2024-08-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 24,
     "time": "2024-08-04 00:00:00.000 UTC"
   },
   {
@@ -45,28 +60,18 @@
     "time": "2024-08-04 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
+    "time": "2024-08-04 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "River",
     "blobs": 184,
     "time": "2024-08-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
-    "time": "2024-08-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2307,
-    "time": "2024-08-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 830,
-    "time": "2024-08-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
+    "blob_submitter": "Binary",
+    "blobs": 24,
     "time": "2024-08-04 00:00:00.000 UTC"
   },
   {
@@ -82,11 +87,6 @@
   {
     "blob_submitter": "zkSync Era",
     "blobs": 209,
-    "time": "2024-08-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 16,
     "time": "2024-08-04 00:00:00.000 UTC"
   },
   {
@@ -135,6 +135,11 @@
     "time": "2024-08-04 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Scroll",
+    "blobs": 370,
+    "time": "2024-08-04 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Zircuit",
     "blobs": 502,
     "time": "2024-08-04 00:00:00.000 UTC"
@@ -150,8 +155,8 @@
     "time": "2024-08-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 370,
+    "blob_submitter": "Camp Network",
+    "blobs": 17,
     "time": "2024-08-04 00:00:00.000 UTC"
   },
   {
@@ -162,11 +167,6 @@
   {
     "blob_submitter": "Swan Chain",
     "blobs": 8,
-    "time": "2024-08-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 17,
     "time": "2024-08-04 00:00:00.000 UTC"
   },
   {

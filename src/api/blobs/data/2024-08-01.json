@@ -1,12 +1,12 @@
 [
   {
-    "blob_submitter": "Nal",
-    "blobs": 50,
+    "blob_submitter": "Inscriptions",
+    "blobs": 19,
     "time": "2024-08-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 19,
+    "blob_submitter": "Nal",
+    "blobs": 50,
     "time": "2024-08-01 00:00:00.000 UTC"
   },
   {
@@ -35,16 +35,6 @@
     "time": "2024-08-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 297,
-    "time": "2024-08-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 24,
-    "time": "2024-08-01 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Zircuit",
     "blobs": 513,
     "time": "2024-08-01 00:00:00.000 UTC"
@@ -60,8 +50,23 @@
     "time": "2024-08-01 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "StarkNet",
+    "blobs": 297,
+    "time": "2024-08-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 24,
+    "time": "2024-08-01 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Debank Chain",
     "blobs": 35,
+    "time": "2024-08-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
     "time": "2024-08-01 00:00:00.000 UTC"
   },
   {
@@ -72,11 +77,6 @@
   {
     "blob_submitter": "Lisk",
     "blobs": 5,
-    "time": "2024-08-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
     "time": "2024-08-01 00:00:00.000 UTC"
   },
   {
@@ -160,13 +160,13 @@
     "time": "2024-08-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 18,
+    "blob_submitter": "Lambda",
+    "blobs": 15,
     "time": "2024-08-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 15,
+    "blob_submitter": "Camp Network",
+    "blobs": 18,
     "time": "2024-08-01 00:00:00.000 UTC"
   },
   {

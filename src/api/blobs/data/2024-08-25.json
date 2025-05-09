@@ -1,5 +1,35 @@
 [
   {
+    "blob_submitter": "Debank Chain",
+    "blobs": 39,
+    "time": "2024-08-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 71,
+    "time": "2024-08-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 503,
+    "time": "2024-08-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 338,
+    "time": "2024-08-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "PandaSea",
+    "blobs": 24,
+    "time": "2024-08-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1015,
+    "time": "2024-08-25 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Blast",
     "blobs": 1393,
     "time": "2024-08-25 00:00:00.000 UTC"
@@ -30,13 +60,13 @@
     "time": "2024-08-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 14,
+    "blob_submitter": "SNAXchain",
+    "blobs": 16,
     "time": "2024-08-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "SNAXchain",
-    "blobs": 16,
+    "blob_submitter": "Shape",
+    "blobs": 14,
     "time": "2024-08-25 00:00:00.000 UTC"
   },
   {
@@ -65,36 +95,6 @@
     "time": "2024-08-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 39,
-    "time": "2024-08-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
-    "time": "2024-08-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 338,
-    "time": "2024-08-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "PandaSea",
-    "blobs": 24,
-    "time": "2024-08-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 503,
-    "time": "2024-08-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
-    "time": "2024-08-25 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Base",
     "blobs": 4585,
     "time": "2024-08-25 00:00:00.000 UTC"
@@ -102,6 +102,11 @@
   {
     "blob_submitter": "Lambda",
     "blobs": 15,
+    "time": "2024-08-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 6,
     "time": "2024-08-25 00:00:00.000 UTC"
   },
   {
@@ -115,11 +120,6 @@
     "time": "2024-08-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
-    "blobs": 24,
-    "time": "2024-08-25 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Mode",
     "blobs": 67,
     "time": "2024-08-25 00:00:00.000 UTC"
@@ -130,8 +130,8 @@
     "time": "2024-08-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1015,
+    "blob_submitter": "Binary",
+    "blobs": 24,
     "time": "2024-08-25 00:00:00.000 UTC"
   },
   {

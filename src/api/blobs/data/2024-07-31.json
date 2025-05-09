@@ -1,7 +1,12 @@
 [
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2226,
+    "blob_submitter": "World Chain",
+    "blobs": 385,
+    "time": "2024-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 3984,
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
@@ -15,13 +20,18 @@
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 77,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2226,
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Optopia",
     "blobs": 71,
+    "time": "2024-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 77,
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
@@ -60,8 +70,8 @@
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 385,
+    "blob_submitter": "River",
+    "blobs": 184,
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
@@ -77,11 +87,6 @@
   {
     "blob_submitter": "Shape",
     "blobs": 15,
-    "time": "2024-07-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 184,
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
@@ -110,11 +115,6 @@
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 3984,
-    "time": "2024-07-31 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Swan Chain",
     "blobs": 10,
     "time": "2024-07-31 00:00:00.000 UTC"
@@ -140,11 +140,6 @@
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Nal",
-    "blobs": 50,
-    "time": "2024-07-31 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "zkSync Era",
     "blobs": 152,
     "time": "2024-07-31 00:00:00.000 UTC"
@@ -152,6 +147,11 @@
   {
     "blob_submitter": "XGA",
     "blobs": 14,
+    "time": "2024-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 50,
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {

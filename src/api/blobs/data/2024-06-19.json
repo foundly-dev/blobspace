@@ -1,5 +1,10 @@
 [
   {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1960,
+    "time": "2024-06-19 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Linea",
     "blobs": 333,
     "time": "2024-06-19 00:00:00.000 UTC"
@@ -30,13 +35,13 @@
     "time": "2024-06-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
+    "blob_submitter": "zkSync Era",
+    "blobs": 512,
     "time": "2024-06-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1960,
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
     "time": "2024-06-19 00:00:00.000 UTC"
   },
   {
@@ -52,11 +57,6 @@
   {
     "blob_submitter": "Lambda",
     "blobs": 14,
-    "time": "2024-06-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 512,
     "time": "2024-06-19 00:00:00.000 UTC"
   },
   {
@@ -95,13 +95,13 @@
     "time": "2024-06-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 77,
+    "blob_submitter": "StarkNet",
+    "blobs": 413,
     "time": "2024-06-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 413,
+    "blob_submitter": "Optopia",
+    "blobs": 77,
     "time": "2024-06-19 00:00:00.000 UTC"
   },
   {
@@ -125,11 +125,6 @@
     "time": "2024-06-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2661,
-    "time": "2024-06-19 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Polynomial",
     "blobs": 8,
     "time": "2024-06-19 00:00:00.000 UTC"
@@ -137,6 +132,11 @@
   {
     "blob_submitter": "Metal",
     "blobs": 358,
+    "time": "2024-06-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2661,
     "time": "2024-06-19 00:00:00.000 UTC"
   }
 ]
