@@ -30,73 +30,8 @@
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1470,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 67,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 4425,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 25,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 361,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1572,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 359,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "PandaSea",
-    "blobs": 25,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Blast",
     "blobs": 1768,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 15,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "XGA",
-    "blobs": 15,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
@@ -115,8 +50,23 @@
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Zircuit",
+    "blobs": 494,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Kinto",
     "blobs": 6,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 35,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 25,
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
@@ -135,18 +85,8 @@
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
-    "blobs": 25,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 494,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 35,
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
@@ -157,11 +97,6 @@
   {
     "blob_submitter": "StarkNet",
     "blobs": 196,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 1,
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
@@ -190,8 +125,73 @@
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Parallel",
+    "blobs": 1,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "River",
     "blobs": 185,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 15,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
+    "blobs": 15,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 5,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1470,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 67,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 71,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 361,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1572,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 4425,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 25,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 359,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "PandaSea",
+    "blobs": 25,
     "time": "2024-08-18 00:00:00.000 UTC"
   }
 ]

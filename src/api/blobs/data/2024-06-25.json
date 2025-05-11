@@ -1,7 +1,22 @@
 [
   {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-06-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 3,
+    "time": "2024-06-25 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "zkSync Era",
     "blobs": 295,
+    "time": "2024-06-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 7,
     "time": "2024-06-25 00:00:00.000 UTC"
   },
   {
@@ -11,71 +26,6 @@
   },
   {
     "blob_submitter": "Mint",
-    "blobs": 16,
-    "time": "2024-06-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 3,
-    "time": "2024-06-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
-    "time": "2024-06-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 7,
-    "time": "2024-06-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 358,
-    "time": "2024-06-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 5645,
-    "time": "2024-06-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
-    "time": "2024-06-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 33,
-    "time": "2024-06-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 2020,
-    "time": "2024-06-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 80,
-    "time": "2024-06-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 1642,
-    "time": "2024-06-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 24,
-    "time": "2024-06-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 74,
-    "time": "2024-06-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
     "blobs": 16,
     "time": "2024-06-25 00:00:00.000 UTC"
   },
@@ -95,16 +45,6 @@
     "time": "2024-06-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 412,
-    "time": "2024-06-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 3310,
-    "time": "2024-06-25 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Kroma",
     "blobs": 161,
     "time": "2024-06-25 00:00:00.000 UTC"
@@ -115,8 +55,13 @@
     "time": "2024-06-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 158,
+    "blob_submitter": "Taiko",
+    "blobs": 3310,
+    "time": "2024-06-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 412,
     "time": "2024-06-25 00:00:00.000 UTC"
   },
   {
@@ -130,13 +75,68 @@
     "time": "2024-06-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 411,
+    "blob_submitter": "ZORA",
+    "blobs": 158,
     "time": "2024-06-25 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "StarkNet",
     "blobs": 236,
+    "time": "2024-06-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 411,
+    "time": "2024-06-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2024-06-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 358,
+    "time": "2024-06-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 74,
+    "time": "2024-06-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 5645,
+    "time": "2024-06-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 5,
+    "time": "2024-06-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 33,
+    "time": "2024-06-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 80,
+    "time": "2024-06-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 2020,
+    "time": "2024-06-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 24,
+    "time": "2024-06-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 1642,
     "time": "2024-06-25 00:00:00.000 UTC"
   }
 ]

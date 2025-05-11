@@ -1,5 +1,15 @@
 [
   {
+    "blob_submitter": "StarkNet",
+    "blobs": 192,
+    "time": "2024-05-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 18,
+    "time": "2024-05-25 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "zkSync Era",
     "blobs": 338,
     "time": "2024-05-25 00:00:00.000 UTC"
@@ -10,23 +20,53 @@
     "time": "2024-05-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 18,
+    "blob_submitter": "ZORA",
+    "blobs": 90,
     "time": "2024-05-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 192,
+    "blob_submitter": "Base",
+    "blobs": 3036,
+    "time": "2024-05-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 89,
+    "time": "2024-05-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 133,
+    "time": "2024-05-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 184,
+    "time": "2024-05-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 21,
+    "time": "2024-05-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 578,
+    "time": "2024-05-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 8,
+    "time": "2024-05-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 226,
     "time": "2024-05-25 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Scroll",
     "blobs": 1572,
-    "time": "2024-05-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 15,
     "time": "2024-05-25 00:00:00.000 UTC"
   },
   {
@@ -40,13 +80,13 @@
     "time": "2024-05-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 359,
+    "blob_submitter": "Lambda",
+    "blobs": 15,
     "time": "2024-05-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2280,
+    "blob_submitter": "Metal",
+    "blobs": 359,
     "time": "2024-05-25 00:00:00.000 UTC"
   },
   {
@@ -70,48 +110,8 @@
     "time": "2024-05-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 133,
-    "time": "2024-05-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 89,
-    "time": "2024-05-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 3036,
-    "time": "2024-05-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 90,
-    "time": "2024-05-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 184,
-    "time": "2024-05-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 578,
-    "time": "2024-05-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 21,
-    "time": "2024-05-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 8,
-    "time": "2024-05-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 226,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2280,
     "time": "2024-05-25 00:00:00.000 UTC"
   }
 ]

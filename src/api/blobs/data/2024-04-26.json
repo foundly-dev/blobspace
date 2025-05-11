@@ -5,6 +5,16 @@
     "time": "2024-04-26 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Linea",
+    "blobs": 582,
+    "time": "2024-04-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 249,
+    "time": "2024-04-26 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "OP Mainnet",
     "blobs": 1950,
     "time": "2024-04-26 00:00:00.000 UTC"
@@ -20,33 +30,8 @@
     "time": "2024-04-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 582,
-    "time": "2024-04-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 249,
-    "time": "2024-04-26 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "StarkNet",
     "blobs": 266,
-    "time": "2024-04-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
-    "time": "2024-04-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 18,
-    "time": "2024-04-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 324,
     "time": "2024-04-26 00:00:00.000 UTC"
   },
   {
@@ -77,6 +62,21 @@
   {
     "blob_submitter": "Boba Network",
     "blobs": 48,
+    "time": "2024-04-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 324,
+    "time": "2024-04-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 14,
+    "time": "2024-04-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 18,
     "time": "2024-04-26 00:00:00.000 UTC"
   }
 ]
