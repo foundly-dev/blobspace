@@ -25,8 +25,8 @@
     "time": "2024-04-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 21,
+    "blob_submitter": "Linea",
+    "blobs": 363,
     "time": "2024-04-20 00:00:00.000 UTC"
   },
   {
@@ -40,8 +40,23 @@
     "time": "2024-04-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 363,
+    "blob_submitter": "Lambda",
+    "blobs": 21,
+    "time": "2024-04-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-04-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 8,
+    "time": "2024-04-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 3624,
     "time": "2024-04-20 00:00:00.000 UTC"
   },
   {
@@ -55,23 +70,8 @@
     "time": "2024-04-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 3624,
-    "time": "2024-04-20 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Inscriptions",
     "blobs": 31,
-    "time": "2024-04-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
-    "time": "2024-04-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 8,
     "time": "2024-04-20 00:00:00.000 UTC"
   }
 ]

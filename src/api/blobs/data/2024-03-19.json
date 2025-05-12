@@ -20,13 +20,18 @@
     "time": "2024-03-19 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "StarkNet",
+    "blobs": 1012,
+    "time": "2024-03-19 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "OP Mainnet",
     "blobs": 1273,
     "time": "2024-03-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 1012,
+    "blob_submitter": "Paradex",
+    "blobs": 136,
     "time": "2024-03-19 00:00:00.000 UTC"
   },
   {
@@ -37,11 +42,6 @@
   {
     "blob_submitter": "Mode",
     "blobs": 131,
-    "time": "2024-03-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 136,
     "time": "2024-03-19 00:00:00.000 UTC"
   }
 ]
