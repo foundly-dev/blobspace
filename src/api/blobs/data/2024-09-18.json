@@ -1,12 +1,17 @@
 [
   {
-    "blob_submitter": "Scroll",
-    "blobs": 339,
+    "blob_submitter": "Hemi",
+    "blobs": 59,
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 185,
+    "blob_submitter": "Base",
+    "blobs": 4895,
+    "time": "2024-09-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 8,
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
@@ -20,8 +25,18 @@
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 8,
+    "blob_submitter": "Scroll",
+    "blobs": 339,
+    "time": "2024-09-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 185,
+    "time": "2024-09-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 25,
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
@@ -40,18 +55,8 @@
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 4895,
-    "time": "2024-09-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 164,
-    "time": "2024-09-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
-    "blobs": 59,
+    "blob_submitter": "ZORA",
+    "blobs": 87,
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
@@ -65,11 +70,6 @@
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 16,
-    "time": "2024-09-18 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Binary",
     "blobs": 25,
     "time": "2024-09-18 00:00:00.000 UTC"
@@ -80,18 +80,23 @@
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 25,
+    "blob_submitter": "Mint",
+    "blobs": 164,
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 40,
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Kinto",
     "blobs": 6,
+    "time": "2024-09-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 40,
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
@@ -105,8 +110,28 @@
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
+    "blob_submitter": "Metal",
+    "blobs": 360,
+    "time": "2024-09-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2024-09-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 117,
+    "time": "2024-09-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 277,
+    "time": "2024-09-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 14,
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
@@ -115,18 +140,18 @@
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Optopia",
+    "blobs": 71,
+    "time": "2024-09-18 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "RACE",
     "blobs": 76,
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 360,
-    "time": "2024-09-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
+    "blob_submitter": "Lisk",
+    "blobs": 5,
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
@@ -150,28 +175,13 @@
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2061,
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 117,
-    "time": "2024-09-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
-    "time": "2024-09-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 277,
-    "time": "2024-09-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 87,
+    "blob_submitter": "zkSync Era",
+    "blobs": 109,
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
@@ -182,16 +192,6 @@
   {
     "blob_submitter": "Others",
     "blobs": 135,
-    "time": "2024-09-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2061,
-    "time": "2024-09-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 109,
     "time": "2024-09-18 00:00:00.000 UTC"
   }
 ]

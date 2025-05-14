@@ -1,37 +1,7 @@
 [
   {
-    "blob_submitter": "XGA",
+    "blob_submitter": "Mode",
     "blobs": 77,
-    "time": "2024-08-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 231,
-    "time": "2024-08-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2024-08-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 14,
-    "time": "2024-08-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2517,
-    "time": "2024-08-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 130,
-    "time": "2024-08-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "PandaSea",
-    "blobs": 24,
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
@@ -45,6 +15,16 @@
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2517,
+    "time": "2024-08-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 130,
+    "time": "2024-08-23 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Zircuit",
     "blobs": 508,
     "time": "2024-08-23 00:00:00.000 UTC"
@@ -55,8 +35,33 @@
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
+    "blob_submitter": "Shape",
+    "blobs": 14,
+    "time": "2024-08-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
     "blobs": 77,
+    "time": "2024-08-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 231,
+    "time": "2024-08-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "PandaSea",
+    "blobs": 24,
+    "time": "2024-08-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 370,
+    "time": "2024-08-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 18,
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
@@ -80,8 +85,18 @@
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
+    "blob_submitter": "Ethernity",
     "blobs": 5,
+    "time": "2024-08-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 24,
+    "time": "2024-08-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 4595,
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
@@ -95,13 +110,28 @@
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Inscriptions",
+    "blobs": 6,
+    "time": "2024-08-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 5,
+    "time": "2024-08-23 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Polynomial",
     "blobs": 17,
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1625,
+    "blob_submitter": "Lambda",
+    "blobs": 15,
+    "time": "2024-08-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 245,
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
@@ -110,13 +140,18 @@
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 3718,
+    "blob_submitter": "Metal",
+    "blobs": 361,
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 76,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1625,
+    "time": "2024-08-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 3718,
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
@@ -135,23 +170,8 @@
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 15,
-    "time": "2024-08-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 245,
-    "time": "2024-08-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 361,
-    "time": "2024-08-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 24,
+    "blob_submitter": "RACE",
+    "blobs": 76,
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
@@ -167,26 +187,6 @@
   {
     "blob_submitter": "Swan Chain",
     "blobs": 15,
-    "time": "2024-08-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 370,
-    "time": "2024-08-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 18,
-    "time": "2024-08-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 4595,
-    "time": "2024-08-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 6,
     "time": "2024-08-23 00:00:00.000 UTC"
   }
 ]

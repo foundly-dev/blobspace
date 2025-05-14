@@ -1,20 +1,5 @@
 [
   {
-    "blob_submitter": "Nal",
-    "blobs": 50,
-    "time": "2024-10-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 39,
-    "time": "2024-10-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
-    "time": "2024-10-05 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Ethernity",
     "blobs": 5,
     "time": "2024-10-05 00:00:00.000 UTC"
@@ -30,18 +15,13 @@
     "time": "2024-10-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 61,
+    "blob_submitter": "Nal",
+    "blobs": 50,
     "time": "2024-10-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
-    "time": "2024-10-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "XGA",
-    "blobs": 77,
+    "blob_submitter": "Paradex",
+    "blobs": 39,
     "time": "2024-10-05 00:00:00.000 UTC"
   },
   {
@@ -52,6 +32,56 @@
   {
     "blob_submitter": "Kinto",
     "blobs": 6,
+    "time": "2024-10-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 314,
+    "time": "2024-10-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 54,
+    "time": "2024-10-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
+    "blobs": 77,
+    "time": "2024-10-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 5,
+    "time": "2024-10-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1710,
+    "time": "2024-10-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 61,
+    "time": "2024-10-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 14,
+    "time": "2024-10-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 359,
+    "time": "2024-10-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1115,
+    "time": "2024-10-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 76,
     "time": "2024-10-05 00:00:00.000 UTC"
   },
   {
@@ -70,23 +100,13 @@
     "time": "2024-10-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 106,
+    "blob_submitter": "Others",
+    "blobs": 146,
     "time": "2024-10-05 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "PandaSea",
     "blobs": 24,
-    "time": "2024-10-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 99,
-    "time": "2024-10-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 146,
     "time": "2024-10-05 00:00:00.000 UTC"
   },
   {
@@ -115,8 +135,13 @@
     "time": "2024-10-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1710,
+    "blob_submitter": "Swan Chain",
+    "blobs": 106,
+    "time": "2024-10-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 99,
     "time": "2024-10-05 00:00:00.000 UTC"
   },
   {
@@ -135,48 +160,8 @@
     "time": "2024-10-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 208,
-    "time": "2024-10-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 52,
-    "time": "2024-10-05 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Superseed",
     "blobs": 16,
-    "time": "2024-10-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 314,
-    "time": "2024-10-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 54,
-    "time": "2024-10-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 359,
-    "time": "2024-10-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1115,
-    "time": "2024-10-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 76,
-    "time": "2024-10-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 15,
     "time": "2024-10-05 00:00:00.000 UTC"
   },
   {
@@ -197,6 +182,21 @@
   {
     "blob_submitter": "Kroma",
     "blobs": 320,
+    "time": "2024-10-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 208,
+    "time": "2024-10-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 52,
+    "time": "2024-10-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 15,
     "time": "2024-10-05 00:00:00.000 UTC"
   }
 ]

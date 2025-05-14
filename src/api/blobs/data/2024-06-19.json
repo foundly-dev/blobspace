@@ -1,17 +1,12 @@
 [
   {
-    "blob_submitter": "Optopia",
-    "blobs": 77,
+    "blob_submitter": "Taiko",
+    "blobs": 3136,
     "time": "2024-06-19 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Lisk",
     "blobs": 8,
-    "time": "2024-06-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2661,
     "time": "2024-06-19 00:00:00.000 UTC"
   },
   {
@@ -25,8 +20,28 @@
     "time": "2024-06-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 3136,
+    "blob_submitter": "Optopia",
+    "blobs": 77,
+    "time": "2024-06-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 12,
+    "time": "2024-06-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2661,
+    "time": "2024-06-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 358,
+    "time": "2024-06-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 8,
     "time": "2024-06-19 00:00:00.000 UTC"
   },
   {
@@ -40,8 +55,18 @@
     "time": "2024-06-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 12,
+    "blob_submitter": "Inscriptions",
+    "blobs": 7,
+    "time": "2024-06-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 25,
+    "time": "2024-06-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 14,
     "time": "2024-06-19 00:00:00.000 UTC"
   },
   {
@@ -90,7 +115,17 @@
     "time": "2024-06-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
+    "blob_submitter": "Blast",
+    "blobs": 1338,
+    "time": "2024-06-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-06-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
     "blobs": 8,
     "time": "2024-06-19 00:00:00.000 UTC"
   },
@@ -100,43 +135,8 @@
     "time": "2024-06-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 358,
-    "time": "2024-06-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
+    "blob_submitter": "Mint",
     "blobs": 8,
-    "time": "2024-06-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
-    "time": "2024-06-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 25,
-    "time": "2024-06-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 7,
-    "time": "2024-06-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 8,
-    "time": "2024-06-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 1338,
-    "time": "2024-06-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
     "time": "2024-06-19 00:00:00.000 UTC"
   }
 ]

@@ -1,17 +1,7 @@
 [
   {
-    "blob_submitter": "Linea",
-    "blobs": 572,
-    "time": "2024-05-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 8,
-    "time": "2024-05-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 2160,
+    "blob_submitter": "Lisk",
+    "blobs": 10,
     "time": "2024-05-27 00:00:00.000 UTC"
   },
   {
@@ -30,6 +20,31 @@
     "time": "2024-05-27 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 2160,
+    "time": "2024-05-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 572,
+    "time": "2024-05-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 8,
+    "time": "2024-05-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 69,
+    "time": "2024-05-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 2892,
+    "time": "2024-05-27 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Scroll",
     "blobs": 1434,
     "time": "2024-05-27 00:00:00.000 UTC"
@@ -40,18 +55,18 @@
     "time": "2024-05-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 10,
-    "time": "2024-05-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 2892,
-    "time": "2024-05-27 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Inscriptions",
     "blobs": 67,
+    "time": "2024-05-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 66,
+    "time": "2024-05-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 71,
     "time": "2024-05-27 00:00:00.000 UTC"
   },
   {
@@ -62,6 +77,11 @@
   {
     "blob_submitter": "Parallel",
     "blobs": 18,
+    "time": "2024-05-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 67,
     "time": "2024-05-27 00:00:00.000 UTC"
   },
   {
@@ -85,11 +105,6 @@
     "time": "2024-05-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 67,
-    "time": "2024-05-27 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Kroma",
     "blobs": 191,
     "time": "2024-05-27 00:00:00.000 UTC"
@@ -102,26 +117,6 @@
   {
     "blob_submitter": "Metal",
     "blobs": 230,
-    "time": "2024-05-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 132,
-    "time": "2024-05-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 69,
-    "time": "2024-05-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
-    "time": "2024-05-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 66,
     "time": "2024-05-27 00:00:00.000 UTC"
   }
 ]

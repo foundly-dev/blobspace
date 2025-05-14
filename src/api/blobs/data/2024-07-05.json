@@ -1,22 +1,12 @@
 [
   {
-    "blob_submitter": "Taiko",
-    "blobs": 3314,
+    "blob_submitter": "Paradex",
+    "blobs": 1094,
     "time": "2024-07-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 706,
-    "time": "2024-07-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 50,
-    "time": "2024-07-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 78,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1770,
     "time": "2024-07-05 00:00:00.000 UTC"
   },
   {
@@ -30,13 +20,18 @@
     "time": "2024-07-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1770,
+    "blob_submitter": "Optopia",
+    "blobs": 78,
     "time": "2024-07-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 1094,
+    "blob_submitter": "Nal",
+    "blobs": 50,
+    "time": "2024-07-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 3314,
     "time": "2024-07-05 00:00:00.000 UTC"
   },
   {
@@ -50,13 +45,8 @@
     "time": "2024-07-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
-    "blobs": 24,
-    "time": "2024-07-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 16,
+    "blob_submitter": "World Chain",
+    "blobs": 15,
     "time": "2024-07-05 00:00:00.000 UTC"
   },
   {
@@ -70,13 +60,23 @@
     "time": "2024-07-05 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Linea",
+    "blobs": 706,
+    "time": "2024-07-05 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Blast",
     "blobs": 768,
     "time": "2024-07-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 514,
+    "blob_submitter": "Binary",
+    "blobs": 24,
+    "time": "2024-07-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 16,
     "time": "2024-07-05 00:00:00.000 UTC"
   },
   {
@@ -85,38 +85,18 @@
     "time": "2024-07-05 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Inscriptions",
+    "blobs": 2,
+    "time": "2024-07-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 514,
+    "time": "2024-07-05 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Others",
     "blobs": 136,
-    "time": "2024-07-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 5655,
-    "time": "2024-07-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 110,
-    "time": "2024-07-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
-    "time": "2024-07-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 208,
-    "time": "2024-07-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 26,
-    "time": "2024-07-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 24,
     "time": "2024-07-05 00:00:00.000 UTC"
   },
   {
@@ -130,6 +110,36 @@
     "time": "2024-07-05 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Base",
+    "blobs": 5655,
+    "time": "2024-07-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 24,
+    "time": "2024-07-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 110,
+    "time": "2024-07-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
+    "time": "2024-07-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 26,
+    "time": "2024-07-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 208,
+    "time": "2024-07-05 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Arbitrum One",
     "blobs": 2676,
     "time": "2024-07-05 00:00:00.000 UTC"
@@ -140,23 +150,13 @@
     "time": "2024-07-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 106,
-    "time": "2024-07-05 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Boba Network",
     "blobs": 48,
     "time": "2024-07-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 15,
-    "time": "2024-07-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 2,
+    "blob_submitter": "Mode",
+    "blobs": 106,
     "time": "2024-07-05 00:00:00.000 UTC"
   }
 ]
