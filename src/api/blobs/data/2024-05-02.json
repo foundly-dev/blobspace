@@ -1,37 +1,32 @@
 [
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1722,
+    "blob_submitter": "Camp Network",
+    "blobs": 11,
     "time": "2024-05-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 47,
+    "blob_submitter": "Base",
+    "blobs": 3630,
     "time": "2024-05-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 96,
+    "blob_submitter": "Metal",
+    "blobs": 8,
     "time": "2024-05-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 2,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1962,
     "time": "2024-05-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 216,
+    "blob_submitter": "Lambda",
+    "blobs": 14,
     "time": "2024-05-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 7,
-    "time": "2024-05-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 414,
+    "blob_submitter": "Scroll",
+    "blobs": 1877,
     "time": "2024-05-02 00:00:00.000 UTC"
   },
   {
@@ -55,33 +50,38 @@
     "time": "2024-05-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 11,
+    "blob_submitter": "ZORA",
+    "blobs": 96,
     "time": "2024-05-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1962,
+    "blob_submitter": "Parallel",
+    "blobs": 2,
     "time": "2024-05-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1722,
     "time": "2024-05-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 1877,
+    "blob_submitter": "Boba Network",
+    "blobs": 47,
     "time": "2024-05-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 8,
+    "blob_submitter": "Mode",
+    "blobs": 216,
     "time": "2024-05-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 3630,
+    "blob_submitter": "Inscriptions",
+    "blobs": 7,
+    "time": "2024-05-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 414,
     "time": "2024-05-02 00:00:00.000 UTC"
   }
 ]
