@@ -1,12 +1,12 @@
 [
   {
-    "blob_submitter": "Paradex",
-    "blobs": 42,
+    "blob_submitter": "Mode",
+    "blobs": 174,
     "time": "2024-04-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 174,
+    "blob_submitter": "Paradex",
+    "blobs": 42,
     "time": "2024-04-07 00:00:00.000 UTC"
   },
   {
@@ -17,31 +17,6 @@
   {
     "blob_submitter": "Arbitrum One",
     "blobs": 1824,
-    "time": "2024-04-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1092,
-    "time": "2024-04-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 1237,
-    "time": "2024-04-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 4158,
-    "time": "2024-04-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 4,
-    "time": "2024-04-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 8,
     "time": "2024-04-07 00:00:00.000 UTC"
   },
   {
@@ -57,6 +32,31 @@
   {
     "blob_submitter": "Inscriptions",
     "blobs": 2,
+    "time": "2024-04-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 4,
+    "time": "2024-04-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 8,
+    "time": "2024-04-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 4158,
+    "time": "2024-04-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 1237,
+    "time": "2024-04-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1092,
     "time": "2024-04-07 00:00:00.000 UTC"
   }
 ]
