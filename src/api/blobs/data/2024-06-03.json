@@ -1,30 +1,5 @@
 [
   {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
-    "time": "2024-06-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 42,
-    "time": "2024-06-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 133,
-    "time": "2024-06-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 4296,
-    "time": "2024-06-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 225,
-    "time": "2024-06-03 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Metal",
     "blobs": 8,
     "time": "2024-06-03 00:00:00.000 UTC"
@@ -70,16 +45,6 @@
     "time": "2024-06-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 908,
-    "time": "2024-06-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 40,
-    "time": "2024-06-03 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "River",
     "blobs": 184,
     "time": "2024-06-03 00:00:00.000 UTC"
@@ -105,13 +70,38 @@
     "time": "2024-06-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 73,
+    "blob_submitter": "Lambda",
+    "blobs": 14,
     "time": "2024-06-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 284,
+    "blob_submitter": "Others",
+    "blobs": 133,
+    "time": "2024-06-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 4296,
+    "time": "2024-06-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 42,
+    "time": "2024-06-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 225,
+    "time": "2024-06-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 908,
+    "time": "2024-06-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 40,
     "time": "2024-06-03 00:00:00.000 UTC"
   },
   {
@@ -122,6 +112,16 @@
   {
     "blob_submitter": "Paradex",
     "blobs": 95,
+    "time": "2024-06-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 73,
+    "time": "2024-06-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 284,
     "time": "2024-06-03 00:00:00.000 UTC"
   }
 ]
