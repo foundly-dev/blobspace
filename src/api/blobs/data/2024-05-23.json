@@ -1,5 +1,10 @@
 [
   {
+    "blob_submitter": "Paradex",
+    "blobs": 433,
+    "time": "2024-05-23 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Kroma",
     "blobs": 160,
     "time": "2024-05-23 00:00:00.000 UTC"
@@ -15,33 +20,13 @@
     "time": "2024-05-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 3270,
-    "time": "2024-05-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 331,
-    "time": "2024-05-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 45,
-    "time": "2024-05-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 78,
-    "time": "2024-05-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 1366,
-    "time": "2024-05-23 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Metal",
     "blobs": 360,
+    "time": "2024-05-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 627,
     "time": "2024-05-23 00:00:00.000 UTC"
   },
   {
@@ -55,11 +40,6 @@
     "time": "2024-05-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 627,
-    "time": "2024-05-23 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Lambda",
     "blobs": 2,
     "time": "2024-05-23 00:00:00.000 UTC"
@@ -67,11 +47,6 @@
   {
     "blob_submitter": "Lisk",
     "blobs": 9,
-    "time": "2024-05-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
     "time": "2024-05-23 00:00:00.000 UTC"
   },
   {
@@ -107,6 +82,31 @@
   {
     "blob_submitter": "Arbitrum One",
     "blobs": 2712,
+    "time": "2024-05-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 3270,
+    "time": "2024-05-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 331,
+    "time": "2024-05-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 45,
+    "time": "2024-05-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 71,
+    "time": "2024-05-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 78,
     "time": "2024-05-23 00:00:00.000 UTC"
   }
 ]

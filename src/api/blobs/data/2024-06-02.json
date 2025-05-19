@@ -1,5 +1,10 @@
 [
   {
+    "blob_submitter": "Mint",
+    "blobs": 8,
+    "time": "2024-06-02 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Blast",
     "blobs": 798,
     "time": "2024-06-02 00:00:00.000 UTC"
@@ -30,33 +35,13 @@
     "time": "2024-06-02 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Optopia",
+    "blobs": 71,
+    "time": "2024-06-02 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "zkSync Era",
     "blobs": 278,
-    "time": "2024-06-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1260,
-    "time": "2024-06-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
-    "time": "2024-06-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 55,
-    "time": "2024-06-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2334,
-    "time": "2024-06-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 132,
     "time": "2024-06-02 00:00:00.000 UTC"
   },
   {
@@ -80,16 +65,6 @@
     "time": "2024-06-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
-    "time": "2024-06-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 1460,
-    "time": "2024-06-02 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Lisk",
     "blobs": 6,
     "time": "2024-06-02 00:00:00.000 UTC"
@@ -97,6 +72,11 @@
   {
     "blob_submitter": "Parallel",
     "blobs": 10,
+    "time": "2024-06-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 133,
     "time": "2024-06-02 00:00:00.000 UTC"
   },
   {
@@ -115,8 +95,23 @@
     "time": "2024-06-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 8,
+    "blob_submitter": "Lambda",
+    "blobs": 14,
+    "time": "2024-06-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 1460,
+    "time": "2024-06-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1260,
+    "time": "2024-06-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 55,
     "time": "2024-06-02 00:00:00.000 UTC"
   }
 ]

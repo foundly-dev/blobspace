@@ -1,5 +1,10 @@
 [
   {
+    "blob_submitter": "Shape",
+    "blobs": 15,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Taiko",
     "blobs": 3932,
     "time": "2024-08-08 00:00:00.000 UTC"
@@ -7,11 +12,6 @@
   {
     "blob_submitter": "Blast",
     "blobs": 1450,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 40,
     "time": "2024-08-08 00:00:00.000 UTC"
   },
   {
@@ -40,53 +40,23 @@
     "time": "2024-08-08 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Scroll",
+    "blobs": 485,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Parallel",
     "blobs": 8,
     "time": "2024-08-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2541,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "XGA",
-    "blobs": 14,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 19,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 15,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 361,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1025,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 96,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
+    "blob_submitter": "Mint",
+    "blobs": 40,
     "time": "2024-08-08 00:00:00.000 UTC"
   },
   {
@@ -135,23 +105,13 @@
     "time": "2024-08-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 5070,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 485,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "ZORA",
     "blobs": 102,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 5070,
     "time": "2024-08-08 00:00:00.000 UTC"
   },
   {
@@ -180,8 +140,43 @@
     "time": "2024-08-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2541,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
+    "blobs": 14,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 19,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
     "blobs": 15,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 361,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1025,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 5,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
     "time": "2024-08-08 00:00:00.000 UTC"
   }
 ]

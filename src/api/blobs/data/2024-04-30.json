@@ -1,5 +1,15 @@
 [
   {
+    "blob_submitter": "Boba Network",
+    "blobs": 47,
+    "time": "2024-04-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 156,
+    "time": "2024-04-30 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Arbitrum One",
     "blobs": 1980,
     "time": "2024-04-30 00:00:00.000 UTC"
@@ -20,33 +30,13 @@
     "time": "2024-04-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 4,
-    "time": "2024-04-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 6,
-    "time": "2024-04-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 126,
-    "time": "2024-04-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 265,
-    "time": "2024-04-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 389,
-    "time": "2024-04-30 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Kroma",
     "blobs": 160,
+    "time": "2024-04-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 3636,
     "time": "2024-04-30 00:00:00.000 UTC"
   },
   {
@@ -60,11 +50,6 @@
     "time": "2024-04-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 3636,
-    "time": "2024-04-30 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Scroll",
     "blobs": 1519,
     "time": "2024-04-30 00:00:00.000 UTC"
@@ -75,8 +60,18 @@
     "time": "2024-04-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 47,
+    "blob_submitter": "Parallel",
+    "blobs": 4,
+    "time": "2024-04-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 6,
+    "time": "2024-04-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 126,
     "time": "2024-04-30 00:00:00.000 UTC"
   }
 ]

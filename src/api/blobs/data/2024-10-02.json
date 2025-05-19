@@ -1,17 +1,17 @@
 [
   {
-    "blob_submitter": "Kroma",
-    "blobs": 269,
-    "time": "2024-10-02 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Mode",
     "blobs": 68,
     "time": "2024-10-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 15,
+    "blob_submitter": "Superseed",
+    "blobs": 17,
+    "time": "2024-10-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 269,
     "time": "2024-10-02 00:00:00.000 UTC"
   },
   {
@@ -30,53 +30,18 @@
     "time": "2024-10-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 479,
+    "blob_submitter": "Swan Chain",
+    "blobs": 82,
     "time": "2024-10-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 25,
+    "blob_submitter": "Shape",
+    "blobs": 15,
     "time": "2024-10-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 11,
-    "time": "2024-10-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2024-10-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 125,
-    "time": "2024-10-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 5,
-    "time": "2024-10-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 77,
-    "time": "2024-10-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
-    "blobs": 59,
-    "time": "2024-10-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 199,
-    "time": "2024-10-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 140,
+    "blob_submitter": "Camp Network",
+    "blobs": 31,
     "time": "2024-10-02 00:00:00.000 UTC"
   },
   {
@@ -85,8 +50,8 @@
     "time": "2024-10-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 31,
+    "blob_submitter": "Scroll",
+    "blobs": 521,
     "time": "2024-10-02 00:00:00.000 UTC"
   },
   {
@@ -100,23 +65,18 @@
     "time": "2024-10-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 521,
-    "time": "2024-10-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 82,
-    "time": "2024-10-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 876,
-    "time": "2024-10-02 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Base",
     "blobs": 5175,
+    "time": "2024-10-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 2471,
+    "time": "2024-10-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2514,
     "time": "2024-10-02 00:00:00.000 UTC"
   },
   {
@@ -165,18 +125,63 @@
     "time": "2024-10-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 102,
-    "time": "2024-10-02 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "SNAXchain",
     "blobs": 17,
     "time": "2024-10-02 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Mint",
+    "blobs": 102,
+    "time": "2024-10-02 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Optopia",
     "blobs": 71,
+    "time": "2024-10-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 125,
+    "time": "2024-10-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
+    "time": "2024-10-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 479,
+    "time": "2024-10-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 25,
+    "time": "2024-10-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 11,
+    "time": "2024-10-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 5,
+    "time": "2024-10-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 876,
+    "time": "2024-10-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 77,
+    "time": "2024-10-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 59,
     "time": "2024-10-02 00:00:00.000 UTC"
   }
 ]
