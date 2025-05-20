@@ -1,17 +1,12 @@
 [
   {
-    "blob_submitter": "Base",
-    "blobs": 3396,
+    "blob_submitter": "Others",
+    "blobs": 2,
     "time": "2024-03-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 100,
-    "time": "2024-03-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 235,
+    "blob_submitter": "Paradex",
+    "blobs": 60,
     "time": "2024-03-30 00:00:00.000 UTC"
   },
   {
@@ -20,8 +15,8 @@
     "time": "2024-03-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 12425,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2064,
     "time": "2024-03-30 00:00:00.000 UTC"
   },
   {
@@ -30,8 +25,8 @@
     "time": "2024-03-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2064,
+    "blob_submitter": "Inscriptions",
+    "blobs": 12425,
     "time": "2024-03-30 00:00:00.000 UTC"
   },
   {
@@ -50,8 +45,13 @@
     "time": "2024-03-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 2,
+    "blob_submitter": "Base",
+    "blobs": 3396,
+    "time": "2024-03-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 100,
     "time": "2024-03-30 00:00:00.000 UTC"
   }
 ]
