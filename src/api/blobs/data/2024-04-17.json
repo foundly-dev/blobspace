@@ -1,20 +1,5 @@
 [
   {
-    "blob_submitter": "Paradex",
-    "blobs": 205,
-    "time": "2024-04-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 533,
-    "time": "2024-04-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 6,
-    "time": "2024-04-17 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Camp Network",
     "blobs": 8,
     "time": "2024-04-17 00:00:00.000 UTC"
@@ -22,6 +7,11 @@
   {
     "blob_submitter": "Mode",
     "blobs": 120,
+    "time": "2024-04-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 270,
     "time": "2024-04-17 00:00:00.000 UTC"
   },
   {
@@ -35,28 +25,18 @@
     "time": "2024-04-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 270,
+    "blob_submitter": "Paradex",
+    "blobs": 205,
     "time": "2024-04-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 259,
+    "blob_submitter": "zkSync Era",
+    "blobs": 533,
     "time": "2024-04-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1938,
-    "time": "2024-04-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 8,
-    "time": "2024-04-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 380,
+    "blob_submitter": "Others",
+    "blobs": 6,
     "time": "2024-04-17 00:00:00.000 UTC"
   },
   {
@@ -77,6 +57,26 @@
   {
     "blob_submitter": "Arbitrum One",
     "blobs": 2058,
+    "time": "2024-04-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1938,
+    "time": "2024-04-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 8,
+    "time": "2024-04-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 259,
+    "time": "2024-04-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 380,
     "time": "2024-04-17 00:00:00.000 UTC"
   }
 ]
