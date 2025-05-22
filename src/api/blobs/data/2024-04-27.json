@@ -10,6 +10,21 @@
     "time": "2024-04-27 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "zkSync Era",
+    "blobs": 426,
+    "time": "2024-04-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 275,
+    "time": "2024-04-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 2,
+    "time": "2024-04-27 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Kroma",
     "blobs": 160,
     "time": "2024-04-27 00:00:00.000 UTC"
@@ -22,6 +37,11 @@
   {
     "blob_submitter": "Inscriptions",
     "blobs": 14,
+    "time": "2024-04-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 187,
     "time": "2024-04-27 00:00:00.000 UTC"
   },
   {
@@ -57,16 +77,6 @@
   {
     "blob_submitter": "Boba Network",
     "blobs": 47,
-    "time": "2024-04-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 426,
-    "time": "2024-04-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 275,
     "time": "2024-04-27 00:00:00.000 UTC"
   }
 ]
