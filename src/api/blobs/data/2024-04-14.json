@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "ZORA",
-    "blobs": 396,
-    "time": "2024-04-14 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Inscriptions",
     "blobs": 71,
     "time": "2024-04-14 00:00:00.000 UTC"
@@ -15,8 +10,28 @@
     "time": "2024-04-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 3822,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1866,
+    "time": "2024-04-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 138,
+    "time": "2024-04-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 8,
+    "time": "2024-04-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 8,
+    "time": "2024-04-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2172,
     "time": "2024-04-14 00:00:00.000 UTC"
   },
   {
@@ -40,28 +55,8 @@
     "time": "2024-04-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 8,
-    "time": "2024-04-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2172,
-    "time": "2024-04-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1866,
-    "time": "2024-04-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 138,
-    "time": "2024-04-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 8,
+    "blob_submitter": "ZORA",
+    "blobs": 396,
     "time": "2024-04-14 00:00:00.000 UTC"
   }
 ]

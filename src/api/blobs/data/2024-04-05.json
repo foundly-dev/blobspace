@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 280,
-    "time": "2024-04-05 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "OP Mainnet",
     "blobs": 1674,
     "time": "2024-04-05 00:00:00.000 UTC"
@@ -20,8 +15,13 @@
     "time": "2024-04-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 8,
+    "blob_submitter": "Linea",
+    "blobs": 2414,
+    "time": "2024-04-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 114,
     "time": "2024-04-05 00:00:00.000 UTC"
   },
   {
@@ -50,8 +50,13 @@
     "time": "2024-04-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 114,
+    "blob_submitter": "StarkNet",
+    "blobs": 280,
+    "time": "2024-04-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 8,
     "time": "2024-04-05 00:00:00.000 UTC"
   }
 ]
