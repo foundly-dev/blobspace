@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "Scroll",
-    "blobs": 1456,
-    "time": "2024-05-28 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Others",
     "blobs": 133,
     "time": "2024-05-28 00:00:00.000 UTC"
@@ -20,8 +15,13 @@
     "time": "2024-05-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 51,
+    "blob_submitter": "zkSync Era",
+    "blobs": 304,
+    "time": "2024-05-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 8,
     "time": "2024-05-28 00:00:00.000 UTC"
   },
   {
@@ -40,16 +40,6 @@
     "time": "2024-05-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 304,
-    "time": "2024-05-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 8,
-    "time": "2024-05-28 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "ZORA",
     "blobs": 90,
     "time": "2024-05-28 00:00:00.000 UTC"
@@ -60,8 +50,8 @@
     "time": "2024-05-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 72,
+    "blob_submitter": "Scroll",
+    "blobs": 1456,
     "time": "2024-05-28 00:00:00.000 UTC"
   },
   {
@@ -70,38 +60,8 @@
     "time": "2024-05-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
-    "time": "2024-05-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 713,
-    "time": "2024-05-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 3443,
-    "time": "2024-05-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 8,
-    "time": "2024-05-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 184,
-    "time": "2024-05-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 2118,
-    "time": "2024-05-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 215,
+    "blob_submitter": "Camp Network",
+    "blobs": 51,
     "time": "2024-05-28 00:00:00.000 UTC"
   },
   {
@@ -122,6 +82,36 @@
   {
     "blob_submitter": "Arbitrum One",
     "blobs": 2334,
+    "time": "2024-05-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 5,
+    "time": "2024-05-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 713,
+    "time": "2024-05-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 72,
+    "time": "2024-05-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 3443,
+    "time": "2024-05-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 8,
+    "time": "2024-05-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 184,
     "time": "2024-05-28 00:00:00.000 UTC"
   }
 ]

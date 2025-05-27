@@ -25,28 +25,8 @@
     "time": "2024-07-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2190,
-    "time": "2024-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
-    "time": "2024-07-07 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Optopia",
     "blobs": 72,
-    "time": "2024-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 16,
-    "time": "2024-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 225,
     "time": "2024-07-07 00:00:00.000 UTC"
   },
   {
@@ -80,6 +60,21 @@
     "time": "2024-07-07 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Inscriptions",
+    "blobs": 16,
+    "time": "2024-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 225,
+    "time": "2024-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 25,
+    "time": "2024-07-07 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "zkSync Era",
     "blobs": 180,
     "time": "2024-07-07 00:00:00.000 UTC"
@@ -100,23 +95,23 @@
     "time": "2024-07-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
-    "blobs": 25,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2190,
     "time": "2024-07-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 16,
-    "time": "2024-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 538,
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
     "time": "2024-07-07 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Lumio",
     "blobs": 16,
+    "time": "2024-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 147,
     "time": "2024-07-07 00:00:00.000 UTC"
   },
   {
@@ -127,11 +122,6 @@
   {
     "blob_submitter": "Kroma",
     "blobs": 159,
-    "time": "2024-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 147,
     "time": "2024-07-07 00:00:00.000 UTC"
   },
   {
@@ -152,6 +142,21 @@
   {
     "blob_submitter": "Blast",
     "blobs": 672,
+    "time": "2024-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
+    "time": "2024-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
+    "time": "2024-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 538,
     "time": "2024-07-07 00:00:00.000 UTC"
   }
 ]

@@ -5,28 +5,8 @@
     "time": "2024-05-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 287,
-    "time": "2024-05-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 6,
-    "time": "2024-05-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 8,
-    "time": "2024-05-11 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arbitrum One",
     "blobs": 1746,
-    "time": "2024-05-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 2004,
     "time": "2024-05-11 00:00:00.000 UTC"
   },
   {
@@ -40,13 +20,53 @@
     "time": "2024-05-11 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Optopia",
+    "blobs": 71,
+    "time": "2024-05-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 8,
+    "time": "2024-05-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 2004,
+    "time": "2024-05-11 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "StarkNet",
     "blobs": 259,
     "time": "2024-05-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
+    "blob_submitter": "Linea",
+    "blobs": 287,
+    "time": "2024-05-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 6,
+    "time": "2024-05-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 160,
+    "time": "2024-05-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 360,
+    "time": "2024-05-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 203,
+    "time": "2024-05-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 134,
     "time": "2024-05-11 00:00:00.000 UTC"
   },
   {
@@ -72,31 +92,6 @@
   {
     "blob_submitter": "Parallel",
     "blobs": 2,
-    "time": "2024-05-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 90,
-    "time": "2024-05-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 160,
-    "time": "2024-05-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 203,
-    "time": "2024-05-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 360,
-    "time": "2024-05-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 134,
     "time": "2024-05-11 00:00:00.000 UTC"
   }
 ]

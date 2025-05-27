@@ -15,21 +15,6 @@
     "time": "2024-06-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 4479,
-    "time": "2024-06-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 211,
-    "time": "2024-06-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 378,
-    "time": "2024-06-21 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "OP Mainnet",
     "blobs": 2125,
     "time": "2024-06-21 00:00:00.000 UTC"
@@ -55,6 +40,21 @@
     "time": "2024-06-21 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 4479,
+    "time": "2024-06-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 211,
+    "time": "2024-06-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 378,
+    "time": "2024-06-21 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Blast",
     "blobs": 1422,
     "time": "2024-06-21 00:00:00.000 UTC"
@@ -62,31 +62,6 @@
   {
     "blob_submitter": "Mint",
     "blobs": 17,
-    "time": "2024-06-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 5510,
-    "time": "2024-06-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 166,
-    "time": "2024-06-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 17,
-    "time": "2024-06-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 12,
-    "time": "2024-06-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 15,
     "time": "2024-06-21 00:00:00.000 UTC"
   },
   {
@@ -112,6 +87,46 @@
   {
     "blob_submitter": "ZORA",
     "blobs": 108,
+    "time": "2024-06-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 3062,
+    "time": "2024-06-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 42,
+    "time": "2024-06-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 24,
+    "time": "2024-06-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 239,
+    "time": "2024-06-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 30,
+    "time": "2024-06-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 166,
+    "time": "2024-06-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 17,
+    "time": "2024-06-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 5510,
     "time": "2024-06-21 00:00:00.000 UTC"
   }
 ]
