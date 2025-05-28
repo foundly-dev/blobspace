@@ -1,27 +1,17 @@
 [
   {
-    "blob_submitter": "Linea",
-    "blobs": 274,
-    "time": "2024-10-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 732,
-    "time": "2024-10-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 88,
-    "time": "2024-10-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 12,
+    "blob_submitter": "ZORA",
+    "blobs": 65,
     "time": "2024-10-09 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Taiko",
     "blobs": 2593,
+    "time": "2024-10-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 274,
     "time": "2024-10-09 00:00:00.000 UTC"
   },
   {
@@ -60,18 +50,18 @@
     "time": "2024-10-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 69,
+    "blob_submitter": "Others",
+    "blobs": 100,
     "time": "2024-10-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 160,
+    "blob_submitter": "Camp Network",
+    "blobs": 42,
     "time": "2024-10-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 57,
+    "blob_submitter": "Inscriptions",
+    "blobs": 5,
     "time": "2024-10-09 00:00:00.000 UTC"
   },
   {
@@ -110,28 +100,63 @@
     "time": "2024-10-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 65,
+    "blob_submitter": "zkSync Era",
+    "blobs": 69,
     "time": "2024-10-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 100,
+    "blob_submitter": "Kroma",
+    "blobs": 160,
     "time": "2024-10-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 42,
+    "blob_submitter": "River",
+    "blobs": 57,
     "time": "2024-10-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
+    "blob_submitter": "Blast",
+    "blobs": 732,
+    "time": "2024-10-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 88,
+    "time": "2024-10-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 12,
+    "time": "2024-10-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 71,
+    "time": "2024-10-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 360,
+    "time": "2024-10-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 49,
+    "time": "2024-10-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
     "blobs": 5,
     "time": "2024-10-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
+    "blob_submitter": "Lisk",
+    "blobs": 5,
+    "time": "2024-10-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 102,
     "time": "2024-10-09 00:00:00.000 UTC"
   },
   {
@@ -150,7 +175,17 @@
     "time": "2024-10-09 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Kinto",
+    "blobs": 6,
+    "time": "2024-10-09 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "RACE",
+    "blobs": 76,
+    "time": "2024-10-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
     "blobs": 76,
     "time": "2024-10-09 00:00:00.000 UTC"
   },
@@ -160,43 +195,8 @@
     "time": "2024-10-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "XGA",
-    "blobs": 76,
-    "time": "2024-10-09 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Scroll",
     "blobs": 597,
-    "time": "2024-10-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 50,
-    "time": "2024-10-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 15,
-    "time": "2024-10-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 360,
-    "time": "2024-10-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
-    "time": "2024-10-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 49,
-    "time": "2024-10-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
     "time": "2024-10-09 00:00:00.000 UTC"
   }
 ]

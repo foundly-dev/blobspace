@@ -5,11 +5,6 @@
     "time": "2024-03-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 131,
-    "time": "2024-03-19 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "OP Mainnet",
     "blobs": 1273,
     "time": "2024-03-19 00:00:00.000 UTC"
@@ -20,8 +15,8 @@
     "time": "2024-03-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 136,
+    "blob_submitter": "Mode",
+    "blobs": 131,
     "time": "2024-03-19 00:00:00.000 UTC"
   },
   {
@@ -30,13 +25,23 @@
     "time": "2024-03-19 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Inscriptions",
+    "blobs": 6,
+    "time": "2024-03-19 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "ZORA",
     "blobs": 102,
     "time": "2024-03-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 6,
+    "blob_submitter": "zkSync Era",
+    "blobs": 741,
+    "time": "2024-03-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 136,
     "time": "2024-03-19 00:00:00.000 UTC"
   }
 ]

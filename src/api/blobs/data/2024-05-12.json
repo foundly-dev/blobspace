@@ -5,13 +5,13 @@
     "time": "2024-05-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 289,
+    "blob_submitter": "Others",
+    "blobs": 132,
     "time": "2024-05-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 148,
+    "blob_submitter": "Scroll",
+    "blobs": 1563,
     "time": "2024-05-12 00:00:00.000 UTC"
   },
   {
@@ -40,43 +40,18 @@
     "time": "2024-05-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 132,
+    "blob_submitter": "Linea",
+    "blobs": 289,
     "time": "2024-05-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 1563,
+    "blob_submitter": "Paradex",
+    "blobs": 148,
     "time": "2024-05-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 150,
-    "time": "2024-05-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
-    "time": "2024-05-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1926,
-    "time": "2024-05-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 24,
-    "time": "2024-05-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
+    "blob_submitter": "Lisk",
     "blobs": 8,
-    "time": "2024-05-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 11,
     "time": "2024-05-12 00:00:00.000 UTC"
   },
   {
@@ -90,13 +65,28 @@
     "time": "2024-05-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 8,
+    "blob_submitter": "Optopia",
+    "blobs": 71,
     "time": "2024-05-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
+    "blob_submitter": "Mode",
+    "blobs": 150,
+    "time": "2024-05-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 24,
+    "time": "2024-05-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-05-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1926,
     "time": "2024-05-12 00:00:00.000 UTC"
   }
 ]

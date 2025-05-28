@@ -25,8 +25,13 @@
     "time": "2024-05-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 535,
+    "blob_submitter": "Others",
+    "blobs": 133,
+    "time": "2024-05-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 8,
     "time": "2024-05-22 00:00:00.000 UTC"
   },
   {
@@ -40,13 +45,33 @@
     "time": "2024-05-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 133,
+    "blob_submitter": "Inscriptions",
+    "blobs": 535,
     "time": "2024-05-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 8,
+    "blob_submitter": "Mint",
+    "blobs": 29,
+    "time": "2024-05-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 160,
+    "time": "2024-05-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2352,
+    "time": "2024-05-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 358,
+    "time": "2024-05-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 273,
     "time": "2024-05-22 00:00:00.000 UTC"
   },
   {
@@ -60,11 +85,6 @@
     "time": "2024-05-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 2136,
-    "time": "2024-05-22 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Mode",
     "blobs": 162,
     "time": "2024-05-22 00:00:00.000 UTC"
@@ -75,38 +95,13 @@
     "time": "2024-05-22 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 2136,
+    "time": "2024-05-22 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Camp Network",
     "blobs": 49,
-    "time": "2024-05-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
-    "time": "2024-05-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 359,
-    "time": "2024-05-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 29,
-    "time": "2024-05-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2352,
-    "time": "2024-05-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 160,
-    "time": "2024-05-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 273,
     "time": "2024-05-22 00:00:00.000 UTC"
   }
 ]
