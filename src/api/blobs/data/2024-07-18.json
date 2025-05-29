@@ -1,12 +1,17 @@
 [
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 16,
+    "blob_submitter": "Blast",
+    "blobs": 918,
     "time": "2024-07-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 918,
+    "blob_submitter": "River",
+    "blobs": 186,
+    "time": "2024-07-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
     "time": "2024-07-18 00:00:00.000 UTC"
   },
   {
@@ -37,6 +42,36 @@
   {
     "blob_submitter": "Parallel",
     "blobs": 8,
+    "time": "2024-07-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 46,
+    "time": "2024-07-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 3951,
+    "time": "2024-07-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 15,
+    "time": "2024-07-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 180,
+    "time": "2024-07-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-07-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 80,
     "time": "2024-07-18 00:00:00.000 UTC"
   },
   {
@@ -75,18 +110,8 @@
     "time": "2024-07-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 327,
-    "time": "2024-07-18 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Paradex",
     "blobs": 332,
-    "time": "2024-07-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1780,
     "time": "2024-07-18 00:00:00.000 UTC"
   },
   {
@@ -95,13 +120,13 @@
     "time": "2024-07-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 46,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1780,
     "time": "2024-07-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 186,
+    "blob_submitter": "StarkNet",
+    "blobs": 327,
     "time": "2024-07-18 00:00:00.000 UTC"
   },
   {
@@ -140,28 +165,8 @@
     "time": "2024-07-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 4400,
-    "time": "2024-07-18 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Debank Chain",
     "blobs": 77,
-    "time": "2024-07-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 15,
-    "time": "2024-07-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 3951,
-    "time": "2024-07-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 180,
     "time": "2024-07-18 00:00:00.000 UTC"
   }
 ]
