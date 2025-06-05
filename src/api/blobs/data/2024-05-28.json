@@ -1,67 +1,22 @@
 [
   {
-    "blob_submitter": "Scroll",
-    "blobs": 1456,
+    "blob_submitter": "Parallel",
+    "blobs": 12,
     "time": "2024-05-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 51,
+    "blob_submitter": "Base",
+    "blobs": 3156,
     "time": "2024-05-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 778,
+    "blob_submitter": "Lambda",
+    "blobs": 15,
     "time": "2024-05-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 159,
-    "time": "2024-05-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 168,
-    "time": "2024-05-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 68,
-    "time": "2024-05-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
-    "time": "2024-05-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 90,
-    "time": "2024-05-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 8,
-    "time": "2024-05-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 224,
-    "time": "2024-05-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 304,
-    "time": "2024-05-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 8,
-    "time": "2024-05-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 133,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2334,
     "time": "2024-05-28 00:00:00.000 UTC"
   },
   {
@@ -72,6 +27,11 @@
   {
     "blob_submitter": "Linea",
     "blobs": 713,
+    "time": "2024-05-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 5,
     "time": "2024-05-28 00:00:00.000 UTC"
   },
   {
@@ -100,23 +60,53 @@
     "time": "2024-05-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
+    "blob_submitter": "Others",
+    "blobs": 133,
     "time": "2024-05-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 12,
+    "blob_submitter": "Lumio",
+    "blobs": 8,
     "time": "2024-05-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 3156,
+    "blob_submitter": "Paradex",
+    "blobs": 224,
     "time": "2024-05-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 15,
+    "blob_submitter": "zkSync Era",
+    "blobs": 304,
+    "time": "2024-05-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 8,
+    "time": "2024-05-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 1456,
+    "time": "2024-05-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 51,
+    "time": "2024-05-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 778,
+    "time": "2024-05-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-05-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 159,
     "time": "2024-05-28 00:00:00.000 UTC"
   }
 ]
