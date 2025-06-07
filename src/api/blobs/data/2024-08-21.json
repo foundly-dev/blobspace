@@ -1,35 +1,5 @@
 [
   {
-    "blob_submitter": "ZORA",
-    "blobs": 87,
-    "time": "2024-08-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 139,
-    "time": "2024-08-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 8,
-    "time": "2024-08-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
-    "time": "2024-08-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 2,
-    "time": "2024-08-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 1,
-    "time": "2024-08-21 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "zkSync Era",
     "blobs": 117,
     "time": "2024-08-21 00:00:00.000 UTC"
@@ -40,13 +10,28 @@
     "time": "2024-08-21 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Nal",
+    "blobs": 50,
+    "time": "2024-08-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 1,
+    "time": "2024-08-21 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "StarkNet",
     "blobs": 253,
     "time": "2024-08-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Nal",
-    "blobs": 50,
+    "blob_submitter": "Kinto",
+    "blobs": 6,
+    "time": "2024-08-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 2,
     "time": "2024-08-21 00:00:00.000 UTC"
   },
   {
@@ -80,58 +65,18 @@
     "time": "2024-08-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 84,
+    "blob_submitter": "Mint",
+    "blobs": 17,
     "time": "2024-08-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 4,
+    "blob_submitter": "Blast",
+    "blobs": 1975,
     "time": "2024-08-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2430,
-    "time": "2024-08-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "XGA",
-    "blobs": 14,
-    "time": "2024-08-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 4,
-    "time": "2024-08-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 360,
-    "time": "2024-08-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 494,
-    "time": "2024-08-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 32,
-    "time": "2024-08-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 4605,
-    "time": "2024-08-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 386,
-    "time": "2024-08-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
+    "blob_submitter": "Linea",
+    "blobs": 262,
     "time": "2024-08-21 00:00:00.000 UTC"
   },
   {
@@ -145,6 +90,11 @@
     "time": "2024-08-21 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Paradex",
+    "blobs": 269,
+    "time": "2024-08-21 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Kroma",
     "blobs": 164,
     "time": "2024-08-21 00:00:00.000 UTC"
@@ -152,11 +102,6 @@
   {
     "blob_submitter": "Shape",
     "blobs": 15,
-    "time": "2024-08-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 269,
     "time": "2024-08-21 00:00:00.000 UTC"
   },
   {
@@ -177,6 +122,41 @@
   {
     "blob_submitter": "River",
     "blobs": 201,
+    "time": "2024-08-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 87,
+    "time": "2024-08-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 139,
+    "time": "2024-08-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 8,
+    "time": "2024-08-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2430,
+    "time": "2024-08-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
+    "blobs": 14,
+    "time": "2024-08-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 4,
+    "time": "2024-08-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 360,
     "time": "2024-08-21 00:00:00.000 UTC"
   }
 ]
