@@ -1,52 +1,57 @@
 [
   {
-    "blob_submitter": "Mint",
-    "blobs": 34,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1835,
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 485,
+    "blob_submitter": "Taiko",
+    "blobs": 3855,
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 120,
+    "blob_submitter": "RACE",
+    "blobs": 76,
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 47,
+    "blob_submitter": "Metal",
+    "blobs": 362,
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
-    "blobs": 25,
+    "blob_submitter": "Lambda",
+    "blobs": 15,
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 1506,
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 33,
-    "time": "2024-07-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2049,
-    "time": "2024-07-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 8,
-    "time": "2024-07-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
+    "blob_submitter": "Lisk",
     "blobs": 5,
+    "time": "2024-07-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 184,
+    "time": "2024-07-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2024-07-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 527,
+    "time": "2024-07-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 15,
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
@@ -55,8 +60,18 @@
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 59,
+    "blob_submitter": "Kroma",
+    "blobs": 230,
+    "time": "2024-07-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 150,
+    "time": "2024-07-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "PandaSea",
+    "blobs": 24,
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
@@ -67,11 +82,6 @@
   {
     "blob_submitter": "Optopia",
     "blobs": 73,
-    "time": "2024-07-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "PandaSea",
-    "blobs": 24,
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
@@ -95,6 +105,11 @@
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Swan Chain",
+    "blobs": 8,
+    "time": "2024-07-20 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "StarkNet",
     "blobs": 298,
     "time": "2024-07-20 00:00:00.000 UTC"
@@ -105,58 +120,43 @@
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 184,
+    "blob_submitter": "Debank Chain",
+    "blobs": 59,
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 16,
+    "blob_submitter": "Inscriptions",
+    "blobs": 33,
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
+    "blob_submitter": "Parallel",
+    "blobs": 8,
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1835,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2049,
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 3855,
+    "blob_submitter": "Mint",
+    "blobs": 34,
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 76,
+    "blob_submitter": "Boba Network",
+    "blobs": 47,
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
+    "blob_submitter": "Scroll",
+    "blobs": 485,
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 527,
-    "time": "2024-07-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 15,
-    "time": "2024-07-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 15,
-    "time": "2024-07-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 362,
+    "blob_submitter": "Mode",
+    "blobs": 120,
     "time": "2024-07-20 00:00:00.000 UTC"
   }
 ]
