@@ -1,12 +1,7 @@
 [
   {
-    "blob_submitter": "MetaMail",
-    "blobs": 36,
-    "time": "2024-03-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 257,
+    "blob_submitter": "StarkNet",
+    "blobs": 1208,
     "time": "2024-03-13 00:00:00.000 UTC"
   },
   {
@@ -15,8 +10,13 @@
     "time": "2024-03-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 1208,
+    "blob_submitter": "MetaMail",
+    "blobs": 36,
+    "time": "2024-03-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 257,
     "time": "2024-03-13 00:00:00.000 UTC"
   }
 ]

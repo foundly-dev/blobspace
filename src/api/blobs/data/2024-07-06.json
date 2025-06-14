@@ -1,17 +1,37 @@
 [
   {
-    "blob_submitter": "Taiko",
-    "blobs": 3685,
+    "blob_submitter": "Debank Chain",
+    "blobs": 24,
     "time": "2024-07-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 199,
+    "blob_submitter": "Lambda",
+    "blobs": 14,
     "time": "2024-07-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 266,
+    "blob_submitter": "Inscriptions",
+    "blobs": 10,
+    "time": "2024-07-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 49,
+    "time": "2024-07-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 24,
+    "time": "2024-07-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 515,
+    "time": "2024-07-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
     "time": "2024-07-06 00:00:00.000 UTC"
   },
   {
@@ -25,18 +45,8 @@
     "time": "2024-07-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 8,
-    "time": "2024-07-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1915,
-    "time": "2024-07-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 359,
+    "blob_submitter": "Linea",
+    "blobs": 395,
     "time": "2024-07-06 00:00:00.000 UTC"
   },
   {
@@ -55,13 +65,53 @@
     "time": "2024-07-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 395,
+    "blob_submitter": "Parallel",
+    "blobs": 8,
     "time": "2024-07-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
+    "blob_submitter": "Metal",
+    "blobs": 359,
+    "time": "2024-07-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1915,
+    "time": "2024-07-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 3685,
+    "time": "2024-07-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 199,
+    "time": "2024-07-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 266,
+    "time": "2024-07-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 678,
+    "time": "2024-07-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 179,
+    "time": "2024-07-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 160,
+    "time": "2024-07-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 16,
     "time": "2024-07-06 00:00:00.000 UTC"
   },
   {
@@ -75,18 +125,8 @@
     "time": "2024-07-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 106,
-    "time": "2024-07-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 6070,
-    "time": "2024-07-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 90,
+    "blob_submitter": "Lumio",
+    "blobs": 16,
     "time": "2024-07-06 00:00:00.000 UTC"
   },
   {
@@ -95,53 +135,23 @@
     "time": "2024-07-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2024-07-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 678,
-    "time": "2024-07-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 160,
-    "time": "2024-07-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 179,
-    "time": "2024-07-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 16,
-    "time": "2024-07-06 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Others",
     "blobs": 149,
     "time": "2024-07-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 10,
+    "blob_submitter": "Mode",
+    "blobs": 90,
     "time": "2024-07-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
-    "blobs": 24,
+    "blob_submitter": "Base",
+    "blobs": 6070,
     "time": "2024-07-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 16,
-    "time": "2024-07-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 49,
+    "blob_submitter": "ZORA",
+    "blobs": 106,
     "time": "2024-07-06 00:00:00.000 UTC"
   }
 ]
