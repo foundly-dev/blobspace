@@ -1,25 +1,5 @@
 [
   {
-    "blob_submitter": "Base",
-    "blobs": 4506,
-    "time": "2024-04-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 390,
-    "time": "2024-04-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 327,
-    "time": "2024-04-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 14,
-    "time": "2024-04-16 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Metal",
     "blobs": 8,
     "time": "2024-04-16 00:00:00.000 UTC"
@@ -40,8 +20,23 @@
     "time": "2024-04-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 279,
+    "blob_submitter": "ZORA",
+    "blobs": 390,
+    "time": "2024-04-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 327,
+    "time": "2024-04-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 14,
+    "time": "2024-04-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 4506,
     "time": "2024-04-16 00:00:00.000 UTC"
   },
   {
@@ -62,6 +57,16 @@
   {
     "blob_submitter": "Mode",
     "blobs": 150,
+    "time": "2024-04-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2160,
+    "time": "2024-04-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 2,
     "time": "2024-04-16 00:00:00.000 UTC"
   }
 ]

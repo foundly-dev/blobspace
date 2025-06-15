@@ -1,5 +1,35 @@
 [
   {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-05-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 9,
+    "time": "2024-05-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 90,
+    "time": "2024-05-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 1408,
+    "time": "2024-05-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 132,
+    "time": "2024-05-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 2,
+    "time": "2024-05-11 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Kroma",
     "blobs": 160,
     "time": "2024-05-11 00:00:00.000 UTC"
@@ -20,38 +50,18 @@
     "time": "2024-05-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
-    "time": "2024-05-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 9,
-    "time": "2024-05-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 1408,
-    "time": "2024-05-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 132,
-    "time": "2024-05-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 2,
-    "time": "2024-05-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 90,
-    "time": "2024-05-11 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Base",
     "blobs": 3360,
+    "time": "2024-05-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 71,
+    "time": "2024-05-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 23,
     "time": "2024-05-11 00:00:00.000 UTC"
   },
   {
@@ -62,16 +72,6 @@
   {
     "blob_submitter": "Camp Network",
     "blobs": 12,
-    "time": "2024-05-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 23,
-    "time": "2024-05-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
     "time": "2024-05-11 00:00:00.000 UTC"
   },
   {
@@ -92,6 +92,11 @@
   {
     "blob_submitter": "OP Mainnet",
     "blobs": 2004,
+    "time": "2024-05-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 259,
     "time": "2024-05-11 00:00:00.000 UTC"
   }
 ]

@@ -1,65 +1,5 @@
 [
   {
-    "blob_submitter": "Unichain",
-    "blobs": 249,
-    "time": "2025-02-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Fuel",
-    "blobs": 72,
-    "time": "2025-02-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 980,
-    "time": "2025-02-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 7055,
-    "time": "2025-02-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 37,
-    "time": "2025-02-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 28,
-    "time": "2025-02-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 44,
-    "time": "2025-02-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 24,
-    "time": "2025-02-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1827,
-    "time": "2025-02-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 7,
-    "time": "2025-02-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Infinaeon",
-    "blobs": 8,
-    "time": "2025-02-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
-    "time": "2025-02-19 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "R0AR Chain",
     "blobs": 62,
     "time": "2025-02-19 00:00:00.000 UTC"
@@ -67,16 +7,6 @@
   {
     "blob_submitter": "Swell",
     "blobs": 25,
-    "time": "2025-02-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 98,
-    "time": "2025-02-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
-    "blobs": 8,
     "time": "2025-02-19 00:00:00.000 UTC"
   },
   {
@@ -97,6 +27,16 @@
   {
     "blob_submitter": "Debank Chain",
     "blobs": 21,
+    "time": "2025-02-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 98,
+    "time": "2025-02-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 8,
     "time": "2025-02-19 00:00:00.000 UTC"
   },
   {
@@ -130,13 +70,63 @@
     "time": "2025-02-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 980,
     "time": "2025-02-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
+    "blob_submitter": "Scroll",
+    "blobs": 44,
+    "time": "2025-02-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 28,
+    "time": "2025-02-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 24,
+    "time": "2025-02-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 7055,
+    "time": "2025-02-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 37,
+    "time": "2025-02-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1827,
+    "time": "2025-02-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 7,
+    "time": "2025-02-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Infinaeon",
+    "blobs": 8,
+    "time": "2025-02-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 8,
+    "time": "2025-02-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Unichain",
+    "blobs": 249,
+    "time": "2025-02-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Fuel",
+    "blobs": 72,
     "time": "2025-02-19 00:00:00.000 UTC"
   },
   {
@@ -145,8 +135,8 @@
     "time": "2025-02-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Abstract",
-    "blobs": 489,
+    "blob_submitter": "Superseed",
+    "blobs": 16,
     "time": "2025-02-19 00:00:00.000 UTC"
   },
   {
@@ -165,13 +155,18 @@
     "time": "2025-02-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 276,
+    "blob_submitter": "Abstract",
+    "blobs": 489,
     "time": "2025-02-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "pegglecoin",
-    "blobs": 26,
+    "blob_submitter": "HashKey",
+    "blobs": 53,
+    "time": "2025-02-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Morph",
+    "blobs": 118,
     "time": "2025-02-19 00:00:00.000 UTC"
   },
   {
@@ -190,18 +185,23 @@
     "time": "2025-02-19 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "pegglecoin",
+    "blobs": 26,
+    "time": "2025-02-19 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Shape",
     "blobs": 10,
     "time": "2025-02-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Morph",
-    "blobs": 118,
+    "blob_submitter": "Mint",
+    "blobs": 276,
     "time": "2025-02-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "HashKey",
-    "blobs": 53,
+    "blob_submitter": "Lighter",
+    "blobs": 37,
     "time": "2025-02-19 00:00:00.000 UTC"
   },
   {
@@ -220,13 +220,13 @@
     "time": "2025-02-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lighter",
-    "blobs": 37,
+    "blob_submitter": "World Chain",
+    "blobs": 2520,
     "time": "2025-02-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 2520,
+    "blob_submitter": "StarkNet",
+    "blobs": 60,
     "time": "2025-02-19 00:00:00.000 UTC"
   }
 ]

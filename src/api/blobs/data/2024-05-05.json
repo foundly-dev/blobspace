@@ -1,30 +1,5 @@
 [
   {
-    "blob_submitter": "Scroll",
-    "blobs": 1573,
-    "time": "2024-05-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 84,
-    "time": "2024-05-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 8,
-    "time": "2024-05-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1044,
-    "time": "2024-05-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 181,
-    "time": "2024-05-05 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Base",
     "blobs": 3774,
     "time": "2024-05-05 00:00:00.000 UTC"
@@ -45,13 +20,33 @@
     "time": "2024-05-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 160,
+    "blob_submitter": "Inscriptions",
+    "blobs": 8,
     "time": "2024-05-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1044,
+    "time": "2024-05-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 181,
+    "time": "2024-05-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 1573,
+    "time": "2024-05-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 84,
+    "time": "2024-05-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 160,
     "time": "2024-05-05 00:00:00.000 UTC"
   },
   {
@@ -60,13 +55,8 @@
     "time": "2024-05-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 8,
-    "time": "2024-05-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 198,
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
     "time": "2024-05-05 00:00:00.000 UTC"
   },
   {
@@ -87,6 +77,16 @@
   {
     "blob_submitter": "Lisk",
     "blobs": 6,
+    "time": "2024-05-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 8,
+    "time": "2024-05-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 198,
     "time": "2024-05-05 00:00:00.000 UTC"
   }
 ]
