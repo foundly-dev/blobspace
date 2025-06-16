@@ -35,6 +35,16 @@
     "time": "2024-11-17 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Mint",
+    "blobs": 186,
+    "time": "2024-11-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "SNAXchain",
+    "blobs": 16,
+    "time": "2024-11-17 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Boba Network",
     "blobs": 54,
     "time": "2024-11-17 00:00:00.000 UTC"
@@ -55,68 +65,23 @@
     "time": "2024-11-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 186,
-    "time": "2024-11-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "SNAXchain",
-    "blobs": 16,
-    "time": "2024-11-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 30,
-    "time": "2024-11-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arena-Z",
-    "blobs": 4,
-    "time": "2024-11-17 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arbitrum One",
     "blobs": 2391,
     "time": "2024-11-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 358,
+    "blob_submitter": "Nanon Network",
+    "blobs": 25,
     "time": "2024-11-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 4604,
-    "time": "2024-11-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
+    "blob_submitter": "RACE",
     "blobs": 76,
     "time": "2024-11-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2024-11-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 116,
-    "time": "2024-11-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 835,
-    "time": "2024-11-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 183,
-    "time": "2024-11-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nanon Network",
-    "blobs": 25,
+    "blob_submitter": "Binary",
+    "blobs": 8,
     "time": "2024-11-17 00:00:00.000 UTC"
   },
   {
@@ -155,26 +120,6 @@
     "time": "2024-11-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 76,
-    "time": "2024-11-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 8,
-    "time": "2024-11-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 24,
-    "time": "2024-11-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 26,
-    "time": "2024-11-17 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Scroll",
     "blobs": 101,
     "time": "2024-11-17 00:00:00.000 UTC"
@@ -190,8 +135,58 @@
     "time": "2024-11-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 174,
+    "blob_submitter": "Debank Chain",
+    "blobs": 24,
+    "time": "2024-11-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 26,
+    "time": "2024-11-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 358,
+    "time": "2024-11-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 4604,
+    "time": "2024-11-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 76,
+    "time": "2024-11-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 835,
+    "time": "2024-11-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 183,
+    "time": "2024-11-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2024-11-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 116,
+    "time": "2024-11-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 30,
+    "time": "2024-11-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arena-Z",
+    "blobs": 4,
     "time": "2024-11-17 00:00:00.000 UTC"
   },
   {

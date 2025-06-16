@@ -40,6 +40,11 @@
     "time": "2024-06-30 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Debank Chain",
+    "blobs": 24,
+    "time": "2024-06-30 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Mode",
     "blobs": 98,
     "time": "2024-06-30 00:00:00.000 UTC"
@@ -50,13 +55,33 @@
     "time": "2024-06-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
-    "blobs": 24,
+    "blob_submitter": "Mint",
+    "blobs": 16,
     "time": "2024-06-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 24,
+    "blob_submitter": "Parallel",
+    "blobs": 7,
+    "time": "2024-06-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 211,
+    "time": "2024-06-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 14,
+    "time": "2024-06-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 203,
+    "time": "2024-06-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 50,
     "time": "2024-06-30 00:00:00.000 UTC"
   },
   {
@@ -80,13 +105,13 @@
     "time": "2024-06-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "XGA",
-    "blobs": 14,
+    "blob_submitter": "Optopia",
+    "blobs": 72,
     "time": "2024-06-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 72,
+    "blob_submitter": "XGA",
+    "blobs": 14,
     "time": "2024-06-30 00:00:00.000 UTC"
   },
   {
@@ -95,38 +120,8 @@
     "time": "2024-06-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 16,
-    "time": "2024-06-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 7,
-    "time": "2024-06-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 211,
-    "time": "2024-06-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 50,
-    "time": "2024-06-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 203,
-    "time": "2024-06-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 14,
-    "time": "2024-06-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 15,
+    "blob_submitter": "Binary",
+    "blobs": 24,
     "time": "2024-06-30 00:00:00.000 UTC"
   },
   {

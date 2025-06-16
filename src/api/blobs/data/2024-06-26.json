@@ -30,43 +30,13 @@
     "time": "2024-06-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 191,
-    "time": "2024-06-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1830,
-    "time": "2024-06-26 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Optopia",
     "blobs": 72,
     "time": "2024-06-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 7,
-    "time": "2024-06-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 16,
-    "time": "2024-06-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 268,
-    "time": "2024-06-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 150,
-    "time": "2024-06-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 345,
+    "blob_submitter": "World Chain",
+    "blobs": 191,
     "time": "2024-06-26 00:00:00.000 UTC"
   },
   {
@@ -80,6 +50,11 @@
     "time": "2024-06-26 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Camp Network",
+    "blobs": 27,
+    "time": "2024-06-26 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Metal",
     "blobs": 359,
     "time": "2024-06-26 00:00:00.000 UTC"
@@ -90,8 +65,33 @@
     "time": "2024-06-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 27,
+    "blob_submitter": "Parallel",
+    "blobs": 7,
+    "time": "2024-06-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 150,
+    "time": "2024-06-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 268,
+    "time": "2024-06-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
+    "time": "2024-06-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 345,
+    "time": "2024-06-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1830,
     "time": "2024-06-26 00:00:00.000 UTC"
   },
   {
@@ -132,6 +132,16 @@
   {
     "blob_submitter": "Mint",
     "blobs": 16,
+    "time": "2024-06-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 1600,
+    "time": "2024-06-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 25,
     "time": "2024-06-26 00:00:00.000 UTC"
   }
 ]

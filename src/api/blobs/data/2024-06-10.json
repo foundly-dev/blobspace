@@ -10,16 +10,6 @@
     "time": "2024-06-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 358,
-    "time": "2024-06-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 258,
-    "time": "2024-06-10 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Lisk",
     "blobs": 7,
     "time": "2024-06-10 00:00:00.000 UTC"
@@ -30,13 +20,38 @@
     "time": "2024-06-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 184,
+    "blob_submitter": "Metal",
+    "blobs": 358,
     "time": "2024-06-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 402,
+    "blob_submitter": "StarkNet",
+    "blobs": 258,
+    "time": "2024-06-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 430,
+    "time": "2024-06-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 9,
+    "time": "2024-06-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 8,
+    "time": "2024-06-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 133,
+    "time": "2024-06-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 195,
     "time": "2024-06-10 00:00:00.000 UTC"
   },
   {
@@ -65,33 +80,13 @@
     "time": "2024-06-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 430,
+    "blob_submitter": "River",
+    "blobs": 184,
     "time": "2024-06-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 8,
-    "time": "2024-06-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 133,
-    "time": "2024-06-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 9,
-    "time": "2024-06-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 195,
-    "time": "2024-06-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 1285,
+    "blob_submitter": "Linea",
+    "blobs": 402,
     "time": "2024-06-10 00:00:00.000 UTC"
   },
   {
@@ -107,6 +102,16 @@
   {
     "blob_submitter": "Camp Network",
     "blobs": 15,
+    "time": "2024-06-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 12,
+    "time": "2024-06-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 14,
     "time": "2024-06-10 00:00:00.000 UTC"
   }
 ]

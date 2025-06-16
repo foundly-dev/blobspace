@@ -25,8 +25,23 @@
     "time": "2024-05-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 9,
+    "blob_submitter": "Paradex",
+    "blobs": 433,
+    "time": "2024-05-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 160,
+    "time": "2024-05-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 8,
+    "time": "2024-05-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 133,
     "time": "2024-05-23 00:00:00.000 UTC"
   },
   {
@@ -45,6 +60,11 @@
     "time": "2024-05-23 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Optopia",
+    "blobs": 71,
+    "time": "2024-05-23 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "ZORA",
     "blobs": 78,
     "time": "2024-05-23 00:00:00.000 UTC"
@@ -55,28 +75,8 @@
     "time": "2024-05-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
-    "time": "2024-05-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 433,
-    "time": "2024-05-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 133,
-    "time": "2024-05-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 160,
-    "time": "2024-05-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 8,
+    "blob_submitter": "Lisk",
+    "blobs": 9,
     "time": "2024-05-23 00:00:00.000 UTC"
   },
   {
@@ -97,11 +97,6 @@
   {
     "blob_submitter": "Mode",
     "blobs": 174,
-    "time": "2024-05-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 342,
     "time": "2024-05-23 00:00:00.000 UTC"
   }
 ]

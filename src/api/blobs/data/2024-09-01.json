@@ -40,6 +40,11 @@
     "time": "2024-09-01 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Kroma",
+    "blobs": 510,
+    "time": "2024-09-01 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Mint",
     "blobs": 16,
     "time": "2024-09-01 00:00:00.000 UTC"
@@ -50,18 +55,28 @@
     "time": "2024-09-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 510,
-    "time": "2024-09-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 15,
-    "time": "2024-09-01 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Camp Network",
     "blobs": 19,
+    "time": "2024-09-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 94,
+    "time": "2024-09-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-09-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1785,
+    "time": "2024-09-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 139,
     "time": "2024-09-01 00:00:00.000 UTC"
   },
   {
@@ -95,23 +110,8 @@
     "time": "2024-09-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
-    "time": "2024-09-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 94,
-    "time": "2024-09-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 139,
-    "time": "2024-09-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1785,
+    "blob_submitter": "Shape",
+    "blobs": 15,
     "time": "2024-09-01 00:00:00.000 UTC"
   },
   {
@@ -130,13 +130,23 @@
     "time": "2024-09-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 77,
+    "blob_submitter": "World Chain",
+    "blobs": 580,
     "time": "2024-09-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 265,
+    "blob_submitter": "Lambda",
+    "blobs": 14,
+    "time": "2024-09-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 72,
+    "time": "2024-09-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 5,
     "time": "2024-09-01 00:00:00.000 UTC"
   }
 ]

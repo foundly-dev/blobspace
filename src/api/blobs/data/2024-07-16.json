@@ -40,7 +40,32 @@
     "time": "2024-07-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
+    "blob_submitter": "Mint",
+    "blobs": 94,
+    "time": "2024-07-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 455,
+    "time": "2024-07-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 141,
+    "time": "2024-07-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 9,
+    "time": "2024-07-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 215,
+    "time": "2024-07-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
     "blobs": 16,
     "time": "2024-07-16 00:00:00.000 UTC"
   },
@@ -50,13 +75,13 @@
     "time": "2024-07-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
+    "blob_submitter": "Debank Chain",
+    "blobs": 38,
     "time": "2024-07-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 38,
+    "blob_submitter": "Lambda",
+    "blobs": 14,
     "time": "2024-07-16 00:00:00.000 UTC"
   },
   {
@@ -72,6 +97,11 @@
   {
     "blob_submitter": "XGA",
     "blobs": 14,
+    "time": "2024-07-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 76,
     "time": "2024-07-16 00:00:00.000 UTC"
   },
   {
@@ -95,43 +125,8 @@
     "time": "2024-07-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 76,
-    "time": "2024-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 94,
-    "time": "2024-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 141,
-    "time": "2024-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 9,
-    "time": "2024-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 215,
-    "time": "2024-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 455,
-    "time": "2024-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
+    "blob_submitter": "Inscriptions",
     "blobs": 16,
-    "time": "2024-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 188,
     "time": "2024-07-16 00:00:00.000 UTC"
   },
   {
@@ -152,11 +147,6 @@
   {
     "blob_submitter": "OP Mainnet",
     "blobs": 1830,
-    "time": "2024-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 979,
     "time": "2024-07-16 00:00:00.000 UTC"
   },
   {

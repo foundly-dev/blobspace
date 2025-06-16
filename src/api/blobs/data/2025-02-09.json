@@ -30,6 +30,21 @@
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Abstract",
+    "blobs": 551,
+    "time": "2025-02-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "R0AR Chain",
+    "blobs": 8,
+    "time": "2025-02-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 67,
+    "time": "2025-02-09 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Swell",
     "blobs": 25,
     "time": "2025-02-09 00:00:00.000 UTC"
@@ -55,28 +70,28 @@
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Abstract",
-    "blobs": 551,
+    "blob_submitter": "Kroma",
+    "blobs": 136,
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 8,
+    "blob_submitter": "Others",
+    "blobs": 98,
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
-    "blobs": 67,
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Morph",
-    "blobs": 115,
+    "blob_submitter": "Phala Network",
+    "blobs": 77,
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 288,
+    "blob_submitter": "Paradex",
+    "blobs": 61,
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
@@ -100,8 +115,18 @@
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Zircuit",
+    "blobs": 97,
+    "time": "2025-02-09 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Ethernity",
     "blobs": 5,
+    "time": "2025-02-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Soneium",
+    "blobs": 595,
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
@@ -112,11 +137,6 @@
   {
     "blob_submitter": "Kinto",
     "blobs": 6,
-    "time": "2025-02-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 595,
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
@@ -150,33 +170,13 @@
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 97,
+    "blob_submitter": "Morph",
+    "blobs": 115,
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Phala Network",
-    "blobs": 77,
-    "time": "2025-02-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 61,
-    "time": "2025-02-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 98,
-    "time": "2025-02-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
-    "time": "2025-02-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 136,
+    "blob_submitter": "Mint",
+    "blobs": 288,
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
@@ -187,11 +187,6 @@
   {
     "blob_submitter": "Taiko",
     "blobs": 4091,
-    "time": "2025-02-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 444,
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
@@ -207,6 +202,16 @@
   {
     "blob_submitter": "Metal",
     "blobs": 358,
+    "time": "2025-02-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "pegglecoin",
+    "blobs": 26,
+    "time": "2025-02-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 19,
     "time": "2025-02-09 00:00:00.000 UTC"
   }
 ]
