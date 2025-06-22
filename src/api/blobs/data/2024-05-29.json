@@ -1,40 +1,5 @@
 [
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 228,
-    "time": "2024-05-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 10,
-    "time": "2024-05-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 24,
-    "time": "2024-05-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 8,
-    "time": "2024-05-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
-    "time": "2024-05-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 33,
-    "time": "2024-05-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 282,
-    "time": "2024-05-29 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Camp Network",
     "blobs": 61,
     "time": "2024-05-29 00:00:00.000 UTC"
@@ -55,38 +20,13 @@
     "time": "2024-05-29 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Inscriptions",
+    "blobs": 33,
+    "time": "2024-05-29 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Base",
     "blobs": 3786,
-    "time": "2024-05-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 3537,
-    "time": "2024-05-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 184,
-    "time": "2024-05-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 10,
-    "time": "2024-05-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 3420,
-    "time": "2024-05-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 8,
-    "time": "2024-05-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 946,
     "time": "2024-05-29 00:00:00.000 UTC"
   },
   {
@@ -100,8 +40,68 @@
     "time": "2024-05-29 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Mint",
+    "blobs": 10,
+    "time": "2024-05-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 8,
+    "time": "2024-05-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 946,
+    "time": "2024-05-29 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "zkSync Era",
     "blobs": 356,
+    "time": "2024-05-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 3537,
+    "time": "2024-05-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 184,
+    "time": "2024-05-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1860,
+    "time": "2024-05-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 1517,
+    "time": "2024-05-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 14,
+    "time": "2024-05-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 3420,
+    "time": "2024-05-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 162,
+    "time": "2024-05-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 8,
+    "time": "2024-05-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 71,
     "time": "2024-05-29 00:00:00.000 UTC"
   }
 ]
