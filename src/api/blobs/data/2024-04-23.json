@@ -10,8 +10,8 @@
     "time": "2024-04-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1866,
+    "blob_submitter": "Mode",
+    "blobs": 162,
     "time": "2024-04-23 00:00:00.000 UTC"
   },
   {
@@ -20,28 +20,18 @@
     "time": "2024-04-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 162,
-    "time": "2024-04-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 558,
-    "time": "2024-04-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 288,
-    "time": "2024-04-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 206,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1866,
     "time": "2024-04-23 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Base",
     "blobs": 3990,
+    "time": "2024-04-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 2,
     "time": "2024-04-23 00:00:00.000 UTC"
   },
   {
@@ -55,8 +45,28 @@
     "time": "2024-04-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 2,
+    "blob_submitter": "Inscriptions",
+    "blobs": 29,
+    "time": "2024-04-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 1,
+    "time": "2024-04-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 162,
+    "time": "2024-04-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 384,
+    "time": "2024-04-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 558,
     "time": "2024-04-23 00:00:00.000 UTC"
   }
 ]
