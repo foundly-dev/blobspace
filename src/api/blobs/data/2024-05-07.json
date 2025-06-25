@@ -1,7 +1,12 @@
 [
   {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
+    "blob_submitter": "Parallel",
+    "blobs": 4,
+    "time": "2024-05-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 143,
     "time": "2024-05-07 00:00:00.000 UTC"
   },
   {
@@ -15,13 +20,18 @@
     "time": "2024-05-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1932,
+    "blob_submitter": "Lambda",
+    "blobs": 14,
     "time": "2024-05-07 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Base",
     "blobs": 3858,
+    "time": "2024-05-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1932,
     "time": "2024-05-07 00:00:00.000 UTC"
   },
   {
@@ -55,16 +65,6 @@
     "time": "2024-05-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 4,
-    "time": "2024-05-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 143,
-    "time": "2024-05-07 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Linea",
     "blobs": 528,
     "time": "2024-05-07 00:00:00.000 UTC"
@@ -75,8 +75,8 @@
     "time": "2024-05-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 2034,
+    "blob_submitter": "Lisk",
+    "blobs": 10,
     "time": "2024-05-07 00:00:00.000 UTC"
   }
 ]

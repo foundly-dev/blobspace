@@ -1,12 +1,37 @@
 [
   {
-    "blob_submitter": "Others",
-    "blobs": 135,
+    "blob_submitter": "Binary",
+    "blobs": 25,
+    "time": "2024-09-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 110,
+    "time": "2024-09-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 164,
+    "time": "2024-09-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
+    "time": "2024-09-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 6,
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Boba Network",
     "blobs": 47,
+    "time": "2024-09-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 135,
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
@@ -75,13 +100,13 @@
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 25,
+    "blob_submitter": "Shape",
+    "blobs": 14,
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 14,
+    "blob_submitter": "Camp Network",
+    "blobs": 25,
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
@@ -90,58 +115,23 @@
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Linea",
+    "blobs": 277,
+    "time": "2024-09-18 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Paradex",
     "blobs": 40,
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
-    "blobs": 25,
+    "blob_submitter": "World Chain",
+    "blobs": 117,
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 110,
-    "time": "2024-09-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 164,
-    "time": "2024-09-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 16,
-    "time": "2024-09-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
-    "time": "2024-09-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "XGA",
-    "blobs": 76,
-    "time": "2024-09-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
-    "time": "2024-09-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
-    "time": "2024-09-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1480,
-    "time": "2024-09-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 76,
+    "blob_submitter": "Lambda",
+    "blobs": 14,
     "time": "2024-09-18 00:00:00.000 UTC"
   }
 ]

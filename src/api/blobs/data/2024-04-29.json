@@ -1,5 +1,20 @@
 [
   {
+    "blob_submitter": "Linea",
+    "blobs": 442,
+    "time": "2024-04-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 4,
+    "time": "2024-04-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 196,
+    "time": "2024-04-29 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Camp Network",
     "blobs": 8,
     "time": "2024-04-29 00:00:00.000 UTC"
@@ -10,13 +25,13 @@
     "time": "2024-04-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1830,
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
     "time": "2024-04-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1830,
     "time": "2024-04-29 00:00:00.000 UTC"
   },
   {
@@ -57,31 +72,6 @@
   {
     "blob_submitter": "Base",
     "blobs": 3714,
-    "time": "2024-04-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 442,
-    "time": "2024-04-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 196,
-    "time": "2024-04-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 4,
-    "time": "2024-04-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1860,
-    "time": "2024-04-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 285,
     "time": "2024-04-29 00:00:00.000 UTC"
   }
 ]

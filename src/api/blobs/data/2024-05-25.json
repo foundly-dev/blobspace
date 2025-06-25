@@ -1,12 +1,37 @@
 [
   {
-    "blob_submitter": "Scroll",
-    "blobs": 1572,
+    "blob_submitter": "River",
+    "blobs": 184,
+    "time": "2024-05-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 21,
+    "time": "2024-05-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 578,
+    "time": "2024-05-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 8,
+    "time": "2024-05-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 226,
     "time": "2024-05-25 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Lambda",
     "blobs": 15,
+    "time": "2024-05-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 1572,
     "time": "2024-05-25 00:00:00.000 UTC"
   },
   {
@@ -55,6 +80,11 @@
     "time": "2024-05-25 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "ZORA",
+    "blobs": 90,
+    "time": "2024-05-25 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Base",
     "blobs": 3036,
     "time": "2024-05-25 00:00:00.000 UTC"
@@ -65,48 +95,13 @@
     "time": "2024-05-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 90,
-    "time": "2024-05-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 184,
-    "time": "2024-05-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 21,
-    "time": "2024-05-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 578,
-    "time": "2024-05-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 8,
-    "time": "2024-05-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 226,
+    "blob_submitter": "StarkNet",
+    "blobs": 192,
     "time": "2024-05-25 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "zkSync Era",
     "blobs": 338,
-    "time": "2024-05-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 97,
-    "time": "2024-05-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 18,
     "time": "2024-05-25 00:00:00.000 UTC"
   }
 ]
