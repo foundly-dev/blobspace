@@ -1,5 +1,25 @@
 [
   {
+    "blob_submitter": "Inscriptions",
+    "blobs": 4140,
+    "time": "2024-04-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 305,
+    "time": "2024-04-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 106,
+    "time": "2024-04-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 424,
+    "time": "2024-04-04 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Base",
     "blobs": 3786,
     "time": "2024-04-04 00:00:00.000 UTC"
@@ -7,11 +27,6 @@
   {
     "blob_submitter": "Arbitrum One",
     "blobs": 1782,
-    "time": "2024-04-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 424,
     "time": "2024-04-04 00:00:00.000 UTC"
   },
   {
@@ -32,16 +47,6 @@
   {
     "blob_submitter": "Metal",
     "blobs": 12,
-    "time": "2024-04-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 4376,
-    "time": "2024-04-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 194,
     "time": "2024-04-04 00:00:00.000 UTC"
   }
 ]
