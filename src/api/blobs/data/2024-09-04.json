@@ -1,12 +1,72 @@
 [
   {
-    "blob_submitter": "XGA",
-    "blobs": 76,
+    "blob_submitter": "World Chain",
+    "blobs": 472,
     "time": "2024-09-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 76,
+    "blob_submitter": "ZORA",
+    "blobs": 98,
+    "time": "2024-09-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 219,
+    "time": "2024-09-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 504,
+    "time": "2024-09-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 53,
+    "time": "2024-09-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 2700,
+    "time": "2024-09-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 59,
+    "time": "2024-09-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 103,
+    "time": "2024-09-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 151,
+    "time": "2024-09-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 8,
+    "time": "2024-09-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 230,
+    "time": "2024-09-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2211,
+    "time": "2024-09-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 4,
+    "time": "2024-09-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 80,
     "time": "2024-09-04 00:00:00.000 UTC"
   },
   {
@@ -25,13 +85,8 @@
     "time": "2024-09-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 80,
-    "time": "2024-09-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 31,
+    "blob_submitter": "PandaSea",
+    "blobs": 24,
     "time": "2024-09-04 00:00:00.000 UTC"
   },
   {
@@ -40,43 +95,23 @@
     "time": "2024-09-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "PandaSea",
-    "blobs": 24,
+    "blob_submitter": "Camp Network",
+    "blobs": 31,
+    "time": "2024-09-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
+    "blobs": 76,
+    "time": "2024-09-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 76,
     "time": "2024-09-04 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Base",
     "blobs": 4605,
-    "time": "2024-09-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2211,
-    "time": "2024-09-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 4,
-    "time": "2024-09-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 4,
-    "time": "2024-09-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 15,
-    "time": "2024-09-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 139,
-    "time": "2024-09-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
     "time": "2024-09-04 00:00:00.000 UTC"
   },
   {
@@ -87,11 +122,6 @@
   {
     "blob_submitter": "Kinto",
     "blobs": 6,
-    "time": "2024-09-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 131,
     "time": "2024-09-04 00:00:00.000 UTC"
   },
   {
@@ -115,6 +145,11 @@
     "time": "2024-09-04 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "zkSync Era",
+    "blobs": 131,
+    "time": "2024-09-04 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Binary",
     "blobs": 25,
     "time": "2024-09-04 00:00:00.000 UTC"
@@ -135,23 +170,8 @@
     "time": "2024-09-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 8,
-    "time": "2024-09-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 230,
-    "time": "2024-09-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 151,
-    "time": "2024-09-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 103,
+    "blob_submitter": "Lambda",
+    "blobs": 15,
     "time": "2024-09-04 00:00:00.000 UTC"
   }
 ]

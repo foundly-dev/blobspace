@@ -1,5 +1,55 @@
 [
   {
+    "blob_submitter": "Mint",
+    "blobs": 156,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 139,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "pegglecoin",
+    "blobs": 12,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 371,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 130,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 20,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 7,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 13,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Soneium",
     "blobs": 6,
     "time": "2024-12-05 00:00:00.000 UTC"
@@ -35,76 +85,6 @@
     "time": "2024-12-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Hemi",
-    "blobs": 7,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 13,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 12,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1080,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 214,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 112,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 183,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 3050,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 54,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 58,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 360,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 35,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 2237,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERO Network",
-    "blobs": 11,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arbitrum One",
     "blobs": 3138,
     "time": "2024-12-05 00:00:00.000 UTC"
@@ -125,13 +105,13 @@
     "time": "2024-12-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 47,
+    "blob_submitter": "ZORA",
+    "blobs": 50,
     "time": "2024-12-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 50,
+    "blob_submitter": "Mode",
+    "blobs": 47,
     "time": "2024-12-05 00:00:00.000 UTC"
   },
   {
@@ -155,13 +135,13 @@
     "time": "2024-12-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Fuel",
-    "blobs": 143,
+    "blob_submitter": "Morph",
+    "blobs": 72,
     "time": "2024-12-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Morph",
-    "blobs": 72,
+    "blob_submitter": "Fuel",
+    "blobs": 143,
     "time": "2024-12-05 00:00:00.000 UTC"
   },
   {
@@ -180,13 +160,23 @@
     "time": "2024-12-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1080,
     "time": "2024-12-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 20,
+    "blob_submitter": "River",
+    "blobs": 214,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 112,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 183,
     "time": "2024-12-05 00:00:00.000 UTC"
   }
 ]
