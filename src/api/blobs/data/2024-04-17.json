@@ -15,23 +15,23 @@
     "time": "2024-04-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 366,
+    "blob_submitter": "StarkNet",
+    "blobs": 259,
     "time": "2024-04-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 1,
+    "blob_submitter": "Linea",
+    "blobs": 380,
     "time": "2024-04-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 3930,
+    "blob_submitter": "Metal",
+    "blobs": 8,
     "time": "2024-04-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2058,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1938,
     "time": "2024-04-17 00:00:00.000 UTC"
   },
   {
@@ -50,33 +50,28 @@
     "time": "2024-04-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 14,
-    "time": "2024-04-17 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Boba Network",
     "blobs": 47,
     "time": "2024-04-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 259,
+    "blob_submitter": "Lambda",
+    "blobs": 366,
     "time": "2024-04-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1938,
+    "blob_submitter": "Parallel",
+    "blobs": 1,
     "time": "2024-04-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 8,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2058,
     "time": "2024-04-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 380,
+    "blob_submitter": "Base",
+    "blobs": 3930,
     "time": "2024-04-17 00:00:00.000 UTC"
   }
 ]
