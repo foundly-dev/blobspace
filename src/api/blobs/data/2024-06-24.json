@@ -1,47 +1,22 @@
 [
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 3072,
-    "time": "2024-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 108,
-    "time": "2024-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
+    "blob_submitter": "Polynomial",
     "blobs": 16,
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 1340,
+    "blob_submitter": "Linea",
+    "blobs": 421,
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 17,
-    "time": "2024-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 47,
+    "blob_submitter": "Camp Network",
+    "blobs": 28,
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Optopia",
     "blobs": 74,
-    "time": "2024-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 292,
-    "time": "2024-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 359,
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
@@ -52,6 +27,16 @@
   {
     "blob_submitter": "Inscriptions",
     "blobs": 20,
+    "time": "2024-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 359,
+    "time": "2024-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 292,
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
@@ -85,28 +70,13 @@
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 16,
-    "time": "2024-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 421,
-    "time": "2024-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 28,
+    "blob_submitter": "Kroma",
+    "blobs": 191,
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Paradex",
     "blobs": 364,
-    "time": "2024-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 191,
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
@@ -122,6 +92,21 @@
   {
     "blob_submitter": "River",
     "blobs": 184,
+    "time": "2024-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2024-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 3280,
+    "time": "2024-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 313,
     "time": "2024-06-24 00:00:00.000 UTC"
   }
 ]
