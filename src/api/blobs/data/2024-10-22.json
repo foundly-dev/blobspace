@@ -1,30 +1,5 @@
 [
   {
-    "blob_submitter": "ZERO Network",
-    "blobs": 2,
-    "time": "2024-10-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 356,
-    "time": "2024-10-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 49,
-    "time": "2024-10-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 4,
-    "time": "2024-10-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 123,
-    "time": "2024-10-22 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "World Chain",
     "blobs": 645,
     "time": "2024-10-22 00:00:00.000 UTC"
@@ -35,18 +10,13 @@
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 24,
+    "blob_submitter": "Kroma",
+    "blobs": 259,
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "zkSync Era",
     "blobs": 77,
-    "time": "2024-10-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 259,
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
@@ -60,6 +30,11 @@
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Paradex",
+    "blobs": 48,
+    "time": "2024-10-22 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Superseed",
     "blobs": 16,
     "time": "2024-10-22 00:00:00.000 UTC"
@@ -70,13 +45,13 @@
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 48,
+    "blob_submitter": "Blast",
+    "blobs": 594,
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 594,
+    "blob_submitter": "Linea",
+    "blobs": 159,
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
@@ -85,13 +60,13 @@
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 15,
+    "blob_submitter": "River",
+    "blobs": 392,
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 392,
+    "blob_submitter": "Shape",
+    "blobs": 15,
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
@@ -100,8 +75,8 @@
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 159,
+    "blob_submitter": "R0AR Chain",
+    "blobs": 24,
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
@@ -125,18 +100,13 @@
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 76,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 946,
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Fuel",
     "blobs": 63,
-    "time": "2024-10-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 3,
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
@@ -155,11 +125,6 @@
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 946,
-    "time": "2024-10-22 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Optopia",
     "blobs": 71,
     "time": "2024-10-22 00:00:00.000 UTC"
@@ -170,8 +135,48 @@
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Hemi",
-    "blobs": 59,
+    "blob_submitter": "RACE",
+    "blobs": 76,
+    "time": "2024-10-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 3,
+    "time": "2024-10-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "PandaSea",
+    "blobs": 8,
+    "time": "2024-10-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 8,
+    "time": "2024-10-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 232,
+    "time": "2024-10-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 25,
+    "time": "2024-10-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 260,
+    "time": "2024-10-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 140,
+    "time": "2024-10-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 1,
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
@@ -185,8 +190,18 @@
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "PandaSea",
-    "blobs": 8,
+    "blob_submitter": "Base",
+    "blobs": 6135,
+    "time": "2024-10-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 59,
+    "time": "2024-10-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 123,
     "time": "2024-10-22 00:00:00.000 UTC"
   }
 ]

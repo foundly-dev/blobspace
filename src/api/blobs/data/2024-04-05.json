@@ -1,15 +1,5 @@
 [
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 280,
-    "time": "2024-04-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 8,
-    "time": "2024-04-05 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Linea",
     "blobs": 2414,
     "time": "2024-04-05 00:00:00.000 UTC"
@@ -20,8 +10,8 @@
     "time": "2024-04-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1674,
+    "blob_submitter": "Mode",
+    "blobs": 138,
     "time": "2024-04-05 00:00:00.000 UTC"
   },
   {
@@ -30,8 +20,28 @@
     "time": "2024-04-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 138,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1674,
+    "time": "2024-04-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 550,
+    "time": "2024-04-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 4140,
+    "time": "2024-04-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 612,
+    "time": "2024-04-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 202,
     "time": "2024-04-05 00:00:00.000 UTC"
   },
   {
@@ -40,8 +50,8 @@
     "time": "2024-04-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 550,
+    "blob_submitter": "Metal",
+    "blobs": 8,
     "time": "2024-04-05 00:00:00.000 UTC"
   }
 ]
