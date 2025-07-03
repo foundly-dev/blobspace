@@ -1,57 +1,7 @@
 [
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 43,
-    "time": "2024-05-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 168,
-    "time": "2024-05-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2934,
-    "time": "2024-05-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 69,
-    "time": "2024-05-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1050,
-    "time": "2024-05-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 10,
-    "time": "2024-05-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
-    "time": "2024-05-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 381,
-    "time": "2024-05-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 12,
-    "time": "2024-05-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 266,
-    "time": "2024-05-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 18,
+    "blob_submitter": "StarkNet",
+    "blobs": 257,
     "time": "2024-05-16 00:00:00.000 UTC"
   },
   {
@@ -65,8 +15,38 @@
     "time": "2024-05-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 257,
+    "blob_submitter": "Mode",
+    "blobs": 168,
+    "time": "2024-05-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 69,
+    "time": "2024-05-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2934,
+    "time": "2024-05-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 43,
+    "time": "2024-05-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 14,
+    "time": "2024-05-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1050,
+    "time": "2024-05-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 10,
     "time": "2024-05-16 00:00:00.000 UTC"
   },
   {
@@ -92,6 +72,26 @@
   {
     "blob_submitter": "Inscriptions",
     "blobs": 68,
+    "time": "2024-05-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 3000,
+    "time": "2024-05-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 196,
+    "time": "2024-05-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 1814,
+    "time": "2024-05-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 18,
     "time": "2024-05-16 00:00:00.000 UTC"
   }
 ]
