@@ -1,15 +1,5 @@
 [
   {
-    "blob_submitter": "Parallel",
-    "blobs": 12,
-    "time": "2024-05-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 381,
-    "time": "2024-05-16 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Mint",
     "blobs": 18,
     "time": "2024-05-16 00:00:00.000 UTC"
@@ -20,18 +10,43 @@
     "time": "2024-05-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 1814,
+    "blob_submitter": "Linea",
+    "blobs": 381,
     "time": "2024-05-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 84,
+    "blob_submitter": "Parallel",
+    "blobs": 12,
+    "time": "2024-05-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 257,
+    "time": "2024-05-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 8,
+    "time": "2024-05-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 8,
+    "time": "2024-05-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 135,
     "time": "2024-05-16 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Boba Network",
     "blobs": 48,
+    "time": "2024-05-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 84,
     "time": "2024-05-16 00:00:00.000 UTC"
   },
   {
@@ -55,33 +70,8 @@
     "time": "2024-05-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 135,
-    "time": "2024-05-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
-    "time": "2024-05-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 43,
-    "time": "2024-05-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 168,
-    "time": "2024-05-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2934,
-    "time": "2024-05-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 69,
+    "blob_submitter": "Scroll",
+    "blobs": 1814,
     "time": "2024-05-16 00:00:00.000 UTC"
   },
   {
@@ -95,8 +85,8 @@
     "time": "2024-05-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 8,
+    "blob_submitter": "Lambda",
+    "blobs": 14,
     "time": "2024-05-16 00:00:00.000 UTC"
   }
 ]
