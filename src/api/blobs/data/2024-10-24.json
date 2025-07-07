@@ -1,5 +1,10 @@
 [
   {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2703,
+    "time": "2024-10-24 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Metal",
     "blobs": 358,
     "time": "2024-10-24 00:00:00.000 UTC"
@@ -7,26 +12,6 @@
   {
     "blob_submitter": "Lisk",
     "blobs": 6,
-    "time": "2024-10-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2703,
-    "time": "2024-10-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 28,
-    "time": "2024-10-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 140,
-    "time": "2024-10-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 240,
     "time": "2024-10-24 00:00:00.000 UTC"
   },
   {
@@ -45,53 +30,58 @@
     "time": "2024-10-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 340,
+    "blob_submitter": "Swan Chain",
+    "blobs": 140,
     "time": "2024-10-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 77,
+    "blob_submitter": "Camp Network",
+    "blobs": 28,
     "time": "2024-10-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 1124,
+    "blob_submitter": "Others",
+    "blobs": 240,
     "time": "2024-10-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
+    "blob_submitter": "Nal",
+    "blobs": 50,
     "time": "2024-10-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1225,
+    "blob_submitter": "Nanon Network",
+    "blobs": 25,
     "time": "2024-10-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 3092,
+    "blob_submitter": "Paradex",
+    "blobs": 54,
     "time": "2024-10-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 10,
+    "blob_submitter": "ZORA",
+    "blobs": 123,
     "time": "2024-10-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 426,
+    "blob_submitter": "Hemi",
+    "blobs": 59,
     "time": "2024-10-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
+    "blob_submitter": "StarkNet",
+    "blobs": 98,
     "time": "2024-10-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
+    "blob_submitter": "R0AR Chain",
+    "blobs": 9,
+    "time": "2024-10-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "pegglecoin",
+    "blobs": 11,
     "time": "2024-10-24 00:00:00.000 UTC"
   },
   {
@@ -180,13 +170,43 @@
     "time": "2024-10-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 9,
+    "blob_submitter": "Linea",
+    "blobs": 340,
     "time": "2024-10-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "pegglecoin",
-    "blobs": 11,
+    "blob_submitter": "RACE",
+    "blobs": 77,
+    "time": "2024-10-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 1124,
+    "time": "2024-10-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2024-10-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1225,
+    "time": "2024-10-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 3092,
+    "time": "2024-10-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 10,
+    "time": "2024-10-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 426,
     "time": "2024-10-24 00:00:00.000 UTC"
   }
 ]

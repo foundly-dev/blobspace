@@ -5,11 +5,6 @@
     "time": "2024-06-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 78,
-    "time": "2024-06-05 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "ZORA",
     "blobs": 84,
     "time": "2024-06-05 00:00:00.000 UTC"
@@ -20,58 +15,23 @@
     "time": "2024-06-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 1427,
-    "time": "2024-06-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 168,
-    "time": "2024-06-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 8,
-    "time": "2024-06-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 960,
-    "time": "2024-06-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1926,
-    "time": "2024-06-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 15,
-    "time": "2024-06-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 39,
-    "time": "2024-06-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 144,
-    "time": "2024-06-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
-    "time": "2024-06-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 5256,
+    "blob_submitter": "Inscriptions",
+    "blobs": 78,
     "time": "2024-06-05 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "River",
     "blobs": 184,
+    "time": "2024-06-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 322,
+    "time": "2024-06-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 134,
     "time": "2024-06-05 00:00:00.000 UTC"
   },
   {
@@ -120,8 +80,23 @@
     "time": "2024-06-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 134,
+    "blob_submitter": "Scroll",
+    "blobs": 1427,
+    "time": "2024-06-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 8,
+    "time": "2024-06-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 960,
+    "time": "2024-06-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 168,
     "time": "2024-06-05 00:00:00.000 UTC"
   }
 ]

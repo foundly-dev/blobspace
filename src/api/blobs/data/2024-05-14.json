@@ -1,5 +1,10 @@
 [
   {
+    "blob_submitter": "Kroma",
+    "blobs": 173,
+    "time": "2024-05-14 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Metal",
     "blobs": 8,
     "time": "2024-05-14 00:00:00.000 UTC"
@@ -20,58 +25,18 @@
     "time": "2024-05-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 173,
-    "time": "2024-05-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 16,
-    "time": "2024-05-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1746,
-    "time": "2024-05-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 20,
-    "time": "2024-05-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2688,
-    "time": "2024-05-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 342,
-    "time": "2024-05-14 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Boba Network",
     "blobs": 48,
     "time": "2024-05-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 8,
+    "blob_submitter": "Inscriptions",
+    "blobs": 5,
     "time": "2024-05-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 14,
-    "time": "2024-05-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 162,
-    "time": "2024-05-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 305,
+    "blob_submitter": "StarkNet",
+    "blobs": 281,
     "time": "2024-05-14 00:00:00.000 UTC"
   },
   {
@@ -90,8 +55,38 @@
     "time": "2024-05-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 281,
+    "blob_submitter": "Scroll",
+    "blobs": 1642,
+    "time": "2024-05-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2688,
+    "time": "2024-05-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 8,
+    "time": "2024-05-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 14,
+    "time": "2024-05-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 305,
+    "time": "2024-05-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 162,
+    "time": "2024-05-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 16,
     "time": "2024-05-14 00:00:00.000 UTC"
   }
 ]

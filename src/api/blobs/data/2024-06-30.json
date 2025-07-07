@@ -1,5 +1,10 @@
 [
   {
+    "blob_submitter": "Lisk",
+    "blobs": 5,
+    "time": "2024-06-30 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Arbitrum One",
     "blobs": 2310,
     "time": "2024-06-30 00:00:00.000 UTC"
@@ -10,8 +15,8 @@
     "time": "2024-06-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 72,
+    "blob_submitter": "Others",
+    "blobs": 133,
     "time": "2024-06-30 00:00:00.000 UTC"
   },
   {
@@ -20,63 +25,53 @@
     "time": "2024-06-30 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Optopia",
+    "blobs": 72,
+    "time": "2024-06-30 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Metal",
     "blobs": 359,
     "time": "2024-06-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
+    "blob_submitter": "Parallel",
+    "blobs": 7,
     "time": "2024-06-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 133,
-    "time": "2024-06-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 15,
-    "time": "2024-06-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 3450,
-    "time": "2024-06-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 330,
-    "time": "2024-06-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
+    "blob_submitter": "Mint",
     "blobs": 16,
     "time": "2024-06-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 940,
+    "blob_submitter": "Paradex",
+    "blobs": 211,
     "time": "2024-06-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 184,
+    "blob_submitter": "World Chain",
+    "blobs": 14,
     "time": "2024-06-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 160,
+    "blob_submitter": "StarkNet",
+    "blobs": 203,
     "time": "2024-06-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
+    "blob_submitter": "Nal",
+    "blobs": 50,
     "time": "2024-06-30 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Inscriptions",
     "blobs": 13,
+    "time": "2024-06-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 160,
     "time": "2024-06-30 00:00:00.000 UTC"
   },
   {
@@ -130,18 +125,18 @@
     "time": "2024-06-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Nal",
-    "blobs": 50,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 940,
     "time": "2024-06-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 7,
+    "blob_submitter": "Lambda",
+    "blobs": 15,
     "time": "2024-06-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 16,
+    "blob_submitter": "River",
+    "blobs": 184,
     "time": "2024-06-30 00:00:00.000 UTC"
   }
 ]
