@@ -1,25 +1,5 @@
 [
   {
-    "blob_submitter": "Kroma",
-    "blobs": 178,
-    "time": "2024-08-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 13,
-    "time": "2024-08-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 6,
-    "time": "2024-08-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 292,
-    "time": "2024-08-02 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "XGA",
     "blobs": 14,
     "time": "2024-08-02 00:00:00.000 UTC"
@@ -35,6 +15,11 @@
     "time": "2024-08-02 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Scroll",
+    "blobs": 371,
+    "time": "2024-08-02 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Kinto",
     "blobs": 6,
     "time": "2024-08-02 00:00:00.000 UTC"
@@ -45,13 +30,13 @@
     "time": "2024-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 4990,
+    "blob_submitter": "StarkNet",
+    "blobs": 291,
     "time": "2024-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 18,
+    "blob_submitter": "Base",
+    "blobs": 4990,
     "time": "2024-08-02 00:00:00.000 UTC"
   },
   {
@@ -70,13 +55,8 @@
     "time": "2024-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 291,
-    "time": "2024-08-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 371,
+    "blob_submitter": "Camp Network",
+    "blobs": 18,
     "time": "2024-08-02 00:00:00.000 UTC"
   },
   {
@@ -145,6 +125,11 @@
     "time": "2024-08-02 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Parallel",
+    "blobs": 2,
+    "time": "2024-08-02 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Blast",
     "blobs": 1269,
     "time": "2024-08-02 00:00:00.000 UTC"
@@ -157,6 +142,41 @@
   {
     "blob_submitter": "Shape",
     "blobs": 15,
+    "time": "2024-08-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 30,
+    "time": "2024-08-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 115,
+    "time": "2024-08-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2664,
+    "time": "2024-08-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 84,
+    "time": "2024-08-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 178,
+    "time": "2024-08-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 13,
+    "time": "2024-08-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 6,
     "time": "2024-08-02 00:00:00.000 UTC"
   }
 ]
