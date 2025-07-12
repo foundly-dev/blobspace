@@ -1,37 +1,42 @@
 [
   {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
+    "blob_submitter": "Mode",
+    "blobs": 88,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 523,
+    "blob_submitter": "zkSync Era",
+    "blobs": 157,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 4435,
+    "blob_submitter": "Metal",
+    "blobs": 361,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1825,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 6,
+    "blob_submitter": "Lisk",
+    "blobs": 5,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 23,
+    "blob_submitter": "Lumio",
+    "blobs": 16,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "PandaSea",
-    "blobs": 25,
+    "blob_submitter": "Kroma",
+    "blobs": 269,
+    "time": "2024-07-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
@@ -50,13 +55,13 @@
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 13,
+    "blob_submitter": "StarkNet",
+    "blobs": 439,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 439,
+    "blob_submitter": "Inscriptions",
+    "blobs": 13,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
@@ -65,13 +70,8 @@
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 535,
-    "time": "2024-07-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 103,
+    "blob_submitter": "Zircuit",
+    "blobs": 467,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
@@ -80,8 +80,13 @@
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 467,
+    "blob_submitter": "Debank Chain",
+    "blobs": 103,
+    "time": "2024-07-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 535,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
@@ -90,18 +95,38 @@
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 21,
+    "blob_submitter": "Base",
+    "blobs": 4435,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Nal",
-    "blobs": 50,
+    "blob_submitter": "Scroll",
+    "blobs": 523,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 296,
+    "blob_submitter": "Lambda",
+    "blobs": 14,
+    "time": "2024-07-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "PandaSea",
+    "blobs": 25,
+    "time": "2024-07-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
+    "time": "2024-07-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 23,
+    "time": "2024-07-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 6,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
@@ -115,38 +140,8 @@
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 37,
-    "time": "2024-07-19 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arbitrum One",
     "blobs": 2703,
-    "time": "2024-07-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 3815,
-    "time": "2024-07-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 88,
-    "time": "2024-07-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 77,
-    "time": "2024-07-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 157,
-    "time": "2024-07-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 361,
     "time": "2024-07-19 00:00:00.000 UTC"
   }
 ]

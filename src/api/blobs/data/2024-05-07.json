@@ -1,12 +1,52 @@
 [
   {
-    "blob_submitter": "ZORA",
-    "blobs": 102,
+    "blob_submitter": "Paradex",
+    "blobs": 143,
+    "time": "2024-05-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 4,
+    "time": "2024-05-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 14,
+    "time": "2024-05-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 9,
+    "time": "2024-05-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 2334,
+    "time": "2024-05-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 3858,
+    "time": "2024-05-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1932,
     "time": "2024-05-07 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Mode",
     "blobs": 875,
+    "time": "2024-05-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 102,
+    "time": "2024-05-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 468,
     "time": "2024-05-07 00:00:00.000 UTC"
   },
   {
@@ -25,41 +65,6 @@
     "time": "2024-05-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 468,
-    "time": "2024-05-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 9,
-    "time": "2024-05-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
-    "time": "2024-05-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 2334,
-    "time": "2024-05-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1932,
-    "time": "2024-05-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 3858,
-    "time": "2024-05-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 2034,
-    "time": "2024-05-07 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Linea",
     "blobs": 528,
     "time": "2024-05-07 00:00:00.000 UTC"
@@ -67,21 +72,6 @@
   {
     "blob_submitter": "Metal",
     "blobs": 8,
-    "time": "2024-05-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 182,
-    "time": "2024-05-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 10,
-    "time": "2024-05-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 4,
     "time": "2024-05-07 00:00:00.000 UTC"
   }
 ]
