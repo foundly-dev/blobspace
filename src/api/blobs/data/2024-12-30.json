@@ -1,75 +1,5 @@
 [
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 31,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Unichain",
-    "blobs": 22,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 26,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERO Network",
-    "blobs": 6,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 81,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 83,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 10,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 46,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 49,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
-    "blobs": 7,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 24,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "pegglecoin",
-    "blobs": 12,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ink",
-    "blobs": 35,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Morph",
     "blobs": 128,
     "time": "2024-12-30 00:00:00.000 UTC"
@@ -85,26 +15,6 @@
     "time": "2024-12-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Abstract",
-    "blobs": 4,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swell",
-    "blobs": 25,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 84,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 20,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Mint",
     "blobs": 304,
     "time": "2024-12-30 00:00:00.000 UTC"
@@ -115,8 +25,33 @@
     "time": "2024-12-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2214,
+    "blob_submitter": "Debank Chain",
+    "blobs": 20,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 6,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Abstract",
+    "blobs": 4,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 84,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swell",
+    "blobs": 25,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 2268,
     "time": "2024-12-30 00:00:00.000 UTC"
   },
   {
@@ -130,38 +65,38 @@
     "time": "2024-12-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2214,
     "time": "2024-12-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 54,
+    "blob_submitter": "Metal",
+    "blobs": 356,
     "time": "2024-12-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "SNAXchain",
+    "blob_submitter": "Lisk",
+    "blobs": 352,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 32,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 83,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Phala Network",
+    "blobs": 77,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
     "blobs": 16,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 467,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 7,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 330,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 82,
     "time": "2024-12-30 00:00:00.000 UTC"
   },
   {
@@ -170,18 +105,78 @@
     "time": "2024-12-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 2957,
+    "blob_submitter": "HashKey",
+    "blobs": 25,
     "time": "2024-12-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
+    "blob_submitter": "Optopia",
+    "blobs": 8,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Soneium",
+    "blobs": 10,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ink",
+    "blobs": 35,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 7,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 49,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 46,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 24,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "pegglecoin",
+    "blobs": 12,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 845,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 4,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 24,
     "time": "2024-12-30 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Linea",
     "blobs": 125,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 31,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Unichain",
+    "blobs": 22,
     "time": "2024-12-30 00:00:00.000 UTC"
   }
 ]
