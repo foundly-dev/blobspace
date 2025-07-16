@@ -15,6 +15,16 @@
     "time": "2024-03-20 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2166,
+    "time": "2024-03-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 113,
+    "time": "2024-03-20 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "zkSync Era",
     "blobs": 777,
     "time": "2024-03-20 00:00:00.000 UTC"
@@ -32,11 +42,6 @@
   {
     "blob_submitter": "Others",
     "blobs": 3,
-    "time": "2024-03-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 1987,
     "time": "2024-03-20 00:00:00.000 UTC"
   }
 ]
