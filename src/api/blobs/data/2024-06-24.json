@@ -1,7 +1,7 @@
 [
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 20,
+    "blob_submitter": "Metal",
+    "blobs": 359,
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
@@ -10,8 +10,8 @@
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 359,
+    "blob_submitter": "Inscriptions",
+    "blobs": 20,
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
@@ -25,13 +25,13 @@
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 5945,
+    "blob_submitter": "Scroll",
+    "blobs": 1772,
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 1772,
+    "blob_submitter": "Base",
+    "blobs": 5945,
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
@@ -55,6 +55,36 @@
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 3072,
+    "time": "2024-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 16,
+    "time": "2024-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 108,
+    "time": "2024-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 1340,
+    "time": "2024-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 47,
+    "time": "2024-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 17,
+    "time": "2024-06-24 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Polynomial",
     "blobs": 16,
     "time": "2024-06-24 00:00:00.000 UTC"
@@ -70,33 +100,8 @@
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 191,
-    "time": "2024-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 364,
-    "time": "2024-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 206,
-    "time": "2024-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 12,
-    "time": "2024-06-24 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "River",
     "blobs": 184,
-    "time": "2024-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
@@ -107,11 +112,6 @@
   {
     "blob_submitter": "zkSync Era",
     "blobs": 313,
-    "time": "2024-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 108,
     "time": "2024-06-24 00:00:00.000 UTC"
   }
 ]

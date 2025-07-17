@@ -5,13 +5,13 @@
     "time": "2024-06-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 2185,
+    "blob_submitter": "Parallel",
+    "blobs": 18,
     "time": "2024-06-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 2185,
     "time": "2024-06-08 00:00:00.000 UTC"
   },
   {
@@ -20,13 +20,13 @@
     "time": "2024-06-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 1387,
+    "blob_submitter": "Optopia",
+    "blobs": 71,
     "time": "2024-06-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 114,
+    "blob_submitter": "Scroll",
+    "blobs": 1387,
     "time": "2024-06-08 00:00:00.000 UTC"
   },
   {
@@ -35,8 +35,28 @@
     "time": "2024-06-08 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Mode",
+    "blobs": 114,
+    "time": "2024-06-08 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Metal",
     "blobs": 359,
+    "time": "2024-06-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2286,
+    "time": "2024-06-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 316,
+    "time": "2024-06-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 8,
     "time": "2024-06-08 00:00:00.000 UTC"
   },
   {
@@ -60,43 +80,8 @@
     "time": "2024-06-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 966,
-    "time": "2024-06-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 2190,
-    "time": "2024-06-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 15,
-    "time": "2024-06-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 354,
-    "time": "2024-06-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 50,
-    "time": "2024-06-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 186,
-    "time": "2024-06-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 447,
-    "time": "2024-06-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 102,
+    "blob_submitter": "Kroma",
+    "blobs": 210,
     "time": "2024-06-08 00:00:00.000 UTC"
   },
   {
@@ -105,13 +90,8 @@
     "time": "2024-06-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 210,
-    "time": "2024-06-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 18,
+    "blob_submitter": "ZORA",
+    "blobs": 102,
     "time": "2024-06-08 00:00:00.000 UTC"
   }
 ]
