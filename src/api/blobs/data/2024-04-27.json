@@ -1,17 +1,22 @@
 [
   {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
+    "blob_submitter": "zkSync Era",
+    "blobs": 426,
     "time": "2024-04-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 47,
+    "blob_submitter": "StarkNet",
+    "blobs": 275,
     "time": "2024-04-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 8,
+    "blob_submitter": "Paradex",
+    "blobs": 187,
+    "time": "2024-04-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 2,
     "time": "2024-04-27 00:00:00.000 UTC"
   },
   {
@@ -20,8 +25,8 @@
     "time": "2024-04-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 156,
+    "blob_submitter": "Lambda",
+    "blobs": 14,
     "time": "2024-04-27 00:00:00.000 UTC"
   },
   {
@@ -35,6 +40,16 @@
     "time": "2024-04-27 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Boba Network",
+    "blobs": 47,
+    "time": "2024-04-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 156,
+    "time": "2024-04-27 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Base",
     "blobs": 3840,
     "time": "2024-04-27 00:00:00.000 UTC"
@@ -45,28 +60,8 @@
     "time": "2024-04-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 426,
-    "time": "2024-04-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 275,
-    "time": "2024-04-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 160,
-    "time": "2024-04-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 14,
-    "time": "2024-04-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 389,
+    "blob_submitter": "Metal",
+    "blobs": 8,
     "time": "2024-04-27 00:00:00.000 UTC"
   }
 ]
