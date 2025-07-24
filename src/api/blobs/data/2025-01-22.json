@@ -1,97 +1,7 @@
 [
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 765,
-    "time": "2025-01-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 24,
-    "time": "2025-01-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
-    "blobs": 8,
-    "time": "2025-01-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 53,
-    "time": "2025-01-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 23,
-    "time": "2025-01-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 175,
-    "time": "2025-01-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 3204,
-    "time": "2025-01-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 54,
-    "time": "2025-01-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 5,
-    "time": "2025-01-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2025-01-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 30,
-    "time": "2025-01-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 100,
-    "time": "2025-01-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 35,
-    "time": "2025-01-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 40,
-    "time": "2025-01-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 25,
-    "time": "2025-01-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
-    "time": "2025-01-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 152,
-    "time": "2025-01-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 17,
-    "time": "2025-01-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 88,
+    "blob_submitter": "Base",
+    "blobs": 9280,
     "time": "2025-01-22 00:00:00.000 UTC"
   },
   {
@@ -130,11 +40,6 @@
     "time": "2025-01-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 28,
-    "time": "2025-01-22 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Swell",
     "blobs": 36,
     "time": "2025-01-22 00:00:00.000 UTC"
@@ -145,8 +50,103 @@
     "time": "2025-01-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 9280,
+    "blob_submitter": "Camp Network",
+    "blobs": 28,
+    "time": "2025-01-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 3204,
+    "time": "2025-01-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Soneium",
+    "blobs": 175,
+    "time": "2025-01-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 100,
+    "time": "2025-01-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 35,
+    "time": "2025-01-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 40,
+    "time": "2025-01-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 54,
+    "time": "2025-01-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 5,
+    "time": "2025-01-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 30,
+    "time": "2025-01-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
+    "time": "2025-01-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 765,
+    "time": "2025-01-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 24,
+    "time": "2025-01-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 8,
+    "time": "2025-01-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 25,
+    "time": "2025-01-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 17,
+    "time": "2025-01-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 152,
+    "time": "2025-01-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
+    "time": "2025-01-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 88,
+    "time": "2025-01-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 53,
+    "time": "2025-01-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 23,
     "time": "2025-01-22 00:00:00.000 UTC"
   },
   {

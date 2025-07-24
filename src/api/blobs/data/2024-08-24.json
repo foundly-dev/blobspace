@@ -1,80 +1,5 @@
 [
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 19,
-    "time": "2024-08-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 6,
-    "time": "2024-08-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2024-08-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 99,
-    "time": "2024-08-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 16,
-    "time": "2024-08-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 1,
-    "time": "2024-08-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
-    "time": "2024-08-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 25,
-    "time": "2024-08-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 50,
-    "time": "2024-08-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
-    "time": "2024-08-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "XGA",
-    "blobs": 76,
-    "time": "2024-08-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2034,
-    "time": "2024-08-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2024-08-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 15,
-    "time": "2024-08-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 138,
-    "time": "2024-08-24 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Taiko",
     "blobs": 3526,
     "time": "2024-08-24 00:00:00.000 UTC"
@@ -85,18 +10,13 @@
     "time": "2024-08-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
-    "time": "2024-08-24 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "StarkNet",
     "blobs": 195,
     "time": "2024-08-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 76,
+    "blob_submitter": "Lisk",
+    "blobs": 5,
     "time": "2024-08-24 00:00:00.000 UTC"
   },
   {
@@ -105,18 +25,18 @@
     "time": "2024-08-24 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "RACE",
+    "blobs": 76,
+    "time": "2024-08-24 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Metal",
     "blobs": 361,
     "time": "2024-08-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 257,
-    "time": "2024-08-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 212,
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
     "time": "2024-08-24 00:00:00.000 UTC"
   },
   {
@@ -130,8 +50,88 @@
     "time": "2024-08-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
+    "blob_submitter": "Linea",
+    "blobs": 257,
+    "time": "2024-08-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 212,
+    "time": "2024-08-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 6,
+    "time": "2024-08-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 14,
+    "time": "2024-08-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
+    "blobs": 76,
+    "time": "2024-08-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 50,
+    "time": "2024-08-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 25,
+    "time": "2024-08-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 6,
+    "time": "2024-08-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2034,
+    "time": "2024-08-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
+    "time": "2024-08-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 1,
+    "time": "2024-08-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 19,
+    "time": "2024-08-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 99,
+    "time": "2024-08-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
     "blobs": 16,
+    "time": "2024-08-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2024-08-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 15,
+    "time": "2024-08-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 138,
     "time": "2024-08-24 00:00:00.000 UTC"
   },
   {
