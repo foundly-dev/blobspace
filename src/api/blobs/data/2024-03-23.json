@@ -1,7 +1,7 @@
 [
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 620,
+    "blob_submitter": "Base",
+    "blobs": 1922,
     "time": "2024-03-23 00:00:00.000 UTC"
   },
   {
@@ -10,8 +10,8 @@
     "time": "2024-03-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 1922,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1032,
     "time": "2024-03-23 00:00:00.000 UTC"
   },
   {
@@ -20,23 +20,8 @@
     "time": "2024-03-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1032,
-    "time": "2024-03-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 682,
-    "time": "2024-03-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 2,
-    "time": "2024-03-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 119,
+    "blob_submitter": "StarkNet",
+    "blobs": 620,
     "time": "2024-03-23 00:00:00.000 UTC"
   },
   {
