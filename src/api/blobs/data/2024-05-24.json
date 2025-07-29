@@ -1,47 +1,7 @@
 [
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
-    "time": "2024-05-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 1443,
-    "time": "2024-05-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 18,
-    "time": "2024-05-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 168,
-    "time": "2024-05-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 84,
-    "time": "2024-05-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 41,
-    "time": "2024-05-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 3264,
-    "time": "2024-05-24 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "StarkNet",
     "blobs": 282,
-    "time": "2024-05-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 184,
     "time": "2024-05-24 00:00:00.000 UTC"
   },
   {
@@ -55,6 +15,11 @@
     "time": "2024-05-24 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "River",
+    "blobs": 184,
+    "time": "2024-05-24 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Metal",
     "blobs": 361,
     "time": "2024-05-24 00:00:00.000 UTC"
@@ -62,6 +27,41 @@
   {
     "blob_submitter": "OP Mainnet",
     "blobs": 1962,
+    "time": "2024-05-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 18,
+    "time": "2024-05-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 168,
+    "time": "2024-05-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 41,
+    "time": "2024-05-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 84,
+    "time": "2024-05-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 1443,
+    "time": "2024-05-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-05-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 3264,
     "time": "2024-05-24 00:00:00.000 UTC"
   },
   {

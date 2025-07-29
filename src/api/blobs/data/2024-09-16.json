@@ -1,5 +1,55 @@
 [
   {
+    "blob_submitter": "SNAXchain",
+    "blobs": 50,
+    "time": "2024-09-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 684,
+    "time": "2024-09-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 84,
+    "time": "2024-09-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 116,
+    "time": "2024-09-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-09-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 14,
+    "time": "2024-09-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 24,
+    "time": "2024-09-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 6,
+    "time": "2024-09-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 168,
+    "time": "2024-09-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1800,
+    "time": "2024-09-16 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Polynomial",
     "blobs": 16,
     "time": "2024-09-16 00:00:00.000 UTC"
@@ -25,53 +75,8 @@
     "time": "2024-09-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "SNAXchain",
-    "blobs": 50,
-    "time": "2024-09-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 684,
-    "time": "2024-09-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 84,
-    "time": "2024-09-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
-    "time": "2024-09-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 116,
-    "time": "2024-09-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 14,
-    "time": "2024-09-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
-    "time": "2024-09-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 24,
-    "time": "2024-09-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 168,
-    "time": "2024-09-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1800,
+    "blob_submitter": "Others",
+    "blobs": 144,
     "time": "2024-09-16 00:00:00.000 UTC"
   },
   {
@@ -85,23 +90,8 @@
     "time": "2024-09-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 144,
-    "time": "2024-09-16 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "World Chain",
     "blobs": 117,
-    "time": "2024-09-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 513,
-    "time": "2024-09-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
     "time": "2024-09-16 00:00:00.000 UTC"
   },
   {
@@ -110,18 +100,28 @@
     "time": "2024-09-16 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2024-09-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 513,
+    "time": "2024-09-16 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Optopia",
     "blobs": 71,
     "time": "2024-09-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Nal",
-    "blobs": 49,
+    "blob_submitter": "ZORA",
+    "blobs": 67,
     "time": "2024-09-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 67,
+    "blob_submitter": "Nal",
+    "blobs": 49,
     "time": "2024-09-16 00:00:00.000 UTC"
   }
 ]

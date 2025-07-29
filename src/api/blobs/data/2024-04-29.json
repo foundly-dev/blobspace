@@ -1,20 +1,5 @@
 [
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1860,
-    "time": "2024-04-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 285,
-    "time": "2024-04-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 1327,
-    "time": "2024-04-29 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Kroma",
     "blobs": 159,
     "time": "2024-04-29 00:00:00.000 UTC"
@@ -25,8 +10,13 @@
     "time": "2024-04-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 464,
+    "blob_submitter": "Scroll",
+    "blobs": 1327,
+    "time": "2024-04-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 2,
     "time": "2024-04-29 00:00:00.000 UTC"
   },
   {
@@ -35,8 +25,18 @@
     "time": "2024-04-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 2,
+    "blob_submitter": "zkSync Era",
+    "blobs": 464,
+    "time": "2024-04-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1860,
+    "time": "2024-04-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 285,
     "time": "2024-04-29 00:00:00.000 UTC"
   },
   {

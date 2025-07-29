@@ -1,7 +1,22 @@
 [
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 23,
+    "blob_submitter": "StarkNet",
+    "blobs": 261,
+    "time": "2024-06-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 359,
+    "time": "2024-06-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 24,
+    "time": "2024-06-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 372,
     "time": "2024-06-11 00:00:00.000 UTC"
   },
   {
@@ -30,28 +45,8 @@
     "time": "2024-06-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 359,
-    "time": "2024-06-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 24,
-    "time": "2024-06-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 372,
-    "time": "2024-06-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 261,
-    "time": "2024-06-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 2070,
+    "blob_submitter": "Camp Network",
+    "blobs": 23,
     "time": "2024-06-11 00:00:00.000 UTC"
   },
   {
@@ -65,13 +60,18 @@
     "time": "2024-06-11 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 2070,
+    "time": "2024-06-11 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lisk",
     "blobs": 15,
     "time": "2024-06-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 1376,
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
     "time": "2024-06-11 00:00:00.000 UTC"
   },
   {
@@ -85,8 +85,8 @@
     "time": "2024-06-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
+    "blob_submitter": "Scroll",
+    "blobs": 1376,
     "time": "2024-06-11 00:00:00.000 UTC"
   }
 ]
