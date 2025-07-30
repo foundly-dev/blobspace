@@ -1,7 +1,52 @@
 [
   {
-    "blob_submitter": "Paradex",
-    "blobs": 22,
+    "blob_submitter": "Metal",
+    "blobs": 359,
+    "time": "2025-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERO Network",
+    "blobs": 3,
+    "time": "2025-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 42,
+    "time": "2025-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Infinaeon",
+    "blobs": 10,
+    "time": "2025-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 25,
+    "time": "2025-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
+    "time": "2025-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 2184,
+    "time": "2025-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 114,
+    "time": "2025-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2505,
+    "time": "2025-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 24,
     "time": "2025-07-27 00:00:00.000 UTC"
   },
   {
@@ -17,6 +62,11 @@
   {
     "blob_submitter": "Ethernity",
     "blobs": 5,
+    "time": "2025-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 22,
     "time": "2025-07-27 00:00:00.000 UTC"
   },
   {
@@ -42,6 +92,21 @@
   {
     "blob_submitter": "Mint",
     "blobs": 18,
+    "time": "2025-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 548,
+    "time": "2025-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Katana",
+    "blobs": 206,
+    "time": "2025-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 99,
     "time": "2025-07-27 00:00:00.000 UTC"
   },
   {
@@ -80,21 +145,6 @@
     "time": "2025-07-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 548,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Katana",
-    "blobs": 206,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 99,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Superseed",
     "blobs": 16,
     "time": "2025-07-27 00:00:00.000 UTC"
@@ -105,13 +155,18 @@
     "time": "2025-07-27 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Base",
+    "blobs": 10914,
+    "time": "2025-07-27 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "HashKey",
     "blobs": 47,
     "time": "2025-07-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 10914,
+    "blob_submitter": "Shape",
+    "blobs": 690,
     "time": "2025-07-27 00:00:00.000 UTC"
   },
   {
@@ -122,66 +177,6 @@
   {
     "blob_submitter": "Settlus",
     "blobs": 16,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 24,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Morph",
-    "blobs": 557,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 102,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 6126,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 2402,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "SNAXchain",
-    "blobs": 16,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 10,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 690,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Abstract",
-    "blobs": 561,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metis",
-    "blobs": 53,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 19,
     "time": "2025-07-27 00:00:00.000 UTC"
   }
 ]

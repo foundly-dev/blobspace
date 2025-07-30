@@ -1,7 +1,17 @@
 [
   {
-    "blob_submitter": "Metal",
-    "blobs": 8,
+    "blob_submitter": "zkSync Era",
+    "blobs": 642,
+    "time": "2024-04-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 18,
+    "time": "2024-04-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 2058,
     "time": "2024-04-25 00:00:00.000 UTC"
   },
   {
@@ -10,8 +20,8 @@
     "time": "2024-04-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 2058,
+    "blob_submitter": "Metal",
+    "blobs": 8,
     "time": "2024-04-25 00:00:00.000 UTC"
   },
   {
@@ -35,13 +45,13 @@
     "time": "2024-04-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2214,
     "time": "2024-04-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2214,
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
     "time": "2024-04-25 00:00:00.000 UTC"
   },
   {
@@ -57,26 +67,6 @@
   {
     "blob_submitter": "StarkNet",
     "blobs": 284,
-    "time": "2024-04-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 126,
-    "time": "2024-04-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 26,
-    "time": "2024-04-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 2,
-    "time": "2024-04-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 18,
     "time": "2024-04-25 00:00:00.000 UTC"
   }
 ]
