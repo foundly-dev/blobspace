@@ -1,5 +1,15 @@
 [
   {
+    "blob_submitter": "Paradex",
+    "blobs": 447,
+    "time": "2024-06-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 186,
+    "time": "2024-06-08 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Taiko",
     "blobs": 2190,
     "time": "2024-06-08 00:00:00.000 UTC"
@@ -7,11 +17,6 @@
   {
     "blob_submitter": "Debank Chain",
     "blobs": 15,
-    "time": "2024-06-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 354,
     "time": "2024-06-08 00:00:00.000 UTC"
   },
   {
@@ -25,8 +30,13 @@
     "time": "2024-06-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 186,
+    "blob_submitter": "StarkNet",
+    "blobs": 354,
+    "time": "2024-06-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 102,
     "time": "2024-06-08 00:00:00.000 UTC"
   },
   {
@@ -40,13 +50,43 @@
     "time": "2024-06-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 102,
+    "blob_submitter": "Lisk",
+    "blobs": 12,
     "time": "2024-06-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 447,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 2185,
+    "time": "2024-06-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-06-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 71,
+    "time": "2024-06-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 1387,
+    "time": "2024-06-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 17,
+    "time": "2024-06-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 114,
+    "time": "2024-06-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 359,
     "time": "2024-06-08 00:00:00.000 UTC"
   },
   {
@@ -60,43 +100,13 @@
     "time": "2024-06-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 316,
-    "time": "2024-06-08 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Mint",
     "blobs": 8,
     "time": "2024-06-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 133,
-    "time": "2024-06-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 4404,
-    "time": "2024-06-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 15,
-    "time": "2024-06-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 8,
-    "time": "2024-06-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 12,
-    "time": "2024-06-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 2185,
+    "blob_submitter": "zkSync Era",
+    "blobs": 316,
     "time": "2024-06-08 00:00:00.000 UTC"
   }
 ]
