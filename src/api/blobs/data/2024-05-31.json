@@ -1,42 +1,32 @@
 [
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 21,
+    "blob_submitter": "zkSync Era",
+    "blobs": 280,
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 3840,
+    "blob_submitter": "Parallel",
+    "blobs": 17,
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 102,
+    "blob_submitter": "Blast",
+    "blobs": 830,
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 290,
+    "blob_submitter": "Optopia",
+    "blobs": 69,
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 8,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2571,
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 8,
-    "time": "2024-05-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
-    "time": "2024-05-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 133,
+    "blob_submitter": "Paradex",
+    "blobs": 486,
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
@@ -60,23 +50,23 @@
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 830,
+    "blob_submitter": "Inscriptions",
+    "blobs": 21,
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 17,
+    "blob_submitter": "Base",
+    "blobs": 3840,
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 280,
+    "blob_submitter": "ZORA",
+    "blobs": 102,
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 69,
+    "blob_submitter": "StarkNet",
+    "blobs": 290,
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
@@ -85,13 +75,18 @@
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 486,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1224,
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2571,
+    "blob_submitter": "Camp Network",
+    "blobs": 53,
+    "time": "2024-05-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 667,
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
@@ -101,6 +96,16 @@
   },
   {
     "blob_submitter": "Lumio",
+    "blobs": 8,
+    "time": "2024-05-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 3927,
+    "time": "2024-05-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
     "blobs": 8,
     "time": "2024-05-31 00:00:00.000 UTC"
   }
