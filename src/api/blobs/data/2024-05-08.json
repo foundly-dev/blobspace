@@ -1,7 +1,7 @@
 [
   {
-    "blob_submitter": "Base",
-    "blobs": 3492,
+    "blob_submitter": "Boba Network",
+    "blobs": 34,
     "time": "2024-05-08 00:00:00.000 UTC"
   },
   {
@@ -10,8 +10,8 @@
     "time": "2024-05-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 34,
+    "blob_submitter": "Mode",
+    "blobs": 504,
     "time": "2024-05-08 00:00:00.000 UTC"
   },
   {
@@ -20,28 +20,8 @@
     "time": "2024-05-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 504,
-    "time": "2024-05-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 120,
-    "time": "2024-05-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 1752,
-    "time": "2024-05-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 168,
-    "time": "2024-05-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 9,
+    "blob_submitter": "Base",
+    "blobs": 3492,
     "time": "2024-05-08 00:00:00.000 UTC"
   },
   {
@@ -50,18 +30,38 @@
     "time": "2024-05-08 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Scroll",
+    "blobs": 1752,
+    "time": "2024-05-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 9,
+    "time": "2024-05-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 120,
+    "time": "2024-05-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 168,
+    "time": "2024-05-08 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Parallel",
     "blobs": 5,
     "time": "2024-05-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 52,
+    "blob_submitter": "Linea",
+    "blobs": 422,
     "time": "2024-05-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 2052,
+    "blob_submitter": "Inscriptions",
+    "blobs": 52,
     "time": "2024-05-08 00:00:00.000 UTC"
   },
   {
@@ -72,16 +72,6 @@
   {
     "blob_submitter": "Lambda",
     "blobs": 15,
-    "time": "2024-05-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 14,
-    "time": "2024-05-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 8,
     "time": "2024-05-08 00:00:00.000 UTC"
   }
 ]

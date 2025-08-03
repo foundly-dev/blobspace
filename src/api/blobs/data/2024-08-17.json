@@ -5,11 +5,6 @@
     "time": "2024-08-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 25,
-    "time": "2024-08-17 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arbitrum One",
     "blobs": 1449,
     "time": "2024-08-17 00:00:00.000 UTC"
@@ -20,8 +15,8 @@
     "time": "2024-08-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
+    "blob_submitter": "RACE",
+    "blobs": 76,
     "time": "2024-08-17 00:00:00.000 UTC"
   },
   {
@@ -30,13 +25,13 @@
     "time": "2024-08-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1390,
+    "blob_submitter": "Camp Network",
+    "blobs": 25,
     "time": "2024-08-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 491,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1390,
     "time": "2024-08-17 00:00:00.000 UTC"
   },
   {
@@ -50,37 +45,27 @@
     "time": "2024-08-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
-    "time": "2024-08-17 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Scroll",
     "blobs": 345,
     "time": "2024-08-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 76,
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
     "time": "2024-08-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 284,
+    "blob_submitter": "Optopia",
+    "blobs": 71,
     "time": "2024-08-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 127,
+    "blob_submitter": "Zircuit",
+    "blobs": 491,
     "time": "2024-08-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "XGA",
-    "blobs": 14,
-    "time": "2024-08-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
+    "blob_submitter": "Ethernity",
     "blobs": 5,
     "time": "2024-08-17 00:00:00.000 UTC"
   },
@@ -90,8 +75,28 @@
     "time": "2024-08-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
+    "blob_submitter": "Kinto",
     "blobs": 5,
+    "time": "2024-08-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 127,
+    "time": "2024-08-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 284,
+    "time": "2024-08-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
+    "blobs": 14,
+    "time": "2024-08-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 183,
     "time": "2024-08-17 00:00:00.000 UTC"
   },
   {
@@ -100,18 +105,13 @@
     "time": "2024-08-17 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Paradex",
+    "blobs": 242,
+    "time": "2024-08-17 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Shape",
     "blobs": 14,
-    "time": "2024-08-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 24,
-    "time": "2024-08-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 233,
     "time": "2024-08-17 00:00:00.000 UTC"
   },
   {
@@ -120,13 +120,23 @@
     "time": "2024-08-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 242,
+    "blob_submitter": "Linea",
+    "blobs": 233,
     "time": "2024-08-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 139,
+    "blob_submitter": "Mint",
+    "blobs": 24,
+    "time": "2024-08-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2024-08-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 336,
     "time": "2024-08-17 00:00:00.000 UTC"
   },
   {
@@ -136,6 +146,21 @@
   },
   {
     "blob_submitter": "SNAXchain",
+    "blobs": 16,
+    "time": "2024-08-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 3978,
+    "time": "2024-08-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 163,
+    "time": "2024-08-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
     "blobs": 16,
     "time": "2024-08-17 00:00:00.000 UTC"
   }

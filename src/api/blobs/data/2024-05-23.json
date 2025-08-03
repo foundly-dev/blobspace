@@ -20,13 +20,13 @@
     "time": "2024-05-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 9,
+    "blob_submitter": "Metal",
+    "blobs": 360,
     "time": "2024-05-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 2,
+    "blob_submitter": "Linea",
+    "blobs": 627,
     "time": "2024-05-23 00:00:00.000 UTC"
   },
   {
@@ -40,33 +40,13 @@
     "time": "2024-05-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 627,
+    "blob_submitter": "Lisk",
+    "blobs": 9,
     "time": "2024-05-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 360,
-    "time": "2024-05-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 318,
-    "time": "2024-05-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 42,
-    "time": "2024-05-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 3270,
-    "time": "2024-05-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 331,
+    "blob_submitter": "Lambda",
+    "blobs": 2,
     "time": "2024-05-23 00:00:00.000 UTC"
   },
   {
@@ -75,18 +55,43 @@
     "time": "2024-05-23 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "StarkNet",
+    "blobs": 331,
+    "time": "2024-05-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 71,
+    "time": "2024-05-23 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "ZORA",
     "blobs": 78,
     "time": "2024-05-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 47,
+    "blob_submitter": "Scroll",
+    "blobs": 1366,
     "time": "2024-05-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 174,
+    "blob_submitter": "Base",
+    "blobs": 3270,
+    "time": "2024-05-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 42,
+    "time": "2024-05-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 318,
+    "time": "2024-05-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 47,
     "time": "2024-05-23 00:00:00.000 UTC"
   }
 ]

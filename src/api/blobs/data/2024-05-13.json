@@ -20,23 +20,18 @@
     "time": "2024-05-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 374,
-    "time": "2024-05-13 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Boba Network",
     "blobs": 47,
     "time": "2024-05-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 144,
+    "blob_submitter": "zkSync Era",
+    "blobs": 374,
     "time": "2024-05-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 1545,
+    "blob_submitter": "Others",
+    "blobs": 144,
     "time": "2024-05-13 00:00:00.000 UTC"
   },
   {
@@ -55,13 +50,13 @@
     "time": "2024-05-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 14,
+    "blob_submitter": "Scroll",
+    "blobs": 1545,
     "time": "2024-05-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 3,
+    "blob_submitter": "Camp Network",
+    "blobs": 14,
     "time": "2024-05-13 00:00:00.000 UTC"
   },
   {
@@ -80,8 +75,13 @@
     "time": "2024-05-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2484,
+    "blob_submitter": "Linea",
+    "blobs": 333,
+    "time": "2024-05-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 3,
     "time": "2024-05-13 00:00:00.000 UTC"
   }
 ]

@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "Optopia",
-    "blobs": 74,
-    "time": "2024-06-24 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Metal",
     "blobs": 359,
     "time": "2024-06-24 00:00:00.000 UTC"
@@ -20,13 +15,13 @@
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 292,
+    "blob_submitter": "Optopia",
+    "blobs": 74,
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 1772,
+    "blob_submitter": "StarkNet",
+    "blobs": 292,
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
@@ -37,6 +32,11 @@
   {
     "blob_submitter": "OP Mainnet",
     "blobs": 2030,
+    "time": "2024-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 1772,
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
@@ -70,28 +70,18 @@
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 191,
-    "time": "2024-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 364,
-    "time": "2024-06-24 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Others",
     "blobs": 206,
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 184,
+    "blob_submitter": "Swan Chain",
+    "blobs": 12,
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 12,
+    "blob_submitter": "River",
+    "blobs": 184,
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
@@ -110,18 +100,13 @@
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 3072,
+    "blob_submitter": "Paradex",
+    "blobs": 364,
     "time": "2024-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 108,
-    "time": "2024-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 16,
+    "blob_submitter": "Kroma",
+    "blobs": 191,
     "time": "2024-06-24 00:00:00.000 UTC"
   }
 ]

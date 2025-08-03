@@ -1,7 +1,7 @@
 [
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 765,
+    "blob_submitter": "StarkNet",
+    "blobs": 143,
     "time": "2024-08-31 00:00:00.000 UTC"
   },
   {
@@ -10,18 +10,13 @@
     "time": "2024-08-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 143,
+    "blob_submitter": "Taiko",
+    "blobs": 2834,
     "time": "2024-08-31 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Paradex",
     "blobs": 237,
-    "time": "2024-08-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 2834,
     "time": "2024-08-31 00:00:00.000 UTC"
   },
   {
@@ -45,18 +40,8 @@
     "time": "2024-08-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
-    "time": "2024-08-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 8,
-    "time": "2024-08-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 44,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 765,
     "time": "2024-08-31 00:00:00.000 UTC"
   },
   {
@@ -70,13 +55,18 @@
     "time": "2024-08-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 558,
+    "blob_submitter": "Swan Chain",
+    "blobs": 8,
     "time": "2024-08-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "XGA",
-    "blobs": 77,
+    "blob_submitter": "Lambda",
+    "blobs": 14,
+    "time": "2024-08-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 44,
     "time": "2024-08-31 00:00:00.000 UTC"
   },
   {
@@ -110,8 +100,8 @@
     "time": "2024-08-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 546,
+    "blob_submitter": "Camp Network",
+    "blobs": 20,
     "time": "2024-08-31 00:00:00.000 UTC"
   },
   {
@@ -125,18 +115,13 @@
     "time": "2024-08-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
+    "blob_submitter": "Kroma",
+    "blobs": 558,
     "time": "2024-08-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 3,
-    "time": "2024-08-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 510,
+    "blob_submitter": "XGA",
+    "blobs": 77,
     "time": "2024-08-31 00:00:00.000 UTC"
   }
 ]

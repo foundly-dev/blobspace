@@ -5,11 +5,6 @@
     "time": "2024-06-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 1372,
-    "time": "2024-06-16 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Optopia",
     "blobs": 72,
     "time": "2024-06-16 00:00:00.000 UTC"
@@ -17,6 +12,21 @@
   {
     "blob_submitter": "Mode",
     "blobs": 162,
+    "time": "2024-06-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 1372,
+    "time": "2024-06-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 925,
+    "time": "2024-06-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 7,
     "time": "2024-06-16 00:00:00.000 UTC"
   },
   {
@@ -35,16 +45,6 @@
     "time": "2024-06-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 925,
-    "time": "2024-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 7,
-    "time": "2024-06-16 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Lambda",
     "blobs": 15,
     "time": "2024-06-16 00:00:00.000 UTC"
@@ -55,13 +55,13 @@
     "time": "2024-06-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 185,
+    "blob_submitter": "Taiko",
+    "blobs": 3596,
     "time": "2024-06-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 104,
+    "blob_submitter": "Blast",
+    "blobs": 1316,
     "time": "2024-06-16 00:00:00.000 UTC"
   },
   {
@@ -75,18 +75,28 @@
     "time": "2024-06-16 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Paradex",
+    "blobs": 104,
+    "time": "2024-06-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 8,
+    "time": "2024-06-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 303,
+    "time": "2024-06-16 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Kroma",
     "blobs": 256,
     "time": "2024-06-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 16,
-    "time": "2024-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 21,
+    "blob_submitter": "River",
+    "blobs": 185,
     "time": "2024-06-16 00:00:00.000 UTC"
   }
 ]

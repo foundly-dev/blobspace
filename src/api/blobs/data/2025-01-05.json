@@ -5,6 +5,11 @@
     "time": "2025-01-05 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Scroll",
+    "blobs": 56,
+    "time": "2025-01-05 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Zircuit",
     "blobs": 480,
     "time": "2025-01-05 00:00:00.000 UTC"
@@ -12,51 +17,6 @@
   {
     "blob_submitter": "RACE",
     "blobs": 24,
-    "time": "2025-01-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2025-01-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 800,
-    "time": "2025-01-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 8,
-    "time": "2025-01-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 16,
-    "time": "2025-01-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 59,
-    "time": "2025-01-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 24,
-    "time": "2025-01-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
-    "blobs": 7,
-    "time": "2025-01-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 48,
-    "time": "2025-01-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 56,
     "time": "2025-01-05 00:00:00.000 UTC"
   },
   {
@@ -70,8 +30,58 @@
     "time": "2025-01-05 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 800,
+    "time": "2025-01-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
+    "time": "2025-01-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Soneium",
+    "blobs": 8,
+    "time": "2025-01-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 59,
+    "time": "2025-01-05 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Ink",
     "blobs": 38,
+    "time": "2025-01-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 16,
+    "time": "2025-01-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 24,
+    "time": "2025-01-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 48,
+    "time": "2025-01-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 7,
+    "time": "2025-01-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 114,
+    "time": "2025-01-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 35,
     "time": "2025-01-05 00:00:00.000 UTC"
   },
   {
@@ -85,11 +95,6 @@
     "time": "2025-01-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 10,
-    "time": "2025-01-05 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arena-Z",
     "blobs": 4,
     "time": "2025-01-05 00:00:00.000 UTC"
@@ -100,23 +105,8 @@
     "time": "2025-01-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 35,
-    "time": "2025-01-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 114,
-    "time": "2025-01-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "SNAXchain",
-    "blobs": 16,
-    "time": "2025-01-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
+    "blob_submitter": "Swan Chain",
+    "blobs": 10,
     "time": "2025-01-05 00:00:00.000 UTC"
   },
   {
@@ -125,23 +115,48 @@
     "time": "2025-01-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 26,
-    "time": "2025-01-05 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Morph",
     "blobs": 158,
     "time": "2025-01-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 357,
+    "blob_submitter": "Boba Network",
+    "blobs": 26,
     "time": "2025-01-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Fuel",
-    "blobs": 104,
+    "blob_submitter": "Taiko",
+    "blobs": 2744,
+    "time": "2025-01-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 151,
+    "time": "2025-01-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "HashKey",
+    "blobs": 25,
+    "time": "2025-01-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 76,
+    "time": "2025-01-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2025-01-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 111,
+    "time": "2025-01-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
     "time": "2025-01-05 00:00:00.000 UTC"
   },
   {
@@ -150,23 +165,13 @@
     "time": "2025-01-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1782,
+    "blob_submitter": "SNAXchain",
+    "blobs": 16,
     "time": "2025-01-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 46,
-    "time": "2025-01-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 2400,
-    "time": "2025-01-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 151,
+    "blob_submitter": "Metal",
+    "blobs": 357,
     "time": "2025-01-05 00:00:00.000 UTC"
   }
 ]

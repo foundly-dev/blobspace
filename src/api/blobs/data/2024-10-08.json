@@ -1,17 +1,7 @@
 [
   {
-    "blob_submitter": "Mode",
-    "blobs": 54,
-    "time": "2024-10-08 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "PandaSea",
     "blobs": 25,
-    "time": "2024-10-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 479,
     "time": "2024-10-08 00:00:00.000 UTC"
   },
   {
@@ -40,6 +30,16 @@
     "time": "2024-10-08 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Zircuit",
+    "blobs": 479,
+    "time": "2024-10-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
+    "blobs": 76,
+    "time": "2024-10-08 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lambda",
     "blobs": 14,
     "time": "2024-10-08 00:00:00.000 UTC"
@@ -55,13 +55,8 @@
     "time": "2024-10-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "XGA",
-    "blobs": 76,
-    "time": "2024-10-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 54,
+    "blob_submitter": "ZORA",
+    "blobs": 82,
     "time": "2024-10-08 00:00:00.000 UTC"
   },
   {
@@ -70,8 +65,18 @@
     "time": "2024-10-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 25,
+    "blob_submitter": "Boba Network",
+    "blobs": 54,
+    "time": "2024-10-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 54,
+    "time": "2024-10-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 495,
     "time": "2024-10-08 00:00:00.000 UTC"
   },
   {
@@ -80,8 +85,8 @@
     "time": "2024-10-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 82,
+    "blob_submitter": "R0AR Chain",
+    "blobs": 25,
     "time": "2024-10-08 00:00:00.000 UTC"
   },
   {
@@ -95,28 +100,8 @@
     "time": "2024-10-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 495,
-    "time": "2024-10-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 359,
-    "time": "2024-10-08 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Mint",
     "blobs": 90,
-    "time": "2024-10-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
-    "time": "2024-10-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 164,
     "time": "2024-10-08 00:00:00.000 UTC"
   },
   {
@@ -125,18 +110,43 @@
     "time": "2024-10-08 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Others",
+    "blobs": 164,
+    "time": "2024-10-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 160,
+    "time": "2024-10-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2024-10-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2024-10-08 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "zkSync Era",
     "blobs": 79,
     "time": "2024-10-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 127,
+    "blob_submitter": "Shape",
+    "blobs": 15,
     "time": "2024-10-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 15,
+    "blob_submitter": "Swan Chain",
+    "blobs": 108,
+    "time": "2024-10-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 359,
     "time": "2024-10-08 00:00:00.000 UTC"
   }
 ]
