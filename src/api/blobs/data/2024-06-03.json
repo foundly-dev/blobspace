@@ -1,5 +1,15 @@
 [
   {
+    "blob_submitter": "Lambda",
+    "blobs": 14,
+    "time": "2024-06-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2343,
+    "time": "2024-06-03 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Metal",
     "blobs": 8,
     "time": "2024-06-03 00:00:00.000 UTC"
@@ -20,33 +30,13 @@
     "time": "2024-06-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 1718,
-    "time": "2024-06-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2343,
-    "time": "2024-06-03 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Mode",
     "blobs": 144,
     "time": "2024-06-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
-    "time": "2024-06-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 42,
-    "time": "2024-06-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 133,
+    "blob_submitter": "Scroll",
+    "blobs": 1718,
     "time": "2024-06-03 00:00:00.000 UTC"
   },
   {
@@ -60,48 +50,33 @@
     "time": "2024-06-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 701,
+    "blob_submitter": "Others",
+    "blobs": 133,
     "time": "2024-06-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 8,
+    "blob_submitter": "Camp Network",
+    "blobs": 42,
     "time": "2024-06-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 908,
+    "blob_submitter": "StarkNet",
+    "blobs": 179,
     "time": "2024-06-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 40,
+    "blob_submitter": "Paradex",
+    "blobs": 95,
     "time": "2024-06-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 184,
+    "blob_submitter": "Optopia",
+    "blobs": 73,
     "time": "2024-06-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 84,
-    "time": "2024-06-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 9,
-    "time": "2024-06-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 17,
-    "time": "2024-06-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 3908,
+    "blob_submitter": "zkSync Era",
+    "blobs": 284,
     "time": "2024-06-03 00:00:00.000 UTC"
   }
 ]
