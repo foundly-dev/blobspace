@@ -50,13 +50,13 @@
     "time": "2024-08-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 15,
+    "blob_submitter": "Binary",
+    "blobs": 25,
     "time": "2024-08-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
-    "blobs": 25,
+    "blob_submitter": "World Chain",
+    "blobs": 15,
     "time": "2024-08-13 00:00:00.000 UTC"
   },
   {
@@ -65,28 +65,38 @@
     "time": "2024-08-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 2,
+    "blob_submitter": "PandaSea",
+    "blobs": 25,
     "time": "2024-08-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 40,
+    "blob_submitter": "Base",
+    "blobs": 4705,
     "time": "2024-08-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 145,
+    "blob_submitter": "Debank Chain",
+    "blobs": 31,
     "time": "2024-08-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "XGA",
-    "blobs": 14,
+    "blob_submitter": "Lambda",
+    "blobs": 15,
     "time": "2024-08-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 366,
+    "blob_submitter": "Others",
+    "blobs": 139,
+    "time": "2024-08-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 8,
+    "time": "2024-08-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
     "time": "2024-08-13 00:00:00.000 UTC"
   },
   {
@@ -110,13 +120,13 @@
     "time": "2024-08-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2799,
+    "blob_submitter": "Metal",
+    "blobs": 360,
     "time": "2024-08-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 360,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2799,
     "time": "2024-08-13 00:00:00.000 UTC"
   },
   {
@@ -130,6 +140,11 @@
     "time": "2024-08-13 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "RACE",
+    "blobs": 77,
+    "time": "2024-08-13 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lisk",
     "blobs": 5,
     "time": "2024-08-13 00:00:00.000 UTC"
@@ -140,13 +155,13 @@
     "time": "2024-08-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 77,
+    "blob_submitter": "zkSync Era",
+    "blobs": 145,
     "time": "2024-08-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "PandaSea",
-    "blobs": 25,
+    "blob_submitter": "Mint",
+    "blobs": 40,
     "time": "2024-08-13 00:00:00.000 UTC"
   }
 ]

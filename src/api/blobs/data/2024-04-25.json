@@ -20,18 +20,33 @@
     "time": "2024-04-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 2058,
+    "blob_submitter": "Base",
+    "blobs": 3954,
     "time": "2024-04-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 507,
+    "blob_submitter": "Mode",
+    "blobs": 204,
     "time": "2024-04-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 15,
+    "blob_submitter": "Kroma",
+    "blobs": 106,
+    "time": "2024-04-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2214,
+    "time": "2024-04-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-04-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 8,
     "time": "2024-04-25 00:00:00.000 UTC"
   },
   {
@@ -42,11 +57,6 @@
   {
     "blob_submitter": "zkSync Era",
     "blobs": 642,
-    "time": "2024-04-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 3954,
     "time": "2024-04-25 00:00:00.000 UTC"
   }
 ]

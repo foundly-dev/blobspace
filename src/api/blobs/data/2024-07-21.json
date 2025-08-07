@@ -10,13 +10,13 @@
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 35,
+    "blob_submitter": "World Chain",
+    "blobs": 14,
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 14,
+    "blob_submitter": "Mint",
+    "blobs": 35,
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
@@ -40,28 +40,48 @@
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 369,
+    "blob_submitter": "Mode",
+    "blobs": 138,
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 16,
+    "blob_submitter": "Zircuit",
+    "blobs": 513,
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 719,
+    "blob_submitter": "Kroma",
+    "blobs": 240,
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 186,
+    "blob_submitter": "zkSync Era",
+    "blobs": 168,
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 17,
+    "blob_submitter": "Binary",
+    "blobs": 24,
+    "time": "2024-07-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 36,
+    "time": "2024-07-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-07-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 116,
+    "time": "2024-07-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 20,
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
@@ -105,6 +125,11 @@
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "XGA",
+    "blobs": 14,
+    "time": "2024-07-21 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Metal",
     "blobs": 361,
     "time": "2024-07-21 00:00:00.000 UTC"
@@ -122,16 +147,6 @@
   {
     "blob_submitter": "Camp Network",
     "blobs": 16,
-    "time": "2024-07-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "XGA",
-    "blobs": 14,
-    "time": "2024-07-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 138,
     "time": "2024-07-21 00:00:00.000 UTC"
   }
 ]

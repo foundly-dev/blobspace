@@ -65,58 +65,63 @@
     "time": "2025-06-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Hemi",
-    "blobs": 146,
+    "blob_submitter": "HashKey",
+    "blobs": 40,
     "time": "2025-06-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Settlus",
+    "blob_submitter": "Ethernity",
+    "blobs": 4,
+    "time": "2025-06-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 74,
+    "time": "2025-06-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 192,
+    "time": "2025-06-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 24,
+    "time": "2025-06-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ink",
+    "blobs": 305,
+    "time": "2025-06-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 32,
+    "time": "2025-06-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Infinaeon",
+    "blobs": 10,
+    "time": "2025-06-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
     "blobs": 16,
     "time": "2025-06-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Abstract",
-    "blobs": 545,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 2256,
     "time": "2025-06-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 75,
+    "blob_submitter": "Katana",
+    "blobs": 67,
     "time": "2025-06-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "SNAXchain",
-    "blobs": 16,
-    "time": "2025-06-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 54,
-    "time": "2025-06-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 141,
-    "time": "2025-06-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 25,
-    "time": "2025-06-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 96,
-    "time": "2025-06-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Morph",
-    "blobs": 121,
-    "time": "2025-06-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 366,
+    "blob_submitter": "RACE",
+    "blobs": 24,
     "time": "2025-06-30 00:00:00.000 UTC"
   },
   {
@@ -160,11 +165,6 @@
     "time": "2025-06-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 28,
-    "time": "2025-06-30 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "pegglecoin",
     "blobs": 332,
     "time": "2025-06-30 00:00:00.000 UTC"
@@ -175,18 +175,18 @@
     "time": "2025-06-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 4,
+    "blob_submitter": "Paradex",
+    "blobs": 28,
     "time": "2025-06-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 74,
+    "blob_submitter": "Abstract",
+    "blobs": 545,
     "time": "2025-06-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "HashKey",
-    "blobs": 40,
+    "blob_submitter": "Settlus",
+    "blobs": 16,
     "time": "2025-06-30 00:00:00.000 UTC"
   }
 ]

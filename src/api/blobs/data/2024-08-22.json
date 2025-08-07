@@ -10,13 +10,13 @@
     "time": "2024-08-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2265,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1345,
     "time": "2024-08-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1345,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2265,
     "time": "2024-08-22 00:00:00.000 UTC"
   },
   {
@@ -65,23 +65,58 @@
     "time": "2024-08-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
     "time": "2024-08-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
+    "blob_submitter": "Parallel",
+    "blobs": 1,
+    "time": "2024-08-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
     "blobs": 14,
     "time": "2024-08-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
+    "blob_submitter": "SNAXchain",
     "blobs": 16,
     "time": "2024-08-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 21,
+    "blob_submitter": "Kinto",
+    "blobs": 6,
+    "time": "2024-08-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 7,
+    "time": "2024-08-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 50,
+    "time": "2024-08-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 123,
+    "time": "2024-08-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 17,
+    "time": "2024-08-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 491,
+    "time": "2024-08-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 24,
     "time": "2024-08-22 00:00:00.000 UTC"
   },
   {
@@ -120,13 +155,13 @@
     "time": "2024-08-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 12,
+    "blob_submitter": "Kroma",
+    "blobs": 162,
     "time": "2024-08-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 162,
+    "blob_submitter": "Swan Chain",
+    "blobs": 12,
     "time": "2024-08-22 00:00:00.000 UTC"
   },
   {
@@ -135,13 +170,8 @@
     "time": "2024-08-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 1,
-    "time": "2024-08-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
     "time": "2024-08-22 00:00:00.000 UTC"
   }
 ]

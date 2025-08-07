@@ -45,8 +45,8 @@
     "time": "2024-09-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 319,
+    "blob_submitter": "Mint",
+    "blobs": 88,
     "time": "2024-09-03 00:00:00.000 UTC"
   },
   {
@@ -55,33 +55,23 @@
     "time": "2024-09-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 88,
+    "blob_submitter": "Paradex",
+    "blobs": 319,
     "time": "2024-09-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Nal",
-    "blobs": 50,
+    "blob_submitter": "Others",
+    "blobs": 139,
     "time": "2024-09-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
+    "blob_submitter": "Swan Chain",
+    "blobs": 9,
     "time": "2024-09-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 136,
-    "time": "2024-09-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 24,
-    "time": "2024-09-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "XGA",
-    "blobs": 77,
+    "blob_submitter": "ZORA",
+    "blobs": 84,
     "time": "2024-09-03 00:00:00.000 UTC"
   },
   {
@@ -90,13 +80,13 @@
     "time": "2024-09-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 490,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2004,
     "time": "2024-09-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2004,
+    "blob_submitter": "Scroll",
+    "blobs": 490,
     "time": "2024-09-03 00:00:00.000 UTC"
   },
   {
@@ -115,13 +105,18 @@
     "time": "2024-09-03 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "RACE",
+    "blobs": 77,
+    "time": "2024-09-03 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Debank Chain",
     "blobs": 26,
     "time": "2024-09-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 30,
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
     "time": "2024-09-03 00:00:00.000 UTC"
   },
   {
@@ -135,8 +130,13 @@
     "time": "2024-09-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
+    "blob_submitter": "Camp Network",
+    "blobs": 30,
+    "time": "2024-09-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 71,
     "time": "2024-09-03 00:00:00.000 UTC"
   },
   {
@@ -147,16 +147,6 @@
   {
     "blob_submitter": "PandaSea",
     "blobs": 25,
-    "time": "2024-09-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
-    "time": "2024-09-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 77,
     "time": "2024-09-03 00:00:00.000 UTC"
   }
 ]

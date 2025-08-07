@@ -95,38 +95,28 @@
     "time": "2025-06-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "HashKey",
-    "blobs": 55,
+    "blob_submitter": "Swellchain",
+    "blobs": 36,
     "time": "2025-06-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Katana",
-    "blobs": 49,
+    "blob_submitter": "Lighter",
+    "blobs": 233,
     "time": "2025-06-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Superseed",
-    "blobs": 22,
+    "blob_submitter": "zkSync Era",
+    "blobs": 26,
     "time": "2025-06-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Hemi",
-    "blobs": 144,
+    "blob_submitter": "Unichain",
+    "blobs": 903,
     "time": "2025-06-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 182,
-    "time": "2025-06-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 840,
-    "time": "2025-06-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 15,
+    "blob_submitter": "StarkNet",
+    "blobs": 90,
     "time": "2025-06-29 00:00:00.000 UTC"
   },
   {
@@ -180,6 +170,16 @@
     "time": "2025-06-29 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Mode",
+    "blobs": 119,
+    "time": "2025-06-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 24,
+    "time": "2025-06-29 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Infinaeon",
     "blobs": 10,
     "time": "2025-06-29 00:00:00.000 UTC"
@@ -202,21 +202,6 @@
   {
     "blob_submitter": "Metal",
     "blobs": 361,
-    "time": "2025-06-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 119,
-    "time": "2025-06-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 24,
-    "time": "2025-06-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swellchain",
-    "blobs": 36,
     "time": "2025-06-29 00:00:00.000 UTC"
   }
 ]
