@@ -1,82 +1,7 @@
 [
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1080,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 214,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 183,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 112,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 3050,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 54,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 12,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERO Network",
-    "blobs": 11,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 2237,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 58,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 35,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 360,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 495,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 8110,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 28,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 3138,
     "time": "2024-12-05 00:00:00.000 UTC"
   },
   {
@@ -140,11 +65,6 @@
     "time": "2024-12-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Nal",
-    "blobs": 28,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Camp Network",
     "blobs": 40,
     "time": "2024-12-05 00:00:00.000 UTC"
@@ -152,6 +72,76 @@
   {
     "blob_submitter": "Scroll",
     "blobs": 111,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1080,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 214,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 183,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 112,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 3050,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 54,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 12,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 58,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERO Network",
+    "blobs": 11,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 35,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 360,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 2237,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "pegglecoin",
+    "blobs": 12,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 139,
     "time": "2024-12-05 00:00:00.000 UTC"
   },
   {
@@ -165,8 +155,13 @@
     "time": "2024-12-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Soneium",
-    "blobs": 6,
+    "blob_submitter": "Base",
+    "blobs": 8110,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
     "time": "2024-12-05 00:00:00.000 UTC"
   },
   {
@@ -175,8 +170,23 @@
     "time": "2024-12-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 3138,
+    "blob_submitter": "Zircuit",
+    "blobs": 495,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Soneium",
+    "blobs": 6,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 28,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 28,
     "time": "2024-12-05 00:00:00.000 UTC"
   }
 ]

@@ -1,5 +1,35 @@
 [
   {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-05-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 9,
+    "time": "2024-05-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 1408,
+    "time": "2024-05-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 132,
+    "time": "2024-05-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 2,
+    "time": "2024-05-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 90,
+    "time": "2024-05-11 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Linea",
     "blobs": 287,
     "time": "2024-05-11 00:00:00.000 UTC"
@@ -25,13 +55,13 @@
     "time": "2024-05-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 3360,
+    "blob_submitter": "zkSync Era",
+    "blobs": 360,
     "time": "2024-05-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 12,
+    "blob_submitter": "Base",
+    "blobs": 3360,
     "time": "2024-05-11 00:00:00.000 UTC"
   },
   {
@@ -40,43 +70,18 @@
     "time": "2024-05-11 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Camp Network",
+    "blobs": 12,
+    "time": "2024-05-11 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lambda",
     "blobs": 23,
     "time": "2024-05-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
-    "time": "2024-05-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 9,
-    "time": "2024-05-11 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Optopia",
     "blobs": 71,
-    "time": "2024-05-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 90,
-    "time": "2024-05-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 1408,
-    "time": "2024-05-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 132,
-    "time": "2024-05-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 2,
     "time": "2024-05-11 00:00:00.000 UTC"
   }
 ]
