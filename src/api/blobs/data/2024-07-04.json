@@ -1,32 +1,47 @@
 [
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1880,
+    "blob_submitter": "Blast",
+    "blobs": 828,
     "time": "2024-07-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 16,
+    "blob_submitter": "Mint",
+    "blobs": 22,
     "time": "2024-07-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
+    "blob_submitter": "Taiko",
+    "blobs": 3480,
     "time": "2024-07-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
+    "blob_submitter": "River",
+    "blobs": 303,
+    "time": "2024-07-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 724,
+    "time": "2024-07-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
+    "time": "2024-07-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
     "blobs": 14,
     "time": "2024-07-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 737,
+    "blob_submitter": "Others",
+    "blobs": 135,
     "time": "2024-07-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 455,
+    "blob_submitter": "Parallel",
+    "blobs": 12,
     "time": "2024-07-04 00:00:00.000 UTC"
   },
   {
@@ -65,23 +80,13 @@
     "time": "2024-07-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 25,
-    "time": "2024-07-04 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "zkSync Era",
     "blobs": 201,
     "time": "2024-07-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 357,
-    "time": "2024-07-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 50,
+    "blob_submitter": "Debank Chain",
+    "blobs": 25,
     "time": "2024-07-04 00:00:00.000 UTC"
   },
   {
@@ -110,13 +115,33 @@
     "time": "2024-07-04 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2670,
+    "time": "2024-07-04 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Metal",
     "blobs": 358,
     "time": "2024-07-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2670,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1880,
+    "time": "2024-07-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 737,
+    "time": "2024-07-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2024-07-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 14,
     "time": "2024-07-04 00:00:00.000 UTC"
   }
 ]
