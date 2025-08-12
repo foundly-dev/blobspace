@@ -20,16 +20,6 @@
     "time": "2024-09-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1827,
-    "time": "2024-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "PandaSea",
-    "blobs": 24,
-    "time": "2024-09-08 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Zircuit",
     "blobs": 493,
     "time": "2024-09-08 00:00:00.000 UTC"
@@ -55,6 +45,16 @@
     "time": "2024-09-08 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1827,
+    "time": "2024-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "PandaSea",
+    "blobs": 24,
+    "time": "2024-09-08 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Mode",
     "blobs": 67,
     "time": "2024-09-08 00:00:00.000 UTC"
@@ -70,38 +70,38 @@
     "time": "2024-09-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
-    "blobs": 24,
+    "blob_submitter": "Others",
+    "blobs": 139,
     "time": "2024-09-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
     "time": "2024-09-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 77,
+    "blob_submitter": "Lumio",
+    "blobs": 16,
     "time": "2024-09-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 111,
-    "time": "2024-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
+    "blob_submitter": "Ethernity",
     "blobs": 5,
     "time": "2024-09-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
+    "blob_submitter": "Lambda",
     "blobs": 14,
     "time": "2024-09-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Nal",
-    "blobs": 50,
+    "blob_submitter": "World Chain",
+    "blobs": 167,
+    "time": "2024-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 342,
     "time": "2024-09-08 00:00:00.000 UTC"
   },
   {
@@ -125,6 +125,11 @@
     "time": "2024-09-08 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Kroma",
+    "blobs": 201,
+    "time": "2024-09-08 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "StarkNet",
     "blobs": 108,
     "time": "2024-09-08 00:00:00.000 UTC"
@@ -141,16 +146,6 @@
   },
   {
     "blob_submitter": "SNAXchain",
-    "blobs": 16,
-    "time": "2024-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
-    "time": "2024-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
     "blobs": 16,
     "time": "2024-09-08 00:00:00.000 UTC"
   }

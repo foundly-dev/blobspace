@@ -5,16 +5,6 @@
     "time": "2025-04-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 84,
-    "time": "2025-04-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 155,
-    "time": "2025-04-10 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Abstract",
     "blobs": 350,
     "time": "2025-04-10 00:00:00.000 UTC"
@@ -30,8 +20,18 @@
     "time": "2025-04-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 3274,
+    "blob_submitter": "Shape",
+    "blobs": 155,
+    "time": "2025-04-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 84,
+    "time": "2025-04-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "HashKey",
+    "blobs": 70,
     "time": "2025-04-10 00:00:00.000 UTC"
   },
   {
@@ -42,11 +42,6 @@
   {
     "blob_submitter": "Polynomial",
     "blobs": 39,
-    "time": "2025-04-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "HashKey",
-    "blobs": 70,
     "time": "2025-04-10 00:00:00.000 UTC"
   },
   {
@@ -70,6 +65,11 @@
     "time": "2025-04-10 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Taiko",
+    "blobs": 3274,
+    "time": "2025-04-10 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Blast",
     "blobs": 510,
     "time": "2025-04-10 00:00:00.000 UTC"
@@ -80,43 +80,78 @@
     "time": "2025-04-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lighter",
-    "blobs": 103,
+    "blob_submitter": "Soneium",
+    "blobs": 785,
     "time": "2025-04-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 26,
+    "blob_submitter": "Camp Network",
+    "blobs": 32,
     "time": "2025-04-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
+    "blob_submitter": "Scroll",
+    "blobs": 47,
     "time": "2025-04-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
+    "blob_submitter": "Debank Chain",
     "blobs": 42,
     "time": "2025-04-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
+    "blob_submitter": "Ink",
+    "blobs": 223,
     "time": "2025-04-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
+    "blob_submitter": "Zircuit",
+    "blobs": 97,
+    "time": "2025-04-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 8,
+    "time": "2025-04-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 148,
+    "time": "2025-04-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 8,
+    "time": "2025-04-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 7185,
+    "time": "2025-04-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 76,
+    "time": "2025-04-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 28,
+    "time": "2025-04-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 70,
+    "time": "2025-04-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arena-Z",
     "blobs": 5,
     "time": "2025-04-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Phala Network",
-    "blobs": 16,
-    "time": "2025-04-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 54,
+    "blob_submitter": "Boba Network",
+    "blobs": 25,
     "time": "2025-04-10 00:00:00.000 UTC"
   },
   {
@@ -127,6 +162,11 @@
   {
     "blob_submitter": "Swellchain",
     "blobs": 26,
+    "time": "2025-04-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Unichain",
+    "blobs": 326,
     "time": "2025-04-10 00:00:00.000 UTC"
   },
   {
@@ -170,23 +210,13 @@
     "time": "2025-04-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Soneium",
-    "blobs": 785,
+    "blob_submitter": "Lighter",
+    "blobs": 103,
     "time": "2025-04-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 32,
-    "time": "2025-04-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 7185,
-    "time": "2025-04-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 148,
+    "blob_submitter": "Optopia",
+    "blobs": 8,
     "time": "2025-04-10 00:00:00.000 UTC"
   }
 ]
