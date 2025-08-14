@@ -5,18 +5,23 @@
     "time": "2024-03-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 1,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1443,
     "time": "2024-03-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 123,
+    "blob_submitter": "Base",
+    "blobs": 1471,
     "time": "2024-03-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 6413,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 576,
+    "time": "2024-03-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 126,
     "time": "2024-03-14 00:00:00.000 UTC"
   },
   {
@@ -25,8 +30,13 @@
     "time": "2024-03-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 890,
+    "blob_submitter": "StarkNet",
+    "blobs": 6413,
+    "time": "2024-03-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 1,
     "time": "2024-03-14 00:00:00.000 UTC"
   }
 ]
