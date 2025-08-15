@@ -15,21 +15,6 @@
     "time": "2024-04-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 15,
-    "time": "2024-04-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 12,
-    "time": "2024-04-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 438,
-    "time": "2024-04-03 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Inscriptions",
     "blobs": 10140,
     "time": "2024-04-03 00:00:00.000 UTC"
@@ -47,6 +32,16 @@
   {
     "blob_submitter": "StarkNet",
     "blobs": 294,
+    "time": "2024-04-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 3105,
+    "time": "2024-04-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1866,
     "time": "2024-04-03 00:00:00.000 UTC"
   }
 ]

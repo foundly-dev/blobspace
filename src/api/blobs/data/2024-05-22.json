@@ -1,15 +1,5 @@
 [
   {
-    "blob_submitter": "Others",
-    "blobs": 133,
-    "time": "2024-05-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 8,
-    "time": "2024-05-22 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Base",
     "blobs": 3360,
     "time": "2024-05-22 00:00:00.000 UTC"
@@ -20,33 +10,13 @@
     "time": "2024-05-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 183,
+    "blob_submitter": "Others",
+    "blobs": 133,
     "time": "2024-05-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 78,
-    "time": "2024-05-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 18,
-    "time": "2024-05-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 542,
-    "time": "2024-05-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 242,
-    "time": "2024-05-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 535,
+    "blob_submitter": "Lumio",
+    "blobs": 8,
     "time": "2024-05-22 00:00:00.000 UTC"
   },
   {
@@ -75,6 +45,11 @@
     "time": "2024-05-22 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Camp Network",
+    "blobs": 49,
+    "time": "2024-05-22 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Optopia",
     "blobs": 71,
     "time": "2024-05-22 00:00:00.000 UTC"
@@ -85,8 +60,28 @@
     "time": "2024-05-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 49,
+    "blob_submitter": "Mint",
+    "blobs": 29,
+    "time": "2024-05-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 160,
+    "time": "2024-05-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2352,
+    "time": "2024-05-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 273,
+    "time": "2024-05-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 358,
     "time": "2024-05-22 00:00:00.000 UTC"
   }
 ]
