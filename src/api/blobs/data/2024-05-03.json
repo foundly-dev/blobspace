@@ -1,17 +1,37 @@
 [
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 278,
+    "blob_submitter": "Mode",
+    "blobs": 366,
     "time": "2024-05-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 8,
+    "blob_submitter": "Lambda",
+    "blobs": 15,
     "time": "2024-05-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 4,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1458,
+    "time": "2024-05-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 3918,
+    "time": "2024-05-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1746,
+    "time": "2024-05-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 9,
+    "time": "2024-05-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
     "time": "2024-05-03 00:00:00.000 UTC"
   },
   {
@@ -25,11 +45,6 @@
     "time": "2024-05-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 1929,
-    "time": "2024-05-03 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "ZORA",
     "blobs": 113,
     "time": "2024-05-03 00:00:00.000 UTC"
@@ -40,18 +55,23 @@
     "time": "2024-05-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 1,
+    "blob_submitter": "Scroll",
+    "blobs": 1929,
     "time": "2024-05-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 257,
+    "blob_submitter": "StarkNet",
+    "blobs": 278,
     "time": "2024-05-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 334,
+    "blob_submitter": "Metal",
+    "blobs": 8,
+    "time": "2024-05-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 4,
     "time": "2024-05-03 00:00:00.000 UTC"
   }
 ]
