@@ -1,27 +1,12 @@
 [
   {
-    "blob_submitter": "Paradex",
-    "blobs": 27,
+    "blob_submitter": "Swellchain",
+    "blobs": 49,
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Phala Network",
-    "blobs": 16,
-    "time": "2025-08-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2025-08-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 687,
-    "time": "2025-08-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
+    "blob_submitter": "Blast",
+    "blobs": 332,
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
@@ -35,23 +20,13 @@
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 332,
+    "blob_submitter": "Shape",
+    "blobs": 462,
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Metis",
     "blobs": 64,
-    "time": "2025-08-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Abstract",
-    "blobs": 571,
-    "time": "2025-08-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERO Network",
-    "blobs": 3,
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
@@ -70,26 +45,6 @@
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 18,
-    "time": "2025-08-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "SNAXchain",
-    "blobs": 16,
-    "time": "2025-08-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 462,
-    "time": "2025-08-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swellchain",
-    "blobs": 49,
-    "time": "2025-08-02 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Settlus",
     "blobs": 16,
     "time": "2025-08-02 00:00:00.000 UTC"
@@ -100,13 +55,48 @@
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 361,
+    "blob_submitter": "Mint",
+    "blobs": 18,
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "HashKey",
-    "blobs": 47,
+    "blob_submitter": "SNAXchain",
+    "blobs": 16,
+    "time": "2025-08-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Abstract",
+    "blobs": 571,
+    "time": "2025-08-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERO Network",
+    "blobs": 3,
+    "time": "2025-08-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 27,
+    "time": "2025-08-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2025-08-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Phala Network",
+    "blobs": 16,
+    "time": "2025-08-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
+    "time": "2025-08-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 687,
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
@@ -115,18 +105,23 @@
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Metal",
+    "blobs": 361,
+    "time": "2025-08-02 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "World Chain",
     "blobs": 5016,
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 28,
+    "blob_submitter": "Infinaeon",
+    "blobs": 9,
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1524,
+    "blob_submitter": "HashKey",
+    "blobs": 47,
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
@@ -150,18 +145,18 @@
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Infinaeon",
-    "blobs": 9,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1524,
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
+    "blob_submitter": "Lisk",
+    "blobs": 28,
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 16,
+    "blob_submitter": "Ink",
+    "blobs": 642,
     "time": "2025-08-02 00:00:00.000 UTC"
   }
 ]
