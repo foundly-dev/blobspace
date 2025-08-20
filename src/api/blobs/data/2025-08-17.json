@@ -10,13 +10,13 @@
     "time": "2025-08-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Soneium",
-    "blobs": 855,
+    "blob_submitter": "Ink",
+    "blobs": 438,
     "time": "2025-08-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ink",
-    "blobs": 438,
+    "blob_submitter": "Soneium",
+    "blobs": 855,
     "time": "2025-08-17 00:00:00.000 UTC"
   },
   {
@@ -30,13 +30,13 @@
     "time": "2025-08-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Hemi",
-    "blobs": 92,
+    "blob_submitter": "Base",
+    "blobs": 11562,
     "time": "2025-08-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 11562,
+    "blob_submitter": "Hemi",
+    "blobs": 92,
     "time": "2025-08-17 00:00:00.000 UTC"
   },
   {
@@ -45,13 +45,33 @@
     "time": "2025-08-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 22,
+    "blob_submitter": "ZERO Network",
+    "blobs": 3,
     "time": "2025-08-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
+    "blob_submitter": "Swellchain",
+    "blobs": 52,
+    "time": "2025-08-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 186,
+    "time": "2025-08-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 14,
+    "time": "2025-08-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
+    "time": "2025-08-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lighter",
+    "blobs": 247,
     "time": "2025-08-17 00:00:00.000 UTC"
   },
   {
@@ -85,16 +105,6 @@
     "time": "2025-08-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 804,
-    "time": "2025-08-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Settlus",
-    "blobs": 16,
-    "time": "2025-08-17 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "R0AR Chain",
     "blobs": 10,
     "time": "2025-08-17 00:00:00.000 UTC"
@@ -107,6 +117,26 @@
   {
     "blob_submitter": "Mint",
     "blobs": 20,
+    "time": "2025-08-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "pegglecoin",
+    "blobs": 24,
+    "time": "2025-08-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 804,
+    "time": "2025-08-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Settlus",
+    "blobs": 16,
+    "time": "2025-08-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
     "time": "2025-08-17 00:00:00.000 UTC"
   },
   {
@@ -125,38 +155,8 @@
     "time": "2025-08-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "pegglecoin",
-    "blobs": 24,
-    "time": "2025-08-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 14,
-    "time": "2025-08-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 186,
-    "time": "2025-08-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERO Network",
-    "blobs": 3,
-    "time": "2025-08-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swellchain",
-    "blobs": 52,
-    "time": "2025-08-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2025-08-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lighter",
-    "blobs": 247,
+    "blob_submitter": "Polynomial",
+    "blobs": 22,
     "time": "2025-08-17 00:00:00.000 UTC"
   }
 ]

@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2172,
-    "time": "2024-11-09 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Blast",
     "blobs": 570,
     "time": "2024-11-09 00:00:00.000 UTC"
@@ -20,6 +15,16 @@
     "time": "2024-11-09 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Boba Network",
+    "blobs": 54,
+    "time": "2024-11-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "SNAXchain",
+    "blobs": 16,
+    "time": "2024-11-09 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "ZORA",
     "blobs": 99,
     "time": "2024-11-09 00:00:00.000 UTC"
@@ -30,18 +35,23 @@
     "time": "2024-11-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 15,
-    "time": "2024-11-09 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Binary",
     "blobs": 8,
     "time": "2024-11-09 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2172,
+    "time": "2024-11-09 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Kinto",
     "blobs": 6,
+    "time": "2024-11-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 15,
     "time": "2024-11-09 00:00:00.000 UTC"
   },
   {
@@ -60,23 +70,23 @@
     "time": "2024-11-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 54,
+    "blob_submitter": "pegglecoin",
+    "blobs": 12,
     "time": "2024-11-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "SNAXchain",
-    "blobs": 16,
+    "blob_submitter": "Linea",
+    "blobs": 149,
     "time": "2024-11-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 8075,
+    "blob_submitter": "River",
+    "blobs": 500,
     "time": "2024-11-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZERO Network",
-    "blobs": 2,
+    "blob_submitter": "Polynomial",
+    "blobs": 10,
     "time": "2024-11-09 00:00:00.000 UTC"
   },
   {
@@ -90,21 +100,6 @@
     "time": "2024-11-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "PandaSea",
-    "blobs": 8,
-    "time": "2024-11-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1021,
-    "time": "2024-11-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 6,
-    "time": "2024-11-09 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Zircuit",
     "blobs": 493,
     "time": "2024-11-09 00:00:00.000 UTC"
@@ -112,6 +107,11 @@
   {
     "blob_submitter": "Ethernity",
     "blobs": 5,
+    "time": "2024-11-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "PandaSea",
+    "blobs": 8,
     "time": "2024-11-09 00:00:00.000 UTC"
   },
   {
@@ -150,8 +150,18 @@
     "time": "2024-11-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Nal",
-    "blobs": 50,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1021,
+    "time": "2024-11-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 6,
+    "time": "2024-11-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERO Network",
+    "blobs": 2,
     "time": "2024-11-09 00:00:00.000 UTC"
   },
   {
@@ -160,23 +170,13 @@
     "time": "2024-11-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 500,
+    "blob_submitter": "Base",
+    "blobs": 8075,
     "time": "2024-11-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 10,
-    "time": "2024-11-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "pegglecoin",
-    "blobs": 12,
-    "time": "2024-11-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 149,
+    "blob_submitter": "Nal",
+    "blobs": 50,
     "time": "2024-11-09 00:00:00.000 UTC"
   }
 ]

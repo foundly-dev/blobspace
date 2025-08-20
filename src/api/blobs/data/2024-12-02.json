@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "Soneium",
-    "blobs": 2,
-    "time": "2024-12-02 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Hemi",
     "blobs": 7,
     "time": "2024-12-02 00:00:00.000 UTC"
@@ -35,23 +30,38 @@
     "time": "2024-12-02 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Soneium",
+    "blobs": 2,
+    "time": "2024-12-02 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Others",
     "blobs": 244,
     "time": "2024-12-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1140,
+    "blob_submitter": "Nal",
+    "blobs": 24,
     "time": "2024-12-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 39,
+    "blob_submitter": "Metal",
+    "blobs": 359,
     "time": "2024-12-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kinto",
-    "blobs": 15,
+    "blob_submitter": "ZERO Network",
+    "blobs": 16,
+    "time": "2024-12-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 66,
+    "time": "2024-12-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 6,
     "time": "2024-12-02 00:00:00.000 UTC"
   },
   {
@@ -60,8 +70,8 @@
     "time": "2024-12-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 53,
+    "blob_submitter": "RACE",
+    "blobs": 76,
     "time": "2024-12-02 00:00:00.000 UTC"
   },
   {
@@ -75,8 +85,8 @@
     "time": "2024-12-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 76,
+    "blob_submitter": "Kinto",
+    "blobs": 15,
     "time": "2024-12-02 00:00:00.000 UTC"
   },
   {
@@ -85,8 +95,23 @@
     "time": "2024-12-02 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Boba Network",
+    "blobs": 53,
+    "time": "2024-12-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 39,
+    "time": "2024-12-02 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lisk",
     "blobs": 112,
+    "time": "2024-12-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1140,
     "time": "2024-12-02 00:00:00.000 UTC"
   },
   {
@@ -105,28 +130,8 @@
     "time": "2024-12-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 359,
-    "time": "2024-12-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 24,
-    "time": "2024-12-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERO Network",
-    "blobs": 16,
-    "time": "2024-12-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 6,
-    "time": "2024-12-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 66,
+    "blob_submitter": "Polynomial",
+    "blobs": 32,
     "time": "2024-12-02 00:00:00.000 UTC"
   }
 ]

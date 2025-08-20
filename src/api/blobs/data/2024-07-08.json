@@ -20,6 +20,11 @@
     "time": "2024-07-08 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Blast",
+    "blobs": 702,
+    "time": "2024-07-08 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Binary",
     "blobs": 24,
     "time": "2024-07-08 00:00:00.000 UTC"
@@ -45,8 +50,33 @@
     "time": "2024-07-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 702,
+    "blob_submitter": "Linea",
+    "blobs": 930,
+    "time": "2024-07-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2024-07-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
+    "time": "2024-07-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 418,
+    "time": "2024-07-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 220,
+    "time": "2024-07-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 14,
     "time": "2024-07-08 00:00:00.000 UTC"
   },
   {
@@ -77,36 +107,6 @@
   {
     "blob_submitter": "Mint",
     "blobs": 17,
-    "time": "2024-07-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 14,
-    "time": "2024-07-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 418,
-    "time": "2024-07-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 930,
-    "time": "2024-07-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2024-07-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 16,
-    "time": "2024-07-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 220,
     "time": "2024-07-08 00:00:00.000 UTC"
   }
 ]

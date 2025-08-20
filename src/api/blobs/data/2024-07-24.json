@@ -1,12 +1,12 @@
 [
   {
-    "blob_submitter": "XGA",
-    "blobs": 14,
+    "blob_submitter": "Blast",
+    "blobs": 2111,
     "time": "2024-07-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 2111,
+    "blob_submitter": "XGA",
+    "blobs": 14,
     "time": "2024-07-24 00:00:00.000 UTC"
   },
   {
@@ -40,8 +40,23 @@
     "time": "2024-07-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 3815,
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
+    "time": "2024-07-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 15,
+    "time": "2024-07-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 1129,
+    "time": "2024-07-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 21,
     "time": "2024-07-24 00:00:00.000 UTC"
   },
   {
@@ -80,33 +95,13 @@
     "time": "2024-07-24 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Taiko",
+    "blobs": 3815,
+    "time": "2024-07-24 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "World Chain",
     "blobs": 229,
-    "time": "2024-07-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 16,
-    "time": "2024-07-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 21,
-    "time": "2024-07-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 1129,
-    "time": "2024-07-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 15,
-    "time": "2024-07-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 404,
     "time": "2024-07-24 00:00:00.000 UTC"
   }
 ]

@@ -5,18 +5,8 @@
     "time": "2025-01-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 348,
-    "time": "2025-01-12 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "StarkNet",
     "blobs": 34,
-    "time": "2025-01-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 3278,
     "time": "2025-01-12 00:00:00.000 UTC"
   },
   {
@@ -27,6 +17,11 @@
   {
     "blob_submitter": "Nal",
     "blobs": 24,
+    "time": "2025-01-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 3278,
     "time": "2025-01-12 00:00:00.000 UTC"
   },
   {
@@ -45,13 +40,18 @@
     "time": "2025-01-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
+    "blob_submitter": "Phala Network",
+    "blobs": 76,
     "time": "2025-01-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Phala Network",
-    "blobs": 76,
+    "blob_submitter": "Lisk",
+    "blobs": 348,
+    "time": "2025-01-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 8,
     "time": "2025-01-12 00:00:00.000 UTC"
   },
   {
@@ -60,58 +60,13 @@
     "time": "2025-01-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Fuel",
-    "blobs": 92,
-    "time": "2025-01-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 69,
-    "time": "2025-01-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1731,
-    "time": "2025-01-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Infinaeon",
+    "blob_submitter": "Hemi",
     "blobs": 7,
     "time": "2025-01-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Unichain",
-    "blobs": 24,
-    "time": "2025-01-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
-    "time": "2025-01-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERO Network",
-    "blobs": 3,
-    "time": "2025-01-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
+    "blob_submitter": "ZORA",
     "blobs": 52,
-    "time": "2025-01-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 26,
-    "time": "2025-01-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 91,
-    "time": "2025-01-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ink",
-    "blobs": 39,
     "time": "2025-01-12 00:00:00.000 UTC"
   },
   {
@@ -125,18 +80,33 @@
     "time": "2025-01-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
+    "blob_submitter": "Ink",
+    "blobs": 39,
+    "time": "2025-01-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 91,
+    "time": "2025-01-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 18,
+    "time": "2025-01-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
     "blobs": 52,
     "time": "2025-01-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 151,
+    "blob_submitter": "Base",
+    "blobs": 9485,
     "time": "2025-01-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Hemi",
-    "blobs": 7,
+    "blob_submitter": "Soneium",
+    "blobs": 76,
     "time": "2025-01-12 00:00:00.000 UTC"
   },
   {
@@ -155,28 +125,53 @@
     "time": "2025-01-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Soneium",
-    "blobs": 76,
+    "blob_submitter": "Kroma",
+    "blobs": 151,
     "time": "2025-01-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
+    "blob_submitter": "zkSync Era",
+    "blobs": 69,
+    "time": "2025-01-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1731,
+    "time": "2025-01-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Infinaeon",
+    "blobs": 7,
+    "time": "2025-01-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERO Network",
+    "blobs": 3,
+    "time": "2025-01-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Unichain",
+    "blobs": 24,
+    "time": "2025-01-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
+    "time": "2025-01-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
     "blobs": 52,
     "time": "2025-01-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 18,
+    "blob_submitter": "Fuel",
+    "blobs": 92,
     "time": "2025-01-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 9485,
-    "time": "2025-01-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
+    "blob_submitter": "Boba Network",
+    "blobs": 26,
     "time": "2025-01-12 00:00:00.000 UTC"
   }
 ]

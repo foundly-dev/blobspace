@@ -5,6 +5,16 @@
     "time": "2024-05-01 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Paradex",
+    "blobs": 234,
+    "time": "2024-05-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 8,
+    "time": "2024-05-01 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Arbitrum One",
     "blobs": 1956,
     "time": "2024-05-01 00:00:00.000 UTC"
@@ -15,13 +25,13 @@
     "time": "2024-05-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 234,
+    "blob_submitter": "Linea",
+    "blobs": 367,
     "time": "2024-05-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 8,
+    "blob_submitter": "Camp Network",
+    "blobs": 9,
     "time": "2024-05-01 00:00:00.000 UTC"
   },
   {
@@ -35,6 +45,11 @@
     "time": "2024-05-01 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Lambda",
+    "blobs": 14,
+    "time": "2024-05-01 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "OP Mainnet",
     "blobs": 1872,
     "time": "2024-05-01 00:00:00.000 UTC"
@@ -45,23 +60,8 @@
     "time": "2024-05-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
-    "time": "2024-05-01 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Base",
     "blobs": 3588,
-    "time": "2024-05-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 9,
-    "time": "2024-05-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 367,
     "time": "2024-05-01 00:00:00.000 UTC"
   }
 ]

@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 27,
-    "time": "2025-07-17 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Lighter",
     "blobs": 205,
     "time": "2025-07-17 00:00:00.000 UTC"
@@ -20,11 +15,6 @@
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 16,
-    "time": "2025-07-17 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Hemi",
     "blobs": 86,
     "time": "2025-07-17 00:00:00.000 UTC"
@@ -32,6 +22,11 @@
   {
     "blob_submitter": "Shape",
     "blobs": 90,
+    "time": "2025-07-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 16,
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
@@ -50,6 +45,11 @@
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "zkSync Era",
+    "blobs": 27,
+    "time": "2025-07-17 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Blast",
     "blobs": 378,
     "time": "2025-07-17 00:00:00.000 UTC"
@@ -60,13 +60,38 @@
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 92,
+    "blob_submitter": "HashKey",
+    "blobs": 38,
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Phala Network",
+    "blob_submitter": "Ink",
+    "blobs": 282,
+    "time": "2025-07-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
     "blobs": 16,
+    "time": "2025-07-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 25,
+    "time": "2025-07-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 27,
+    "time": "2025-07-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
+    "time": "2025-07-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 261,
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
@@ -80,6 +105,16 @@
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Taiko",
+    "blobs": 1386,
+    "time": "2025-07-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 60,
+    "time": "2025-07-17 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Soneium",
     "blobs": 575,
     "time": "2025-07-17 00:00:00.000 UTC"
@@ -90,18 +125,8 @@
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 60,
-    "time": "2025-07-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 1386,
-    "time": "2025-07-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Abstract",
-    "blobs": 599,
+    "blob_submitter": "Phala Network",
+    "blobs": 16,
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
@@ -120,38 +145,18 @@
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
+    "blob_submitter": "Abstract",
+    "blobs": 599,
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ink",
-    "blobs": 282,
+    "blob_submitter": "Linea",
+    "blobs": 92,
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 261,
-    "time": "2025-07-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "HashKey",
-    "blobs": 38,
-    "time": "2025-07-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2025-07-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 27,
-    "time": "2025-07-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 25,
+    "blob_submitter": "ZERO Network",
+    "blobs": 3,
     "time": "2025-07-17 00:00:00.000 UTC"
   }
 ]

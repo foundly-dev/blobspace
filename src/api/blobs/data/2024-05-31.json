@@ -15,11 +15,6 @@
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 53,
-    "time": "2024-05-31 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "OP Mainnet",
     "blobs": 1224,
     "time": "2024-05-31 00:00:00.000 UTC"
@@ -30,43 +25,13 @@
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Camp Network",
+    "blobs": 53,
+    "time": "2024-05-31 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Taiko",
     "blobs": 3927,
-    "time": "2024-05-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 8,
-    "time": "2024-05-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
-    "time": "2024-05-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 133,
-    "time": "2024-05-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 8,
-    "time": "2024-05-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 830,
-    "time": "2024-05-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 1849,
-    "time": "2024-05-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 162,
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
@@ -80,6 +45,36 @@
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Scroll",
+    "blobs": 1849,
+    "time": "2024-05-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 162,
+    "time": "2024-05-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 830,
+    "time": "2024-05-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 17,
+    "time": "2024-05-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 280,
+    "time": "2024-05-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 69,
+    "time": "2024-05-31 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Arbitrum One",
     "blobs": 2571,
     "time": "2024-05-31 00:00:00.000 UTC"
@@ -90,18 +85,23 @@
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 69,
+    "blob_submitter": "Others",
+    "blobs": 133,
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 280,
+    "blob_submitter": "Metal",
+    "blobs": 8,
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 17,
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-05-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 8,
     "time": "2024-05-31 00:00:00.000 UTC"
   }
 ]

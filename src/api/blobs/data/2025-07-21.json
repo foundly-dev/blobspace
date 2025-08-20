@@ -45,18 +45,63 @@
     "time": "2025-07-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 11277,
+    "blob_submitter": "Mode",
+    "blobs": 98,
     "time": "2025-07-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 361,
+    "blob_submitter": "Blast",
+    "blobs": 342,
     "time": "2025-07-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 3444,
+    "blob_submitter": "Settlus",
+    "blobs": 16,
+    "time": "2025-07-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Morph",
+    "blobs": 228,
+    "time": "2025-07-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metis",
+    "blobs": 61,
+    "time": "2025-07-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lighter",
+    "blobs": 226,
+    "time": "2025-07-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 32,
+    "time": "2025-07-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 194,
+    "time": "2025-07-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "R0AR Chain",
+    "blobs": 9,
+    "time": "2025-07-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "SNAXchain",
+    "blobs": 16,
+    "time": "2025-07-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Abstract",
+    "blobs": 960,
+    "time": "2025-07-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 18,
     "time": "2025-07-21 00:00:00.000 UTC"
   },
   {
@@ -85,18 +130,8 @@
     "time": "2025-07-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Unichain",
-    "blobs": 1188,
-    "time": "2025-07-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 97,
-    "time": "2025-07-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
-    "blobs": 86,
+    "blob_submitter": "Swellchain",
+    "blobs": 50,
     "time": "2025-07-21 00:00:00.000 UTC"
   },
   {
@@ -105,8 +140,8 @@
     "time": "2025-07-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swellchain",
-    "blobs": 50,
+    "blob_submitter": "Unichain",
+    "blobs": 1188,
     "time": "2025-07-21 00:00:00.000 UTC"
   },
   {
@@ -130,68 +165,33 @@
     "time": "2025-07-21 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Zircuit",
+    "blobs": 97,
+    "time": "2025-07-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 86,
+    "time": "2025-07-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 361,
+    "time": "2025-07-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 3444,
+    "time": "2025-07-21 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "ZERO Network",
     "blobs": 3,
     "time": "2025-07-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Morph",
-    "blobs": 228,
-    "time": "2025-07-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metis",
-    "blobs": 61,
-    "time": "2025-07-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 98,
-    "time": "2025-07-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Abstract",
-    "blobs": 960,
-    "time": "2025-07-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 18,
-    "time": "2025-07-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 342,
-    "time": "2025-07-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Settlus",
-    "blobs": 16,
-    "time": "2025-07-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "SNAXchain",
-    "blobs": 16,
-    "time": "2025-07-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 194,
-    "time": "2025-07-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 9,
-    "time": "2025-07-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 32,
-    "time": "2025-07-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lighter",
-    "blobs": 226,
+    "blob_submitter": "Base",
+    "blobs": 11277,
     "time": "2025-07-21 00:00:00.000 UTC"
   }
 ]

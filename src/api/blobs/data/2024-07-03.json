@@ -25,8 +25,8 @@
     "time": "2024-07-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 297,
+    "blob_submitter": "zkSync Era",
+    "blobs": 200,
     "time": "2024-07-03 00:00:00.000 UTC"
   },
   {
@@ -35,13 +35,8 @@
     "time": "2024-07-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 200,
-    "time": "2024-07-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
+    "blob_submitter": "StarkNet",
+    "blobs": 297,
     "time": "2024-07-03 00:00:00.000 UTC"
   },
   {
@@ -50,8 +45,18 @@
     "time": "2024-07-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-07-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
+    "time": "2024-07-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 134,
     "time": "2024-07-03 00:00:00.000 UTC"
   },
   {
@@ -62,16 +67,6 @@
   {
     "blob_submitter": "River",
     "blobs": 426,
-    "time": "2024-07-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2024-07-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 536,
     "time": "2024-07-03 00:00:00.000 UTC"
   },
   {
@@ -90,18 +85,23 @@
     "time": "2024-07-03 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Linea",
+    "blobs": 536,
+    "time": "2024-07-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2024-07-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
+    "time": "2024-07-03 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "World Chain",
     "blobs": 15,
-    "time": "2024-07-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 134,
-    "time": "2024-07-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 16,
     "time": "2024-07-03 00:00:00.000 UTC"
   }
 ]
