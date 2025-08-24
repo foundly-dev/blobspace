@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "Parallel",
-    "blobs": 3,
-    "time": "2024-05-06 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Boba Network",
     "blobs": 48,
     "time": "2024-05-06 00:00:00.000 UTC"
@@ -25,6 +20,11 @@
     "time": "2024-05-06 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Parallel",
+    "blobs": 3,
+    "time": "2024-05-06 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Scroll",
     "blobs": 1680,
     "time": "2024-05-06 00:00:00.000 UTC"
@@ -40,16 +40,6 @@
     "time": "2024-05-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 14,
-    "time": "2024-05-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 557,
-    "time": "2024-05-06 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Base",
     "blobs": 3678,
     "time": "2024-05-06 00:00:00.000 UTC"
@@ -62,6 +52,16 @@
   {
     "blob_submitter": "ZORA",
     "blobs": 121,
+    "time": "2024-05-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 14,
+    "time": "2024-05-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 557,
     "time": "2024-05-06 00:00:00.000 UTC"
   },
   {

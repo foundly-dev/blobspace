@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "Mint",
-    "blobs": 29,
-    "time": "2024-05-22 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Kroma",
     "blobs": 160,
     "time": "2024-05-22 00:00:00.000 UTC"
@@ -25,6 +20,11 @@
     "time": "2024-05-22 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Mint",
+    "blobs": 29,
+    "time": "2024-05-22 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Linea",
     "blobs": 542,
     "time": "2024-05-22 00:00:00.000 UTC"
@@ -40,8 +40,18 @@
     "time": "2024-05-22 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "StarkNet",
+    "blobs": 242,
+    "time": "2024-05-22 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Parallel",
     "blobs": 18,
+    "time": "2024-05-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 535,
     "time": "2024-05-22 00:00:00.000 UTC"
   },
   {
@@ -52,16 +62,6 @@
   {
     "blob_submitter": "Lumio",
     "blobs": 8,
-    "time": "2024-05-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 242,
-    "time": "2024-05-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 535,
     "time": "2024-05-22 00:00:00.000 UTC"
   },
   {

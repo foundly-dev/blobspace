@@ -1,15 +1,5 @@
 [
   {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2025-01-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 72,
-    "time": "2025-01-28 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Infinaeon",
     "blobs": 8,
     "time": "2025-01-28 00:00:00.000 UTC"
@@ -35,13 +25,28 @@
     "time": "2025-01-28 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2025-01-28 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Ethernity",
     "blobs": 4,
     "time": "2025-01-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Superseed",
+    "blob_submitter": "Lumio",
     "blobs": 16,
+    "time": "2025-01-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 72,
+    "time": "2025-01-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 54,
     "time": "2025-01-28 00:00:00.000 UTC"
   },
   {
@@ -60,11 +65,6 @@
     "time": "2025-01-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 54,
-    "time": "2025-01-28 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Debank Chain",
     "blobs": 24,
     "time": "2025-01-28 00:00:00.000 UTC"
@@ -80,43 +80,8 @@
     "time": "2025-01-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 63,
-    "time": "2025-01-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 54,
-    "time": "2025-01-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 40,
-    "time": "2025-01-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Fuel",
-    "blobs": 53,
-    "time": "2025-01-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
-    "time": "2025-01-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ink",
-    "blobs": 150,
-    "time": "2025-01-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 34,
-    "time": "2025-01-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 12,
+    "blob_submitter": "ZERO Network",
+    "blobs": 8,
     "time": "2025-01-28 00:00:00.000 UTC"
   },
   {
@@ -125,8 +90,18 @@
     "time": "2025-01-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZERO Network",
-    "blobs": 8,
+    "blob_submitter": "Camp Network",
+    "blobs": 34,
+    "time": "2025-01-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ink",
+    "blobs": 150,
+    "time": "2025-01-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 12,
     "time": "2025-01-28 00:00:00.000 UTC"
   },
   {
@@ -155,6 +130,16 @@
     "time": "2025-01-28 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Fuel",
+    "blobs": 53,
+    "time": "2025-01-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "SNAXchain",
+    "blobs": 16,
+    "time": "2025-01-28 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Blast",
     "blobs": 366,
     "time": "2025-01-28 00:00:00.000 UTC"
@@ -165,8 +150,23 @@
     "time": "2025-01-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "SNAXchain",
-    "blobs": 16,
+    "blob_submitter": "Mode",
+    "blobs": 54,
+    "time": "2025-01-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 40,
+    "time": "2025-01-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 6,
+    "time": "2025-01-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 63,
     "time": "2025-01-28 00:00:00.000 UTC"
   },
   {

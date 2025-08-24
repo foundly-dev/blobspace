@@ -5,6 +5,11 @@
     "time": "2024-04-13 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "StarkNet",
+    "blobs": 352,
+    "time": "2024-04-13 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Linea",
     "blobs": 367,
     "time": "2024-04-13 00:00:00.000 UTC"
@@ -15,8 +20,13 @@
     "time": "2024-04-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 352,
+    "blob_submitter": "zkSync Era",
+    "blobs": 496,
+    "time": "2024-04-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 262,
     "time": "2024-04-13 00:00:00.000 UTC"
   },
   {
@@ -37,16 +47,6 @@
   {
     "blob_submitter": "Mode",
     "blobs": 144,
-    "time": "2024-04-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 262,
-    "time": "2024-04-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 496,
     "time": "2024-04-13 00:00:00.000 UTC"
   }
 ]

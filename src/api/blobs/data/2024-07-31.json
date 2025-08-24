@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 10,
-    "time": "2024-07-31 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Lambda",
     "blobs": 14,
     "time": "2024-07-31 00:00:00.000 UTC"
@@ -25,8 +20,8 @@
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Nal",
-    "blobs": 50,
+    "blob_submitter": "Swan Chain",
+    "blobs": 10,
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
@@ -35,13 +30,8 @@
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 152,
-    "time": "2024-07-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "XGA",
-    "blobs": 14,
+    "blob_submitter": "Taiko",
+    "blobs": 3984,
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
@@ -55,26 +45,6 @@
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 3984,
-    "time": "2024-07-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 1212,
-    "time": "2024-07-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 176,
-    "time": "2024-07-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 17,
-    "time": "2024-07-31 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "River",
     "blobs": 184,
     "time": "2024-07-31 00:00:00.000 UTC"
@@ -85,13 +55,43 @@
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Shape",
+    "blobs": 15,
+    "time": "2024-07-31 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Inscriptions",
     "blobs": 3,
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 15,
+    "blob_submitter": "Kroma",
+    "blobs": 176,
+    "time": "2024-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 1212,
+    "time": "2024-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 17,
+    "time": "2024-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 152,
+    "time": "2024-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
+    "blobs": 14,
+    "time": "2024-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 50,
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {

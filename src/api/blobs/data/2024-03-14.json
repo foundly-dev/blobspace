@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 1,
-    "time": "2024-03-14 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "ZORA",
     "blobs": 123,
     "time": "2024-03-14 00:00:00.000 UTC"
@@ -12,6 +7,11 @@
   {
     "blob_submitter": "zkSync Era",
     "blobs": 890,
+    "time": "2024-03-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 1,
     "time": "2024-03-14 00:00:00.000 UTC"
   },
   {

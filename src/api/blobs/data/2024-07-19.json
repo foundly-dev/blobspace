@@ -1,15 +1,5 @@
 [
   {
-    "blob_submitter": "Nal",
-    "blobs": 50,
-    "time": "2024-07-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 296,
-    "time": "2024-07-19 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "XGA",
     "blobs": 15,
     "time": "2024-07-19 00:00:00.000 UTC"
@@ -45,8 +35,18 @@
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 4435,
+    "blob_submitter": "Nal",
+    "blobs": 50,
+    "time": "2024-07-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 296,
+    "time": "2024-07-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 361,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
@@ -60,26 +60,6 @@
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 361,
-    "time": "2024-07-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 523,
-    "time": "2024-07-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
-    "time": "2024-07-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 23,
-    "time": "2024-07-19 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "OP Mainnet",
     "blobs": 1825,
     "time": "2024-07-19 00:00:00.000 UTC"
@@ -90,13 +70,13 @@
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 269,
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
+    "blob_submitter": "Kroma",
+    "blobs": 269,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
@@ -105,8 +85,28 @@
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Base",
+    "blobs": 4435,
+    "time": "2024-07-19 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "PandaSea",
     "blobs": 25,
+    "time": "2024-07-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 14,
+    "time": "2024-07-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 523,
+    "time": "2024-07-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 23,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {

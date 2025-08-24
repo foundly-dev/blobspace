@@ -1,15 +1,5 @@
 [
   {
-    "blob_submitter": "Soneium",
-    "blobs": 546,
-    "time": "2025-08-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
-    "time": "2025-08-04 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Debank Chain",
     "blobs": 20,
     "time": "2025-08-04 00:00:00.000 UTC"
@@ -70,6 +60,21 @@
     "time": "2025-08-04 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Soneium",
+    "blobs": 546,
+    "time": "2025-08-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
+    "time": "2025-08-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 5556,
+    "time": "2025-08-04 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Shape",
     "blobs": 323,
     "time": "2025-08-04 00:00:00.000 UTC"
@@ -80,11 +85,6 @@
     "time": "2025-08-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 5556,
-    "time": "2025-08-04 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Linea",
     "blobs": 80,
     "time": "2025-08-04 00:00:00.000 UTC"
@@ -92,26 +92,6 @@
   {
     "blob_submitter": "Paradex",
     "blobs": 17,
-    "time": "2025-08-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 96,
-    "time": "2025-08-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 38,
-    "time": "2025-08-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 359,
-    "time": "2025-08-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 2099,
     "time": "2025-08-04 00:00:00.000 UTC"
   },
   {
@@ -135,6 +115,21 @@
     "time": "2025-08-04 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Lighter",
+    "blobs": 260,
+    "time": "2025-08-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 22,
+    "time": "2025-08-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Settlus",
+    "blobs": 16,
+    "time": "2025-08-04 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "R0AR Chain",
     "blobs": 10,
     "time": "2025-08-04 00:00:00.000 UTC"
@@ -150,18 +145,23 @@
     "time": "2025-08-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lighter",
-    "blobs": 260,
+    "blob_submitter": "StarkNet",
+    "blobs": 96,
     "time": "2025-08-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 22,
+    "blob_submitter": "Lisk",
+    "blobs": 38,
     "time": "2025-08-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Settlus",
-    "blobs": 16,
+    "blob_submitter": "Metal",
+    "blobs": 359,
+    "time": "2025-08-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 2099,
     "time": "2025-08-04 00:00:00.000 UTC"
   },
   {

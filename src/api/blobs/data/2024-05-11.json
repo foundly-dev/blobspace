@@ -35,26 +35,6 @@
     "time": "2024-05-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 287,
-    "time": "2024-05-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 6,
-    "time": "2024-05-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 259,
-    "time": "2024-05-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 8,
-    "time": "2024-05-11 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arbitrum One",
     "blobs": 1746,
     "time": "2024-05-11 00:00:00.000 UTC"
@@ -75,8 +55,28 @@
     "time": "2024-05-11 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Metal",
+    "blobs": 8,
+    "time": "2024-05-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 287,
+    "time": "2024-05-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 6,
+    "time": "2024-05-11 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "OP Mainnet",
     "blobs": 2004,
+    "time": "2024-05-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 259,
     "time": "2024-05-11 00:00:00.000 UTC"
   }
 ]

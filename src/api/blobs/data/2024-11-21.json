@@ -55,11 +55,6 @@
     "time": "2024-11-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 137,
-    "time": "2024-11-21 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Kroma",
     "blobs": 213,
     "time": "2024-11-21 00:00:00.000 UTC"
@@ -70,43 +65,13 @@
     "time": "2024-11-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Fuel",
-    "blobs": 74,
-    "time": "2024-11-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Abstract",
-    "blobs": 4,
-    "time": "2024-11-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
-    "time": "2024-11-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "SNAXchain",
-    "blobs": 16,
-    "time": "2024-11-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
-    "time": "2024-11-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 168,
+    "blob_submitter": "Lisk",
+    "blobs": 9,
     "time": "2024-11-21 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Others",
     "blobs": 207,
-    "time": "2024-11-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 9,
     "time": "2024-11-21 00:00:00.000 UTC"
   },
   {
@@ -125,8 +90,38 @@
     "time": "2024-11-21 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Abstract",
+    "blobs": 4,
+    "time": "2024-11-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 137,
+    "time": "2024-11-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 6,
+    "time": "2024-11-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "SNAXchain",
+    "blobs": 16,
+    "time": "2024-11-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
+    "time": "2024-11-21 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Morph",
     "blobs": 72,
+    "time": "2024-11-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 168,
     "time": "2024-11-21 00:00:00.000 UTC"
   },
   {
@@ -140,13 +135,13 @@
     "time": "2024-11-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 631,
+    "blob_submitter": "Optopia",
+    "blobs": 11,
     "time": "2024-11-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 11,
+    "blob_submitter": "Blast",
+    "blobs": 631,
     "time": "2024-11-21 00:00:00.000 UTC"
   },
   {
@@ -157,6 +152,11 @@
   {
     "blob_submitter": "Unichain",
     "blobs": 24,
+    "time": "2024-11-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Fuel",
+    "blobs": 74,
     "time": "2024-11-21 00:00:00.000 UTC"
   }
 ]

@@ -1,27 +1,17 @@
 [
   {
-    "blob_submitter": "ZORA",
-    "blobs": 102,
-    "time": "2024-06-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 37,
-    "time": "2024-06-14 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arbitrum One",
     "blobs": 2463,
     "time": "2024-06-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
+    "blob_submitter": "Camp Network",
+    "blobs": 34,
     "time": "2024-06-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 34,
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
     "time": "2024-06-14 00:00:00.000 UTC"
   },
   {
@@ -45,6 +35,16 @@
     "time": "2024-06-14 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "ZORA",
+    "blobs": 102,
+    "time": "2024-06-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 37,
+    "time": "2024-06-14 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Debank Chain",
     "blobs": 25,
     "time": "2024-06-14 00:00:00.000 UTC"
@@ -52,31 +52,6 @@
   {
     "blob_submitter": "Lambda",
     "blobs": 14,
-    "time": "2024-06-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 11,
-    "time": "2024-06-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 184,
-    "time": "2024-06-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 369,
-    "time": "2024-06-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 3457,
-    "time": "2024-06-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 359,
     "time": "2024-06-14 00:00:00.000 UTC"
   },
   {
@@ -90,8 +65,28 @@
     "time": "2024-06-14 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "River",
+    "blobs": 184,
+    "time": "2024-06-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 369,
+    "time": "2024-06-14 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Polynomial",
     "blobs": 8,
+    "time": "2024-06-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 3457,
+    "time": "2024-06-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 359,
     "time": "2024-06-14 00:00:00.000 UTC"
   },
   {
@@ -107,6 +102,11 @@
   {
     "blob_submitter": "OP Mainnet",
     "blobs": 1675,
+    "time": "2024-06-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 11,
     "time": "2024-06-14 00:00:00.000 UTC"
   }
 ]

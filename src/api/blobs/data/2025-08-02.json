@@ -1,20 +1,5 @@
 [
   {
-    "blob_submitter": "Blast",
-    "blobs": 332,
-    "time": "2025-08-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Unichain",
-    "blobs": 744,
-    "time": "2025-08-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 114,
-    "time": "2025-08-02 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Swellchain",
     "blobs": 49,
     "time": "2025-08-02 00:00:00.000 UTC"
@@ -75,6 +60,21 @@
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Blast",
+    "blobs": 332,
+    "time": "2025-08-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Unichain",
+    "blobs": 744,
+    "time": "2025-08-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 114,
+    "time": "2025-08-02 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Paradex",
     "blobs": 27,
     "time": "2025-08-02 00:00:00.000 UTC"
@@ -90,8 +90,13 @@
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 28,
+    "blob_submitter": "Others",
+    "blobs": 687,
+    "time": "2025-08-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
@@ -110,26 +115,6 @@
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Infinaeon",
-    "blobs": 9,
-    "time": "2025-08-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1524,
-    "time": "2025-08-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 687,
-    "time": "2025-08-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
-    "time": "2025-08-02 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Lisk",
     "blobs": 28,
     "time": "2025-08-02 00:00:00.000 UTC"
@@ -137,6 +122,16 @@
   {
     "blob_submitter": "World Chain",
     "blobs": 5016,
+    "time": "2025-08-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Infinaeon",
+    "blobs": 9,
+    "time": "2025-08-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1524,
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
@@ -150,13 +145,13 @@
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 2092,
+    "blob_submitter": "Polynomial",
+    "blobs": 28,
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lighter",
-    "blobs": 335,
+    "blob_submitter": "Taiko",
+    "blobs": 2092,
     "time": "2025-08-02 00:00:00.000 UTC"
   }
 ]

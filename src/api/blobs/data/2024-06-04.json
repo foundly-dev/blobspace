@@ -45,21 +45,6 @@
     "time": "2024-06-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 134,
-    "time": "2024-06-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 2215,
-    "time": "2024-06-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 350,
-    "time": "2024-06-04 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Debank Chain",
     "blobs": 14,
     "time": "2024-06-04 00:00:00.000 UTC"
@@ -80,8 +65,23 @@
     "time": "2024-06-04 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 2215,
+    "time": "2024-06-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 350,
+    "time": "2024-06-04 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lambda",
     "blobs": 15,
+    "time": "2024-06-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 134,
     "time": "2024-06-04 00:00:00.000 UTC"
   },
   {

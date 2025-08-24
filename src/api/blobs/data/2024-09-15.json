@@ -30,6 +30,11 @@
     "time": "2024-09-15 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Optopia",
+    "blobs": 72,
+    "time": "2024-09-15 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "XGA",
     "blobs": 76,
     "time": "2024-09-15 00:00:00.000 UTC"
@@ -37,11 +42,6 @@
   {
     "blob_submitter": "River",
     "blobs": 53,
-    "time": "2024-09-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 72,
     "time": "2024-09-15 00:00:00.000 UTC"
   },
   {
@@ -65,11 +65,6 @@
     "time": "2024-09-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 4725,
-    "time": "2024-09-15 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Zircuit",
     "blobs": 508,
     "time": "2024-09-15 00:00:00.000 UTC"
@@ -85,33 +80,13 @@
     "time": "2024-09-15 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
+    "time": "2024-09-15 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "OP Mainnet",
     "blobs": 1180,
-    "time": "2024-09-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "PandaSea",
-    "blobs": 24,
-    "time": "2024-09-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 16,
-    "time": "2024-09-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 146,
-    "time": "2024-09-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 355,
-    "time": "2024-09-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 77,
     "time": "2024-09-15 00:00:00.000 UTC"
   },
   {
@@ -120,13 +95,8 @@
     "time": "2024-09-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2024-09-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 368,
+    "blob_submitter": "RACE",
+    "blobs": 77,
     "time": "2024-09-15 00:00:00.000 UTC"
   },
   {
@@ -150,8 +120,38 @@
     "time": "2024-09-15 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Scroll",
+    "blobs": 368,
+    "time": "2024-09-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 4725,
+    "time": "2024-09-15 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Swan Chain",
     "blobs": 19,
+    "time": "2024-09-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 146,
+    "time": "2024-09-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 355,
+    "time": "2024-09-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "PandaSea",
+    "blobs": 24,
+    "time": "2024-09-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 16,
     "time": "2024-09-15 00:00:00.000 UTC"
   }
 ]

@@ -1,20 +1,5 @@
 [
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 513,
-    "time": "2024-07-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 106,
-    "time": "2024-07-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 22,
-    "time": "2024-07-08 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Debank Chain",
     "blobs": 24,
     "time": "2024-07-08 00:00:00.000 UTC"
@@ -50,23 +35,23 @@
     "time": "2024-07-08 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Zircuit",
+    "blobs": 513,
+    "time": "2024-07-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 106,
+    "time": "2024-07-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 22,
+    "time": "2024-07-08 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Paradex",
     "blobs": 645,
-    "time": "2024-07-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 930,
-    "time": "2024-07-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2024-07-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 16,
     "time": "2024-07-08 00:00:00.000 UTC"
   },
   {
@@ -97,6 +82,21 @@
   {
     "blob_submitter": "StarkNet",
     "blobs": 418,
+    "time": "2024-07-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 930,
+    "time": "2024-07-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2024-07-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
     "time": "2024-07-08 00:00:00.000 UTC"
   },
   {

@@ -1,20 +1,5 @@
 [
   {
-    "blob_submitter": "RACE",
-    "blobs": 79,
-    "time": "2024-08-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2024-08-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 259,
-    "time": "2024-08-20 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "River",
     "blobs": 191,
     "time": "2024-08-20 00:00:00.000 UTC"
@@ -60,8 +45,18 @@
     "time": "2024-08-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
+    "blob_submitter": "RACE",
+    "blobs": 79,
+    "time": "2024-08-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 259,
+    "time": "2024-08-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
     "time": "2024-08-20 00:00:00.000 UTC"
   },
   {
@@ -75,6 +70,16 @@
     "time": "2024-08-20 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Base",
+    "blobs": 4640,
+    "time": "2024-08-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2316,
+    "time": "2024-08-20 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Nal",
     "blobs": 49,
     "time": "2024-08-20 00:00:00.000 UTC"
@@ -85,38 +90,23 @@
     "time": "2024-08-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 397,
-    "time": "2024-08-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 1927,
-    "time": "2024-08-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "PandaSea",
-    "blobs": 24,
-    "time": "2024-08-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 24,
-    "time": "2024-08-20 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Lambda",
     "blobs": 89,
     "time": "2024-08-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 4640,
+    "blob_submitter": "Scroll",
+    "blobs": 397,
     "time": "2024-08-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2316,
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-08-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 1927,
     "time": "2024-08-20 00:00:00.000 UTC"
   },
   {
@@ -132,6 +122,16 @@
   {
     "blob_submitter": "Camp Network",
     "blobs": 27,
+    "time": "2024-08-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "PandaSea",
+    "blobs": 24,
+    "time": "2024-08-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 24,
     "time": "2024-08-20 00:00:00.000 UTC"
   },
   {

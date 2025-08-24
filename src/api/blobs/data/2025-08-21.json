@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "Lisk",
-    "blobs": 80,
-    "time": "2025-08-21 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "StarkNet",
     "blobs": 312,
     "time": "2025-08-21 00:00:00.000 UTC"
@@ -40,23 +35,8 @@
     "time": "2025-08-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
-    "time": "2025-08-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 18,
-    "time": "2025-08-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
-    "time": "2025-08-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 114,
+    "blob_submitter": "Lisk",
+    "blobs": 80,
     "time": "2025-08-21 00:00:00.000 UTC"
   },
   {
@@ -65,38 +45,18 @@
     "time": "2025-08-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 19,
+    "blob_submitter": "Mode",
+    "blobs": 114,
     "time": "2025-08-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Hemi",
-    "blobs": 129,
-    "time": "2025-08-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ink",
-    "blobs": 390,
-    "time": "2025-08-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Katana",
-    "blobs": 207,
+    "blob_submitter": "Optopia",
+    "blobs": 8,
     "time": "2025-08-21 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Arena-Z",
     "blobs": 5,
-    "time": "2025-08-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 3144,
-    "time": "2025-08-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Infinaeon",
-    "blobs": 9,
     "time": "2025-08-21 00:00:00.000 UTC"
   },
   {
@@ -120,6 +80,46 @@
     "time": "2025-08-21 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 3144,
+    "time": "2025-08-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Infinaeon",
+    "blobs": 9,
+    "time": "2025-08-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 18,
+    "time": "2025-08-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
+    "time": "2025-08-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 19,
+    "time": "2025-08-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ink",
+    "blobs": 390,
+    "time": "2025-08-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 129,
+    "time": "2025-08-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Katana",
+    "blobs": 207,
+    "time": "2025-08-21 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Others",
     "blobs": 744,
     "time": "2025-08-21 00:00:00.000 UTC"
@@ -137,6 +137,16 @@
   {
     "blob_submitter": "Base",
     "blobs": 12285,
+    "time": "2025-08-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Abstract",
+    "blobs": 424,
+    "time": "2025-08-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 19,
     "time": "2025-08-21 00:00:00.000 UTC"
   }
 ]

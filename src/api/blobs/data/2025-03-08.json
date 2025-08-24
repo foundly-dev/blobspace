@@ -1,20 +1,5 @@
 [
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1911,
-    "time": "2025-03-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
-    "time": "2025-03-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 92,
-    "time": "2025-03-08 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Settlus",
     "blobs": 16,
     "time": "2025-03-08 00:00:00.000 UTC"
@@ -80,6 +65,21 @@
     "time": "2025-03-08 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1911,
+    "time": "2025-03-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 8,
+    "time": "2025-03-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 92,
+    "time": "2025-03-08 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "OP Mainnet",
     "blobs": 685,
     "time": "2025-03-08 00:00:00.000 UTC"
@@ -90,33 +90,13 @@
     "time": "2025-03-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swell",
-    "blobs": 25,
-    "time": "2025-03-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 35,
-    "time": "2025-03-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 1080,
-    "time": "2025-03-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arena-Z",
-    "blobs": 4,
+    "blob_submitter": "Binary",
+    "blobs": 8,
     "time": "2025-03-08 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Debank Chain",
     "blobs": 19,
-    "time": "2025-03-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 8,
     "time": "2025-03-08 00:00:00.000 UTC"
   },
   {
@@ -145,11 +125,6 @@
     "time": "2025-03-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
-    "time": "2025-03-08 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Hemi",
     "blobs": 14,
     "time": "2025-03-08 00:00:00.000 UTC"
@@ -160,13 +135,33 @@
     "time": "2025-03-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "pegglecoin",
-    "blobs": 45,
+    "blob_submitter": "Kinto",
+    "blobs": 6,
+    "time": "2025-03-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Soneium",
+    "blobs": 1080,
     "time": "2025-03-08 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Mode",
     "blobs": 83,
+    "time": "2025-03-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "pegglecoin",
+    "blobs": 45,
+    "time": "2025-03-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arena-Z",
+    "blobs": 4,
+    "time": "2025-03-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 35,
     "time": "2025-03-08 00:00:00.000 UTC"
   },
   {
@@ -187,6 +182,11 @@
   {
     "blob_submitter": "Infinaeon",
     "blobs": 8,
+    "time": "2025-03-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swell",
+    "blobs": 25,
     "time": "2025-03-08 00:00:00.000 UTC"
   },
   {

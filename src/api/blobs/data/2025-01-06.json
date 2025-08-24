@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 128,
-    "time": "2025-01-06 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Nal",
     "blobs": 25,
     "time": "2025-01-06 00:00:00.000 UTC"
@@ -35,8 +30,8 @@
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
+    "blob_submitter": "zkSync Era",
+    "blobs": 128,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
@@ -45,13 +40,8 @@
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 28,
-    "time": "2025-01-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 88,
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
@@ -60,8 +50,23 @@
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Polynomial",
+    "blobs": 28,
+    "time": "2025-01-06 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "pegglecoin",
     "blobs": 12,
+    "time": "2025-01-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 88,
+    "time": "2025-01-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Phala Network",
+    "blobs": 76,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
@@ -75,23 +80,8 @@
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Phala Network",
-    "blobs": 76,
-    "time": "2025-01-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 13,
-    "time": "2025-01-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ink",
-    "blobs": 47,
-    "time": "2025-01-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
-    "blobs": 7,
+    "blob_submitter": "Kroma",
+    "blobs": 120,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
@@ -102,16 +92,6 @@
   {
     "blob_submitter": "Abstract",
     "blobs": 3,
-    "time": "2025-01-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 120,
-    "time": "2025-01-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Morph",
-    "blobs": 160,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
@@ -140,6 +120,11 @@
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Morph",
+    "blobs": 160,
+    "time": "2025-01-06 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Others",
     "blobs": 133,
     "time": "2025-01-06 00:00:00.000 UTC"
@@ -150,8 +135,23 @@
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Ink",
+    "blobs": 47,
+    "time": "2025-01-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 7,
+    "time": "2025-01-06 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "HashKey",
     "blobs": 26,
+    "time": "2025-01-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Soneium",
+    "blobs": 13,
     "time": "2025-01-06 00:00:00.000 UTC"
   }
 ]

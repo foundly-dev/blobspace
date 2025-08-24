@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "RACE",
-    "blobs": 77,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Others",
     "blobs": 141,
     "time": "2024-08-18 00:00:00.000 UTC"
@@ -15,13 +10,13 @@
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
+    "blob_submitter": "Lambda",
+    "blobs": 12,
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 12,
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
@@ -30,8 +25,8 @@
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 1768,
+    "blob_submitter": "RACE",
+    "blobs": 77,
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
@@ -50,43 +45,18 @@
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 15,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "XGA",
-    "blobs": 15,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 164,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 21,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 332,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 170,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Parallel",
     "blobs": 1,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 3911,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 338,
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
@@ -105,13 +75,18 @@
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 3911,
+    "blob_submitter": "Blast",
+    "blobs": 1768,
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 338,
+    "blob_submitter": "Mint",
+    "blobs": 21,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 332,
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
@@ -120,8 +95,33 @@
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 170,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 15,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
+    "blobs": 15,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Kinto",
     "blobs": 6,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 164,
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {

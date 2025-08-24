@@ -1,15 +1,5 @@
 [
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 84,
-    "time": "2025-08-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 24,
-    "time": "2025-08-03 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Metal",
     "blobs": 360,
     "time": "2025-08-03 00:00:00.000 UTC"
@@ -55,23 +45,13 @@
     "time": "2025-08-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 114,
+    "blob_submitter": "StarkNet",
+    "blobs": 84,
     "time": "2025-08-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
-    "time": "2025-08-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Unichain",
-    "blobs": 600,
-    "time": "2025-08-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lighter",
-    "blobs": 272,
+    "blob_submitter": "RACE",
+    "blobs": 24,
     "time": "2025-08-03 00:00:00.000 UTC"
   },
   {
@@ -85,6 +65,16 @@
     "time": "2025-08-03 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Unichain",
+    "blobs": 600,
+    "time": "2025-08-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lighter",
+    "blobs": 272,
+    "time": "2025-08-03 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Arbitrum One",
     "blobs": 2112,
     "time": "2025-08-03 00:00:00.000 UTC"
@@ -92,21 +82,6 @@
   {
     "blob_submitter": "Optopia",
     "blobs": 8,
-    "time": "2025-08-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 485,
-    "time": "2025-08-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metis",
-    "blobs": 48,
-    "time": "2025-08-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 101,
     "time": "2025-08-03 00:00:00.000 UTC"
   },
   {
@@ -140,8 +115,28 @@
     "time": "2025-08-03 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Mode",
+    "blobs": 114,
+    "time": "2025-08-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
+    "time": "2025-08-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 101,
+    "time": "2025-08-03 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Blast",
     "blobs": 322,
+    "time": "2025-08-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metis",
+    "blobs": 48,
     "time": "2025-08-03 00:00:00.000 UTC"
   },
   {
@@ -160,18 +155,13 @@
     "time": "2025-08-03 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Soneium",
+    "blobs": 485,
+    "time": "2025-08-03 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "R0AR Chain",
     "blobs": 9,
-    "time": "2025-08-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Morph",
-    "blobs": 502,
-    "time": "2025-08-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 17,
     "time": "2025-08-03 00:00:00.000 UTC"
   }
 ]
