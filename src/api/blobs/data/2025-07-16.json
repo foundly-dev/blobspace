@@ -5,6 +5,11 @@
     "time": "2025-07-16 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Polynomial",
+    "blobs": 31,
+    "time": "2025-07-16 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Infinaeon",
     "blobs": 10,
     "time": "2025-07-16 00:00:00.000 UTC"
@@ -20,18 +25,13 @@
     "time": "2025-07-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Superseed",
-    "blobs": 23,
-    "time": "2025-07-16 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Lisk",
     "blobs": 54,
     "time": "2025-07-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 5712,
+    "blob_submitter": "Superseed",
+    "blobs": 23,
     "time": "2025-07-16 00:00:00.000 UTC"
   },
   {
@@ -45,18 +45,8 @@
     "time": "2025-07-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 31,
-    "time": "2025-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 11840,
-    "time": "2025-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 24,
+    "blob_submitter": "World Chain",
+    "blobs": 5712,
     "time": "2025-07-16 00:00:00.000 UTC"
   },
   {
@@ -105,13 +95,23 @@
     "time": "2025-07-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Hemi",
-    "blobs": 86,
+    "blob_submitter": "ZERO Network",
+    "blobs": 4,
     "time": "2025-07-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZERO Network",
-    "blobs": 4,
+    "blob_submitter": "Base",
+    "blobs": 11840,
+    "time": "2025-07-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 24,
+    "time": "2025-07-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 86,
     "time": "2025-07-16 00:00:00.000 UTC"
   },
   {
@@ -122,6 +122,16 @@
   {
     "blob_submitter": "Zircuit",
     "blobs": 100,
+    "time": "2025-07-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "R0AR Chain",
+    "blobs": 10,
+    "time": "2025-07-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
     "time": "2025-07-16 00:00:00.000 UTC"
   },
   {
@@ -140,18 +150,8 @@
     "time": "2025-07-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
-    "time": "2025-07-16 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "SNAXchain",
     "blobs": 16,
-    "time": "2025-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 10,
     "time": "2025-07-16 00:00:00.000 UTC"
   },
   {
@@ -162,16 +162,6 @@
   {
     "blob_submitter": "zkSync Era",
     "blobs": 35,
-    "time": "2025-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 3369,
-    "time": "2025-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 55,
     "time": "2025-07-16 00:00:00.000 UTC"
   },
   {
@@ -195,13 +185,18 @@
     "time": "2025-07-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Abstract",
-    "blobs": 579,
+    "blob_submitter": "Settlus",
+    "blobs": 16,
     "time": "2025-07-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Settlus",
-    "blobs": 16,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 3369,
+    "time": "2025-07-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Abstract",
+    "blobs": 579,
     "time": "2025-07-16 00:00:00.000 UTC"
   }
 ]

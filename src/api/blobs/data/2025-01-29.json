@@ -1,5 +1,15 @@
 [
   {
+    "blob_submitter": "Base",
+    "blobs": 8285,
+    "time": "2025-01-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 44,
+    "time": "2025-01-29 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Debank Chain",
     "blobs": 33,
     "time": "2025-01-29 00:00:00.000 UTC"
@@ -20,13 +30,13 @@
     "time": "2025-01-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 59,
+    "blob_submitter": "zkSync Era",
+    "blobs": 61,
     "time": "2025-01-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 61,
+    "blob_submitter": "Scroll",
+    "blobs": 59,
     "time": "2025-01-29 00:00:00.000 UTC"
   },
   {
@@ -35,13 +45,13 @@
     "time": "2025-01-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 129,
+    "blob_submitter": "Zircuit",
+    "blobs": 99,
     "time": "2025-01-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 99,
+    "blob_submitter": "Kroma",
+    "blobs": 129,
     "time": "2025-01-29 00:00:00.000 UTC"
   },
   {
@@ -50,43 +60,13 @@
     "time": "2025-01-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Soneium",
-    "blobs": 421,
-    "time": "2025-01-29 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Swell",
     "blobs": 25,
     "time": "2025-01-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 8285,
-    "time": "2025-01-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 44,
-    "time": "2025-01-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Abstract",
-    "blobs": 527,
-    "time": "2025-01-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "HashKey",
-    "blobs": 46,
-    "time": "2025-01-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 99,
-    "time": "2025-01-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "pegglecoin",
-    "blobs": 20,
+    "blob_submitter": "Soneium",
+    "blobs": 421,
     "time": "2025-01-29 00:00:00.000 UTC"
   },
   {
@@ -100,8 +80,23 @@
     "time": "2025-01-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 402,
+    "blob_submitter": "Abstract",
+    "blobs": 527,
+    "time": "2025-01-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "pegglecoin",
+    "blobs": 20,
+    "time": "2025-01-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 99,
+    "time": "2025-01-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "HashKey",
+    "blobs": 46,
     "time": "2025-01-29 00:00:00.000 UTC"
   },
   {
@@ -120,6 +115,11 @@
     "time": "2025-01-29 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Blast",
+    "blobs": 402,
+    "time": "2025-01-29 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lighter",
     "blobs": 20,
     "time": "2025-01-29 00:00:00.000 UTC"
@@ -135,13 +135,23 @@
     "time": "2025-01-29 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Mint",
+    "blobs": 284,
+    "time": "2025-01-29 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Shape",
     "blobs": 33,
     "time": "2025-01-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 284,
+    "blob_submitter": "StarkNet",
+    "blobs": 41,
+    "time": "2025-01-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
     "time": "2025-01-29 00:00:00.000 UTC"
   },
   {
@@ -155,16 +165,6 @@
     "time": "2025-01-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2025-01-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 41,
-    "time": "2025-01-29 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Metal",
     "blobs": 357,
     "time": "2025-01-29 00:00:00.000 UTC"
@@ -175,13 +175,13 @@
     "time": "2025-01-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Nal",
-    "blobs": 24,
+    "blob_submitter": "Taiko",
+    "blobs": 3483,
     "time": "2025-01-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 3483,
+    "blob_submitter": "Nal",
+    "blobs": 24,
     "time": "2025-01-29 00:00:00.000 UTC"
   },
   {

@@ -1,5 +1,10 @@
 [
   {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1835,
+    "time": "2024-07-20 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Taiko",
     "blobs": 3855,
     "time": "2024-07-20 00:00:00.000 UTC"
@@ -10,8 +15,8 @@
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 15,
+    "blob_submitter": "Linea",
+    "blobs": 527,
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
@@ -20,8 +25,8 @@
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 527,
+    "blob_submitter": "World Chain",
+    "blobs": 15,
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
@@ -50,16 +55,6 @@
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1835,
-    "time": "2024-07-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 59,
-    "time": "2024-07-20 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "PandaSea",
     "blobs": 24,
     "time": "2024-07-20 00:00:00.000 UTC"
@@ -75,11 +70,6 @@
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 512,
-    "time": "2024-07-20 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Nal",
     "blobs": 49,
     "time": "2024-07-20 00:00:00.000 UTC"
@@ -90,8 +80,18 @@
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Zircuit",
+    "blobs": 512,
+    "time": "2024-07-20 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "ZORA",
     "blobs": 102,
+    "time": "2024-07-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 59,
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
@@ -135,11 +135,6 @@
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 47,
-    "time": "2024-07-20 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Scroll",
     "blobs": 485,
     "time": "2024-07-20 00:00:00.000 UTC"
@@ -147,6 +142,11 @@
   {
     "blob_submitter": "Mode",
     "blobs": 120,
+    "time": "2024-07-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 47,
     "time": "2024-07-20 00:00:00.000 UTC"
   }
 ]

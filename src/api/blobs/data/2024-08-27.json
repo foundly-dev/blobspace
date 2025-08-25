@@ -1,5 +1,15 @@
 [
   {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2421,
+    "time": "2024-08-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
+    "blobs": 77,
+    "time": "2024-08-27 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Kroma",
     "blobs": 527,
     "time": "2024-08-27 00:00:00.000 UTC"
@@ -25,8 +35,8 @@
     "time": "2024-08-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 14,
+    "blob_submitter": "Scroll",
+    "blobs": 418,
     "time": "2024-08-27 00:00:00.000 UTC"
   },
   {
@@ -35,13 +45,13 @@
     "time": "2024-08-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 418,
+    "blob_submitter": "Mint",
+    "blobs": 18,
     "time": "2024-08-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 18,
+    "blob_submitter": "Shape",
+    "blobs": 14,
     "time": "2024-08-27 00:00:00.000 UTC"
   },
   {
@@ -52,26 +62,6 @@
   {
     "blob_submitter": "Mode",
     "blobs": 83,
-    "time": "2024-08-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2421,
-    "time": "2024-08-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "XGA",
-    "blobs": 77,
-    "time": "2024-08-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 10,
-    "time": "2024-08-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 25,
     "time": "2024-08-27 00:00:00.000 UTC"
   },
   {
@@ -90,8 +80,18 @@
     "time": "2024-08-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 173,
+    "blob_submitter": "Lisk",
+    "blobs": 5,
+    "time": "2024-08-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 25,
+    "time": "2024-08-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 10,
     "time": "2024-08-27 00:00:00.000 UTC"
   },
   {
@@ -100,18 +100,18 @@
     "time": "2024-08-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
-    "time": "2024-08-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
+    "blob_submitter": "Others",
+    "blobs": 173,
     "time": "2024-08-27 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Linea",
     "blobs": 248,
+    "time": "2024-08-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 14,
     "time": "2024-08-27 00:00:00.000 UTC"
   },
   {

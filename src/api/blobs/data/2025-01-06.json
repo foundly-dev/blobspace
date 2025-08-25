@@ -1,5 +1,10 @@
 [
   {
+    "blob_submitter": "zkSync Era",
+    "blobs": 128,
+    "time": "2025-01-06 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Nal",
     "blobs": 25,
     "time": "2025-01-06 00:00:00.000 UTC"
@@ -30,23 +35,8 @@
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 128,
-    "time": "2025-01-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "SNAXchain",
-    "blobs": 16,
-    "time": "2025-01-06 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Swan Chain",
     "blobs": 7,
-    "time": "2025-01-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 46,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
@@ -55,18 +45,18 @@
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "pegglecoin",
-    "blobs": 12,
-    "time": "2025-01-06 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "River",
     "blobs": 88,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Phala Network",
-    "blobs": 76,
+    "blob_submitter": "ZORA",
+    "blobs": 46,
+    "time": "2025-01-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "pegglecoin",
+    "blobs": 12,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
@@ -77,6 +67,16 @@
   {
     "blob_submitter": "Swell",
     "blobs": 26,
+    "time": "2025-01-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Phala Network",
+    "blobs": 76,
+    "time": "2025-01-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "SNAXchain",
+    "blobs": 16,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
@@ -135,16 +135,6 @@
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ink",
-    "blobs": 47,
-    "time": "2025-01-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
-    "blobs": 7,
-    "time": "2025-01-06 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "HashKey",
     "blobs": 26,
     "time": "2025-01-06 00:00:00.000 UTC"
@@ -152,6 +142,16 @@
   {
     "blob_submitter": "Soneium",
     "blobs": 13,
+    "time": "2025-01-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ink",
+    "blobs": 47,
+    "time": "2025-01-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 7,
     "time": "2025-01-06 00:00:00.000 UTC"
   }
 ]

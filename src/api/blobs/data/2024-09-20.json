@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "Mint",
-    "blobs": 407,
-    "time": "2024-09-20 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "XGA",
     "blobs": 77,
     "time": "2024-09-20 00:00:00.000 UTC"
@@ -12,6 +7,21 @@
   {
     "blob_submitter": "zkSync Era",
     "blobs": 127,
+    "time": "2024-09-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 407,
+    "time": "2024-09-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 14,
+    "time": "2024-09-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 6,
     "time": "2024-09-20 00:00:00.000 UTC"
   },
   {
@@ -30,23 +40,13 @@
     "time": "2024-09-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "SNAXchain",
-    "blobs": 16,
-    "time": "2024-09-20 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Boba Network",
     "blobs": 48,
     "time": "2024-09-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
-    "time": "2024-09-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 14,
+    "blob_submitter": "SNAXchain",
+    "blobs": 16,
     "time": "2024-09-20 00:00:00.000 UTC"
   },
   {
@@ -90,13 +90,8 @@
     "time": "2024-09-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
-    "blobs": 24,
-    "time": "2024-09-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "PandaSea",
-    "blobs": 24,
+    "blob_submitter": "Inscriptions",
+    "blobs": 1,
     "time": "2024-09-20 00:00:00.000 UTC"
   },
   {
@@ -105,8 +100,13 @@
     "time": "2024-09-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 1,
+    "blob_submitter": "PandaSea",
+    "blobs": 24,
+    "time": "2024-09-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 24,
     "time": "2024-09-20 00:00:00.000 UTC"
   },
   {
@@ -130,13 +130,13 @@
     "time": "2024-09-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 283,
+    "blob_submitter": "Superseed",
+    "blobs": 16,
     "time": "2024-09-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
+    "blob_submitter": "Linea",
+    "blobs": 283,
     "time": "2024-09-20 00:00:00.000 UTC"
   },
   {

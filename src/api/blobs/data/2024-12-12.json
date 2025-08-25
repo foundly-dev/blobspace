@@ -45,8 +45,8 @@
     "time": "2024-12-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1050,
+    "blob_submitter": "Fuel",
+    "blobs": 213,
     "time": "2024-12-12 00:00:00.000 UTC"
   },
   {
@@ -55,18 +55,13 @@
     "time": "2024-12-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Fuel",
-    "blobs": 213,
-    "time": "2024-12-12 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Metal",
     "blobs": 359,
     "time": "2024-12-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 24,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1050,
     "time": "2024-12-12 00:00:00.000 UTC"
   },
   {
@@ -80,13 +75,18 @@
     "time": "2024-12-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZERO Network",
-    "blobs": 11,
+    "blob_submitter": "RACE",
+    "blobs": 24,
     "time": "2024-12-12 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Lisk",
     "blobs": 228,
+    "time": "2024-12-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERO Network",
+    "blobs": 11,
     "time": "2024-12-12 00:00:00.000 UTC"
   },
   {
@@ -135,16 +135,6 @@
     "time": "2024-12-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Morph",
-    "blobs": 72,
-    "time": "2024-12-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "SNAXchain",
-    "blobs": 16,
-    "time": "2024-12-12 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arbitrum One",
     "blobs": 2529,
     "time": "2024-12-12 00:00:00.000 UTC"
@@ -162,6 +152,16 @@
   {
     "blob_submitter": "zkSync Era",
     "blobs": 92,
+    "time": "2024-12-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Morph",
+    "blobs": 72,
+    "time": "2024-12-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "SNAXchain",
+    "blobs": 16,
     "time": "2024-12-12 00:00:00.000 UTC"
   }
 ]

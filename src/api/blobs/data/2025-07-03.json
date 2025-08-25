@@ -10,13 +10,13 @@
     "time": "2025-07-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 16,
+    "blob_submitter": "Soneium",
+    "blobs": 645,
     "time": "2025-07-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Soneium",
-    "blobs": 645,
+    "blob_submitter": "ZORA",
+    "blobs": 16,
     "time": "2025-07-03 00:00:00.000 UTC"
   },
   {
@@ -35,16 +35,6 @@
     "time": "2025-07-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 361,
-    "time": "2025-07-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 97,
-    "time": "2025-07-03 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "OP Mainnet",
     "blobs": 1986,
     "time": "2025-07-03 00:00:00.000 UTC"
@@ -55,18 +45,18 @@
     "time": "2025-07-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 10748,
-    "time": "2025-07-03 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Scroll",
     "blobs": 39,
     "time": "2025-07-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
+    "blob_submitter": "Metal",
+    "blobs": 361,
+    "time": "2025-07-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 97,
     "time": "2025-07-03 00:00:00.000 UTC"
   },
   {
@@ -80,13 +70,23 @@
     "time": "2025-07-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 23,
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
     "time": "2025-07-03 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "RACE",
     "blobs": 24,
+    "time": "2025-07-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 10748,
+    "time": "2025-07-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 23,
     "time": "2025-07-03 00:00:00.000 UTC"
   },
   {
@@ -125,8 +125,13 @@
     "time": "2025-07-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 78,
+    "blob_submitter": "Lighter",
+    "blobs": 228,
+    "time": "2025-07-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "R0AR Chain",
+    "blobs": 10,
     "time": "2025-07-03 00:00:00.000 UTC"
   },
   {
@@ -135,13 +140,8 @@
     "time": "2025-07-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lighter",
-    "blobs": 228,
-    "time": "2025-07-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 10,
+    "blob_submitter": "StarkNet",
+    "blobs": 78,
     "time": "2025-07-03 00:00:00.000 UTC"
   },
   {

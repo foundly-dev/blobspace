@@ -1,7 +1,22 @@
 [
   {
+    "blob_submitter": "Blast",
+    "blobs": 332,
+    "time": "2025-08-02 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Swellchain",
     "blobs": 49,
+    "time": "2025-08-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Unichain",
+    "blobs": 744,
+    "time": "2025-08-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 114,
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
@@ -45,11 +60,6 @@
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2544,
-    "time": "2025-08-02 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Mint",
     "blobs": 18,
     "time": "2025-08-02 00:00:00.000 UTC"
@@ -60,23 +70,8 @@
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 332,
-    "time": "2025-08-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Unichain",
-    "blobs": 744,
-    "time": "2025-08-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 114,
-    "time": "2025-08-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 27,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2544,
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
@@ -87,6 +82,11 @@
   {
     "blob_submitter": "Lumio",
     "blobs": 16,
+    "time": "2025-08-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 27,
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
@@ -125,16 +125,6 @@
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Infinaeon",
-    "blobs": 9,
-    "time": "2025-08-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1524,
-    "time": "2025-08-02 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Linea",
     "blobs": 81,
     "time": "2025-08-02 00:00:00.000 UTC"
@@ -145,13 +135,23 @@
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Taiko",
+    "blobs": 2092,
+    "time": "2025-08-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Infinaeon",
+    "blobs": 9,
+    "time": "2025-08-02 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Polynomial",
     "blobs": 28,
     "time": "2025-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 2092,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1524,
     "time": "2025-08-02 00:00:00.000 UTC"
   }
 ]

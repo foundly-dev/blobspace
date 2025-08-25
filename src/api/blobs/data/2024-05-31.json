@@ -1,12 +1,12 @@
 [
   {
-    "blob_submitter": "Lumio",
-    "blobs": 8,
+    "blob_submitter": "Lambda",
+    "blobs": 14,
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
+    "blob_submitter": "Lumio",
+    "blobs": 8,
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
@@ -20,11 +20,6 @@
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 53,
-    "time": "2024-05-31 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Linea",
     "blobs": 667,
     "time": "2024-05-31 00:00:00.000 UTC"
@@ -35,7 +30,12 @@
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
+    "blob_submitter": "Camp Network",
+    "blobs": 53,
+    "time": "2024-05-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
     "blobs": 8,
     "time": "2024-05-31 00:00:00.000 UTC"
   },
@@ -45,7 +45,7 @@
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
+    "blob_submitter": "Lisk",
     "blobs": 8,
     "time": "2024-05-31 00:00:00.000 UTC"
   },
@@ -65,21 +65,6 @@
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 830,
-    "time": "2024-05-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 280,
-    "time": "2024-05-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 17,
-    "time": "2024-05-31 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Scroll",
     "blobs": 1849,
     "time": "2024-05-31 00:00:00.000 UTC"
@@ -90,8 +75,23 @@
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 69,
+    "blob_submitter": "Blast",
+    "blobs": 830,
+    "time": "2024-05-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 17,
+    "time": "2024-05-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 280,
+    "time": "2024-05-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2571,
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
@@ -100,8 +100,8 @@
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2571,
+    "blob_submitter": "Optopia",
+    "blobs": 69,
     "time": "2024-05-31 00:00:00.000 UTC"
   }
 ]

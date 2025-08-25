@@ -1,5 +1,20 @@
 [
   {
+    "blob_submitter": "HashKey",
+    "blobs": 47,
+    "time": "2025-07-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2025-07-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Infinaeon",
+    "blobs": 10,
+    "time": "2025-07-19 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Scroll",
     "blobs": 53,
     "time": "2025-07-19 00:00:00.000 UTC"
@@ -50,21 +65,6 @@
     "time": "2025-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "HashKey",
-    "blobs": 47,
-    "time": "2025-07-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
-    "time": "2025-07-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Infinaeon",
-    "blobs": 10,
-    "time": "2025-07-19 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Lighter",
     "blobs": 201,
     "time": "2025-07-19 00:00:00.000 UTC"
@@ -75,18 +75,8 @@
     "time": "2025-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Settlus",
-    "blobs": 16,
-    "time": "2025-07-19 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Linea",
     "blobs": 93,
-    "time": "2025-07-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 108,
     "time": "2025-07-19 00:00:00.000 UTC"
   },
   {
@@ -97,6 +87,16 @@
   {
     "blob_submitter": "World Chain",
     "blobs": 5784,
+    "time": "2025-07-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 108,
+    "time": "2025-07-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Settlus",
+    "blobs": 16,
     "time": "2025-07-19 00:00:00.000 UTC"
   },
   {
@@ -130,6 +130,11 @@
     "time": "2025-07-19 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Swellchain",
+    "blobs": 49,
+    "time": "2025-07-19 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Arbitrum One",
     "blobs": 2406,
     "time": "2025-07-19 00:00:00.000 UTC"
@@ -150,16 +155,6 @@
     "time": "2025-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
-    "time": "2025-07-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swellchain",
-    "blobs": 49,
-    "time": "2025-07-19 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Mint",
     "blobs": 52,
     "time": "2025-07-19 00:00:00.000 UTC"
@@ -175,6 +170,11 @@
     "time": "2025-07-19 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Optopia",
+    "blobs": 8,
+    "time": "2025-07-19 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Unichain",
     "blobs": 1155,
     "time": "2025-07-19 00:00:00.000 UTC"
@@ -185,21 +185,6 @@
     "time": "2025-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 1804,
-    "time": "2025-07-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Abstract",
-    "blobs": 520,
-    "time": "2025-07-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "SNAXchain",
-    "blobs": 16,
-    "time": "2025-07-19 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "OP Mainnet",
     "blobs": 2821,
     "time": "2025-07-19 00:00:00.000 UTC"
@@ -207,6 +192,11 @@
   {
     "blob_submitter": "RACE",
     "blobs": 24,
+    "time": "2025-07-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 1804,
     "time": "2025-07-19 00:00:00.000 UTC"
   },
   {

@@ -10,16 +10,6 @@
     "time": "2024-08-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 1415,
-    "time": "2024-08-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 22,
-    "time": "2024-08-24 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Base",
     "blobs": 4810,
     "time": "2024-08-24 00:00:00.000 UTC"
@@ -37,6 +27,16 @@
   {
     "blob_submitter": "Scroll",
     "blobs": 347,
+    "time": "2024-08-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 1415,
+    "time": "2024-08-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 22,
     "time": "2024-08-24 00:00:00.000 UTC"
   },
   {
@@ -60,22 +60,17 @@
     "time": "2024-08-24 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Swan Chain",
+    "blobs": 19,
+    "time": "2024-08-24 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "zkSync Era",
     "blobs": 99,
     "time": "2024-08-24 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Mint",
-    "blobs": 16,
-    "time": "2024-08-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 19,
-    "time": "2024-08-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
     "blobs": 16,
     "time": "2024-08-24 00:00:00.000 UTC"
   },
@@ -87,6 +82,11 @@
   {
     "blob_submitter": "Shape",
     "blobs": 15,
+    "time": "2024-08-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
     "time": "2024-08-24 00:00:00.000 UTC"
   },
   {
@@ -125,13 +125,8 @@
     "time": "2024-08-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 301,
-    "time": "2024-08-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 16,
+    "blob_submitter": "Paradex",
+    "blobs": 212,
     "time": "2024-08-24 00:00:00.000 UTC"
   },
   {
@@ -140,13 +135,18 @@
     "time": "2024-08-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 212,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1410,
     "time": "2024-08-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1410,
+    "blob_submitter": "World Chain",
+    "blobs": 301,
+    "time": "2024-08-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
     "time": "2024-08-24 00:00:00.000 UTC"
   }
 ]

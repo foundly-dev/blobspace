@@ -1,5 +1,10 @@
 [
   {
+    "blob_submitter": "Camp Network",
+    "blobs": 8,
+    "time": "2024-04-17 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Mode",
     "blobs": 120,
     "time": "2024-04-17 00:00:00.000 UTC"
@@ -20,16 +25,6 @@
     "time": "2024-04-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 8,
-    "time": "2024-04-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 3930,
-    "time": "2024-04-17 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Lambda",
     "blobs": 366,
     "time": "2024-04-17 00:00:00.000 UTC"
@@ -45,13 +40,13 @@
     "time": "2024-04-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 259,
+    "blob_submitter": "Base",
+    "blobs": 3930,
     "time": "2024-04-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 380,
+    "blob_submitter": "StarkNet",
+    "blobs": 259,
     "time": "2024-04-17 00:00:00.000 UTC"
   },
   {
@@ -62,6 +57,11 @@
   {
     "blob_submitter": "Metal",
     "blobs": 8,
+    "time": "2024-04-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 380,
     "time": "2024-04-17 00:00:00.000 UTC"
   }
 ]

@@ -5,13 +5,18 @@
     "time": "2025-01-19 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Boba Network",
+    "blobs": 25,
+    "time": "2025-01-19 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Abstract",
     "blobs": 82,
     "time": "2025-01-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 414,
+    "blob_submitter": "ZORA",
+    "blobs": 41,
     "time": "2025-01-19 00:00:00.000 UTC"
   },
   {
@@ -20,8 +25,8 @@
     "time": "2025-01-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 41,
+    "blob_submitter": "Blast",
+    "blobs": 414,
     "time": "2025-01-19 00:00:00.000 UTC"
   },
   {
@@ -65,11 +70,6 @@
     "time": "2025-01-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 25,
-    "time": "2025-01-19 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Mint",
     "blobs": 240,
     "time": "2025-01-19 00:00:00.000 UTC"
@@ -85,16 +85,6 @@
     "time": "2025-01-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swell",
-    "blobs": 26,
-    "time": "2025-01-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
-    "time": "2025-01-19 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "HashKey",
     "blobs": 46,
     "time": "2025-01-19 00:00:00.000 UTC"
@@ -105,18 +95,28 @@
     "time": "2025-01-19 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Swell",
+    "blobs": 26,
+    "time": "2025-01-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2025-01-19 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Taiko",
     "blobs": 1953,
     "time": "2025-01-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 75,
+    "blob_submitter": "Phala Network",
+    "blobs": 76,
     "time": "2025-01-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Phala Network",
-    "blobs": 76,
+    "blob_submitter": "Kroma",
+    "blobs": 75,
     "time": "2025-01-19 00:00:00.000 UTC"
   },
   {
@@ -130,13 +130,13 @@
     "time": "2025-01-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1135,
+    "blob_submitter": "Polynomial",
+    "blobs": 48,
     "time": "2025-01-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 48,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1135,
     "time": "2025-01-19 00:00:00.000 UTC"
   },
   {
@@ -150,11 +150,6 @@
     "time": "2025-01-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 51,
-    "time": "2025-01-19 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "World Chain",
     "blobs": 2829,
     "time": "2025-01-19 00:00:00.000 UTC"
@@ -162,6 +157,11 @@
   {
     "blob_submitter": "Linea",
     "blobs": 33,
+    "time": "2025-01-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 51,
     "time": "2025-01-19 00:00:00.000 UTC"
   }
 ]

@@ -40,11 +40,6 @@
     "time": "2024-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2024-08-02 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Polynomial",
     "blobs": 16,
     "time": "2024-08-02 00:00:00.000 UTC"
@@ -55,13 +50,8 @@
     "time": "2024-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
-    "time": "2024-08-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 73,
+    "blob_submitter": "Lumio",
+    "blobs": 16,
     "time": "2024-08-02 00:00:00.000 UTC"
   },
   {
@@ -70,8 +60,13 @@
     "time": "2024-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 4990,
+    "blob_submitter": "ZORA",
+    "blobs": 73,
+    "time": "2024-08-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 71,
     "time": "2024-08-02 00:00:00.000 UTC"
   },
   {
@@ -90,18 +85,23 @@
     "time": "2024-08-02 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Base",
+    "blobs": 4990,
+    "time": "2024-08-02 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Zircuit",
     "blobs": 491,
     "time": "2024-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 37,
+    "blob_submitter": "PandaSea",
+    "blobs": 24,
     "time": "2024-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "PandaSea",
-    "blobs": 24,
+    "blob_submitter": "Debank Chain",
+    "blobs": 37,
     "time": "2024-08-02 00:00:00.000 UTC"
   },
   {
@@ -115,13 +115,13 @@
     "time": "2024-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
-    "blobs": 25,
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
     "time": "2024-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
+    "blob_submitter": "Binary",
+    "blobs": 25,
     "time": "2024-08-02 00:00:00.000 UTC"
   },
   {
@@ -135,23 +135,18 @@
     "time": "2024-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 104,
-    "time": "2024-08-02 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Shape",
     "blobs": 15,
     "time": "2024-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2664,
+    "blob_submitter": "Mode",
+    "blobs": 104,
     "time": "2024-08-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 30,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2664,
     "time": "2024-08-02 00:00:00.000 UTC"
   },
   {
@@ -162,6 +157,11 @@
   {
     "blob_submitter": "Inscriptions",
     "blobs": 84,
+    "time": "2024-08-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 30,
     "time": "2024-08-02 00:00:00.000 UTC"
   }
 ]

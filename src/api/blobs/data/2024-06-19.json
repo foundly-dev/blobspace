@@ -1,20 +1,5 @@
 [
   {
-    "blob_submitter": "Scroll",
-    "blobs": 1436,
-    "time": "2024-06-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 5592,
-    "time": "2024-06-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 26,
-    "time": "2024-06-19 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Mode",
     "blobs": 138,
     "time": "2024-06-19 00:00:00.000 UTC"
@@ -27,6 +12,21 @@
   {
     "blob_submitter": "ZORA",
     "blobs": 120,
+    "time": "2024-06-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 1436,
+    "time": "2024-06-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 5592,
+    "time": "2024-06-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 26,
     "time": "2024-06-19 00:00:00.000 UTC"
   },
   {
@@ -55,27 +55,17 @@
     "time": "2024-06-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 77,
-    "time": "2024-06-19 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "StarkNet",
     "blobs": 413,
     "time": "2024-06-19 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Optopia",
+    "blobs": 77,
+    "time": "2024-06-19 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lisk",
-    "blobs": 8,
-    "time": "2024-06-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 358,
-    "time": "2024-06-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
     "blobs": 8,
     "time": "2024-06-19 00:00:00.000 UTC"
   },
@@ -97,6 +87,16 @@
   {
     "blob_submitter": "Arbitrum One",
     "blobs": 2661,
+    "time": "2024-06-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 358,
+    "time": "2024-06-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 8,
     "time": "2024-06-19 00:00:00.000 UTC"
   }
 ]

@@ -25,13 +25,13 @@
     "time": "2024-12-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 146,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1141,
     "time": "2024-12-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1141,
+    "blob_submitter": "Linea",
+    "blobs": 146,
     "time": "2024-12-04 00:00:00.000 UTC"
   },
   {
@@ -50,11 +50,6 @@
     "time": "2024-12-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2024-12-04 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Metal",
     "blobs": 361,
     "time": "2024-12-04 00:00:00.000 UTC"
@@ -70,13 +65,18 @@
     "time": "2024-12-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 134,
+    "blob_submitter": "Lumio",
+    "blobs": 16,
     "time": "2024-12-04 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Kroma",
     "blobs": 160,
+    "time": "2024-12-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 134,
     "time": "2024-12-04 00:00:00.000 UTC"
   },
   {
@@ -95,16 +95,6 @@
     "time": "2024-12-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 3366,
-    "time": "2024-12-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERO Network",
-    "blobs": 16,
-    "time": "2024-12-04 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Blast",
     "blobs": 530,
     "time": "2024-12-04 00:00:00.000 UTC"
@@ -120,6 +110,21 @@
     "time": "2024-12-04 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 3366,
+    "time": "2024-12-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERO Network",
+    "blobs": 16,
+    "time": "2024-12-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 45,
+    "time": "2024-12-04 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Mint",
     "blobs": 192,
     "time": "2024-12-04 00:00:00.000 UTC"
@@ -130,18 +135,13 @@
     "time": "2024-12-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
+    "blob_submitter": "Morph",
+    "blobs": 72,
     "time": "2024-12-04 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "SNAXchain",
     "blobs": 16,
-    "time": "2024-12-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Morph",
-    "blobs": 72,
     "time": "2024-12-04 00:00:00.000 UTC"
   },
   {
@@ -152,11 +152,6 @@
   {
     "blob_submitter": "Paradex",
     "blobs": 82,
-    "time": "2024-12-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 45,
     "time": "2024-12-04 00:00:00.000 UTC"
   }
 ]

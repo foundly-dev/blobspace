@@ -1,5 +1,10 @@
 [
   {
+    "blob_submitter": "Shape",
+    "blobs": 14,
+    "time": "2024-08-11 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Kroma",
     "blobs": 173,
     "time": "2024-08-11 00:00:00.000 UTC"
@@ -50,11 +55,6 @@
     "time": "2024-08-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 14,
-    "time": "2024-08-11 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Swan Chain",
     "blobs": 15,
     "time": "2024-08-11 00:00:00.000 UTC"
@@ -100,6 +100,11 @@
     "time": "2024-08-11 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Lisk",
+    "blobs": 5,
+    "time": "2024-08-11 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Paradex",
     "blobs": 178,
     "time": "2024-08-11 00:00:00.000 UTC"
@@ -115,23 +120,8 @@
     "time": "2024-08-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
-    "time": "2024-08-11 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Metal",
     "blobs": 359,
-    "time": "2024-08-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1385,
-    "time": "2024-08-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
     "time": "2024-08-11 00:00:00.000 UTC"
   },
   {
@@ -140,8 +130,18 @@
     "time": "2024-08-11 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Optopia",
+    "blobs": 71,
+    "time": "2024-08-11 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Linea",
     "blobs": 265,
+    "time": "2024-08-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1385,
     "time": "2024-08-11 00:00:00.000 UTC"
   }
 ]

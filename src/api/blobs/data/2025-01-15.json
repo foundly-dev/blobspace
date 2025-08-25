@@ -1,5 +1,10 @@
 [
   {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
+    "time": "2025-01-15 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lumio",
     "blobs": 16,
     "time": "2025-01-15 00:00:00.000 UTC"
@@ -35,23 +40,8 @@
     "time": "2025-01-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2025-01-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ink",
-    "blobs": 44,
-    "time": "2025-01-15 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Lisk",
     "blobs": 352,
-    "time": "2025-01-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 99,
     "time": "2025-01-15 00:00:00.000 UTC"
   },
   {
@@ -60,8 +50,33 @@
     "time": "2025-01-15 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Zircuit",
+    "blobs": 99,
+    "time": "2025-01-15 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "ZERO Network",
     "blobs": 4,
+    "time": "2025-01-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ink",
+    "blobs": 44,
+    "time": "2025-01-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 20,
+    "time": "2025-01-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 24,
+    "time": "2025-01-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 8,
     "time": "2025-01-15 00:00:00.000 UTC"
   },
   {
@@ -80,23 +95,8 @@
     "time": "2025-01-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 20,
-    "time": "2025-01-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
-    "time": "2025-01-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 24,
-    "time": "2025-01-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2319,
+    "blob_submitter": "Scroll",
+    "blobs": 68,
     "time": "2025-01-15 00:00:00.000 UTC"
   },
   {
@@ -105,8 +105,8 @@
     "time": "2025-01-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 68,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2319,
     "time": "2025-01-15 00:00:00.000 UTC"
   },
   {
@@ -130,6 +130,11 @@
     "time": "2025-01-15 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "ZORA",
+    "blobs": 45,
+    "time": "2025-01-15 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Kinto",
     "blobs": 6,
     "time": "2025-01-15 00:00:00.000 UTC"
@@ -137,11 +142,6 @@
   {
     "blob_submitter": "Morph",
     "blobs": 132,
-    "time": "2025-01-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 45,
     "time": "2025-01-15 00:00:00.000 UTC"
   },
   {
@@ -160,8 +160,8 @@
     "time": "2025-01-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "SNAXchain",
-    "blobs": 16,
+    "blob_submitter": "Fuel",
+    "blobs": 107,
     "time": "2025-01-15 00:00:00.000 UTC"
   },
   {
@@ -170,8 +170,8 @@
     "time": "2025-01-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 59,
+    "blob_submitter": "SNAXchain",
+    "blobs": 16,
     "time": "2025-01-15 00:00:00.000 UTC"
   },
   {
@@ -180,8 +180,8 @@
     "time": "2025-01-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Fuel",
-    "blobs": 107,
+    "blob_submitter": "Mode",
+    "blobs": 59,
     "time": "2025-01-15 00:00:00.000 UTC"
   }
 ]

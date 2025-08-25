@@ -1,25 +1,5 @@
 [
   {
-    "blob_submitter": "Nal",
-    "blobs": 49,
-    "time": "2024-07-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 359,
-    "time": "2024-07-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 16,
-    "time": "2024-07-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 294,
-    "time": "2024-07-30 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Lisk",
     "blobs": 5,
     "time": "2024-07-30 00:00:00.000 UTC"
@@ -30,8 +10,23 @@
     "time": "2024-07-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 102,
+    "blob_submitter": "Nal",
+    "blobs": 49,
+    "time": "2024-07-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
+    "time": "2024-07-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 359,
+    "time": "2024-07-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 294,
     "time": "2024-07-30 00:00:00.000 UTC"
   },
   {
@@ -40,13 +35,13 @@
     "time": "2024-07-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 76,
+    "blob_submitter": "Camp Network",
+    "blobs": 18,
     "time": "2024-07-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 18,
+    "blob_submitter": "Mode",
+    "blobs": 102,
     "time": "2024-07-30 00:00:00.000 UTC"
   },
   {
@@ -60,6 +55,16 @@
     "time": "2024-07-30 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Scroll",
+    "blobs": 427,
+    "time": "2024-07-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 76,
+    "time": "2024-07-30 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lambda",
     "blobs": 14,
     "time": "2024-07-30 00:00:00.000 UTC"
@@ -67,11 +72,6 @@
   {
     "blob_submitter": "Kinto",
     "blobs": 6,
-    "time": "2024-07-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 427,
     "time": "2024-07-30 00:00:00.000 UTC"
   },
   {
@@ -95,8 +95,8 @@
     "time": "2024-07-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 3,
+    "blob_submitter": "Others",
+    "blobs": 8,
     "time": "2024-07-30 00:00:00.000 UTC"
   },
   {
@@ -105,8 +105,8 @@
     "time": "2024-07-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 8,
+    "blob_submitter": "Inscriptions",
+    "blobs": 3,
     "time": "2024-07-30 00:00:00.000 UTC"
   },
   {

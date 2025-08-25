@@ -1,12 +1,12 @@
 [
   {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
+    "blob_submitter": "Swan Chain",
+    "blobs": 10,
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 5360,
+    "blob_submitter": "Lambda",
+    "blobs": 14,
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
@@ -20,8 +20,8 @@
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 10,
+    "blob_submitter": "Base",
+    "blobs": 5360,
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
@@ -50,13 +50,13 @@
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
-    "blobs": 25,
+    "blob_submitter": "Shape",
+    "blobs": 15,
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 15,
+    "blob_submitter": "Binary",
+    "blobs": 25,
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
@@ -65,13 +65,13 @@
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 176,
+    "blob_submitter": "Blast",
+    "blobs": 1212,
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 1212,
+    "blob_submitter": "Kroma",
+    "blobs": 176,
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
@@ -80,8 +80,8 @@
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 152,
+    "blob_submitter": "Nal",
+    "blobs": 50,
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
@@ -90,18 +90,18 @@
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Nal",
-    "blobs": 50,
-    "time": "2024-07-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 296,
+    "blob_submitter": "zkSync Era",
+    "blobs": 152,
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Kinto",
     "blobs": 6,
+    "time": "2024-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 296,
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {

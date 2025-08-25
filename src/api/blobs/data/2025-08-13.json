@@ -1,12 +1,12 @@
 [
   {
-    "blob_submitter": "Lighter",
-    "blobs": 292,
+    "blob_submitter": "StarkNet",
+    "blobs": 204,
     "time": "2025-08-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 204,
+    "blob_submitter": "Lighter",
+    "blobs": 292,
     "time": "2025-08-13 00:00:00.000 UTC"
   },
   {
@@ -35,28 +35,8 @@
     "time": "2025-08-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 270,
-    "time": "2025-08-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 132,
-    "time": "2025-08-13 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Metal",
     "blobs": 360,
-    "time": "2025-08-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 57,
-    "time": "2025-08-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arena-Z",
-    "blobs": 4,
     "time": "2025-08-13 00:00:00.000 UTC"
   },
   {
@@ -70,6 +50,16 @@
     "time": "2025-08-13 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Scroll",
+    "blobs": 270,
+    "time": "2025-08-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 132,
+    "time": "2025-08-13 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Arbitrum One",
     "blobs": 3477,
     "time": "2025-08-13 00:00:00.000 UTC"
@@ -77,6 +67,16 @@
   {
     "blob_submitter": "ZERO Network",
     "blobs": 3,
+    "time": "2025-08-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 57,
+    "time": "2025-08-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arena-Z",
+    "blobs": 4,
     "time": "2025-08-13 00:00:00.000 UTC"
   },
   {
@@ -125,6 +125,16 @@
     "time": "2025-08-13 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "ZORA",
+    "blobs": 29,
+    "time": "2025-08-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 20,
+    "time": "2025-08-13 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Base",
     "blobs": 11015,
     "time": "2025-08-13 00:00:00.000 UTC"
@@ -137,16 +147,6 @@
   {
     "blob_submitter": "Swan Chain",
     "blobs": 7,
-    "time": "2025-08-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 29,
-    "time": "2025-08-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 20,
     "time": "2025-08-13 00:00:00.000 UTC"
   }
 ]

@@ -85,11 +85,6 @@
     "time": "2025-08-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 45,
-    "time": "2025-08-10 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Metal",
     "blobs": 359,
     "time": "2025-08-10 00:00:00.000 UTC"
@@ -102,6 +97,11 @@
   {
     "blob_submitter": "Optopia",
     "blobs": 8,
+    "time": "2025-08-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 45,
     "time": "2025-08-10 00:00:00.000 UTC"
   },
   {
@@ -120,23 +120,18 @@
     "time": "2025-08-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 245,
-    "time": "2025-08-10 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "HashKey",
     "blobs": 46,
     "time": "2025-08-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Katana",
-    "blobs": 206,
+    "blob_submitter": "Linea",
+    "blobs": 245,
     "time": "2025-08-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 10551,
+    "blob_submitter": "Katana",
+    "blobs": 206,
     "time": "2025-08-10 00:00:00.000 UTC"
   },
   {
@@ -147,6 +142,16 @@
   {
     "blob_submitter": "Infinaeon",
     "blobs": 9,
+    "time": "2025-08-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2025-08-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 10551,
     "time": "2025-08-10 00:00:00.000 UTC"
   },
   {
@@ -161,11 +166,6 @@
   },
   {
     "blob_submitter": "Superseed",
-    "blobs": 16,
-    "time": "2025-08-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
     "blobs": 16,
     "time": "2025-08-10 00:00:00.000 UTC"
   }
