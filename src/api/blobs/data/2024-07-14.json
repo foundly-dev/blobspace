@@ -5,11 +5,6 @@
     "time": "2024-07-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "XGA",
-    "blobs": 14,
-    "time": "2024-07-14 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Boba Network",
     "blobs": 48,
     "time": "2024-07-14 00:00:00.000 UTC"
@@ -40,23 +35,8 @@
     "time": "2024-07-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 188,
-    "time": "2024-07-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
+    "blob_submitter": "XGA",
     "blobs": 14,
-    "time": "2024-07-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 16,
-    "time": "2024-07-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
     "time": "2024-07-14 00:00:00.000 UTC"
   },
   {
@@ -75,6 +55,26 @@
     "time": "2024-07-14 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "River",
+    "blobs": 188,
+    "time": "2024-07-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 5,
+    "time": "2024-07-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 14,
+    "time": "2024-07-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 16,
+    "time": "2024-07-14 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "RACE",
     "blobs": 77,
     "time": "2024-07-14 00:00:00.000 UTC"
@@ -85,38 +85,43 @@
     "time": "2024-07-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 292,
+    "blob_submitter": "Others",
+    "blobs": 139,
     "time": "2024-07-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 607,
+    "blob_submitter": "Base",
+    "blobs": 3484,
     "time": "2024-07-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 2,
+    "blob_submitter": "Debank Chain",
+    "blobs": 194,
     "time": "2024-07-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 100,
+    "blob_submitter": "Kroma",
+    "blobs": 160,
     "time": "2024-07-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 5,
+    "blob_submitter": "Zircuit",
+    "blobs": 514,
     "time": "2024-07-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 684,
+    "blob_submitter": "Scroll",
+    "blobs": 3148,
     "time": "2024-07-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 16,
+    "blob_submitter": "Camp Network",
+    "blobs": 28,
+    "time": "2024-07-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 8,
     "time": "2024-07-14 00:00:00.000 UTC"
   }
 ]

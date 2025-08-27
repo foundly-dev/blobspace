@@ -55,38 +55,43 @@
     "time": "2024-06-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 144,
-    "time": "2024-06-06 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Debank Chain",
     "blobs": 14,
     "time": "2024-06-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 48,
+    "blob_submitter": "Mode",
+    "blobs": 144,
     "time": "2024-06-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 337,
+    "blob_submitter": "StarkNet",
+    "blobs": 249,
     "time": "2024-06-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 380,
+    "blob_submitter": "Linea",
+    "blobs": 486,
     "time": "2024-06-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 1093,
+    "blob_submitter": "Taiko",
+    "blobs": 4064,
     "time": "2024-06-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 8,
+    "blob_submitter": "Lisk",
+    "blobs": 5,
+    "time": "2024-06-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 2180,
+    "time": "2024-06-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 184,
     "time": "2024-06-06 00:00:00.000 UTC"
   }
 ]
