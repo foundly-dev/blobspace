@@ -30,18 +30,28 @@
     "time": "2024-04-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1902,
+    "blob_submitter": "StarkNet",
+    "blobs": 211,
     "time": "2024-04-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 128,
+    "blob_submitter": "Linea",
+    "blobs": 459,
     "time": "2024-04-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 554,
+    "blob_submitter": "ZORA",
+    "blobs": 546,
+    "time": "2024-04-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 1,
+    "time": "2024-04-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 4529,
     "time": "2024-04-11 00:00:00.000 UTC"
   }
 ]
