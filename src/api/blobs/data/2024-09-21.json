@@ -5,6 +5,21 @@
     "time": "2024-09-21 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Kinto",
+    "blobs": 6,
+    "time": "2024-09-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 120,
+    "time": "2024-09-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 50,
+    "time": "2024-09-21 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lumio",
     "blobs": 16,
     "time": "2024-09-21 00:00:00.000 UTC"
@@ -15,33 +30,13 @@
     "time": "2024-09-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
-    "time": "2024-09-21 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Superseed",
     "blobs": 16,
     "time": "2024-09-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 147,
-    "time": "2024-09-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 120,
-    "time": "2024-09-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
-    "time": "2024-09-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 50,
+    "blob_submitter": "Lambda",
+    "blobs": 14,
     "time": "2024-09-21 00:00:00.000 UTC"
   },
   {
@@ -70,8 +65,23 @@
     "time": "2024-09-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 358,
+    "blob_submitter": "Others",
+    "blobs": 147,
+    "time": "2024-09-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 51,
+    "time": "2024-09-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 98,
+    "time": "2024-09-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 442,
     "time": "2024-09-21 00:00:00.000 UTC"
   },
   {
@@ -122,21 +132,6 @@
   {
     "blob_submitter": "Lisk",
     "blobs": 5,
-    "time": "2024-09-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 383,
-    "time": "2024-09-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 4950,
-    "time": "2024-09-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 495,
     "time": "2024-09-21 00:00:00.000 UTC"
   }
 ]

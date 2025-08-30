@@ -1,5 +1,20 @@
 [
   {
+    "blob_submitter": "Mode",
+    "blobs": 258,
+    "time": "2024-05-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 3,
+    "time": "2024-05-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 43,
+    "time": "2024-05-10 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Linea",
     "blobs": 368,
     "time": "2024-05-10 00:00:00.000 UTC"
@@ -25,21 +40,6 @@
     "time": "2024-05-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 258,
-    "time": "2024-05-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 3,
-    "time": "2024-05-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 43,
-    "time": "2024-05-10 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "zkSync Era",
     "blobs": 440,
     "time": "2024-05-10 00:00:00.000 UTC"
@@ -55,18 +55,13 @@
     "time": "2024-05-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 102,
-    "time": "2024-05-10 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Camp Network",
     "blobs": 10,
     "time": "2024-05-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 252,
+    "blob_submitter": "Kroma",
+    "blobs": 159,
     "time": "2024-05-10 00:00:00.000 UTC"
   },
   {
@@ -75,13 +70,8 @@
     "time": "2024-05-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 52,
-    "time": "2024-05-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 2271,
+    "blob_submitter": "StarkNet",
+    "blobs": 252,
     "time": "2024-05-10 00:00:00.000 UTC"
   }
 ]

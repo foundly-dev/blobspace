@@ -1,30 +1,5 @@
 [
   {
-    "blob_submitter": "Linea",
-    "blobs": 97,
-    "time": "2025-03-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 31,
-    "time": "2025-03-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 1270,
-    "time": "2025-03-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "pegglecoin",
-    "blobs": 38,
-    "time": "2025-03-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Infinaeon",
-    "blobs": 8,
-    "time": "2025-03-09 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Lighter",
     "blobs": 58,
     "time": "2025-03-09 00:00:00.000 UTC"
@@ -50,18 +25,13 @@
     "time": "2025-03-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 81,
-    "time": "2025-03-09 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Settlus",
     "blobs": 16,
     "time": "2025-03-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
+    "blob_submitter": "Mode",
+    "blobs": 81,
     "time": "2025-03-09 00:00:00.000 UTC"
   },
   {
@@ -70,8 +40,8 @@
     "time": "2025-03-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 25,
+    "blob_submitter": "Kinto",
+    "blobs": 6,
     "time": "2025-03-09 00:00:00.000 UTC"
   },
   {
@@ -80,13 +50,33 @@
     "time": "2025-03-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Unichain",
-    "blobs": 230,
+    "blob_submitter": "Boba Network",
+    "blobs": 25,
     "time": "2025-03-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 56,
+    "blob_submitter": "Linea",
+    "blobs": 97,
+    "time": "2025-03-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 31,
+    "time": "2025-03-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Soneium",
+    "blobs": 1270,
+    "time": "2025-03-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Infinaeon",
+    "blobs": 8,
+    "time": "2025-03-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Unichain",
+    "blobs": 230,
     "time": "2025-03-09 00:00:00.000 UTC"
   },
   {
@@ -95,8 +85,18 @@
     "time": "2025-03-09 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Mint",
+    "blobs": 56,
+    "time": "2025-03-09 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Arbitrum One",
     "blobs": 2232,
+    "time": "2025-03-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "pegglecoin",
+    "blobs": 38,
     "time": "2025-03-09 00:00:00.000 UTC"
   },
   {
@@ -105,8 +105,33 @@
     "time": "2025-03-09 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Shape",
+    "blobs": 28,
+    "time": "2025-03-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Morph",
+    "blobs": 116,
+    "time": "2025-03-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Phala Network",
+    "blobs": 16,
+    "time": "2025-03-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swell",
+    "blobs": 25,
+    "time": "2025-03-09 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "ZERO Network",
     "blobs": 5,
+    "time": "2025-03-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 46,
     "time": "2025-03-09 00:00:00.000 UTC"
   },
   {
@@ -122,11 +147,6 @@
   {
     "blob_submitter": "Optopia",
     "blobs": 8,
-    "time": "2025-03-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 46,
     "time": "2025-03-09 00:00:00.000 UTC"
   },
   {
@@ -157,31 +177,6 @@
   {
     "blob_submitter": "Zircuit",
     "blobs": 99,
-    "time": "2025-03-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
-    "blobs": 15,
-    "time": "2025-03-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 21,
-    "time": "2025-03-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arena-Z",
-    "blobs": 8,
-    "time": "2025-03-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 359,
-    "time": "2025-03-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 35,
     "time": "2025-03-09 00:00:00.000 UTC"
   }
 ]

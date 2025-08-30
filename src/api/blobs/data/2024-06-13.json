@@ -5,6 +5,31 @@
     "time": "2024-06-13 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Inscriptions",
+    "blobs": 11,
+    "time": "2024-06-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 5724,
+    "time": "2024-06-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 1380,
+    "time": "2024-06-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 24,
+    "time": "2024-06-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 296,
+    "time": "2024-06-13 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Taiko",
     "blobs": 3342,
     "time": "2024-06-13 00:00:00.000 UTC"
@@ -20,43 +45,13 @@
     "time": "2024-06-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1630,
-    "time": "2024-06-13 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "River",
     "blobs": 183,
     "time": "2024-06-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 11,
-    "time": "2024-06-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 5724,
-    "time": "2024-06-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 24,
-    "time": "2024-06-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 1380,
-    "time": "2024-06-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 296,
-    "time": "2024-06-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 150,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1630,
     "time": "2024-06-13 00:00:00.000 UTC"
   },
   {
@@ -80,23 +75,23 @@
     "time": "2024-06-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 364,
+    "blob_submitter": "Mode",
+    "blobs": 150,
+    "time": "2024-06-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 76,
+    "time": "2024-06-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2688,
     "time": "2024-06-13 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Polynomial",
     "blobs": 8,
-    "time": "2024-06-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 254,
-    "time": "2024-06-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 132,
     "time": "2024-06-13 00:00:00.000 UTC"
   }
 ]

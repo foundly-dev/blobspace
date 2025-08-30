@@ -1,7 +1,7 @@
 [
   {
-    "blob_submitter": "Mint",
-    "blobs": 276,
+    "blob_submitter": "Kroma",
+    "blobs": 150,
     "time": "2025-01-30 00:00:00.000 UTC"
   },
   {
@@ -10,43 +10,13 @@
     "time": "2025-01-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Phala Network",
-    "blobs": 76,
-    "time": "2025-01-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lighter",
-    "blobs": 17,
-    "time": "2025-01-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1848,
-    "time": "2025-01-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Morph",
-    "blobs": 97,
-    "time": "2025-01-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 12,
-    "time": "2025-01-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 16,
-    "time": "2025-01-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 25,
-    "time": "2025-01-30 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Unichain",
     "blobs": 24,
+    "time": "2025-01-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 276,
     "time": "2025-01-30 00:00:00.000 UTC"
   },
   {
@@ -57,11 +27,6 @@
   {
     "blob_submitter": "Swan Chain",
     "blobs": 7,
-    "time": "2025-01-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 150,
     "time": "2025-01-30 00:00:00.000 UTC"
   },
   {
@@ -100,18 +65,28 @@
     "time": "2025-01-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 99,
+    "blob_submitter": "Phala Network",
+    "blobs": 76,
     "time": "2025-01-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1848,
     "time": "2025-01-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 98,
+    "blob_submitter": "Lighter",
+    "blobs": 17,
+    "time": "2025-01-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Morph",
+    "blobs": 97,
+    "time": "2025-01-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 25,
     "time": "2025-01-30 00:00:00.000 UTC"
   },
   {
@@ -125,13 +100,53 @@
     "time": "2025-01-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 58,
+    "blob_submitter": "Shape",
+    "blobs": 12,
+    "time": "2025-01-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 16,
+    "time": "2025-01-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 98,
+    "time": "2025-01-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 99,
+    "time": "2025-01-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
     "time": "2025-01-30 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Taiko",
     "blobs": 3692,
+    "time": "2025-01-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 55,
+    "time": "2025-01-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 50,
+    "time": "2025-01-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 26,
+    "time": "2025-01-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 357,
     "time": "2025-01-30 00:00:00.000 UTC"
   },
   {
@@ -165,33 +180,18 @@
     "time": "2025-01-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
-    "time": "2025-01-30 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "StarkNet",
     "blobs": 35,
     "time": "2025-01-30 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Kinto",
+    "blobs": 6,
+    "time": "2025-01-30 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "ZORA",
     "blobs": 43,
-    "time": "2025-01-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 84,
-    "time": "2025-01-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 18,
-    "time": "2025-01-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swell",
-    "blobs": 25,
     "time": "2025-01-30 00:00:00.000 UTC"
   }
 ]
