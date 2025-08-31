@@ -1,25 +1,5 @@
 [
   {
-    "blob_submitter": "Soneium",
-    "blobs": 1250,
-    "time": "2025-06-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 175,
-    "time": "2025-06-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ink",
-    "blobs": 313,
-    "time": "2025-06-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 16,
-    "time": "2025-06-28 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "World Chain",
     "blobs": 5124,
     "time": "2025-06-28 00:00:00.000 UTC"
@@ -35,33 +15,8 @@
     "time": "2025-06-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 62,
-    "time": "2025-06-28 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "StarkNet",
     "blobs": 90,
-    "time": "2025-06-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
-    "blobs": 145,
-    "time": "2025-06-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 23,
-    "time": "2025-06-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 10,
-    "time": "2025-06-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arena-Z",
-    "blobs": 6,
     "time": "2025-06-28 00:00:00.000 UTC"
   },
   {
@@ -90,28 +45,13 @@
     "time": "2025-06-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 19,
+    "blob_submitter": "Lisk",
+    "blobs": 62,
     "time": "2025-06-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Fuel",
-    "blobs": 31,
-    "time": "2025-06-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 24,
-    "time": "2025-06-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 27,
-    "time": "2025-06-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 17,
+    "blob_submitter": "Settlus",
+    "blobs": 16,
     "time": "2025-06-28 00:00:00.000 UTC"
   },
   {
@@ -120,8 +60,8 @@
     "time": "2025-06-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 9642,
+    "blob_submitter": "Swan Chain",
+    "blobs": 17,
     "time": "2025-06-28 00:00:00.000 UTC"
   },
   {
@@ -155,13 +95,13 @@
     "time": "2025-06-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Morph",
-    "blobs": 90,
+    "blob_submitter": "Abstract",
+    "blobs": 962,
     "time": "2025-06-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Abstract",
-    "blobs": 962,
+    "blob_submitter": "Morph",
+    "blobs": 90,
     "time": "2025-06-28 00:00:00.000 UTC"
   },
   {
@@ -182,6 +122,71 @@
   {
     "blob_submitter": "Superseed",
     "blobs": 19,
+    "time": "2025-06-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metis",
+    "blobs": 56,
+    "time": "2025-06-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "pegglecoin",
+    "blobs": 27,
+    "time": "2025-06-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 17,
+    "time": "2025-06-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Phala Network",
+    "blobs": 16,
+    "time": "2025-06-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 175,
+    "time": "2025-06-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 16,
+    "time": "2025-06-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ink",
+    "blobs": 313,
+    "time": "2025-06-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 145,
+    "time": "2025-06-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 23,
+    "time": "2025-06-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "R0AR Chain",
+    "blobs": 10,
+    "time": "2025-06-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arena-Z",
+    "blobs": 6,
+    "time": "2025-06-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 19,
+    "time": "2025-06-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Soneium",
+    "blobs": 1250,
     "time": "2025-06-28 00:00:00.000 UTC"
   }
 ]

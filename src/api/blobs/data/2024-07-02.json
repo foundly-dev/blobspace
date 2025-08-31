@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 25,
-    "time": "2024-07-02 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Paradex",
     "blobs": 322,
     "time": "2024-07-02 00:00:00.000 UTC"
@@ -35,21 +30,6 @@
     "time": "2024-07-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 202,
-    "time": "2024-07-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 136,
-    "time": "2024-07-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 5670,
-    "time": "2024-07-02 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Optopia",
     "blobs": 71,
     "time": "2024-07-02 00:00:00.000 UTC"
@@ -57,6 +37,11 @@
   {
     "blob_submitter": "Polynomial",
     "blobs": 16,
+    "time": "2024-07-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2268,
     "time": "2024-07-02 00:00:00.000 UTC"
   },
   {
@@ -70,23 +55,8 @@
     "time": "2024-07-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2268,
-    "time": "2024-07-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1840,
-    "time": "2024-07-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
-    "time": "2024-07-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 180,
+    "blob_submitter": "Taiko",
+    "blobs": 3832,
     "time": "2024-07-02 00:00:00.000 UTC"
   },
   {
@@ -102,6 +72,51 @@
   {
     "blob_submitter": "Linea",
     "blobs": 572,
+    "time": "2024-07-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-07-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 956,
+    "time": "2024-07-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 171,
+    "time": "2024-07-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2024-07-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 196,
+    "time": "2024-07-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 202,
+    "time": "2024-07-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 136,
+    "time": "2024-07-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 5670,
+    "time": "2024-07-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 25,
     "time": "2024-07-02 00:00:00.000 UTC"
   }
 ]

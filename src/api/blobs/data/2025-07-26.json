@@ -1,30 +1,5 @@
 [
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 72,
-    "time": "2025-07-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Phala Network",
-    "blobs": 16,
-    "time": "2025-07-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 2317,
-    "time": "2025-07-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 40,
-    "time": "2025-07-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2025-07-26 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Hemi",
     "blobs": 86,
     "time": "2025-07-26 00:00:00.000 UTC"
@@ -50,31 +25,6 @@
     "time": "2025-07-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 24,
-    "time": "2025-07-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2025-07-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 24,
-    "time": "2025-07-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 6042,
-    "time": "2025-07-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 20,
-    "time": "2025-07-26 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Ink",
     "blobs": 256,
     "time": "2025-07-26 00:00:00.000 UTC"
@@ -90,13 +40,18 @@
     "time": "2025-07-26 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "zkSync Era",
+    "blobs": 24,
+    "time": "2025-07-26 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "ZORA",
     "blobs": 16,
     "time": "2025-07-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 360,
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
     "time": "2025-07-26 00:00:00.000 UTC"
   },
   {
@@ -110,18 +65,13 @@
     "time": "2025-07-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 11445,
+    "blob_submitter": "Lighter",
+    "blobs": 191,
     "time": "2025-07-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Unichain",
-    "blobs": 798,
-    "time": "2025-07-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 17,
+    "blob_submitter": "Settlus",
+    "blobs": 16,
     "time": "2025-07-26 00:00:00.000 UTC"
   },
   {
@@ -145,16 +95,6 @@
     "time": "2025-07-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lighter",
-    "blobs": 191,
-    "time": "2025-07-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Settlus",
-    "blobs": 16,
-    "time": "2025-07-26 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Mint",
     "blobs": 17,
     "time": "2025-07-26 00:00:00.000 UTC"
@@ -162,6 +102,76 @@
   {
     "blob_submitter": "Paradex",
     "blobs": 26,
+    "time": "2025-07-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Abstract",
+    "blobs": 554,
+    "time": "2025-07-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "HashKey",
+    "blobs": 38,
+    "time": "2025-07-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 167,
+    "time": "2025-07-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2025-07-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
+    "time": "2025-07-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 6042,
+    "time": "2025-07-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 24,
+    "time": "2025-07-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 20,
+    "time": "2025-07-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 360,
+    "time": "2025-07-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Phala Network",
+    "blobs": 16,
+    "time": "2025-07-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 2317,
+    "time": "2025-07-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 40,
+    "time": "2025-07-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2025-07-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 72,
     "time": "2025-07-26 00:00:00.000 UTC"
   }
 ]

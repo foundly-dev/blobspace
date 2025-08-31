@@ -5,21 +5,6 @@
     "time": "2024-10-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 173,
-    "time": "2024-10-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nanon Network",
-    "blobs": 24,
-    "time": "2024-10-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 14,
-    "time": "2024-10-31 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Kinto",
     "blobs": 6,
     "time": "2024-10-31 00:00:00.000 UTC"
@@ -35,21 +20,6 @@
     "time": "2024-10-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2268,
-    "time": "2024-10-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 272,
-    "time": "2024-10-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "pegglecoin",
-    "blobs": 12,
-    "time": "2024-10-31 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "StarkNet",
     "blobs": 1218,
     "time": "2024-10-31 00:00:00.000 UTC"
@@ -60,23 +30,43 @@
     "time": "2024-10-31 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2268,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 136,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 3457,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 504,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 116,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Abstract",
+    "blobs": 3,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "SNAXchain",
     "blobs": 17,
     "time": "2024-10-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 850,
-    "time": "2024-10-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "XGA",
-    "blobs": 77,
-    "time": "2024-10-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 72,
+    "blob_submitter": "Kroma",
+    "blobs": 204,
     "time": "2024-10-31 00:00:00.000 UTC"
   },
   {
@@ -87,11 +77,6 @@
   {
     "blob_submitter": "Lumio",
     "blobs": 16,
-    "time": "2024-10-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 204,
     "time": "2024-10-31 00:00:00.000 UTC"
   },
   {
@@ -115,13 +100,38 @@
     "time": "2024-10-31 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Linea",
+    "blobs": 323,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Shape",
     "blobs": 14,
     "time": "2024-10-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 323,
+    "blob_submitter": "Others",
+    "blobs": 272,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "pegglecoin",
+    "blobs": 12,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nanon Network",
+    "blobs": 24,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 173,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 14,
     "time": "2024-10-31 00:00:00.000 UTC"
   }
 ]

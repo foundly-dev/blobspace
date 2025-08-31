@@ -5,16 +5,6 @@
     "time": "2024-09-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "PandaSea",
-    "blobs": 25,
-    "time": "2024-09-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 22,
-    "time": "2024-09-11 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Optopia",
     "blobs": 71,
     "time": "2024-09-11 00:00:00.000 UTC"
@@ -25,8 +15,8 @@
     "time": "2024-09-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 182,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2382,
     "time": "2024-09-11 00:00:00.000 UTC"
   },
   {
@@ -35,8 +25,8 @@
     "time": "2024-09-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2382,
+    "blob_submitter": "Metal",
+    "blobs": 360,
     "time": "2024-09-11 00:00:00.000 UTC"
   },
   {
@@ -55,18 +45,13 @@
     "time": "2024-09-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 360,
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
     "time": "2024-09-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 53,
-    "time": "2024-09-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 102,
+    "blob_submitter": "Zircuit",
+    "blobs": 498,
     "time": "2024-09-11 00:00:00.000 UTC"
   },
   {
@@ -87,11 +72,6 @@
   {
     "blob_submitter": "OP Mainnet",
     "blobs": 1150,
-    "time": "2024-09-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 498,
     "time": "2024-09-11 00:00:00.000 UTC"
   },
   {
@@ -117,6 +97,36 @@
   {
     "blob_submitter": "Debank Chain",
     "blobs": 25,
+    "time": "2024-09-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 59,
+    "time": "2024-09-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 119,
+    "time": "2024-09-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 24,
+    "time": "2024-09-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 182,
+    "time": "2024-09-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "PandaSea",
+    "blobs": 25,
+    "time": "2024-09-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 22,
     "time": "2024-09-11 00:00:00.000 UTC"
   }
 ]

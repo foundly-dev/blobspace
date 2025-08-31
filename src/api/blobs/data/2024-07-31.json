@@ -1,5 +1,10 @@
 [
   {
+    "blob_submitter": "Nal",
+    "blobs": 50,
+    "time": "2024-07-31 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "XGA",
     "blobs": 14,
     "time": "2024-07-31 00:00:00.000 UTC"
@@ -10,42 +15,12 @@
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 10,
-    "time": "2024-07-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 50,
-    "time": "2024-07-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
-    "time": "2024-07-31 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "StarkNet",
     "blobs": 296,
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 33,
-    "time": "2024-07-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
-    "time": "2024-07-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 5360,
-    "time": "2024-07-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
+    "blob_submitter": "Kinto",
     "blobs": 6,
     "time": "2024-07-31 00:00:00.000 UTC"
   },
@@ -60,8 +35,18 @@
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 30,
+    "blob_submitter": "Mint",
+    "blobs": 33,
+    "time": "2024-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2226,
+    "time": "2024-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 16,
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
@@ -70,18 +55,13 @@
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 385,
+    "blob_submitter": "RACE",
+    "blobs": 77,
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Optopia",
     "blobs": 71,
-    "time": "2024-07-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 77,
     "time": "2024-07-31 00:00:00.000 UTC"
   },
   {
@@ -102,6 +82,46 @@
   {
     "blob_submitter": "Boba Network",
     "blobs": 48,
+    "time": "2024-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "PandaSea",
+    "blobs": 25,
+    "time": "2024-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 406,
+    "time": "2024-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1095,
+    "time": "2024-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 14,
+    "time": "2024-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 5360,
+    "time": "2024-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 6,
+    "time": "2024-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 30,
+    "time": "2024-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 10,
     "time": "2024-07-31 00:00:00.000 UTC"
   }
 ]

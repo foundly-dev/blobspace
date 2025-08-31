@@ -1,25 +1,5 @@
 [
   {
-    "blob_submitter": "River",
-    "blobs": 51,
-    "time": "2024-09-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 31,
-    "time": "2024-09-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
-    "time": "2024-09-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 10,
-    "time": "2024-09-29 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arbitrum One",
     "blobs": 1887,
     "time": "2024-09-29 00:00:00.000 UTC"
@@ -27,6 +7,11 @@
   {
     "blob_submitter": "zkSync Era",
     "blobs": 93,
+    "time": "2024-09-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 31,
     "time": "2024-09-29 00:00:00.000 UTC"
   },
   {
@@ -42,11 +27,6 @@
   {
     "blob_submitter": "Binary",
     "blobs": 25,
-    "time": "2024-09-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 194,
     "time": "2024-09-29 00:00:00.000 UTC"
   },
   {
@@ -75,18 +55,18 @@
     "time": "2024-09-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 104,
+    "blob_submitter": "Hemi",
+    "blobs": 59,
     "time": "2024-09-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 17,
+    "blob_submitter": "Nal",
+    "blobs": 50,
     "time": "2024-09-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 145,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1170,
     "time": "2024-09-29 00:00:00.000 UTC"
   },
   {
@@ -102,11 +82,6 @@
   {
     "blob_submitter": "Debank Chain",
     "blobs": 25,
-    "time": "2024-09-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1170,
     "time": "2024-09-29 00:00:00.000 UTC"
   },
   {
@@ -142,6 +117,41 @@
   {
     "blob_submitter": "Lisk",
     "blobs": 4,
+    "time": "2024-09-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 479,
+    "time": "2024-09-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 15,
+    "time": "2024-09-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 4950,
+    "time": "2024-09-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 51,
+    "time": "2024-09-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 10,
+    "time": "2024-09-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 194,
+    "time": "2024-09-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
     "time": "2024-09-29 00:00:00.000 UTC"
   }
 ]

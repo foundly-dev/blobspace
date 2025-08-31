@@ -1,32 +1,12 @@
 [
   {
-    "blob_submitter": "Unichain",
-    "blobs": 1089,
-    "time": "2025-07-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 259,
+    "blob_submitter": "Taiko",
+    "blobs": 1755,
     "time": "2025-07-09 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Infinaeon",
     "blobs": 9,
-    "time": "2025-07-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 54,
-    "time": "2025-07-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 99,
-    "time": "2025-07-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 1755,
     "time": "2025-07-09 00:00:00.000 UTC"
   },
   {
@@ -55,8 +35,83 @@
     "time": "2025-07-09 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 2047,
+    "time": "2025-07-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "HashKey",
+    "blobs": 44,
+    "time": "2025-07-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 4980,
+    "time": "2025-07-09 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Mantle",
     "blobs": 2,
+    "time": "2025-07-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 24,
+    "time": "2025-07-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 29,
+    "time": "2025-07-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 358,
+    "time": "2025-07-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 21,
+    "time": "2025-07-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 190,
+    "time": "2025-07-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swellchain",
+    "blobs": 26,
+    "time": "2025-07-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 47,
+    "time": "2025-07-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERO Network",
+    "blobs": 4,
+    "time": "2025-07-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 8,
+    "time": "2025-07-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 14,
+    "time": "2025-07-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Unichain",
+    "blobs": 1089,
+    "time": "2025-07-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 259,
     "time": "2025-07-09 00:00:00.000 UTC"
   },
   {
@@ -115,21 +170,6 @@
     "time": "2025-07-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 4980,
-    "time": "2025-07-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 24,
-    "time": "2025-07-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 29,
-    "time": "2025-07-09 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Base",
     "blobs": 10390,
     "time": "2025-07-09 00:00:00.000 UTC"
@@ -145,53 +185,13 @@
     "time": "2025-07-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 2047,
+    "blob_submitter": "Zircuit",
+    "blobs": 99,
     "time": "2025-07-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "HashKey",
-    "blobs": 44,
-    "time": "2025-07-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 435,
-    "time": "2025-07-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 21,
-    "time": "2025-07-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 190,
-    "time": "2025-07-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swellchain",
-    "blobs": 26,
-    "time": "2025-07-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lighter",
-    "blobs": 223,
-    "time": "2025-07-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 47,
-    "time": "2025-07-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERO Network",
-    "blobs": 4,
-    "time": "2025-07-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
+    "blob_submitter": "Mint",
+    "blobs": 54,
     "time": "2025-07-09 00:00:00.000 UTC"
   }
 ]

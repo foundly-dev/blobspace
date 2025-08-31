@@ -20,28 +20,18 @@
     "time": "2024-07-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 16,
-    "time": "2024-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 538,
-    "time": "2024-07-07 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Binary",
     "blobs": 25,
     "time": "2024-07-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 16,
+    "blob_submitter": "zkSync Era",
+    "blobs": 180,
     "time": "2024-07-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 180,
+    "blob_submitter": "Mint",
+    "blobs": 16,
     "time": "2024-07-07 00:00:00.000 UTC"
   },
   {
@@ -55,43 +45,8 @@
     "time": "2024-07-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 1206,
-    "time": "2024-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
-    "time": "2024-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 106,
-    "time": "2024-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 5725,
-    "time": "2024-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
-    "time": "2024-07-07 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Lumio",
     "blobs": 16,
-    "time": "2024-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 147,
-    "time": "2024-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 15,
     "time": "2024-07-07 00:00:00.000 UTC"
   },
   {
@@ -102,6 +57,16 @@
   {
     "blob_submitter": "Kroma",
     "blobs": 159,
+    "time": "2024-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 147,
+    "time": "2024-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 15,
     "time": "2024-07-07 00:00:00.000 UTC"
   },
   {
@@ -117,6 +82,21 @@
   {
     "blob_submitter": "Blast",
     "blobs": 672,
+    "time": "2024-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
+    "time": "2024-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
+    "time": "2024-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 538,
     "time": "2024-07-07 00:00:00.000 UTC"
   }
 ]
