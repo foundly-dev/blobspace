@@ -1,25 +1,5 @@
 [
   {
-    "blob_submitter": "Base",
-    "blobs": 3990,
-    "time": "2024-04-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 2,
-    "time": "2024-04-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 8,
-    "time": "2024-04-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
-    "time": "2024-04-23 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Parallel",
     "blobs": 1,
     "time": "2024-04-23 00:00:00.000 UTC"
@@ -40,18 +20,48 @@
     "time": "2024-04-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 558,
+    "blob_submitter": "Base",
+    "blobs": 3990,
     "time": "2024-04-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 206,
+    "blob_submitter": "Others",
+    "blobs": 2,
     "time": "2024-04-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 288,
+    "blob_submitter": "Camp Network",
+    "blobs": 8,
+    "time": "2024-04-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 14,
+    "time": "2024-04-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 8,
+    "time": "2024-04-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1866,
+    "time": "2024-04-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 41,
+    "time": "2024-04-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1968,
+    "time": "2024-04-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 162,
     "time": "2024-04-23 00:00:00.000 UTC"
   }
 ]
