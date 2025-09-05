@@ -1,17 +1,7 @@
 [
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 26,
-    "time": "2024-08-23 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Others",
     "blobs": 139,
-    "time": "2024-08-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 15,
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
@@ -40,6 +30,11 @@
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Base",
+    "blobs": 4595,
+    "time": "2024-08-23 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Binary",
     "blobs": 24,
     "time": "2024-08-23 00:00:00.000 UTC"
@@ -50,13 +45,13 @@
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 4595,
+    "blob_submitter": "Camp Network",
+    "blobs": 26,
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 17,
+    "blob_submitter": "Swan Chain",
+    "blobs": 15,
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
@@ -65,13 +60,13 @@
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1625,
+    "blob_submitter": "Polynomial",
+    "blobs": 17,
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 3718,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1625,
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
@@ -80,8 +75,8 @@
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 76,
+    "blob_submitter": "Taiko",
+    "blobs": 3718,
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
@@ -100,13 +95,13 @@
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 15,
+    "blob_submitter": "RACE",
+    "blobs": 76,
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 245,
+    "blob_submitter": "Lambda",
+    "blobs": 15,
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {

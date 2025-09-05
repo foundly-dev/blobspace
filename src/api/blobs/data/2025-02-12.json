@@ -5,6 +5,56 @@
     "time": "2025-02-12 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Metal",
+    "blobs": 356,
+    "time": "2025-02-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 57,
+    "time": "2025-02-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Infinaeon",
+    "blobs": 18,
+    "time": "2025-02-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2025-02-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 805,
+    "time": "2025-02-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Fuel",
+    "blobs": 93,
+    "time": "2025-02-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 25,
+    "time": "2025-02-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 524,
+    "time": "2025-02-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 37,
+    "time": "2025-02-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
+    "time": "2025-02-12 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Abstract",
     "blobs": 627,
     "time": "2025-02-12 00:00:00.000 UTC"
@@ -27,11 +77,6 @@
   {
     "blob_submitter": "Linea",
     "blobs": 115,
-    "time": "2025-02-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 24,
     "time": "2025-02-12 00:00:00.000 UTC"
   },
   {
@@ -65,61 +110,6 @@
     "time": "2025-02-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 356,
-    "time": "2025-02-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 57,
-    "time": "2025-02-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2025-02-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Infinaeon",
-    "blobs": 18,
-    "time": "2025-02-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 25,
-    "time": "2025-02-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 24,
-    "time": "2025-02-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 524,
-    "time": "2025-02-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 37,
-    "time": "2025-02-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
-    "time": "2025-02-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 805,
-    "time": "2025-02-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Fuel",
-    "blobs": 93,
-    "time": "2025-02-12 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "World Chain",
     "blobs": 2613,
     "time": "2025-02-12 00:00:00.000 UTC"
@@ -135,8 +125,13 @@
     "time": "2025-02-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1782,
+    "blob_submitter": "Polynomial",
+    "blobs": 24,
+    "time": "2025-02-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 24,
     "time": "2025-02-12 00:00:00.000 UTC"
   },
   {
@@ -150,18 +145,23 @@
     "time": "2025-02-12 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1782,
+    "time": "2025-02-12 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Paradex",
     "blobs": 118,
     "time": "2025-02-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 10,
+    "blob_submitter": "Unichain",
+    "blobs": 403,
     "time": "2025-02-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Unichain",
-    "blobs": 403,
+    "blob_submitter": "Shape",
+    "blobs": 10,
     "time": "2025-02-12 00:00:00.000 UTC"
   },
   {
@@ -177,16 +177,6 @@
   {
     "blob_submitter": "Optopia",
     "blobs": 7,
-    "time": "2025-02-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Phala Network",
-    "blobs": 76,
-    "time": "2025-02-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 320,
     "time": "2025-02-12 00:00:00.000 UTC"
   }
 ]

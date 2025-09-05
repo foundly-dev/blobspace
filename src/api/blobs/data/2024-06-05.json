@@ -1,5 +1,15 @@
 [
   {
+    "blob_submitter": "zkSync Era",
+    "blobs": 322,
+    "time": "2024-06-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 134,
+    "time": "2024-06-05 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "StarkNet",
     "blobs": 338,
     "time": "2024-06-05 00:00:00.000 UTC"
@@ -20,13 +30,8 @@
     "time": "2024-06-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 322,
-    "time": "2024-06-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 134,
+    "blob_submitter": "River",
+    "blobs": 184,
     "time": "2024-06-05 00:00:00.000 UTC"
   },
   {
@@ -35,13 +40,13 @@
     "time": "2024-06-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 184,
+    "blob_submitter": "Lisk",
+    "blobs": 12,
     "time": "2024-06-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 12,
+    "blob_submitter": "Metal",
+    "blobs": 8,
     "time": "2024-06-05 00:00:00.000 UTC"
   },
   {
@@ -60,23 +65,8 @@
     "time": "2024-06-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 8,
-    "time": "2024-06-05 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Lambda",
     "blobs": 14,
-    "time": "2024-06-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 2120,
-    "time": "2024-06-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 549,
     "time": "2024-06-05 00:00:00.000 UTC"
   }
 ]

@@ -5,16 +5,6 @@
     "time": "2025-08-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 123,
-    "time": "2025-08-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 20,
-    "time": "2025-08-01 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Metis",
     "blobs": 68,
     "time": "2025-08-01 00:00:00.000 UTC"
@@ -27,6 +17,16 @@
   {
     "blob_submitter": "Polynomial",
     "blobs": 42,
+    "time": "2025-08-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Soneium",
+    "blobs": 625,
+    "time": "2025-08-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 20,
     "time": "2025-08-01 00:00:00.000 UTC"
   },
   {
@@ -45,18 +45,8 @@
     "time": "2025-08-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 102,
-    "time": "2025-08-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 625,
-    "time": "2025-08-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
+    "blob_submitter": "Zircuit",
+    "blobs": 105,
     "time": "2025-08-01 00:00:00.000 UTC"
   },
   {
@@ -70,8 +60,18 @@
     "time": "2025-08-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 105,
+    "blob_submitter": "StarkNet",
+    "blobs": 102,
+    "time": "2025-08-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2025-08-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 123,
     "time": "2025-08-01 00:00:00.000 UTC"
   },
   {
@@ -127,11 +127,6 @@
   {
     "blob_submitter": "Camp Network",
     "blobs": 19,
-    "time": "2025-08-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Infinaeon",
-    "blobs": 10,
     "time": "2025-08-01 00:00:00.000 UTC"
   }
 ]

@@ -1,42 +1,7 @@
 [
   {
-    "blob_submitter": "Others",
-    "blobs": 144,
-    "time": "2024-09-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 142,
-    "time": "2024-09-10 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Boba Network",
     "blobs": 48,
-    "time": "2024-09-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2331,
-    "time": "2024-09-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
-    "time": "2024-09-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2024-09-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 97,
-    "time": "2024-09-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
     "time": "2024-09-10 00:00:00.000 UTC"
   },
   {
@@ -45,13 +10,13 @@
     "time": "2024-09-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
+    "blob_submitter": "Nal",
+    "blobs": 50,
     "time": "2024-09-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Nal",
-    "blobs": 50,
+    "blob_submitter": "Lambda",
+    "blobs": 14,
     "time": "2024-09-10 00:00:00.000 UTC"
   },
   {
@@ -67,6 +32,41 @@
   {
     "blob_submitter": "Binary",
     "blobs": 25,
+    "time": "2024-09-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 142,
+    "time": "2024-09-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 144,
+    "time": "2024-09-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2331,
+    "time": "2024-09-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
+    "time": "2024-09-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 97,
+    "time": "2024-09-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2024-09-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 5,
     "time": "2024-09-10 00:00:00.000 UTC"
   },
   {
@@ -117,11 +117,6 @@
   {
     "blob_submitter": "World Chain",
     "blobs": 180,
-    "time": "2024-09-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 418,
     "time": "2024-09-10 00:00:00.000 UTC"
   },
   {

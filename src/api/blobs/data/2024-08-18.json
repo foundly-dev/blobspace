@@ -1,7 +1,62 @@
 [
   {
+    "blob_submitter": "Base",
+    "blobs": 4425,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 25,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lisk",
     "blobs": 5,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 138,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 196,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 87,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 185,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 1,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 185,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 3911,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 338,
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
@@ -12,16 +67,6 @@
   {
     "blob_submitter": "Mode",
     "blobs": 67,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 4425,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 25,
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
@@ -45,51 +90,6 @@
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 138,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 196,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 185,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 1,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 3911,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 338,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 87,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 16,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 185,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "PandaSea",
     "blobs": 25,
     "time": "2024-08-18 00:00:00.000 UTC"
@@ -105,6 +105,11 @@
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lambda",
     "blobs": 12,
     "time": "2024-08-18 00:00:00.000 UTC"
@@ -112,11 +117,6 @@
   {
     "blob_submitter": "Ethernity",
     "blobs": 5,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {

@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "Linea",
-    "blobs": 391,
-    "time": "2024-07-01 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Polynomial",
     "blobs": 18,
     "time": "2024-07-01 00:00:00.000 UTC"
@@ -15,23 +10,13 @@
     "time": "2024-07-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
-    "blobs": 25,
+    "blob_submitter": "Linea",
+    "blobs": 391,
     "time": "2024-07-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 127,
-    "time": "2024-07-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 781,
-    "time": "2024-07-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 5,
+    "blob_submitter": "zkSync Era",
+    "blobs": 214,
     "time": "2024-07-01 00:00:00.000 UTC"
   },
   {
@@ -45,23 +30,38 @@
     "time": "2024-07-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 214,
-    "time": "2024-07-01 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Mode",
     "blobs": 97,
     "time": "2024-07-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 81,
+    "blob_submitter": "Binary",
+    "blobs": 25,
+    "time": "2024-07-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 127,
+    "time": "2024-07-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 5,
+    "time": "2024-07-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 781,
     "time": "2024-07-01 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Lisk",
     "blobs": 5,
+    "time": "2024-07-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 81,
     "time": "2024-07-01 00:00:00.000 UTC"
   },
   {
@@ -105,8 +105,13 @@
     "time": "2024-07-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Nal",
-    "blobs": 49,
+    "blob_submitter": "Mint",
+    "blobs": 18,
+    "time": "2024-07-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 276,
     "time": "2024-07-01 00:00:00.000 UTC"
   }
 ]

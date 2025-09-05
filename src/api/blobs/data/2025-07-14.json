@@ -1,5 +1,75 @@
 [
   {
+    "blob_submitter": "Ink",
+    "blobs": 324,
+    "time": "2025-07-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 67,
+    "time": "2025-07-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lighter",
+    "blobs": 223,
+    "time": "2025-07-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "pegglecoin",
+    "blobs": 25,
+    "time": "2025-07-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "R0AR Chain",
+    "blobs": 10,
+    "time": "2025-07-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metis",
+    "blobs": 51,
+    "time": "2025-07-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 56,
+    "time": "2025-07-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Abstract",
+    "blobs": 874,
+    "time": "2025-07-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 25,
+    "time": "2025-07-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 84,
+    "time": "2025-07-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 16,
+    "time": "2025-07-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Settlus",
+    "blobs": 16,
+    "time": "2025-07-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 1,
+    "time": "2025-07-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Soneium",
+    "blobs": 475,
+    "time": "2025-07-14 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Infinaeon",
     "blobs": 9,
     "time": "2025-07-14 00:00:00.000 UTC"
@@ -25,36 +95,6 @@
     "time": "2025-07-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lighter",
-    "blobs": 223,
-    "time": "2025-07-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 10,
-    "time": "2025-07-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ink",
-    "blobs": 324,
-    "time": "2025-07-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 67,
-    "time": "2025-07-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 56,
-    "time": "2025-07-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Abstract",
-    "blobs": 874,
-    "time": "2025-07-14 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Blast",
     "blobs": 342,
     "time": "2025-07-14 00:00:00.000 UTC"
@@ -62,46 +102,6 @@
   {
     "blob_submitter": "Zircuit",
     "blobs": 98,
-    "time": "2025-07-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 84,
-    "time": "2025-07-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 16,
-    "time": "2025-07-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 25,
-    "time": "2025-07-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 475,
-    "time": "2025-07-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metis",
-    "blobs": 51,
-    "time": "2025-07-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "pegglecoin",
-    "blobs": 25,
-    "time": "2025-07-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Settlus",
-    "blobs": 16,
-    "time": "2025-07-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 1,
     "time": "2025-07-14 00:00:00.000 UTC"
   },
   {
@@ -145,18 +145,13 @@
     "time": "2025-07-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 19,
+    "blob_submitter": "Katana",
+    "blobs": 136,
     "time": "2025-07-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Hemi",
-    "blobs": 86,
-    "time": "2025-07-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 123,
+    "blob_submitter": "Morph",
+    "blobs": 181,
     "time": "2025-07-14 00:00:00.000 UTC"
   }
 ]

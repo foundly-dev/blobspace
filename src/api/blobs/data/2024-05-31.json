@@ -1,5 +1,25 @@
 [
   {
+    "blob_submitter": "Lisk",
+    "blobs": 8,
+    "time": "2024-05-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-05-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 133,
+    "time": "2024-05-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 8,
+    "time": "2024-05-31 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Inscriptions",
     "blobs": 21,
     "time": "2024-05-31 00:00:00.000 UTC"
@@ -17,26 +37,6 @@
   {
     "blob_submitter": "StarkNet",
     "blobs": 290,
-    "time": "2024-05-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 8,
-    "time": "2024-05-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 133,
-    "time": "2024-05-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 8,
-    "time": "2024-05-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
@@ -60,8 +60,8 @@
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 53,
+    "blob_submitter": "Linea",
+    "blobs": 667,
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {

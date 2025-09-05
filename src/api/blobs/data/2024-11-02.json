@@ -5,13 +5,28 @@
     "time": "2024-11-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Hemi",
-    "blobs": 59,
+    "blob_submitter": "Swan Chain",
+    "blobs": 125,
+    "time": "2024-11-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 180,
+    "time": "2024-11-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 70,
     "time": "2024-11-02 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Kinto",
     "blobs": 6,
+    "time": "2024-11-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 59,
     "time": "2024-11-02 00:00:00.000 UTC"
   },
   {
@@ -30,16 +45,6 @@
     "time": "2024-11-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 125,
-    "time": "2024-11-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 70,
-    "time": "2024-11-02 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Nal",
     "blobs": 50,
     "time": "2024-11-02 00:00:00.000 UTC"
@@ -47,11 +52,6 @@
   {
     "blob_submitter": "Nanon Network",
     "blobs": 24,
-    "time": "2024-11-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 180,
     "time": "2024-11-02 00:00:00.000 UTC"
   },
   {
@@ -70,13 +70,18 @@
     "time": "2024-11-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
+    "blob_submitter": "Taiko",
+    "blobs": 4858,
     "time": "2024-11-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
+    "blob_submitter": "Lisk",
     "blobs": 5,
+    "time": "2024-11-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
     "time": "2024-11-02 00:00:00.000 UTC"
   },
   {
@@ -85,12 +90,7 @@
     "time": "2024-11-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 4858,
-    "time": "2024-11-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
+    "blob_submitter": "Ethernity",
     "blobs": 5,
     "time": "2024-11-02 00:00:00.000 UTC"
   },
@@ -122,11 +122,6 @@
   {
     "blob_submitter": "RACE",
     "blobs": 76,
-    "time": "2024-11-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERO Network",
-    "blobs": 2,
     "time": "2024-11-02 00:00:00.000 UTC"
   }
 ]

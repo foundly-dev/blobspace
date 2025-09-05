@@ -1,32 +1,12 @@
 [
   {
-    "blob_submitter": "Lambda",
-    "blobs": 15,
-    "time": "2024-07-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 3951,
-    "time": "2024-07-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 180,
-    "time": "2024-07-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 80,
-    "time": "2024-07-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
-    "time": "2024-07-18 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Blast",
     "blobs": 918,
+    "time": "2024-07-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 186,
     "time": "2024-07-18 00:00:00.000 UTC"
   },
   {
@@ -37,11 +17,6 @@
   {
     "blob_submitter": "World Chain",
     "blobs": 72,
-    "time": "2024-07-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 186,
     "time": "2024-07-18 00:00:00.000 UTC"
   },
   {
@@ -60,6 +35,11 @@
     "time": "2024-07-18 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Mint",
+    "blobs": 46,
+    "time": "2024-07-18 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Inscriptions",
     "blobs": 17,
     "time": "2024-07-18 00:00:00.000 UTC"
@@ -70,8 +50,28 @@
     "time": "2024-07-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 46,
+    "blob_submitter": "Lambda",
+    "blobs": 15,
+    "time": "2024-07-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 3951,
+    "time": "2024-07-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 80,
+    "time": "2024-07-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-07-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 180,
     "time": "2024-07-18 00:00:00.000 UTC"
   },
   {

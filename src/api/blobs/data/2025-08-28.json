@@ -5,8 +5,18 @@
     "time": "2025-08-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Unichain",
-    "blobs": 1293,
+    "blob_submitter": "Others",
+    "blobs": 794,
+    "time": "2025-08-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swellchain",
+    "blobs": 49,
+    "time": "2025-08-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
     "time": "2025-08-28 00:00:00.000 UTC"
   },
   {
@@ -15,13 +25,13 @@
     "time": "2025-08-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lighter",
-    "blobs": 470,
+    "blob_submitter": "Unichain",
+    "blobs": 1293,
     "time": "2025-08-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 336,
+    "blob_submitter": "Lighter",
+    "blobs": 470,
     "time": "2025-08-28 00:00:00.000 UTC"
   },
   {
@@ -40,8 +50,8 @@
     "time": "2025-08-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swellchain",
-    "blobs": 49,
+    "blob_submitter": "StarkNet",
+    "blobs": 336,
     "time": "2025-08-28 00:00:00.000 UTC"
   },
   {
@@ -52,21 +62,6 @@
   {
     "blob_submitter": "Mode",
     "blobs": 153,
-    "time": "2025-08-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
-    "time": "2025-08-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 794,
-    "time": "2025-08-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 380,
     "time": "2025-08-28 00:00:00.000 UTC"
   },
   {
@@ -82,6 +77,11 @@
   {
     "blob_submitter": "Settlus",
     "blobs": 16,
+    "time": "2025-08-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 380,
     "time": "2025-08-28 00:00:00.000 UTC"
   },
   {
@@ -105,6 +105,11 @@
     "time": "2025-08-28 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "R0AR Chain",
+    "blobs": 10,
+    "time": "2025-08-28 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Zircuit",
     "blobs": 236,
     "time": "2025-08-28 00:00:00.000 UTC"
@@ -120,11 +125,6 @@
     "time": "2025-08-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 10,
-    "time": "2025-08-28 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Metis",
     "blobs": 47,
     "time": "2025-08-28 00:00:00.000 UTC"
@@ -137,6 +137,11 @@
   {
     "blob_submitter": "Shape",
     "blobs": 278,
+    "time": "2025-08-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 522,
     "time": "2025-08-28 00:00:00.000 UTC"
   }
 ]

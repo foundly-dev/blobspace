@@ -1,67 +1,7 @@
 [
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1135,
-    "time": "2024-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
-    "time": "2024-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 26,
-    "time": "2024-09-08 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Scroll",
     "blobs": 378,
-    "time": "2024-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1827,
-    "time": "2024-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "PandaSea",
-    "blobs": 24,
-    "time": "2024-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 493,
-    "time": "2024-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
-    "time": "2024-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "XGA",
-    "blobs": 76,
-    "time": "2024-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 362,
-    "time": "2024-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 20,
-    "time": "2024-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 67,
-    "time": "2024-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 77,
     "time": "2024-09-08 00:00:00.000 UTC"
   },
   {
@@ -95,23 +35,8 @@
     "time": "2024-09-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 108,
-    "time": "2024-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 55,
-    "time": "2024-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
-    "time": "2024-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 5435,
+    "blob_submitter": "Kroma",
+    "blobs": 201,
     "time": "2024-09-08 00:00:00.000 UTC"
   },
   {
@@ -120,8 +45,83 @@
     "time": "2024-09-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 201,
+    "blob_submitter": "StarkNet",
+    "blobs": 108,
+    "time": "2024-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
+    "time": "2024-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 55,
+    "time": "2024-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 26,
+    "time": "2024-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1135,
+    "time": "2024-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 5,
+    "time": "2024-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1827,
+    "time": "2024-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "PandaSea",
+    "blobs": 24,
+    "time": "2024-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 493,
+    "time": "2024-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
+    "blobs": 76,
+    "time": "2024-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 362,
+    "time": "2024-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 20,
+    "time": "2024-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 67,
+    "time": "2024-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 77,
+    "time": "2024-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 5435,
+    "time": "2024-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 71,
     "time": "2024-09-08 00:00:00.000 UTC"
   },
   {
@@ -135,6 +135,11 @@
     "time": "2024-09-08 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Lambda",
+    "blobs": 14,
+    "time": "2024-09-08 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lumio",
     "blobs": 16,
     "time": "2024-09-08 00:00:00.000 UTC"
@@ -142,11 +147,6 @@
   {
     "blob_submitter": "Ethernity",
     "blobs": 5,
-    "time": "2024-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
     "time": "2024-09-08 00:00:00.000 UTC"
   }
 ]

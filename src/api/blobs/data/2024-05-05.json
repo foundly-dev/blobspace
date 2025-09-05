@@ -5,13 +5,23 @@
     "time": "2024-05-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1044,
+    "blob_submitter": "Kroma",
+    "blobs": 160,
     "time": "2024-05-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 181,
+    "blob_submitter": "zkSync Era",
+    "blobs": 390,
+    "time": "2024-05-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-05-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1044,
     "time": "2024-05-05 00:00:00.000 UTC"
   },
   {
@@ -25,18 +35,8 @@
     "time": "2024-05-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 160,
-    "time": "2024-05-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
-    "time": "2024-05-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 390,
+    "blob_submitter": "StarkNet",
+    "blobs": 181,
     "time": "2024-05-05 00:00:00.000 UTC"
   },
   {
@@ -52,6 +52,11 @@
   {
     "blob_submitter": "Linea",
     "blobs": 522,
+    "time": "2024-05-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 9,
     "time": "2024-05-05 00:00:00.000 UTC"
   }
 ]
