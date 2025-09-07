@@ -1,7 +1,77 @@
 [
   {
+    "blob_submitter": "Lisk",
+    "blobs": 73,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "HashKey",
+    "blobs": 40,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 191,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Infinaeon",
+    "blobs": 10,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 5724,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 18,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1608,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 24,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "pegglecoin",
+    "blobs": 24,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 359,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "SNAXchain",
     "blobs": 16,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Unichain",
+    "blobs": 1074,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swellchain",
+    "blobs": 35,
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
@@ -15,11 +85,6 @@
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 510,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Mint",
     "blobs": 19,
     "time": "2025-08-19 00:00:00.000 UTC"
@@ -30,11 +95,6 @@
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Abstract",
-    "blobs": 484,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Mode",
     "blobs": 126,
     "time": "2025-08-19 00:00:00.000 UTC"
@@ -42,6 +102,16 @@
   {
     "blob_submitter": "Settlus",
     "blobs": 16,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 510,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Abstract",
+    "blobs": 484,
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
@@ -65,78 +135,18 @@
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Unichain",
-    "blobs": 1074,
+    "blob_submitter": "Ink",
+    "blobs": 456,
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swellchain",
-    "blobs": 35,
+    "blob_submitter": "Katana",
+    "blobs": 209,
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "HashKey",
-    "blobs": 40,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 191,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Infinaeon",
-    "blobs": 10,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 5724,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 73,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "pegglecoin",
+    "blob_submitter": "RACE",
     "blobs": 24,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 359,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1608,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 24,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 18,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 312,
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
@@ -147,6 +157,11 @@
   {
     "blob_submitter": "Ethernity",
     "blobs": 5,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 312,
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {

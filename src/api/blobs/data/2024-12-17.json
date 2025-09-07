@@ -1,5 +1,80 @@
 [
   {
+    "blob_submitter": "World Chain",
+    "blobs": 2412,
+    "time": "2024-12-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "HashKey",
+    "blobs": 25,
+    "time": "2024-12-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
+    "time": "2024-12-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Phala Network",
+    "blobs": 25,
+    "time": "2024-12-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 151,
+    "time": "2024-12-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 28,
+    "time": "2024-12-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2024-12-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 26,
+    "time": "2024-12-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 3056,
+    "time": "2024-12-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2024-12-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 12,
+    "time": "2024-12-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 172,
+    "time": "2024-12-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1055,
+    "time": "2024-12-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 7870,
+    "time": "2024-12-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swell",
+    "blobs": 26,
+    "time": "2024-12-17 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Blast",
     "blobs": 426,
     "time": "2024-12-17 00:00:00.000 UTC"
@@ -30,6 +105,11 @@
     "time": "2024-12-17 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Binary",
+    "blobs": 8,
+    "time": "2024-12-17 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "SNAXchain",
     "blobs": 16,
     "time": "2024-12-17 00:00:00.000 UTC"
@@ -50,16 +130,6 @@
     "time": "2024-12-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
-    "blobs": 8,
-    "time": "2024-12-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Morph",
-    "blobs": 72,
-    "time": "2024-12-17 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Mint",
     "blobs": 296,
     "time": "2024-12-17 00:00:00.000 UTC"
@@ -75,83 +145,28 @@
     "time": "2024-12-17 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Morph",
+    "blobs": 72,
+    "time": "2024-12-17 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Kinto",
     "blobs": 6,
     "time": "2024-12-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 7870,
+    "blob_submitter": "Camp Network",
+    "blobs": 34,
     "time": "2024-12-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swell",
-    "blobs": 26,
+    "blob_submitter": "Metal",
+    "blobs": 359,
     "time": "2024-12-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "HashKey",
-    "blobs": 25,
-    "time": "2024-12-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2024-12-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 2412,
-    "time": "2024-12-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Phala Network",
-    "blobs": 25,
-    "time": "2024-12-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 3056,
-    "time": "2024-12-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2024-12-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 151,
-    "time": "2024-12-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 28,
-    "time": "2024-12-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
-    "time": "2024-12-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 26,
-    "time": "2024-12-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 172,
-    "time": "2024-12-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1055,
-    "time": "2024-12-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 12,
+    "blob_submitter": "Others",
+    "blobs": 77,
     "time": "2024-12-17 00:00:00.000 UTC"
   },
   {
@@ -172,16 +187,6 @@
   {
     "blob_submitter": "Unichain",
     "blobs": 25,
-    "time": "2024-12-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 217,
-    "time": "2024-12-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 34,
     "time": "2024-12-17 00:00:00.000 UTC"
   }
 ]

@@ -1,5 +1,65 @@
 [
   {
+    "blob_submitter": "Lisk",
+    "blobs": 5,
+    "time": "2024-10-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 50,
+    "time": "2024-10-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 359,
+    "time": "2024-10-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 17,
+    "time": "2024-10-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
+    "blobs": 76,
+    "time": "2024-10-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1521,
+    "time": "2024-10-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 98,
+    "time": "2024-10-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 77,
+    "time": "2024-10-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1065,
+    "time": "2024-10-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 30,
+    "time": "2024-10-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 2736,
+    "time": "2024-10-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 71,
+    "time": "2024-10-06 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Base",
     "blobs": 4370,
     "time": "2024-10-06 00:00:00.000 UTC"
@@ -35,11 +95,6 @@
     "time": "2024-10-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "PandaSea",
-    "blobs": 25,
-    "time": "2024-10-06 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Debank Chain",
     "blobs": 24,
     "time": "2024-10-06 00:00:00.000 UTC"
@@ -47,6 +102,11 @@
   {
     "blob_submitter": "Lambda",
     "blobs": 14,
+    "time": "2024-10-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "PandaSea",
+    "blobs": 25,
     "time": "2024-10-06 00:00:00.000 UTC"
   },
   {
@@ -60,63 +120,8 @@
     "time": "2024-10-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
-    "time": "2024-10-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 50,
-    "time": "2024-10-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 359,
-    "time": "2024-10-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 2736,
-    "time": "2024-10-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
-    "time": "2024-10-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1521,
-    "time": "2024-10-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 77,
-    "time": "2024-10-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 30,
-    "time": "2024-10-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 98,
-    "time": "2024-10-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1065,
-    "time": "2024-10-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "XGA",
-    "blobs": 76,
-    "time": "2024-10-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 17,
+    "blob_submitter": "Binary",
+    "blobs": 444,
     "time": "2024-10-06 00:00:00.000 UTC"
   },
   {
@@ -130,23 +135,18 @@
     "time": "2024-10-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
-    "blobs": 444,
-    "time": "2024-10-06 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Inscriptions",
     "blobs": 4,
     "time": "2024-10-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 540,
+    "blob_submitter": "Linea",
+    "blobs": 168,
     "time": "2024-10-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 168,
+    "blob_submitter": "Blast",
+    "blobs": 540,
     "time": "2024-10-06 00:00:00.000 UTC"
   },
   {
@@ -167,11 +167,6 @@
   {
     "blob_submitter": "SNAXchain",
     "blobs": 16,
-    "time": "2024-10-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
     "time": "2024-10-06 00:00:00.000 UTC"
   }
 ]

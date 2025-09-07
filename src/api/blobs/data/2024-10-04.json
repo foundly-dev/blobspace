@@ -1,62 +1,12 @@
 [
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 480,
-    "time": "2024-10-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 3,
-    "time": "2024-10-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 62,
-    "time": "2024-10-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 25,
-    "time": "2024-10-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 864,
-    "time": "2024-10-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 54,
-    "time": "2024-10-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
-    "time": "2024-10-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 606,
-    "time": "2024-10-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 82,
-    "time": "2024-10-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 111,
+    "blob_submitter": "StarkNet",
+    "blobs": 166,
     "time": "2024-10-04 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Lumio",
     "blobs": 16,
-    "time": "2024-10-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 166,
     "time": "2024-10-04 00:00:00.000 UTC"
   },
   {
@@ -90,8 +40,8 @@
     "time": "2024-10-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 11,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1165,
     "time": "2024-10-04 00:00:00.000 UTC"
   },
   {
@@ -100,13 +50,63 @@
     "time": "2024-10-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1165,
+    "blob_submitter": "Polynomial",
+    "blobs": 11,
     "time": "2024-10-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 5490,
+    "blob_submitter": "zkSync Era",
+    "blobs": 82,
+    "time": "2024-10-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 111,
+    "time": "2024-10-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 480,
+    "time": "2024-10-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 3,
+    "time": "2024-10-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 62,
+    "time": "2024-10-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 25,
+    "time": "2024-10-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 6,
+    "time": "2024-10-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 864,
+    "time": "2024-10-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 54,
+    "time": "2024-10-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 606,
+    "time": "2024-10-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 102,
     "time": "2024-10-04 00:00:00.000 UTC"
   },
   {
@@ -142,11 +142,6 @@
   {
     "blob_submitter": "Swan Chain",
     "blobs": 92,
-    "time": "2024-10-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 102,
     "time": "2024-10-04 00:00:00.000 UTC"
   }
 ]

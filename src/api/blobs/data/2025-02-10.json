@@ -1,5 +1,70 @@
 [
   {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
+    "time": "2025-02-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 2571,
+    "time": "2025-02-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 920,
+    "time": "2025-02-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 3672,
+    "time": "2025-02-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 23,
+    "time": "2025-02-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 8,
+    "time": "2025-02-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 358,
+    "time": "2025-02-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 53,
+    "time": "2025-02-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 512,
+    "time": "2025-02-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 90,
+    "time": "2025-02-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 24,
+    "time": "2025-02-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 83,
+    "time": "2025-02-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERO Network",
+    "blobs": 6,
+    "time": "2025-02-10 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Kroma",
     "blobs": 127,
     "time": "2025-02-10 00:00:00.000 UTC"
@@ -35,13 +100,18 @@
     "time": "2025-02-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 9,
+    "blob_submitter": "Binary",
+    "blobs": 61,
     "time": "2025-02-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
-    "blobs": 61,
+    "blob_submitter": "ZORA",
+    "blobs": 30,
+    "time": "2025-02-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "R0AR Chain",
+    "blobs": 9,
     "time": "2025-02-10 00:00:00.000 UTC"
   },
   {
@@ -50,8 +120,8 @@
     "time": "2025-02-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 30,
+    "blob_submitter": "Blast",
+    "blobs": 372,
     "time": "2025-02-10 00:00:00.000 UTC"
   },
   {
@@ -65,73 +135,8 @@
     "time": "2025-02-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 372,
-    "time": "2025-02-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 2571,
-    "time": "2025-02-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 3672,
-    "time": "2025-02-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 23,
-    "time": "2025-02-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
-    "time": "2025-02-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 920,
-    "time": "2025-02-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2025-02-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERO Network",
-    "blobs": 6,
-    "time": "2025-02-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 83,
-    "time": "2025-02-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 24,
-    "time": "2025-02-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 512,
-    "time": "2025-02-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 90,
-    "time": "2025-02-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 358,
-    "time": "2025-02-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 53,
+    "blob_submitter": "Hemi",
+    "blobs": 28,
     "time": "2025-02-10 00:00:00.000 UTC"
   },
   {
@@ -167,11 +172,6 @@
   {
     "blob_submitter": "Arbitrum One",
     "blobs": 1779,
-    "time": "2025-02-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
-    "blobs": 28,
     "time": "2025-02-10 00:00:00.000 UTC"
   }
 ]

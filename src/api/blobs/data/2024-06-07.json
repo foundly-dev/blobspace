@@ -1,22 +1,7 @@
 [
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 14,
-    "time": "2024-06-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 138,
-    "time": "2024-06-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 4885,
-    "time": "2024-06-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 96,
+    "blob_submitter": "zkSync Era",
+    "blobs": 336,
     "time": "2024-06-07 00:00:00.000 UTC"
   },
   {
@@ -35,18 +20,23 @@
     "time": "2024-06-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 336,
+    "blob_submitter": "Debank Chain",
+    "blobs": 14,
     "time": "2024-06-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 1461,
+    "blob_submitter": "Others",
+    "blobs": 138,
     "time": "2024-06-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 130,
+    "blob_submitter": "ZORA",
+    "blobs": 96,
+    "time": "2024-06-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 4885,
     "time": "2024-06-07 00:00:00.000 UTC"
   },
   {
@@ -77,11 +67,6 @@
   {
     "blob_submitter": "Inscriptions",
     "blobs": 36,
-    "time": "2024-06-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 8,
     "time": "2024-06-07 00:00:00.000 UTC"
   }
 ]

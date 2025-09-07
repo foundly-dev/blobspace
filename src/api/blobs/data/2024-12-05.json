@@ -1,65 +1,5 @@
 [
   {
-    "blob_submitter": "Lisk",
-    "blobs": 112,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 183,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 214,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 3050,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 54,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 12,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 35,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 360,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 58,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 2237,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERO Network",
-    "blobs": 11,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1080,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arbitrum One",
     "blobs": 3138,
     "time": "2024-12-05 00:00:00.000 UTC"
@@ -105,6 +45,16 @@
     "time": "2024-12-05 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Scroll",
+    "blobs": 111,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 40,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Blast",
     "blobs": 558,
     "time": "2024-12-05 00:00:00.000 UTC"
@@ -125,18 +75,73 @@
     "time": "2024-12-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 40,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1080,
     "time": "2024-12-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 111,
+    "blob_submitter": "River",
+    "blobs": 214,
     "time": "2024-12-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 495,
+    "blob_submitter": "Lisk",
+    "blobs": 112,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 183,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 12,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 58,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 3050,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 54,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 35,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 360,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 2237,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERO Network",
+    "blobs": 11,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 13,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 7,
     "time": "2024-12-05 00:00:00.000 UTC"
   },
   {
@@ -150,6 +155,16 @@
     "time": "2024-12-05 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Unichain",
+    "blobs": 24,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 495,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Debank Chain",
     "blobs": 28,
     "time": "2024-12-05 00:00:00.000 UTC"
@@ -157,16 +172,6 @@
   {
     "blob_submitter": "Nal",
     "blobs": 28,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 13,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
-    "blobs": 7,
     "time": "2024-12-05 00:00:00.000 UTC"
   }
 ]

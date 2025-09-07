@@ -1,40 +1,5 @@
 [
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 54,
-    "time": "2024-10-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 8,
-    "time": "2024-10-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 85,
-    "time": "2024-10-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2268,
-    "time": "2024-10-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 1218,
-    "time": "2024-10-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 50,
-    "time": "2024-10-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
-    "time": "2024-10-31 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "ZORA",
     "blobs": 173,
     "time": "2024-10-31 00:00:00.000 UTC"
@@ -60,13 +25,58 @@
     "time": "2024-10-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 136,
+    "blob_submitter": "Boba Network",
+    "blobs": 54,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 6,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 8,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 85,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 1218,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2268,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 50,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 850,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
+    "blobs": 77,
     "time": "2024-10-31 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Optopia",
     "blobs": 72,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 76,
     "time": "2024-10-31 00:00:00.000 UTC"
   },
   {
@@ -132,16 +142,6 @@
   {
     "blob_submitter": "Hemi",
     "blobs": 60,
-    "time": "2024-10-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 850,
-    "time": "2024-10-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "XGA",
-    "blobs": 77,
     "time": "2024-10-31 00:00:00.000 UTC"
   }
 ]
