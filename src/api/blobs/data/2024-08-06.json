@@ -1,62 +1,47 @@
 [
   {
-    "blob_submitter": "Scroll",
-    "blobs": 671,
+    "blob_submitter": "Kinto",
+    "blobs": 6,
     "time": "2024-08-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 15,
-    "time": "2024-08-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 47,
-    "time": "2024-08-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "XGA",
-    "blobs": 14,
-    "time": "2024-08-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 30,
-    "time": "2024-08-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
+    "blob_submitter": "Binary",
     "blobs": 24,
     "time": "2024-08-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2973,
+    "blob_submitter": "StarkNet",
+    "blobs": 344,
     "time": "2024-08-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 196,
+    "blob_submitter": "PandaSea",
+    "blobs": 24,
     "time": "2024-08-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 1403,
+    "blob_submitter": "Nal",
+    "blobs": 50,
     "time": "2024-08-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 18,
+    "blob_submitter": "Zircuit",
+    "blobs": 842,
     "time": "2024-08-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 116,
+    "blob_submitter": "Base",
+    "blobs": 4825,
     "time": "2024-08-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 402,
+    "blob_submitter": "Debank Chain",
+    "blobs": 60,
+    "time": "2024-08-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 77,
     "time": "2024-08-06 00:00:00.000 UTC"
   },
   {
@@ -65,13 +50,13 @@
     "time": "2024-08-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 15,
+    "blob_submitter": "World Chain",
+    "blobs": 402,
     "time": "2024-08-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 16,
+    "blob_submitter": "Lambda",
+    "blobs": 15,
     "time": "2024-08-06 00:00:00.000 UTC"
   },
   {
@@ -82,11 +67,6 @@
   {
     "blob_submitter": "Lisk",
     "blobs": 5,
-    "time": "2024-08-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 342,
     "time": "2024-08-06 00:00:00.000 UTC"
   },
   {
@@ -115,23 +95,58 @@
     "time": "2024-08-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 138,
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
     "time": "2024-08-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 9,
+    "blob_submitter": "Linea",
+    "blobs": 342,
     "time": "2024-08-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 626,
+    "blob_submitter": "Scroll",
+    "blobs": 671,
     "time": "2024-08-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 208,
+    "blob_submitter": "Shape",
+    "blobs": 15,
+    "time": "2024-08-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 47,
+    "time": "2024-08-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
+    "blobs": 14,
+    "time": "2024-08-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 30,
+    "time": "2024-08-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2973,
+    "time": "2024-08-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 24,
+    "time": "2024-08-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 116,
+    "time": "2024-08-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 196,
     "time": "2024-08-06 00:00:00.000 UTC"
   }
 ]
