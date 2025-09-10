@@ -1,32 +1,22 @@
 [
   {
-    "blob_submitter": "Taiko",
-    "blobs": 1458,
-    "time": "2025-07-16 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Swan Chain",
     "blobs": 16,
     "time": "2025-07-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 31,
-    "time": "2025-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Phala Network",
-    "blobs": 16,
-    "time": "2025-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
+    "blob_submitter": "Taiko",
+    "blobs": 1458,
     "time": "2025-07-16 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Others",
     "blobs": 249,
+    "time": "2025-07-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
     "time": "2025-07-16 00:00:00.000 UTC"
   },
   {
@@ -52,6 +42,16 @@
   {
     "blob_submitter": "Metis",
     "blobs": 52,
+    "time": "2025-07-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 138,
+    "time": "2025-07-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 35,
     "time": "2025-07-16 00:00:00.000 UTC"
   },
   {
@@ -90,23 +90,8 @@
     "time": "2025-07-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 3369,
-    "time": "2025-07-16 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Abstract",
     "blobs": 579,
-    "time": "2025-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 138,
-    "time": "2025-07-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 35,
     "time": "2025-07-16 00:00:00.000 UTC"
   },
   {
@@ -130,6 +115,11 @@
     "time": "2025-07-16 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Superseed",
+    "blobs": 23,
+    "time": "2025-07-16 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "OP Mainnet",
     "blobs": 2226,
     "time": "2025-07-16 00:00:00.000 UTC"
@@ -140,8 +130,8 @@
     "time": "2025-07-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Superseed",
-    "blobs": 23,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 3369,
     "time": "2025-07-16 00:00:00.000 UTC"
   },
   {
@@ -152,6 +142,11 @@
   {
     "blob_submitter": "HashKey",
     "blobs": 45,
+    "time": "2025-07-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 359,
     "time": "2025-07-16 00:00:00.000 UTC"
   }
 ]

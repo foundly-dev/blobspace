@@ -20,13 +20,13 @@
     "time": "2025-08-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 227,
+    "blob_submitter": "Abstract",
+    "blobs": 499,
     "time": "2025-08-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "pegglecoin",
-    "blobs": 25,
+    "blob_submitter": "Superseed",
+    "blobs": 16,
     "time": "2025-08-13 00:00:00.000 UTC"
   },
   {
@@ -35,13 +35,8 @@
     "time": "2025-08-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Abstract",
-    "blobs": 499,
-    "time": "2025-08-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
+    "blob_submitter": "Polynomial",
+    "blobs": 26,
     "time": "2025-08-13 00:00:00.000 UTC"
   },
   {
@@ -70,18 +65,23 @@
     "time": "2025-08-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 26,
-    "time": "2025-08-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 855,
+    "blob_submitter": "Camp Network",
+    "blobs": 25,
     "time": "2025-08-13 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Zircuit",
     "blobs": 101,
+    "time": "2025-08-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Katana",
+    "blobs": 203,
+    "time": "2025-08-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "HashKey",
+    "blobs": 46,
     "time": "2025-08-13 00:00:00.000 UTC"
   },
   {
@@ -105,6 +105,16 @@
     "time": "2025-08-13 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Soneium",
+    "blobs": 855,
+    "time": "2025-08-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lighter",
+    "blobs": 292,
+    "time": "2025-08-13 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Base",
     "blobs": 11015,
     "time": "2025-08-13 00:00:00.000 UTC"
@@ -120,23 +130,8 @@
     "time": "2025-08-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
+    "blob_submitter": "Paradex",
     "blobs": 25,
-    "time": "2025-08-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Katana",
-    "blobs": 203,
-    "time": "2025-08-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "HashKey",
-    "blobs": 46,
-    "time": "2025-08-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lighter",
-    "blobs": 292,
     "time": "2025-08-13 00:00:00.000 UTC"
   },
   {
@@ -162,11 +157,6 @@
   {
     "blob_submitter": "Ethernity",
     "blobs": 6,
-    "time": "2025-08-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 25,
     "time": "2025-08-13 00:00:00.000 UTC"
   }
 ]

@@ -5,16 +5,6 @@
     "time": "2024-04-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 389,
-    "time": "2024-04-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 265,
-    "time": "2024-04-30 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "ZORA",
     "blobs": 126,
     "time": "2024-04-30 00:00:00.000 UTC"
@@ -22,6 +12,16 @@
   {
     "blob_submitter": "Inscriptions",
     "blobs": 6,
+    "time": "2024-04-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 389,
+    "time": "2024-04-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 265,
     "time": "2024-04-30 00:00:00.000 UTC"
   },
   {
@@ -47,11 +47,6 @@
   {
     "blob_submitter": "Camp Network",
     "blobs": 8,
-    "time": "2024-04-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 1519,
     "time": "2024-04-30 00:00:00.000 UTC"
   }
 ]

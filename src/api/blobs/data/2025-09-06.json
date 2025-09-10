@@ -10,6 +10,11 @@
     "time": "2025-09-06 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "HashKey",
+    "blobs": 38,
+    "time": "2025-09-06 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Others",
     "blobs": 789,
     "time": "2025-09-06 00:00:00.000 UTC"
@@ -20,8 +25,8 @@
     "time": "2025-09-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "HashKey",
-    "blobs": 38,
+    "blob_submitter": "Superseed",
+    "blobs": 16,
     "time": "2025-09-06 00:00:00.000 UTC"
   },
   {
@@ -40,18 +45,8 @@
     "time": "2025-09-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
-    "time": "2025-09-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arena-Z",
-    "blobs": 6,
-    "time": "2025-09-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Settlus",
-    "blobs": 16,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 972,
     "time": "2025-09-06 00:00:00.000 UTC"
   },
   {
@@ -75,18 +70,8 @@
     "time": "2025-09-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 1056,
-    "time": "2025-09-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 311,
-    "time": "2025-09-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 138,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2061,
     "time": "2025-09-06 00:00:00.000 UTC"
   },
   {
@@ -95,28 +80,28 @@
     "time": "2025-09-06 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Mode",
+    "blobs": 138,
+    "time": "2025-09-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 311,
+    "time": "2025-09-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 1056,
+    "time": "2025-09-06 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Zircuit",
     "blobs": 73,
     "time": "2025-09-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Abstract",
-    "blobs": 434,
-    "time": "2025-09-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
+    "blob_submitter": "Settlus",
     "blobs": 16,
-    "time": "2025-09-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2061,
-    "time": "2025-09-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 972,
     "time": "2025-09-06 00:00:00.000 UTC"
   },
   {
@@ -140,6 +125,26 @@
     "time": "2025-09-06 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Abstract",
+    "blobs": 434,
+    "time": "2025-09-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 16,
+    "time": "2025-09-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arena-Z",
+    "blobs": 6,
+    "time": "2025-09-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 8,
+    "time": "2025-09-06 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Infinaeon",
     "blobs": 9,
     "time": "2025-09-06 00:00:00.000 UTC"
@@ -160,11 +165,6 @@
     "time": "2025-09-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
-    "time": "2025-09-06 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Linea",
     "blobs": 144,
     "time": "2025-09-06 00:00:00.000 UTC"
@@ -172,6 +172,11 @@
   {
     "blob_submitter": "ZERO Network",
     "blobs": 13,
+    "time": "2025-09-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swellchain",
+    "blobs": 50,
     "time": "2025-09-06 00:00:00.000 UTC"
   }
 ]

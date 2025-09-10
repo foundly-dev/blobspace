@@ -1,12 +1,12 @@
 [
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2010,
+    "blob_submitter": "Lambda",
+    "blobs": 15,
     "time": "2024-08-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "PandaSea",
-    "blobs": 25,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2010,
     "time": "2024-08-16 00:00:00.000 UTC"
   },
   {
@@ -15,8 +15,8 @@
     "time": "2024-08-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "XGA",
-    "blobs": 14,
+    "blob_submitter": "PandaSea",
+    "blobs": 25,
     "time": "2024-08-16 00:00:00.000 UTC"
   },
   {
@@ -25,18 +25,8 @@
     "time": "2024-08-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 15,
-    "time": "2024-08-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 4515,
-    "time": "2024-08-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 77,
+    "blob_submitter": "Scroll",
+    "blobs": 383,
     "time": "2024-08-16 00:00:00.000 UTC"
   },
   {
@@ -50,13 +40,23 @@
     "time": "2024-08-16 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Base",
+    "blobs": 4515,
+    "time": "2024-08-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 77,
+    "time": "2024-08-16 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "OP Mainnet",
     "blobs": 1150,
     "time": "2024-08-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 383,
+    "blob_submitter": "Ethernity",
+    "blobs": 4,
     "time": "2024-08-16 00:00:00.000 UTC"
   },
   {
@@ -70,18 +70,13 @@
     "time": "2024-08-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 179,
-    "time": "2024-08-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 360,
-    "time": "2024-08-16 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Lisk",
     "blobs": 4,
+    "time": "2024-08-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 179,
     "time": "2024-08-16 00:00:00.000 UTC"
   },
   {
@@ -100,13 +95,8 @@
     "time": "2024-08-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 218,
-    "time": "2024-08-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 4,
+    "blob_submitter": "Metal",
+    "blobs": 360,
     "time": "2024-08-16 00:00:00.000 UTC"
   },
   {
@@ -130,13 +120,18 @@
     "time": "2024-08-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 88,
+    "blob_submitter": "StarkNet",
+    "blobs": 218,
     "time": "2024-08-16 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Boba Network",
     "blobs": 48,
+    "time": "2024-08-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 88,
     "time": "2024-08-16 00:00:00.000 UTC"
   },
   {

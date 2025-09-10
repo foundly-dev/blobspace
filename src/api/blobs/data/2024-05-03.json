@@ -5,13 +5,18 @@
     "time": "2024-05-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 334,
+    "blob_submitter": "Parallel",
+    "blobs": 1,
     "time": "2024-05-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 1,
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-05-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 278,
     "time": "2024-05-03 00:00:00.000 UTC"
   },
   {
@@ -25,23 +30,13 @@
     "time": "2024-05-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 278,
-    "time": "2024-05-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
+    "blob_submitter": "zkSync Era",
+    "blobs": 426,
     "time": "2024-05-03 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Inscriptions",
     "blobs": 2,
-    "time": "2024-05-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 426,
     "time": "2024-05-03 00:00:00.000 UTC"
   },
   {
@@ -52,6 +47,11 @@
   {
     "blob_submitter": "Scroll",
     "blobs": 1929,
+    "time": "2024-05-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 159,
     "time": "2024-05-03 00:00:00.000 UTC"
   }
 ]

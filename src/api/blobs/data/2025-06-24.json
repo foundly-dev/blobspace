@@ -20,11 +20,6 @@
     "time": "2025-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 43,
-    "time": "2025-06-24 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Hemi",
     "blobs": 463,
     "time": "2025-06-24 00:00:00.000 UTC"
@@ -35,8 +30,8 @@
     "time": "2025-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 16,
+    "blob_submitter": "Scroll",
+    "blobs": 43,
     "time": "2025-06-24 00:00:00.000 UTC"
   },
   {
@@ -45,18 +40,23 @@
     "time": "2025-06-24 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "ZORA",
+    "blobs": 16,
+    "time": "2025-06-24 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Mode",
     "blobs": 132,
     "time": "2025-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
+    "blob_submitter": "RACE",
+    "blobs": 24,
     "time": "2025-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 24,
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
     "time": "2025-06-24 00:00:00.000 UTC"
   },
   {
@@ -70,11 +70,6 @@
     "time": "2025-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 18,
-    "time": "2025-06-24 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Infinaeon",
     "blobs": 10,
     "time": "2025-06-24 00:00:00.000 UTC"
@@ -82,11 +77,6 @@
   {
     "blob_submitter": "Polynomial",
     "blobs": 24,
-    "time": "2025-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "pegglecoin",
-    "blobs": 12,
     "time": "2025-06-24 00:00:00.000 UTC"
   },
   {
@@ -105,8 +95,8 @@
     "time": "2025-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 114,
+    "blob_submitter": "Metis",
+    "blobs": 66,
     "time": "2025-06-24 00:00:00.000 UTC"
   },
   {
@@ -115,8 +105,8 @@
     "time": "2025-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metis",
-    "blobs": 66,
+    "blob_submitter": "StarkNet",
+    "blobs": 114,
     "time": "2025-06-24 00:00:00.000 UTC"
   },
   {
@@ -140,13 +130,28 @@
     "time": "2025-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 23,
+    "blob_submitter": "pegglecoin",
+    "blobs": 12,
+    "time": "2025-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 18,
+    "time": "2025-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 362,
     "time": "2025-06-24 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "R0AR Chain",
     "blobs": 10,
+    "time": "2025-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 23,
     "time": "2025-06-24 00:00:00.000 UTC"
   },
   {
@@ -165,13 +170,13 @@
     "time": "2025-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 55,
+    "blob_submitter": "Settlus",
+    "blobs": 16,
     "time": "2025-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 362,
+    "blob_submitter": "Mint",
+    "blobs": 55,
     "time": "2025-06-24 00:00:00.000 UTC"
   }
 ]

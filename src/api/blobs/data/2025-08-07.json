@@ -15,6 +15,11 @@
     "time": "2025-08-07 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Unichain",
+    "blobs": 759,
+    "time": "2025-08-07 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Ethernity",
     "blobs": 5,
     "time": "2025-08-07 00:00:00.000 UTC"
@@ -35,33 +40,13 @@
     "time": "2025-08-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Unichain",
-    "blobs": 759,
-    "time": "2025-08-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lighter",
-    "blobs": 247,
-    "time": "2025-08-07 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Hemi",
     "blobs": 86,
     "time": "2025-08-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 5664,
-    "time": "2025-08-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 358,
-    "time": "2025-08-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 126,
+    "blob_submitter": "Lighter",
+    "blobs": 247,
     "time": "2025-08-07 00:00:00.000 UTC"
   },
   {
@@ -85,6 +70,11 @@
     "time": "2025-08-07 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Lisk",
+    "blobs": 50,
+    "time": "2025-08-07 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Phala Network",
     "blobs": 17,
     "time": "2025-08-07 00:00:00.000 UTC"
@@ -100,11 +90,6 @@
     "time": "2025-08-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 24,
-    "time": "2025-08-07 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Swellchain",
     "blobs": 52,
     "time": "2025-08-07 00:00:00.000 UTC"
@@ -115,8 +100,23 @@
     "time": "2025-08-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 50,
+    "blob_submitter": "World Chain",
+    "blobs": 5664,
+    "time": "2025-08-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 358,
+    "time": "2025-08-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 126,
+    "time": "2025-08-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 24,
     "time": "2025-08-07 00:00:00.000 UTC"
   },
   {
@@ -135,6 +135,11 @@
     "time": "2025-08-07 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "R0AR Chain",
+    "blobs": 10,
+    "time": "2025-08-07 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Mode",
     "blobs": 111,
     "time": "2025-08-07 00:00:00.000 UTC"
@@ -150,8 +155,13 @@
     "time": "2025-08-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 10,
+    "blob_submitter": "Blast",
+    "blobs": 367,
+    "time": "2025-08-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 312,
     "time": "2025-08-07 00:00:00.000 UTC"
   },
   {
@@ -165,18 +175,13 @@
     "time": "2025-08-07 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Zircuit",
+    "blobs": 101,
+    "time": "2025-08-07 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Scroll",
     "blobs": 242,
-    "time": "2025-08-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 367,
-    "time": "2025-08-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 312,
     "time": "2025-08-07 00:00:00.000 UTC"
   }
 ]

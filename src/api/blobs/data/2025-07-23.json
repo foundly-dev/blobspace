@@ -1,12 +1,12 @@
 [
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 114,
+    "blob_submitter": "Abstract",
+    "blobs": 712,
     "time": "2025-07-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Abstract",
-    "blobs": 712,
+    "blob_submitter": "StarkNet",
+    "blobs": 114,
     "time": "2025-07-23 00:00:00.000 UTC"
   },
   {
@@ -15,28 +15,13 @@
     "time": "2025-07-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 9,
-    "time": "2025-07-23 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Settlus",
     "blobs": 16,
     "time": "2025-07-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 306,
-    "time": "2025-07-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 294,
-    "time": "2025-07-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 248,
+    "blob_submitter": "R0AR Chain",
+    "blobs": 9,
     "time": "2025-07-23 00:00:00.000 UTC"
   },
   {
@@ -45,18 +30,13 @@
     "time": "2025-07-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 24,
+    "blob_submitter": "Blast",
+    "blobs": 306,
     "time": "2025-07-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 6096,
-    "time": "2025-07-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "SNAXchain",
-    "blobs": 16,
+    "blob_submitter": "Linea",
+    "blobs": 248,
     "time": "2025-07-23 00:00:00.000 UTC"
   },
   {
@@ -70,6 +50,26 @@
     "time": "2025-07-23 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "World Chain",
+    "blobs": 6096,
+    "time": "2025-07-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 24,
+    "time": "2025-07-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "SNAXchain",
+    "blobs": 16,
+    "time": "2025-07-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 2091,
+    "time": "2025-07-23 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Hemi",
     "blobs": 85,
     "time": "2025-07-23 00:00:00.000 UTC"
@@ -77,6 +77,11 @@
   {
     "blob_submitter": "Superseed",
     "blobs": 16,
+    "time": "2025-07-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Soneium",
+    "blobs": 800,
     "time": "2025-07-23 00:00:00.000 UTC"
   },
   {
@@ -95,8 +100,8 @@
     "time": "2025-07-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
+    "blob_submitter": "Ink",
+    "blobs": 289,
     "time": "2025-07-23 00:00:00.000 UTC"
   },
   {
@@ -115,6 +120,11 @@
     "time": "2025-07-23 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Debank Chain",
+    "blobs": 19,
+    "time": "2025-07-23 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Base",
     "blobs": 11701,
     "time": "2025-07-23 00:00:00.000 UTC"
@@ -122,26 +132,6 @@
   {
     "blob_submitter": "HashKey",
     "blobs": 43,
-    "time": "2025-07-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ink",
-    "blobs": 289,
-    "time": "2025-07-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 19,
-    "time": "2025-07-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 800,
-    "time": "2025-07-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 2091,
     "time": "2025-07-23 00:00:00.000 UTC"
   },
   {
@@ -157,6 +147,16 @@
   {
     "blob_submitter": "Morph",
     "blobs": 421,
+    "time": "2025-07-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
+    "time": "2025-07-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Phala Network",
+    "blobs": 16,
     "time": "2025-07-23 00:00:00.000 UTC"
   },
   {
@@ -177,21 +177,6 @@
   {
     "blob_submitter": "Optopia",
     "blobs": 8,
-    "time": "2025-07-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2877,
-    "time": "2025-07-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERO Network",
-    "blobs": 3,
-    "time": "2025-07-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Phala Network",
-    "blobs": 16,
     "time": "2025-07-23 00:00:00.000 UTC"
   }
 ]

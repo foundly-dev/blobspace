@@ -1,15 +1,5 @@
 [
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 20,
-    "time": "2024-08-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 11,
-    "time": "2024-08-10 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Metal",
     "blobs": 360,
     "time": "2024-08-10 00:00:00.000 UTC"
@@ -20,13 +10,18 @@
     "time": "2024-08-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
+    "blob_submitter": "Swan Chain",
+    "blobs": 11,
     "time": "2024-08-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 104,
+    "blob_submitter": "Camp Network",
+    "blobs": 20,
+    "time": "2024-08-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 5,
     "time": "2024-08-10 00:00:00.000 UTC"
   },
   {
@@ -40,8 +35,23 @@
     "time": "2024-08-10 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Zircuit",
+    "blobs": 491,
+    "time": "2024-08-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 36,
+    "time": "2024-08-10 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Boba Network",
     "blobs": 48,
+    "time": "2024-08-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 407,
     "time": "2024-08-10 00:00:00.000 UTC"
   },
   {
@@ -60,23 +70,8 @@
     "time": "2024-08-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 80,
-    "time": "2024-08-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 407,
-    "time": "2024-08-10 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "XGA",
     "blobs": 14,
-    "time": "2024-08-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1932,
     "time": "2024-08-10 00:00:00.000 UTC"
   },
   {
@@ -85,13 +80,18 @@
     "time": "2024-08-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 491,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1932,
     "time": "2024-08-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 36,
+    "blob_submitter": "zkSync Era",
+    "blobs": 104,
+    "time": "2024-08-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 80,
     "time": "2024-08-10 00:00:00.000 UTC"
   },
   {
@@ -132,16 +132,6 @@
   {
     "blob_submitter": "Taiko",
     "blobs": 4243,
-    "time": "2024-08-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 72,
-    "time": "2024-08-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 17,
     "time": "2024-08-10 00:00:00.000 UTC"
   }
 ]

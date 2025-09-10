@@ -20,13 +20,13 @@
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Unichain",
-    "blobs": 1074,
+    "blob_submitter": "SNAXchain",
+    "blobs": 16,
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swellchain",
-    "blobs": 35,
+    "blob_submitter": "Shape",
+    "blobs": 510,
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
@@ -35,8 +35,8 @@
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 3252,
+    "blob_submitter": "Abstract",
+    "blobs": 484,
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
@@ -46,26 +46,6 @@
   },
   {
     "blob_submitter": "Settlus",
-    "blobs": 16,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 19,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metis",
-    "blobs": 62,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Abstract",
-    "blobs": 484,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
     "blobs": 16,
     "time": "2025-08-19 00:00:00.000 UTC"
   },
@@ -85,13 +65,23 @@
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "SNAXchain",
-    "blobs": 16,
+    "blob_submitter": "Unichain",
+    "blobs": 1074,
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 510,
+    "blob_submitter": "Swellchain",
+    "blobs": 35,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 19,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metis",
+    "blobs": 62,
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
@@ -115,6 +105,16 @@
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Paradex",
+    "blobs": 16,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 3252,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "World Chain",
     "blobs": 5724,
     "time": "2025-08-19 00:00:00.000 UTC"
@@ -126,6 +126,26 @@
   },
   {
     "blob_submitter": "pegglecoin",
+    "blobs": 24,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 18,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1608,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
     "blobs": 24,
     "time": "2025-08-19 00:00:00.000 UTC"
   },

@@ -10,6 +10,11 @@
     "time": "2024-09-07 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Linea",
+    "blobs": 410,
+    "time": "2024-09-07 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "River",
     "blobs": 57,
     "time": "2024-09-07 00:00:00.000 UTC"
@@ -17,11 +22,6 @@
   {
     "blob_submitter": "Shape",
     "blobs": 15,
-    "time": "2024-09-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 410,
     "time": "2024-09-07 00:00:00.000 UTC"
   },
   {
@@ -65,16 +65,6 @@
     "time": "2024-09-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 18,
-    "time": "2024-09-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 84,
-    "time": "2024-09-07 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Others",
     "blobs": 144,
     "time": "2024-09-07 00:00:00.000 UTC"
@@ -90,8 +80,18 @@
     "time": "2024-09-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 47,
+    "blob_submitter": "ZORA",
+    "blobs": 84,
+    "time": "2024-09-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 18,
+    "time": "2024-09-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 214,
     "time": "2024-09-07 00:00:00.000 UTC"
   },
   {
@@ -100,8 +100,18 @@
     "time": "2024-09-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 214,
+    "blob_submitter": "Boba Network",
+    "blobs": 47,
+    "time": "2024-09-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 362,
+    "time": "2024-09-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 50,
     "time": "2024-09-07 00:00:00.000 UTC"
   }
 ]

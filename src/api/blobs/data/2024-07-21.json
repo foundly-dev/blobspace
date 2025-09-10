@@ -1,12 +1,12 @@
 [
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2166,
+    "blob_submitter": "RACE",
+    "blobs": 76,
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 76,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2166,
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
@@ -40,6 +40,11 @@
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "XGA",
+    "blobs": 14,
+    "time": "2024-07-21 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Metal",
     "blobs": 361,
     "time": "2024-07-21 00:00:00.000 UTC"
@@ -60,8 +65,13 @@
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "XGA",
-    "blobs": 14,
+    "blob_submitter": "Mode",
+    "blobs": 138,
+    "time": "2024-07-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 369,
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
@@ -80,18 +90,8 @@
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 17,
-    "time": "2024-07-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 369,
-    "time": "2024-07-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 138,
+    "blob_submitter": "Zircuit",
+    "blobs": 513,
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
@@ -100,8 +100,18 @@
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 513,
+    "blob_submitter": "Lumio",
+    "blobs": 17,
+    "time": "2024-07-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 168,
+    "time": "2024-07-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 24,
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
@@ -117,21 +127,6 @@
   {
     "blob_submitter": "Boba Network",
     "blobs": 48,
-    "time": "2024-07-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 36,
-    "time": "2024-07-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 168,
-    "time": "2024-07-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 24,
     "time": "2024-07-21 00:00:00.000 UTC"
   }
 ]

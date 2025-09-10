@@ -1,7 +1,7 @@
 [
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 18,
+    "blob_submitter": "R0AR Chain",
+    "blobs": 8,
     "time": "2024-11-24 00:00:00.000 UTC"
   },
   {
@@ -10,8 +10,8 @@
     "time": "2024-11-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 8,
+    "blob_submitter": "Polynomial",
+    "blobs": 18,
     "time": "2024-11-24 00:00:00.000 UTC"
   },
   {
@@ -30,18 +30,13 @@
     "time": "2024-11-24 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "pegglecoin",
+    "blobs": 11,
+    "time": "2024-11-24 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Blast",
     "blobs": 588,
-    "time": "2024-11-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 3932,
-    "time": "2024-11-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 37,
     "time": "2024-11-24 00:00:00.000 UTC"
   },
   {
@@ -55,18 +50,18 @@
     "time": "2024-11-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "pegglecoin",
-    "blobs": 11,
-    "time": "2024-11-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Abstract",
-    "blobs": 4,
+    "blob_submitter": "Linea",
+    "blobs": 169,
     "time": "2024-11-24 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Binary",
     "blobs": 8,
+    "time": "2024-11-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Abstract",
+    "blobs": 4,
     "time": "2024-11-24 00:00:00.000 UTC"
   },
   {
@@ -77,16 +72,6 @@
   {
     "blob_submitter": "Kinto",
     "blobs": 5,
-    "time": "2024-11-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 169,
-    "time": "2024-11-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 17,
     "time": "2024-11-24 00:00:00.000 UTC"
   },
   {
@@ -110,8 +95,8 @@
     "time": "2024-11-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Unichain",
-    "blobs": 24,
+    "blob_submitter": "ZERO Network",
+    "blobs": 36,
     "time": "2024-11-24 00:00:00.000 UTC"
   },
   {
@@ -120,13 +105,13 @@
     "time": "2024-11-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZERO Network",
-    "blobs": 36,
+    "blob_submitter": "StarkNet",
+    "blobs": 204,
     "time": "2024-11-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 204,
+    "blob_submitter": "Lumio",
+    "blobs": 17,
     "time": "2024-11-24 00:00:00.000 UTC"
   },
   {
@@ -155,6 +140,11 @@
     "time": "2024-11-24 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Unichain",
+    "blobs": 24,
+    "time": "2024-11-24 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Zircuit",
     "blobs": 480,
     "time": "2024-11-24 00:00:00.000 UTC"
@@ -165,13 +155,13 @@
     "time": "2024-11-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 8625,
+    "blob_submitter": "Scroll",
+    "blobs": 99,
     "time": "2024-11-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 25,
+    "blob_submitter": "Base",
+    "blobs": 8625,
     "time": "2024-11-24 00:00:00.000 UTC"
   },
   {

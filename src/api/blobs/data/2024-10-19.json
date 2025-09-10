@@ -10,8 +10,8 @@
     "time": "2024-10-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 96,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 900,
     "time": "2024-10-19 00:00:00.000 UTC"
   },
   {
@@ -20,23 +20,18 @@
     "time": "2024-10-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
-    "time": "2024-10-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 900,
-    "time": "2024-10-19 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Fuel",
     "blobs": 87,
     "time": "2024-10-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 54,
+    "blob_submitter": "Optopia",
+    "blobs": 71,
+    "time": "2024-10-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 96,
     "time": "2024-10-19 00:00:00.000 UTC"
   },
   {
@@ -57,16 +52,6 @@
   {
     "blob_submitter": "Others",
     "blobs": 214,
-    "time": "2024-10-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 4240,
-    "time": "2024-10-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
     "time": "2024-10-19 00:00:00.000 UTC"
   },
   {
@@ -110,13 +95,13 @@
     "time": "2024-10-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "SNAXchain",
-    "blobs": 16,
+    "blob_submitter": "Base",
+    "blobs": 4240,
     "time": "2024-10-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 20,
+    "blob_submitter": "Lumio",
+    "blobs": 16,
     "time": "2024-10-19 00:00:00.000 UTC"
   },
   {
@@ -127,6 +112,26 @@
   {
     "blob_submitter": "zkSync Era",
     "blobs": 70,
+    "time": "2024-10-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "SNAXchain",
+    "blobs": 16,
+    "time": "2024-10-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 20,
+    "time": "2024-10-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 77,
+    "time": "2024-10-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 29,
     "time": "2024-10-19 00:00:00.000 UTC"
   }
 ]

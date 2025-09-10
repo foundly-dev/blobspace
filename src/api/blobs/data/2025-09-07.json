@@ -30,21 +30,6 @@
     "time": "2025-09-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Infinaeon",
-    "blobs": 10,
-    "time": "2025-09-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 264,
-    "time": "2025-09-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2025-09-07 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Mode",
     "blobs": 138,
     "time": "2025-09-07 00:00:00.000 UTC"
@@ -60,8 +45,18 @@
     "time": "2025-09-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 74,
+    "blob_submitter": "Scroll",
+    "blobs": 264,
+    "time": "2025-09-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Infinaeon",
+    "blobs": 10,
+    "time": "2025-09-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
     "time": "2025-09-07 00:00:00.000 UTC"
   },
   {
@@ -105,8 +100,18 @@
     "time": "2025-09-07 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Lisk",
+    "blobs": 74,
+    "time": "2025-09-07 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Katana",
     "blobs": 204,
+    "time": "2025-09-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "pegglecoin",
+    "blobs": 24,
     "time": "2025-09-07 00:00:00.000 UTC"
   },
   {
@@ -117,11 +122,6 @@
   {
     "blob_submitter": "Ink",
     "blobs": 408,
-    "time": "2025-09-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "pegglecoin",
-    "blobs": 24,
     "time": "2025-09-07 00:00:00.000 UTC"
   },
   {
@@ -142,6 +142,11 @@
   {
     "blob_submitter": "Swan Chain",
     "blobs": 7,
+    "time": "2025-09-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 782,
     "time": "2025-09-07 00:00:00.000 UTC"
   }
 ]

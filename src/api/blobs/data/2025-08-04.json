@@ -5,18 +5,23 @@
     "time": "2025-08-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swellchain",
-    "blobs": 42,
-    "time": "2025-08-04 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Infinaeon",
     "blobs": 10,
     "time": "2025-08-04 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Swellchain",
+    "blobs": 42,
+    "time": "2025-08-04 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Camp Network",
     "blobs": 17,
+    "time": "2025-08-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2619,
     "time": "2025-08-04 00:00:00.000 UTC"
   },
   {
@@ -30,41 +35,6 @@
     "time": "2025-08-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2619,
-    "time": "2025-08-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 359,
-    "time": "2025-08-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 2099,
-    "time": "2025-08-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1416,
-    "time": "2025-08-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Phala Network",
-    "blobs": 16,
-    "time": "2025-08-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2025-08-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
-    "time": "2025-08-04 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "StarkNet",
     "blobs": 96,
     "time": "2025-08-04 00:00:00.000 UTC"
@@ -72,6 +42,11 @@
   {
     "blob_submitter": "Lisk",
     "blobs": 38,
+    "time": "2025-08-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 359,
     "time": "2025-08-04 00:00:00.000 UTC"
   },
   {
@@ -90,6 +65,31 @@
     "time": "2025-08-04 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Taiko",
+    "blobs": 2099,
+    "time": "2025-08-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Phala Network",
+    "blobs": 16,
+    "time": "2025-08-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2025-08-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2025-08-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1416,
+    "time": "2025-08-04 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Soneium",
     "blobs": 546,
     "time": "2025-08-04 00:00:00.000 UTC"
@@ -105,6 +105,11 @@
     "time": "2025-08-04 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
+    "time": "2025-08-04 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Zircuit",
     "blobs": 100,
     "time": "2025-08-04 00:00:00.000 UTC"
@@ -112,11 +117,6 @@
   {
     "blob_submitter": "Scroll",
     "blobs": 54,
-    "time": "2025-08-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
     "time": "2025-08-04 00:00:00.000 UTC"
   },
   {
@@ -137,6 +137,11 @@
   {
     "blob_submitter": "Others",
     "blobs": 927,
+    "time": "2025-08-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mantle",
+    "blobs": 3,
     "time": "2025-08-04 00:00:00.000 UTC"
   },
   {

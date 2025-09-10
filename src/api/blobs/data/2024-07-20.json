@@ -25,13 +25,13 @@
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 1506,
+    "blob_submitter": "Inscriptions",
+    "blobs": 33,
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 33,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2049,
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
@@ -45,13 +45,8 @@
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 34,
-    "time": "2024-07-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 25,
+    "blob_submitter": "Mode",
+    "blobs": 120,
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
@@ -60,13 +55,13 @@
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 120,
+    "blob_submitter": "Blast",
+    "blobs": 1506,
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2049,
+    "blob_submitter": "Mint",
+    "blobs": 34,
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
@@ -90,13 +85,18 @@
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Linea",
+    "blobs": 527,
+    "time": "2024-07-20 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lumio",
     "blobs": 16,
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 527,
+    "blob_submitter": "Binary",
+    "blobs": 25,
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
@@ -105,13 +105,18 @@
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 15,
+    "blob_submitter": "River",
+    "blobs": 184,
     "time": "2024-07-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 184,
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
+    "time": "2024-07-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 5,
     "time": "2024-07-20 00:00:00.000 UTC"
   }
 ]

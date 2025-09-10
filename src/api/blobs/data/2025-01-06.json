@@ -15,23 +15,28 @@
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "RACE",
+    "blobs": 24,
+    "time": "2025-01-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
+    "time": "2025-01-06 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Unichain",
     "blobs": 22,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 68,
+    "blob_submitter": "Lisk",
+    "blobs": 348,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Fuel",
     "blobs": 185,
-    "time": "2025-01-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 348,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
@@ -60,13 +65,8 @@
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
-    "time": "2025-01-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 24,
+    "blob_submitter": "Zircuit",
+    "blobs": 466,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
@@ -80,8 +80,13 @@
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 466,
+    "blob_submitter": "Others",
+    "blobs": 133,
+    "time": "2025-01-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "HashKey",
+    "blobs": 26,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
@@ -95,23 +100,13 @@
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
-    "time": "2025-01-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "HashKey",
-    "blobs": 26,
-    "time": "2025-01-06 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Soneium",
     "blobs": 13,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 133,
+    "blob_submitter": "Superseed",
+    "blobs": 16,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
@@ -135,8 +130,13 @@
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 34,
+    "blob_submitter": "Mint",
+    "blobs": 330,
+    "time": "2025-01-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2106,
     "time": "2025-01-06 00:00:00.000 UTC"
   }
 ]

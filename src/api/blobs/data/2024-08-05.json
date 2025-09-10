@@ -1,17 +1,12 @@
 [
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1285,
-    "time": "2024-08-05 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Boba Network",
     "blobs": 48,
     "time": "2024-08-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1285,
     "time": "2024-08-05 00:00:00.000 UTC"
   },
   {
@@ -20,13 +15,13 @@
     "time": "2024-08-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 360,
+    "blob_submitter": "Lumio",
+    "blobs": 16,
     "time": "2024-08-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
+    "blob_submitter": "Metal",
+    "blobs": 360,
     "time": "2024-08-05 00:00:00.000 UTC"
   },
   {
@@ -35,8 +30,18 @@
     "time": "2024-08-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 1434,
+    "blob_submitter": "Lisk",
+    "blobs": 5,
+    "time": "2024-08-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 50,
+    "time": "2024-08-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
+    "blobs": 14,
     "time": "2024-08-05 00:00:00.000 UTC"
   },
   {
@@ -65,16 +70,6 @@
     "time": "2024-08-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "XGA",
-    "blobs": 14,
-    "time": "2024-08-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 50,
-    "time": "2024-08-05 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "PandaSea",
     "blobs": 25,
     "time": "2024-08-05 00:00:00.000 UTC"
@@ -90,13 +85,18 @@
     "time": "2024-08-05 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Base",
+    "blobs": 4973,
+    "time": "2024-08-05 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Camp Network",
     "blobs": 33,
     "time": "2024-08-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 4973,
+    "blob_submitter": "Paradex",
+    "blobs": 1434,
     "time": "2024-08-05 00:00:00.000 UTC"
   },
   {
@@ -107,6 +107,11 @@
   {
     "blob_submitter": "Swan Chain",
     "blobs": 8,
+    "time": "2024-08-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 449,
     "time": "2024-08-05 00:00:00.000 UTC"
   }
 ]

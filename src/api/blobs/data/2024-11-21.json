@@ -1,5 +1,10 @@
 [
   {
+    "blob_submitter": "Binary",
+    "blobs": 8,
+    "time": "2024-11-21 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "World Chain",
     "blobs": 1908,
     "time": "2024-11-21 00:00:00.000 UTC"
@@ -7,11 +12,6 @@
   {
     "blob_submitter": "ZORA",
     "blobs": 65,
-    "time": "2024-11-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 8,
     "time": "2024-11-21 00:00:00.000 UTC"
   },
   {
@@ -25,13 +25,18 @@
     "time": "2024-11-21 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "R0AR Chain",
+    "blobs": 8,
+    "time": "2024-11-21 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Base",
     "blobs": 7890,
     "time": "2024-11-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 8,
+    "blob_submitter": "Polynomial",
+    "blobs": 15,
     "time": "2024-11-21 00:00:00.000 UTC"
   },
   {
@@ -50,11 +55,6 @@
     "time": "2024-11-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 15,
-    "time": "2024-11-21 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "StarkNet",
     "blobs": 192,
     "time": "2024-11-21 00:00:00.000 UTC"
@@ -70,13 +70,8 @@
     "time": "2024-11-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 137,
-    "time": "2024-11-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
+    "blob_submitter": "Abstract",
+    "blobs": 4,
     "time": "2024-11-21 00:00:00.000 UTC"
   },
   {
@@ -90,28 +85,18 @@
     "time": "2024-11-21 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2823,
+    "time": "2024-11-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 53,
+    "time": "2024-11-21 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Mint",
     "blobs": 168,
-    "time": "2024-11-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Morph",
-    "blobs": 72,
-    "time": "2024-11-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 631,
-    "time": "2024-11-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 11,
-    "time": "2024-11-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 53,
     "time": "2024-11-21 00:00:00.000 UTC"
   },
   {
@@ -125,18 +110,28 @@
     "time": "2024-11-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Abstract",
-    "blobs": 4,
+    "blob_submitter": "Kinto",
+    "blobs": 6,
     "time": "2024-11-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2823,
+    "blob_submitter": "Optopia",
+    "blobs": 11,
     "time": "2024-11-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
+    "blob_submitter": "Blast",
+    "blobs": 631,
+    "time": "2024-11-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
     "blobs": 53,
+    "time": "2024-11-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 117,
     "time": "2024-11-21 00:00:00.000 UTC"
   },
   {
@@ -145,8 +140,18 @@
     "time": "2024-11-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 117,
+    "blob_submitter": "Morph",
+    "blobs": 72,
+    "time": "2024-11-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 137,
+    "time": "2024-11-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 267,
     "time": "2024-11-21 00:00:00.000 UTC"
   },
   {
@@ -170,18 +175,18 @@
     "time": "2024-11-21 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Taiko",
+    "blobs": 3869,
+    "time": "2024-11-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "pegglecoin",
+    "blobs": 12,
+    "time": "2024-11-21 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Superseed",
     "blobs": 17,
-    "time": "2024-11-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 193,
-    "time": "2024-11-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 267,
     "time": "2024-11-21 00:00:00.000 UTC"
   }
 ]

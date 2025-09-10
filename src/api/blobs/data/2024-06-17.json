@@ -1,15 +1,5 @@
 [
   {
-    "blob_submitter": "Base",
-    "blobs": 5334,
-    "time": "2024-06-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2361,
-    "time": "2024-06-17 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Lisk",
     "blobs": 13,
     "time": "2024-06-17 00:00:00.000 UTC"
@@ -30,18 +20,8 @@
     "time": "2024-06-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 3307,
-    "time": "2024-06-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 8,
-    "time": "2024-06-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 8,
+    "blob_submitter": "Debank Chain",
+    "blobs": 25,
     "time": "2024-06-17 00:00:00.000 UTC"
   },
   {
@@ -50,13 +30,18 @@
     "time": "2024-06-17 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Lumio",
+    "blobs": 8,
+    "time": "2024-06-17 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "OP Mainnet",
     "blobs": 1595,
     "time": "2024-06-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 25,
+    "blob_submitter": "Taiko",
+    "blobs": 3307,
     "time": "2024-06-17 00:00:00.000 UTC"
   },
   {
@@ -70,23 +55,23 @@
     "time": "2024-06-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 1269,
-    "time": "2024-06-17 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Boba Network",
     "blobs": 48,
     "time": "2024-06-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 224,
+    "blob_submitter": "Scroll",
+    "blobs": 1269,
     "time": "2024-06-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 126,
+    "blob_submitter": "Polynomial",
+    "blobs": 8,
+    "time": "2024-06-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 224,
     "time": "2024-06-17 00:00:00.000 UTC"
   },
   {
@@ -97,6 +82,11 @@
   {
     "blob_submitter": "Blast",
     "blobs": 1386,
+    "time": "2024-06-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 16,
     "time": "2024-06-17 00:00:00.000 UTC"
   }
 ]

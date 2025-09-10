@@ -10,6 +10,11 @@
     "time": "2025-08-16 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Abstract",
+    "blobs": 385,
+    "time": "2025-08-16 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Phala Network",
     "blobs": 17,
     "time": "2025-08-16 00:00:00.000 UTC"
@@ -17,11 +22,6 @@
   {
     "blob_submitter": "SNAXchain",
     "blobs": 16,
-    "time": "2025-08-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Abstract",
-    "blobs": 385,
     "time": "2025-08-16 00:00:00.000 UTC"
   },
   {
@@ -70,11 +70,6 @@
     "time": "2025-08-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 335,
-    "time": "2025-08-16 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Zircuit",
     "blobs": 97,
     "time": "2025-08-16 00:00:00.000 UTC"
@@ -90,8 +85,8 @@
     "time": "2025-08-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Soneium",
-    "blobs": 1335,
+    "blob_submitter": "Scroll",
+    "blobs": 486,
     "time": "2025-08-16 00:00:00.000 UTC"
   },
   {
@@ -105,23 +100,28 @@
     "time": "2025-08-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 99,
-    "time": "2025-08-16 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arena-Z",
     "blobs": 5,
     "time": "2025-08-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 486,
+    "blob_submitter": "Blast",
+    "blobs": 335,
+    "time": "2025-08-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 99,
     "time": "2025-08-16 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "StarkNet",
     "blobs": 180,
+    "time": "2025-08-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 2304,
     "time": "2025-08-16 00:00:00.000 UTC"
   },
   {
@@ -145,8 +145,8 @@
     "time": "2025-08-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 2304,
+    "blob_submitter": "Soneium",
+    "blobs": 1335,
     "time": "2025-08-16 00:00:00.000 UTC"
   },
   {
@@ -162,6 +162,11 @@
   {
     "blob_submitter": "RACE",
     "blobs": 24,
+    "time": "2025-08-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 5556,
     "time": "2025-08-16 00:00:00.000 UTC"
   }
 ]

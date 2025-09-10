@@ -65,21 +65,6 @@
     "time": "2024-10-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1225,
-    "time": "2024-10-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2024-10-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2024-10-24 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Taiko",
     "blobs": 3092,
     "time": "2024-10-24 00:00:00.000 UTC"
@@ -95,13 +80,33 @@
     "time": "2024-10-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "XGA",
-    "blobs": 76,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1225,
+    "time": "2024-10-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
     "time": "2024-10-24 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Kinto",
     "blobs": 6,
+    "time": "2024-10-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
+    "blobs": 76,
+    "time": "2024-10-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 508,
+    "time": "2024-10-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "SNAXchain",
+    "blobs": 16,
     "time": "2024-10-24 00:00:00.000 UTC"
   },
   {
@@ -120,13 +125,18 @@
     "time": "2024-10-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 508,
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
     "time": "2024-10-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "SNAXchain",
-    "blobs": 16,
+    "blob_submitter": "Fuel",
+    "blobs": 134,
+    "time": "2024-10-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 41,
     "time": "2024-10-24 00:00:00.000 UTC"
   },
   {
@@ -140,23 +150,28 @@
     "time": "2024-10-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Morph",
-    "blobs": 77,
+    "blob_submitter": "Blast",
+    "blobs": 642,
+    "time": "2024-10-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 15,
+    "time": "2024-10-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 6615,
+    "time": "2024-10-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 63,
     "time": "2024-10-24 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Boba Network",
     "blobs": 54,
-    "time": "2024-10-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 41,
-    "time": "2024-10-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Fuel",
-    "blobs": 134,
     "time": "2024-10-24 00:00:00.000 UTC"
   }
 ]

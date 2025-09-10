@@ -5,13 +5,13 @@
     "time": "2025-03-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Morph",
-    "blobs": 111,
+    "blob_submitter": "Mint",
+    "blobs": 36,
     "time": "2025-03-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 61,
+    "blob_submitter": "Morph",
+    "blobs": 111,
     "time": "2025-03-03 00:00:00.000 UTC"
   },
   {
@@ -25,8 +25,8 @@
     "time": "2025-03-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 36,
+    "blob_submitter": "HashKey",
+    "blobs": 69,
     "time": "2025-03-03 00:00:00.000 UTC"
   },
   {
@@ -40,28 +40,13 @@
     "time": "2025-03-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "HashKey",
-    "blobs": 69,
-    "time": "2025-03-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Settlus",
-    "blobs": 16,
-    "time": "2025-03-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 96,
-    "time": "2025-03-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 22,
-    "time": "2025-03-03 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Base",
     "blobs": 8095,
+    "time": "2025-03-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 492,
     "time": "2025-03-03 00:00:00.000 UTC"
   },
   {
@@ -70,8 +55,13 @@
     "time": "2025-03-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 492,
+    "blob_submitter": "Shape",
+    "blobs": 22,
+    "time": "2025-03-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 30,
     "time": "2025-03-03 00:00:00.000 UTC"
   },
   {
@@ -85,6 +75,11 @@
     "time": "2025-03-03 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Scroll",
+    "blobs": 70,
+    "time": "2025-03-03 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Kroma",
     "blobs": 105,
     "time": "2025-03-03 00:00:00.000 UTC"
@@ -92,11 +87,6 @@
   {
     "blob_submitter": "R0AR Chain",
     "blobs": 8,
-    "time": "2025-03-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 70,
     "time": "2025-03-03 00:00:00.000 UTC"
   },
   {
@@ -110,16 +100,6 @@
     "time": "2025-03-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swell",
-    "blobs": 26,
-    "time": "2025-03-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 86,
-    "time": "2025-03-03 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "ZORA",
     "blobs": 28,
     "time": "2025-03-03 00:00:00.000 UTC"
@@ -130,13 +110,18 @@
     "time": "2025-03-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 22,
+    "blob_submitter": "Mode",
+    "blobs": 86,
     "time": "2025-03-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 30,
+    "blob_submitter": "Zircuit",
+    "blobs": 96,
+    "time": "2025-03-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 22,
     "time": "2025-03-03 00:00:00.000 UTC"
   },
   {
@@ -160,8 +145,8 @@
     "time": "2025-03-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 2295,
+    "blob_submitter": "Polynomial",
+    "blobs": 36,
     "time": "2025-03-03 00:00:00.000 UTC"
   },
   {
@@ -170,13 +155,23 @@
     "time": "2025-03-03 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "World Chain",
+    "blobs": 2295,
+    "time": "2025-03-03 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Linea",
     "blobs": 116,
     "time": "2025-03-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 36,
+    "blob_submitter": "Swell",
+    "blobs": 26,
+    "time": "2025-03-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Settlus",
+    "blobs": 16,
     "time": "2025-03-03 00:00:00.000 UTC"
   },
   {
@@ -200,13 +195,13 @@
     "time": "2025-03-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 945,
+    "blob_submitter": "Phala Network",
+    "blobs": 16,
     "time": "2025-03-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZERO Network",
-    "blobs": 6,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 945,
     "time": "2025-03-03 00:00:00.000 UTC"
   }
 ]

@@ -25,6 +25,11 @@
     "time": "2025-05-07 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
+    "time": "2025-05-07 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Arbitrum One",
     "blobs": 2070,
     "time": "2025-05-07 00:00:00.000 UTC"
@@ -35,13 +40,13 @@
     "time": "2025-05-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 80,
+    "blob_submitter": "Scroll",
+    "blobs": 48,
     "time": "2025-05-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 48,
+    "blob_submitter": "Mode",
+    "blobs": 80,
     "time": "2025-05-07 00:00:00.000 UTC"
   },
   {
@@ -55,8 +60,8 @@
     "time": "2025-05-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
+    "blob_submitter": "Optopia",
+    "blobs": 6,
     "time": "2025-05-07 00:00:00.000 UTC"
   },
   {
@@ -70,8 +75,18 @@
     "time": "2025-05-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 6,
+    "blob_submitter": "zkSync Era",
+    "blobs": 25,
+    "time": "2025-05-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 4,
+    "time": "2025-05-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 32,
     "time": "2025-05-07 00:00:00.000 UTC"
   },
   {
@@ -90,18 +105,8 @@
     "time": "2025-05-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Superseed",
-    "blobs": 32,
-    "time": "2025-05-07 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Polynomial",
     "blobs": 36,
-    "time": "2025-05-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 24,
     "time": "2025-05-07 00:00:00.000 UTC"
   },
   {
@@ -110,13 +115,8 @@
     "time": "2025-05-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 4,
-    "time": "2025-05-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 25,
+    "blob_submitter": "RACE",
+    "blobs": 24,
     "time": "2025-05-07 00:00:00.000 UTC"
   },
   {
@@ -140,23 +140,23 @@
     "time": "2025-05-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 8,
-    "time": "2025-05-07 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Shape",
     "blobs": 108,
     "time": "2025-05-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Hemi",
-    "blobs": 149,
+    "blob_submitter": "R0AR Chain",
+    "blobs": 8,
     "time": "2025-05-07 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Zircuit",
     "blobs": 103,
+    "time": "2025-05-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 149,
     "time": "2025-05-07 00:00:00.000 UTC"
   },
   {
@@ -180,8 +180,13 @@
     "time": "2025-05-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 216,
+    "blob_submitter": "Abstract",
+    "blobs": 278,
+    "time": "2025-05-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Settlus",
+    "blobs": 16,
     "time": "2025-05-07 00:00:00.000 UTC"
   }
 ]

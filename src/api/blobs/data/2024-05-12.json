@@ -5,18 +5,18 @@
     "time": "2024-05-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
-    "time": "2024-05-12 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arbitrum One",
     "blobs": 1926,
     "time": "2024-05-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 24,
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-05-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 8,
     "time": "2024-05-12 00:00:00.000 UTC"
   },
   {
@@ -25,7 +25,7 @@
     "time": "2024-05-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
+    "blob_submitter": "Lisk",
     "blobs": 8,
     "time": "2024-05-12 00:00:00.000 UTC"
   },
@@ -40,18 +40,8 @@
     "time": "2024-05-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 96,
-    "time": "2024-05-12 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Base",
     "blobs": 3228,
-    "time": "2024-05-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 159,
     "time": "2024-05-12 00:00:00.000 UTC"
   },
   {
@@ -65,11 +55,6 @@
     "time": "2024-05-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 8,
-    "time": "2024-05-12 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "StarkNet",
     "blobs": 238,
     "time": "2024-05-12 00:00:00.000 UTC"
@@ -77,6 +62,16 @@
   {
     "blob_submitter": "OP Mainnet",
     "blobs": 2064,
+    "time": "2024-05-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 159,
+    "time": "2024-05-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 96,
     "time": "2024-05-12 00:00:00.000 UTC"
   },
   {

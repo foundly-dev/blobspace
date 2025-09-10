@@ -35,11 +35,6 @@
     "time": "2025-07-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 482,
-    "time": "2025-07-26 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Metis",
     "blobs": 50,
     "time": "2025-07-26 00:00:00.000 UTC"
@@ -47,6 +42,16 @@
   {
     "blob_submitter": "Mint",
     "blobs": 17,
+    "time": "2025-07-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 26,
+    "time": "2025-07-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "HashKey",
+    "blobs": 38,
     "time": "2025-07-26 00:00:00.000 UTC"
   },
   {
@@ -60,18 +65,13 @@
     "time": "2025-07-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "HashKey",
-    "blobs": 38,
-    "time": "2025-07-26 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Abstract",
     "blobs": 554,
     "time": "2025-07-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 26,
+    "blob_submitter": "Phala Network",
+    "blobs": 16,
     "time": "2025-07-26 00:00:00.000 UTC"
   },
   {
@@ -95,18 +95,13 @@
     "time": "2025-07-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 47,
+    "blob_submitter": "zkSync Era",
+    "blobs": 24,
     "time": "2025-07-26 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Ink",
     "blobs": 256,
-    "time": "2025-07-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 16,
     "time": "2025-07-26 00:00:00.000 UTC"
   },
   {
@@ -117,16 +112,6 @@
   {
     "blob_submitter": "Others",
     "blobs": 276,
-    "time": "2025-07-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 24,
-    "time": "2025-07-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Phala Network",
-    "blobs": 16,
     "time": "2025-07-26 00:00:00.000 UTC"
   },
   {
@@ -155,6 +140,21 @@
     "time": "2025-07-26 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "ZORA",
+    "blobs": 16,
+    "time": "2025-07-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 47,
+    "time": "2025-07-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 20,
+    "time": "2025-07-26 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "World Chain",
     "blobs": 6042,
     "time": "2025-07-26 00:00:00.000 UTC"
@@ -165,8 +165,8 @@
     "time": "2025-07-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 20,
+    "blob_submitter": "Metal",
+    "blobs": 360,
     "time": "2025-07-26 00:00:00.000 UTC"
   }
 ]

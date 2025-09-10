@@ -5,11 +5,6 @@
     "time": "2024-09-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 378,
-    "time": "2024-09-08 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "OP Mainnet",
     "blobs": 1135,
     "time": "2024-09-08 00:00:00.000 UTC"
@@ -20,18 +15,18 @@
     "time": "2024-09-08 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Scroll",
+    "blobs": 378,
+    "time": "2024-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
+    "blobs": 76,
+    "time": "2024-09-08 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Zircuit",
     "blobs": 493,
-    "time": "2024-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1827,
-    "time": "2024-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "PandaSea",
-    "blobs": 24,
     "time": "2024-09-08 00:00:00.000 UTC"
   },
   {
@@ -40,8 +35,13 @@
     "time": "2024-09-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "XGA",
-    "blobs": 76,
+    "blob_submitter": "Metal",
+    "blobs": 362,
+    "time": "2024-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 20,
     "time": "2024-09-08 00:00:00.000 UTC"
   },
   {
@@ -57,26 +57,6 @@
   {
     "blob_submitter": "Base",
     "blobs": 5435,
-    "time": "2024-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 362,
-    "time": "2024-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 20,
-    "time": "2024-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
-    "time": "2024-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 24,
     "time": "2024-09-08 00:00:00.000 UTC"
   },
   {
@@ -105,13 +85,23 @@
     "time": "2024-09-08 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Others",
+    "blobs": 139,
+    "time": "2024-09-08 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Polynomial",
     "blobs": 16,
     "time": "2024-09-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 139,
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 24,
     "time": "2024-09-08 00:00:00.000 UTC"
   },
   {
