@@ -15,6 +15,21 @@
     "time": "2024-03-30 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Metal",
+    "blobs": 12,
+    "time": "2024-03-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1878,
+    "time": "2024-03-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 426,
+    "time": "2024-03-30 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Mode",
     "blobs": 121,
     "time": "2024-03-30 00:00:00.000 UTC"
@@ -27,16 +42,6 @@
   {
     "blob_submitter": "zkSync Era",
     "blobs": 576,
-    "time": "2024-03-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2064,
-    "time": "2024-03-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 2,
     "time": "2024-03-30 00:00:00.000 UTC"
   }
 ]
