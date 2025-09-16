@@ -1,5 +1,20 @@
 [
   {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1488,
+    "time": "2024-05-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 47,
+    "time": "2024-05-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 380,
+    "time": "2024-05-04 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lambda",
     "blobs": 22,
     "time": "2024-05-04 00:00:00.000 UTC"
@@ -25,36 +40,6 @@
     "time": "2024-05-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 1852,
-    "time": "2024-05-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 160,
-    "time": "2024-05-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 264,
-    "time": "2024-05-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 9,
-    "time": "2024-05-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 3690,
-    "time": "2024-05-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1080,
-    "time": "2024-05-04 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Paradex",
     "blobs": 224,
     "time": "2024-05-04 00:00:00.000 UTC"
@@ -72,6 +57,11 @@
   {
     "blob_submitter": "Linea",
     "blobs": 313,
+    "time": "2024-05-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1080,
     "time": "2024-05-04 00:00:00.000 UTC"
   }
 ]
