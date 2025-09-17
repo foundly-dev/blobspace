@@ -1,32 +1,12 @@
 [
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
-    "time": "2025-09-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Unichain",
-    "blobs": 669,
-    "time": "2025-09-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2097,
-    "time": "2025-09-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 751,
-    "time": "2025-09-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swellchain",
-    "blobs": 50,
-    "time": "2025-09-14 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Soneium",
     "blobs": 1075,
+    "time": "2025-09-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 216,
     "time": "2025-09-14 00:00:00.000 UTC"
   },
   {
@@ -35,8 +15,8 @@
     "time": "2025-09-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 216,
+    "blob_submitter": "Katana",
+    "blobs": 210,
     "time": "2025-09-14 00:00:00.000 UTC"
   },
   {
@@ -55,11 +35,6 @@
     "time": "2025-09-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Katana",
-    "blobs": 210,
-    "time": "2025-09-14 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Hemi",
     "blobs": 86,
     "time": "2025-09-14 00:00:00.000 UTC"
@@ -70,73 +45,98 @@
     "time": "2025-09-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 33,
+    "blob_submitter": "Swellchain",
+    "blobs": 50,
     "time": "2025-09-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZERO Network",
-    "blobs": 11,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2097,
     "time": "2025-09-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 20,
+    "blob_submitter": "Others",
+    "blobs": 751,
     "time": "2025-09-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 504,
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
     "time": "2025-09-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
+    "blob_submitter": "Unichain",
+    "blobs": 669,
     "time": "2025-09-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Phala Network",
+    "blob_submitter": "Mode",
+    "blobs": 123,
+    "time": "2025-09-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Settlus",
     "blobs": 16,
     "time": "2025-09-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Superseed",
+    "blob_submitter": "Mint",
     "blobs": 16,
     "time": "2025-09-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 5,
+    "blob_submitter": "R0AR Chain",
+    "blobs": 9,
     "time": "2025-09-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 894,
-    "time": "2025-09-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 24,
-    "time": "2025-09-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "HashKey",
-    "blobs": 37,
-    "time": "2025-09-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
+    "blob_submitter": "SNAXchain",
     "blobs": 10,
     "time": "2025-09-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 58,
+    "blob_submitter": "Base",
+    "blobs": 13808,
     "time": "2025-09-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Infinaeon",
-    "blobs": 9,
+    "blob_submitter": "Shape",
+    "blobs": 636,
+    "time": "2025-09-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Abstract",
+    "blobs": 328,
+    "time": "2025-09-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 894,
+    "time": "2025-09-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 267,
+    "time": "2025-09-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 74,
+    "time": "2025-09-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 27,
+    "time": "2025-09-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 16,
+    "time": "2025-09-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metis",
+    "blobs": 92,
     "time": "2025-09-14 00:00:00.000 UTC"
   }
 ]

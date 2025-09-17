@@ -1,35 +1,5 @@
 [
   {
-    "blob_submitter": "Metal",
-    "blobs": 8,
-    "time": "2024-05-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 398,
-    "time": "2024-05-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 6,
-    "time": "2024-05-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 132,
-    "time": "2024-05-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 173,
-    "time": "2024-05-14 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 281,
-    "time": "2024-05-14 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Inscriptions",
     "blobs": 5,
     "time": "2024-05-14 00:00:00.000 UTC"
@@ -55,28 +25,53 @@
     "time": "2024-05-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2688,
+    "blob_submitter": "StarkNet",
+    "blobs": 281,
     "time": "2024-05-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
+    "blob_submitter": "Kroma",
+    "blobs": 173,
+    "time": "2024-05-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 6,
+    "time": "2024-05-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 132,
+    "time": "2024-05-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
     "blobs": 8,
     "time": "2024-05-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 14,
+    "blob_submitter": "zkSync Era",
+    "blobs": 398,
     "time": "2024-05-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 162,
+    "blob_submitter": "Camp Network",
+    "blobs": 16,
     "time": "2024-05-14 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 305,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1746,
+    "time": "2024-05-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 20,
+    "time": "2024-05-14 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 342,
     "time": "2024-05-14 00:00:00.000 UTC"
   }
 ]
