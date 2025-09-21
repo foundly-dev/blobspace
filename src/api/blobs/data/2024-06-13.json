@@ -1,7 +1,7 @@
 [
   {
-    "blob_submitter": "Optopia",
-    "blobs": 76,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2688,
     "time": "2024-06-13 00:00:00.000 UTC"
   },
   {
@@ -10,18 +10,8 @@
     "time": "2024-06-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2688,
-    "time": "2024-06-13 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Metal",
     "blobs": 359,
-    "time": "2024-06-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 134,
     "time": "2024-06-13 00:00:00.000 UTC"
   },
   {
@@ -30,28 +20,13 @@
     "time": "2024-06-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 364,
+    "blob_submitter": "Others",
+    "blobs": 134,
     "time": "2024-06-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 8,
-    "time": "2024-06-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 254,
-    "time": "2024-06-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 132,
-    "time": "2024-06-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 18,
+    "blob_submitter": "Optopia",
+    "blobs": 76,
     "time": "2024-06-13 00:00:00.000 UTC"
   },
   {
@@ -72,6 +47,41 @@
   {
     "blob_submitter": "Linea",
     "blobs": 424,
+    "time": "2024-06-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 364,
+    "time": "2024-06-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 183,
+    "time": "2024-06-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1630,
+    "time": "2024-06-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 11,
+    "time": "2024-06-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 5724,
+    "time": "2024-06-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 1380,
+    "time": "2024-06-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 24,
     "time": "2024-06-13 00:00:00.000 UTC"
   }
 ]

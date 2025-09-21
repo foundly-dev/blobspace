@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "Others",
-    "blobs": 133,
-    "time": "2024-05-28 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Lumio",
     "blobs": 8,
     "time": "2024-05-28 00:00:00.000 UTC"
@@ -25,23 +20,8 @@
     "time": "2024-05-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 12,
-    "time": "2024-05-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 3156,
-    "time": "2024-05-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 15,
-    "time": "2024-05-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2334,
+    "blob_submitter": "Others",
+    "blobs": 133,
     "time": "2024-05-28 00:00:00.000 UTC"
   },
   {
@@ -70,8 +50,48 @@
     "time": "2024-05-28 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Parallel",
+    "blobs": 12,
+    "time": "2024-05-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 184,
+    "time": "2024-05-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 1456,
+    "time": "2024-05-28 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "StarkNet",
     "blobs": 215,
+    "time": "2024-05-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 2118,
+    "time": "2024-05-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 3156,
+    "time": "2024-05-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 51,
+    "time": "2024-05-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 778,
+    "time": "2024-05-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 15,
     "time": "2024-05-28 00:00:00.000 UTC"
   }
 ]
