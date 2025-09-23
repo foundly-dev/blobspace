@@ -1,30 +1,5 @@
 [
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
-    "time": "2024-09-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1785,
-    "time": "2024-09-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 139,
-    "time": "2024-09-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 94,
-    "time": "2024-09-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 8,
-    "time": "2024-09-01 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Scroll",
     "blobs": 392,
     "time": "2024-09-01 00:00:00.000 UTC"
@@ -35,8 +10,13 @@
     "time": "2024-09-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "PandaSea",
-    "blobs": 25,
+    "blob_submitter": "Mode",
+    "blobs": 88,
+    "time": "2024-09-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 27,
     "time": "2024-09-01 00:00:00.000 UTC"
   },
   {
@@ -45,13 +25,13 @@
     "time": "2024-09-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 88,
+    "blob_submitter": "Swan Chain",
+    "blobs": 8,
     "time": "2024-09-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 27,
+    "blob_submitter": "PandaSea",
+    "blobs": 25,
     "time": "2024-09-01 00:00:00.000 UTC"
   },
   {
@@ -95,21 +75,6 @@
     "time": "2024-09-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "XGA",
-    "blobs": 76,
-    "time": "2024-09-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2024-09-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 2796,
-    "time": "2024-09-01 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Nal",
     "blobs": 50,
     "time": "2024-09-01 00:00:00.000 UTC"
@@ -117,6 +82,36 @@
   {
     "blob_submitter": "Polynomial",
     "blobs": 18,
+    "time": "2024-09-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 72,
+    "time": "2024-09-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 25,
+    "time": "2024-09-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 94,
+    "time": "2024-09-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-09-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1785,
+    "time": "2024-09-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 139,
     "time": "2024-09-01 00:00:00.000 UTC"
   }
 ]

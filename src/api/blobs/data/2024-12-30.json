@@ -1,40 +1,5 @@
 [
   {
-    "blob_submitter": "Unichain",
-    "blobs": 22,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 81,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Camp Network",
-    "blobs": 31,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 26,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERO Network",
-    "blobs": 6,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 356,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "HashKey",
     "blobs": 25,
     "time": "2024-12-30 00:00:00.000 UTC"
@@ -45,8 +10,8 @@
     "time": "2024-12-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 1470,
+    "blob_submitter": "World Chain",
+    "blobs": 2268,
     "time": "2024-12-30 00:00:00.000 UTC"
   },
   {
@@ -55,18 +20,18 @@
     "time": "2024-12-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 2268,
+    "blob_submitter": "Metal",
+    "blobs": 356,
     "time": "2024-12-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Phala Network",
-    "blobs": 77,
+    "blob_submitter": "River",
+    "blobs": 1470,
     "time": "2024-12-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
+    "blob_submitter": "Linea",
+    "blobs": 125,
     "time": "2024-12-30 00:00:00.000 UTC"
   },
   {
@@ -80,16 +45,6 @@
     "time": "2024-12-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 83,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 125,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Polynomial",
     "blobs": 32,
     "time": "2024-12-30 00:00:00.000 UTC"
@@ -100,8 +55,8 @@
     "time": "2024-12-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Morph",
-    "blobs": 128,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 845,
     "time": "2024-12-30 00:00:00.000 UTC"
   },
   {
@@ -110,13 +65,18 @@
     "time": "2024-12-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 845,
+    "blob_submitter": "Phala Network",
+    "blobs": 77,
     "time": "2024-12-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Soneium",
-    "blobs": 10,
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 83,
     "time": "2024-12-30 00:00:00.000 UTC"
   },
   {
@@ -125,33 +85,43 @@
     "time": "2024-12-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 30,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arena-Z",
-    "blobs": 4,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Abstract",
-    "blobs": 4,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 84,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swell",
-    "blobs": 25,
-    "time": "2024-12-30 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "StarkNet",
     "blobs": 46,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Soneium",
+    "blobs": 10,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 7,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 49,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 24,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "pegglecoin",
+    "blobs": 12,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 31,
+    "time": "2024-12-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Unichain",
+    "blobs": 22,
     "time": "2024-12-30 00:00:00.000 UTC"
   }
 ]

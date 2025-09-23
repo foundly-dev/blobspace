@@ -1,32 +1,7 @@
 [
   {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2025-07-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Morph",
-    "blobs": 205,
-    "time": "2025-07-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 58,
-    "time": "2025-07-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "HashKey",
-    "blobs": 51,
-    "time": "2025-07-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 27,
-    "time": "2025-07-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 135,
+    "blob_submitter": "Shape",
+    "blobs": 206,
     "time": "2025-07-15 00:00:00.000 UTC"
   },
   {
@@ -47,11 +22,6 @@
   {
     "blob_submitter": "Paradex",
     "blobs": 45,
-    "time": "2025-07-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 206,
     "time": "2025-07-15 00:00:00.000 UTC"
   },
   {
@@ -80,23 +50,8 @@
     "time": "2025-07-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1951,
-    "time": "2025-07-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swellchain",
-    "blobs": 50,
-    "time": "2025-07-15 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Settlus",
     "blobs": 16,
-    "time": "2025-07-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lighter",
-    "blobs": 221,
     "time": "2025-07-15 00:00:00.000 UTC"
   },
   {
@@ -107,6 +62,11 @@
   {
     "blob_submitter": "Optopia",
     "blobs": 8,
+    "time": "2025-07-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lighter",
+    "blobs": 221,
     "time": "2025-07-15 00:00:00.000 UTC"
   },
   {
@@ -125,13 +85,13 @@
     "time": "2025-07-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Infinaeon",
-    "blobs": 10,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1951,
     "time": "2025-07-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
+    "blob_submitter": "Swellchain",
+    "blobs": 50,
     "time": "2025-07-15 00:00:00.000 UTC"
   },
   {
@@ -155,13 +115,68 @@
     "time": "2025-07-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
+    "blob_submitter": "Debank Chain",
+    "blobs": 23,
+    "time": "2025-07-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 86,
+    "time": "2025-07-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 97,
+    "time": "2025-07-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 78,
+    "time": "2025-07-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 22,
+    "time": "2025-07-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metis",
     "blobs": 57,
     "time": "2025-07-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 11201,
+    "blob_submitter": "Soneium",
+    "blobs": 545,
+    "time": "2025-07-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 16,
+    "time": "2025-07-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 135,
+    "time": "2025-07-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2025-07-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Morph",
+    "blobs": 205,
+    "time": "2025-07-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 58,
+    "time": "2025-07-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "HashKey",
+    "blobs": 51,
     "time": "2025-07-15 00:00:00.000 UTC"
   }
 ]
