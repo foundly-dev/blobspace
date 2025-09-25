@@ -1,7 +1,17 @@
 [
   {
-    "blob_submitter": "Others",
-    "blobs": 132,
+    "blob_submitter": "Parallel",
+    "blobs": 3,
+    "time": "2024-05-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 289,
+    "time": "2024-05-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 148,
     "time": "2024-05-12 00:00:00.000 UTC"
   },
   {
@@ -10,18 +20,13 @@
     "time": "2024-05-12 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Others",
+    "blobs": 132,
+    "time": "2024-05-12 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "ZORA",
     "blobs": 96,
-    "time": "2024-05-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 354,
-    "time": "2024-05-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 21,
     "time": "2024-05-12 00:00:00.000 UTC"
   },
   {
@@ -35,28 +40,28 @@
     "time": "2024-05-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 8,
+    "blob_submitter": "zkSync Era",
+    "blobs": 354,
     "time": "2024-05-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 238,
+    "blob_submitter": "Inscriptions",
+    "blobs": 21,
     "time": "2024-05-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
+    "blob_submitter": "Lambda",
+    "blobs": 24,
     "time": "2024-05-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 2064,
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
     "time": "2024-05-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 289,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1926,
     "time": "2024-05-12 00:00:00.000 UTC"
   }
 ]
