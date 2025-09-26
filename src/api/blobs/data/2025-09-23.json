@@ -1,37 +1,72 @@
 [
   {
-    "blob_submitter": "Mode",
-    "blobs": 147,
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
     "time": "2025-09-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "HashKey",
+    "blob_submitter": "Katana",
+    "blobs": 225,
+    "time": "2025-09-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "pegglecoin",
+    "blobs": 12,
+    "time": "2025-09-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Morph",
     "blobs": 40,
     "time": "2025-09-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 3813,
+    "blob_submitter": "Others",
+    "blobs": 658,
     "time": "2025-09-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Superseed",
+    "blob_submitter": "Hemi",
+    "blobs": 109,
+    "time": "2025-09-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 3090,
+    "time": "2025-09-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ink",
+    "blobs": 390,
+    "time": "2025-09-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arena-Z",
+    "blobs": 4,
+    "time": "2025-09-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 20,
+    "time": "2025-09-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
     "blobs": 16,
     "time": "2025-09-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Infinaeon",
-    "blobs": 10,
+    "blob_submitter": "Base",
+    "blobs": 14649,
     "time": "2025-09-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 9,
+    "blob_submitter": "Zircuit",
+    "blobs": 219,
     "time": "2025-09-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 16,
+    "blob_submitter": "Mantle",
+    "blobs": 1,
     "time": "2025-09-23 00:00:00.000 UTC"
   },
   {
@@ -47,6 +82,11 @@
   {
     "blob_submitter": "ZERO Network",
     "blobs": 4,
+    "time": "2025-09-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 16,
     "time": "2025-09-23 00:00:00.000 UTC"
   },
   {
@@ -70,23 +110,13 @@
     "time": "2025-09-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 342,
-    "time": "2025-09-23 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "RACE",
     "blobs": 26,
     "time": "2025-09-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 90,
-    "time": "2025-09-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1470,
+    "blob_submitter": "StarkNet",
+    "blobs": 342,
     "time": "2025-09-23 00:00:00.000 UTC"
   },
   {
@@ -100,63 +130,33 @@
     "time": "2025-09-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lighter",
-    "blobs": 839,
+    "blob_submitter": "Lisk",
+    "blobs": 90,
     "time": "2025-09-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 20,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1470,
     "time": "2025-09-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "SNAXchain",
-    "blobs": 9,
+    "blob_submitter": "Mode",
+    "blobs": 147,
     "time": "2025-09-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 10,
+    "blob_submitter": "HashKey",
+    "blobs": 40,
     "time": "2025-09-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 23,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 3813,
     "time": "2025-09-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Abstract",
-    "blobs": 421,
-    "time": "2025-09-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 330,
-    "time": "2025-09-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 305,
-    "time": "2025-09-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 576,
-    "time": "2025-09-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metis",
-    "blobs": 96,
-    "time": "2025-09-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Settlus",
+    "blob_submitter": "Superseed",
     "blobs": 16,
-    "time": "2025-09-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 1640,
     "time": "2025-09-23 00:00:00.000 UTC"
   }
 ]
