@@ -1,92 +1,57 @@
 [
   {
-    "blob_submitter": "Taiko",
-    "blobs": 4317,
+    "blob_submitter": "ZERO Network",
+    "blobs": 144,
     "time": "2024-11-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 684,
+    "blob_submitter": "Mode",
+    "blobs": 45,
     "time": "2024-11-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Hemi",
-    "blobs": 59,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2502,
     "time": "2024-11-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 77,
+    "blob_submitter": "Metal",
+    "blobs": 358,
     "time": "2024-11-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 7205,
-    "time": "2024-11-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
+    "blob_submitter": "PandaSea",
     "blobs": 8,
     "time": "2024-11-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arena-Z",
-    "blobs": 19,
+    "blob_submitter": "Fuel",
+    "blobs": 104,
     "time": "2024-11-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 132,
+    "blob_submitter": "XGA",
+    "blobs": 77,
     "time": "2024-11-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 88,
+    "blob_submitter": "Optopia",
+    "blobs": 12,
     "time": "2024-11-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Morph",
-    "blobs": 72,
+    "blob_submitter": "Unichain",
+    "blobs": 24,
     "time": "2024-11-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 54,
-    "time": "2024-11-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 26,
-    "time": "2024-11-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 59,
-    "time": "2024-11-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 481,
-    "time": "2024-11-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 194,
-    "time": "2024-11-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
-    "time": "2024-11-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
-    "time": "2024-11-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
+    "blob_submitter": "Lisk",
     "blobs": 5,
+    "time": "2024-11-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Camp Network",
+    "blobs": 35,
     "time": "2024-11-19 00:00:00.000 UTC"
   },
   {
@@ -115,58 +80,88 @@
     "time": "2024-11-19 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Taiko",
+    "blobs": 4317,
+    "time": "2024-11-19 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lumio",
     "blobs": 17,
     "time": "2024-11-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 45,
+    "blob_submitter": "Superseed",
+    "blobs": 16,
     "time": "2024-11-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZERO Network",
-    "blobs": 144,
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
     "time": "2024-11-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2502,
+    "blob_submitter": "Others",
+    "blobs": 684,
     "time": "2024-11-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 358,
+    "blob_submitter": "ZORA",
+    "blobs": 59,
     "time": "2024-11-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "PandaSea",
-    "blobs": 8,
+    "blob_submitter": "Zircuit",
+    "blobs": 481,
     "time": "2024-11-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "XGA",
+    "blob_submitter": "Kroma",
+    "blobs": 194,
+    "time": "2024-11-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 6,
+    "time": "2024-11-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
     "blobs": 77,
     "time": "2024-11-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Fuel",
-    "blobs": 104,
+    "blob_submitter": "Base",
+    "blobs": 7205,
     "time": "2024-11-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 12,
+    "blob_submitter": "Binary",
+    "blobs": 8,
     "time": "2024-11-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Unichain",
-    "blobs": 24,
+    "blob_submitter": "Hemi",
+    "blobs": 59,
     "time": "2024-11-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
+    "blob_submitter": "Swan Chain",
+    "blobs": 132,
+    "time": "2024-11-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arena-Z",
+    "blobs": 19,
+    "time": "2024-11-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 88,
+    "time": "2024-11-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Morph",
+    "blobs": 72,
     "time": "2024-11-19 00:00:00.000 UTC"
   }
 ]

@@ -1,82 +1,57 @@
 [
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 23,
+    "blob_submitter": "Metis",
+    "blobs": 66,
     "time": "2025-09-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Phala Network",
+    "blob_submitter": "ZORA",
     "blobs": 16,
     "time": "2025-09-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1386,
+    "blob_submitter": "Lighter",
+    "blobs": 658,
     "time": "2025-09-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2529,
+    "blob_submitter": "Mantle",
+    "blobs": 4,
     "time": "2025-09-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
+    "blob_submitter": "Soneium",
+    "blobs": 1185,
+    "time": "2025-09-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 22,
+    "time": "2025-09-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "R0AR Chain",
+    "blobs": 10,
+    "time": "2025-09-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Abstract",
+    "blobs": 385,
+    "time": "2025-09-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 341,
+    "time": "2025-09-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
+    "time": "2025-09-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Settlus",
     "blobs": 16,
-    "time": "2025-09-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 89,
-    "time": "2025-09-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 246,
-    "time": "2025-09-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 82,
-    "time": "2025-09-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swellchain",
-    "blobs": 50,
-    "time": "2025-09-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 8166,
-    "time": "2025-09-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Unichain",
-    "blobs": 783,
-    "time": "2025-09-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 55,
-    "time": "2025-09-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERO Network",
-    "blobs": 32,
-    "time": "2025-09-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 6,
-    "time": "2025-09-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 359,
-    "time": "2025-09-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 20,
     "time": "2025-09-19 00:00:00.000 UTC"
   },
   {
@@ -125,11 +100,6 @@
     "time": "2025-09-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 14703,
-    "time": "2025-09-19 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arena-Z",
     "blobs": 6,
     "time": "2025-09-19 00:00:00.000 UTC"
@@ -140,53 +110,58 @@
     "time": "2025-09-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lighter",
-    "blobs": 658,
+    "blob_submitter": "Camp Network",
+    "blobs": 23,
     "time": "2025-09-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mantle",
-    "blobs": 4,
+    "blob_submitter": "Base",
+    "blobs": 14703,
     "time": "2025-09-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metis",
-    "blobs": 66,
+    "blob_submitter": "Debank Chain",
+    "blobs": 20,
     "time": "2025-09-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
+    "blob_submitter": "Phala Network",
     "blobs": 16,
     "time": "2025-09-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Soneium",
-    "blobs": 1185,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1386,
     "time": "2025-09-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 22,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2529,
     "time": "2025-09-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 10,
+    "blob_submitter": "Mint",
+    "blobs": 16,
     "time": "2025-09-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Abstract",
-    "blobs": 385,
+    "blob_submitter": "Metal",
+    "blobs": 359,
     "time": "2025-09-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 341,
+    "blob_submitter": "Lisk",
+    "blobs": 89,
     "time": "2025-09-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
+    "blob_submitter": "StarkNet",
+    "blobs": 246,
+    "time": "2025-09-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 82,
     "time": "2025-09-19 00:00:00.000 UTC"
   }
 ]
