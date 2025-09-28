@@ -1,67 +1,87 @@
 [
   {
-    "blob_submitter": "Metal",
-    "blobs": 357,
+    "blob_submitter": "World Chain",
+    "blobs": 4563,
     "time": "2025-05-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 33,
+    "blob_submitter": "Linea",
+    "blobs": 81,
     "time": "2025-05-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 25,
+    "blob_submitter": "Binary",
+    "blobs": 4,
     "time": "2025-05-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Fuel",
+    "blob_submitter": "Polynomial",
     "blobs": 36,
     "time": "2025-05-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2736,
+    "blob_submitter": "SNAXchain",
+    "blobs": 16,
     "time": "2025-05-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 85,
+    "blob_submitter": "Metis",
+    "blobs": 56,
     "time": "2025-05-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
+    "blob_submitter": "Abstract",
+    "blobs": 785,
     "time": "2025-05-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 25,
+    "blob_submitter": "Lighter",
+    "blobs": 95,
     "time": "2025-05-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Infinaeon",
+    "blob_submitter": "R0AR Chain",
     "blobs": 10,
     "time": "2025-05-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 2034,
+    "blob_submitter": "Settlus",
+    "blobs": 16,
     "time": "2025-05-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swellchain",
-    "blobs": 223,
+    "blob_submitter": "Blast",
+    "blobs": 414,
     "time": "2025-05-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Unichain",
-    "blobs": 822,
+    "blob_submitter": "ZORA",
+    "blobs": 16,
     "time": "2025-05-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 31,
+    "blob_submitter": "Shape",
+    "blobs": 150,
+    "time": "2025-05-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Morph",
+    "blobs": 72,
+    "time": "2025-05-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
+    "time": "2025-05-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Phala Network",
+    "blobs": 16,
+    "time": "2025-05-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERO Network",
+    "blobs": 3,
     "time": "2025-05-30 00:00:00.000 UTC"
   },
   {
@@ -95,18 +115,18 @@
     "time": "2025-05-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Phala Network",
-    "blobs": 16,
+    "blob_submitter": "Paradex",
+    "blobs": 31,
     "time": "2025-05-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZERO Network",
-    "blobs": 3,
+    "blob_submitter": "Swellchain",
+    "blobs": 223,
     "time": "2025-05-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
+    "blob_submitter": "Unichain",
+    "blobs": 822,
     "time": "2025-05-30 00:00:00.000 UTC"
   },
   {
@@ -125,13 +145,13 @@
     "time": "2025-05-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 117,
+    "blob_submitter": "Zircuit",
+    "blobs": 96,
     "time": "2025-05-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 96,
+    "blob_submitter": "Others",
+    "blobs": 117,
     "time": "2025-05-30 00:00:00.000 UTC"
   },
   {
@@ -140,8 +160,8 @@
     "time": "2025-05-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Katana",
-    "blobs": 16,
+    "blob_submitter": "Mantle",
+    "blobs": 4,
     "time": "2025-05-30 00:00:00.000 UTC"
   },
   {
@@ -150,8 +170,8 @@
     "time": "2025-05-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mantle",
-    "blobs": 4,
+    "blob_submitter": "Katana",
+    "blobs": 16,
     "time": "2025-05-30 00:00:00.000 UTC"
   },
   {
@@ -172,16 +192,6 @@
   {
     "blob_submitter": "pegglecoin",
     "blobs": 26,
-    "time": "2025-05-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 75,
-    "time": "2025-05-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "HashKey",
-    "blobs": 37,
     "time": "2025-05-30 00:00:00.000 UTC"
   }
 ]

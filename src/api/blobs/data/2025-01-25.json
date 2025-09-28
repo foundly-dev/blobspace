@@ -1,72 +1,77 @@
 [
   {
-    "blob_submitter": "Mode",
-    "blobs": 48,
+    "blob_submitter": "Linea",
+    "blobs": 173,
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Fuel",
-    "blobs": 71,
+    "blob_submitter": "Abstract",
+    "blobs": 40,
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 25,
+    "blob_submitter": "Morph",
+    "blobs": 102,
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
+    "blob_submitter": "SNAXchain",
+    "blobs": 17,
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2085,
+    "blob_submitter": "Lighter",
+    "blobs": 17,
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Infinaeon",
-    "blobs": 8,
+    "blob_submitter": "Kinto",
+    "blobs": 6,
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Unichain",
-    "blobs": 24,
+    "blob_submitter": "River",
+    "blobs": 57,
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 100,
+    "blob_submitter": "World Chain",
+    "blobs": 2838,
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 144,
+    "blob_submitter": "Mint",
+    "blobs": 272,
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 26,
+    "blob_submitter": "pegglecoin",
+    "blobs": 12,
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 68,
+    "blob_submitter": "Polynomial",
+    "blobs": 18,
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Hemi",
-    "blobs": 7,
+    "blob_submitter": "Shape",
+    "blobs": 44,
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ink",
-    "blobs": 122,
+    "blob_submitter": "Blast",
+    "blobs": 498,
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Camp Network",
-    "blobs": 29,
+    "blob_submitter": "HashKey",
+    "blobs": 59,
+    "time": "2025-01-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 9185,
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
@@ -95,23 +100,48 @@
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Camp Network",
+    "blobs": 29,
+    "time": "2025-01-25 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Swell",
     "blobs": 25,
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 9185,
+    "blob_submitter": "Kroma",
+    "blobs": 144,
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 42,
+    "blob_submitter": "Debank Chain",
+    "blobs": 26,
+    "time": "2025-01-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 68,
+    "time": "2025-01-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 7,
+    "time": "2025-01-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ink",
+    "blobs": 122,
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Optopia",
     "blobs": 7,
+    "time": "2025-01-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 42,
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
@@ -145,6 +175,11 @@
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2025-01-25 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Taiko",
     "blobs": 2898,
     "time": "2025-01-25 00:00:00.000 UTC"
@@ -155,13 +190,8 @@
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
-    "time": "2025-01-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 15,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 760,
     "time": "2025-01-25 00:00:00.000 UTC"
   }
 ]

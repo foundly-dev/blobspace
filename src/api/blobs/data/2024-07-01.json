@@ -1,27 +1,52 @@
 [
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2544,
+    "blob_submitter": "Linea",
+    "blobs": 391,
     "time": "2024-07-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
+    "blob_submitter": "Polynomial",
+    "blobs": 18,
     "time": "2024-07-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 97,
+    "blob_submitter": "Parallel",
+    "blobs": 5,
     "time": "2024-07-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 214,
+    "blob_submitter": "Blast",
+    "blobs": 781,
     "time": "2024-07-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 167,
+    "blob_submitter": "Binary",
+    "blobs": 25,
+    "time": "2024-07-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 127,
+    "time": "2024-07-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 5,
+    "time": "2024-07-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
+    "time": "2024-07-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 134,
+    "time": "2024-07-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 14,
     "time": "2024-07-01 00:00:00.000 UTC"
   },
   {
@@ -45,18 +70,8 @@
     "time": "2024-07-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
-    "time": "2024-07-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 134,
-    "time": "2024-07-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
+    "blob_submitter": "Kroma",
+    "blobs": 167,
     "time": "2024-07-01 00:00:00.000 UTC"
   },
   {
@@ -90,8 +105,8 @@
     "time": "2024-07-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 3729,
+    "blob_submitter": "Paradex",
+    "blobs": 325,
     "time": "2024-07-01 00:00:00.000 UTC"
   },
   {
@@ -100,18 +115,13 @@
     "time": "2024-07-01 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Taiko",
+    "blobs": 3729,
+    "time": "2024-07-01 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lumio",
     "blobs": 18,
-    "time": "2024-07-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 325,
-    "time": "2024-07-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 49,
     "time": "2024-07-01 00:00:00.000 UTC"
   }
 ]
