@@ -1,22 +1,12 @@
 [
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 10,
-    "time": "2024-06-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 104,
-    "time": "2024-06-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "BOB Network",
-    "blobs": 22,
-    "time": "2024-06-20 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Blast",
     "blobs": 1466,
+    "time": "2024-06-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 10,
     "time": "2024-06-20 00:00:00.000 UTC"
   },
   {
@@ -35,6 +25,11 @@
     "time": "2024-06-20 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Swan Chain",
+    "blobs": 12,
+    "time": "2024-06-20 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lumio",
     "blobs": 11,
     "time": "2024-06-20 00:00:00.000 UTC"
@@ -50,8 +45,13 @@
     "time": "2024-06-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 12,
+    "blob_submitter": "Others",
+    "blobs": 104,
+    "time": "2024-06-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "BOB Network",
+    "blobs": 22,
     "time": "2024-06-20 00:00:00.000 UTC"
   },
   {

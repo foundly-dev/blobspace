@@ -15,6 +15,26 @@
     "time": "2024-10-20 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Swan Chain",
+    "blobs": 140,
+    "time": "2024-10-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "BOB Network",
+    "blobs": 31,
+    "time": "2024-10-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 215,
+    "time": "2024-10-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 54,
+    "time": "2024-10-20 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Arbitrum One",
     "blobs": 2262,
     "time": "2024-10-20 00:00:00.000 UTC"
@@ -45,13 +65,18 @@
     "time": "2024-10-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 66,
+    "blob_submitter": "Mode",
+    "blobs": 54,
     "time": "2024-10-20 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Zircuit",
     "blobs": 508,
+    "time": "2024-10-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 66,
     "time": "2024-10-20 00:00:00.000 UTC"
   },
   {
@@ -70,38 +95,8 @@
     "time": "2024-10-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 54,
-    "time": "2024-10-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 25,
-    "time": "2024-10-20 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Snaxchain",
     "blobs": 16,
-    "time": "2024-10-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 140,
-    "time": "2024-10-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "BOB Network",
-    "blobs": 31,
-    "time": "2024-10-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 215,
-    "time": "2024-10-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 54,
     "time": "2024-10-20 00:00:00.000 UTC"
   },
   {
@@ -117,11 +112,6 @@
   {
     "blob_submitter": "Lisk",
     "blobs": 5,
-    "time": "2024-10-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 527,
     "time": "2024-10-20 00:00:00.000 UTC"
   },
   {
@@ -156,6 +146,16 @@
   },
   {
     "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2024-10-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 2170,
+    "time": "2024-10-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
     "blobs": 16,
     "time": "2024-10-20 00:00:00.000 UTC"
   }

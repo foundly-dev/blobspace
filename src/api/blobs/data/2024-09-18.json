@@ -5,6 +5,31 @@
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "StarkNet",
+    "blobs": 110,
+    "time": "2024-09-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 25,
+    "time": "2024-09-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 164,
+    "time": "2024-09-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
+    "time": "2024-09-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 6,
+    "time": "2024-09-18 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Zircuit",
     "blobs": 499,
     "time": "2024-09-18 00:00:00.000 UTC"
@@ -25,13 +50,13 @@
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 612,
+    "blob_submitter": "Mode",
+    "blobs": 107,
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 107,
+    "blob_submitter": "Blast",
+    "blobs": 612,
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
@@ -40,13 +65,18 @@
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Base",
+    "blobs": 4895,
+    "time": "2024-09-18 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Debank Chain",
     "blobs": 25,
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 4895,
+    "blob_submitter": "ZORA",
+    "blobs": 87,
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
@@ -57,36 +87,6 @@
   {
     "blob_submitter": "Shape",
     "blobs": 14,
-    "time": "2024-09-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 87,
-    "time": "2024-09-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 25,
-    "time": "2024-09-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 110,
-    "time": "2024-09-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 164,
-    "time": "2024-09-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 16,
-    "time": "2024-09-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
     "time": "2024-09-18 00:00:00.000 UTC"
   },
   {
@@ -157,6 +157,11 @@
   {
     "blob_submitter": "World Chain",
     "blobs": 117,
+    "time": "2024-09-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 14,
     "time": "2024-09-18 00:00:00.000 UTC"
   }
 ]

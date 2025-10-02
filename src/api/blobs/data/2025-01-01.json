@@ -1,35 +1,5 @@
 [
   {
-    "blob_submitter": "ZERϴ Network",
-    "blobs": 3,
-    "time": "2025-01-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "BOB Network",
-    "blobs": 31,
-    "time": "2025-01-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 8,
-    "time": "2025-01-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 24,
-    "time": "2025-01-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "pegglecoin",
-    "blobs": 12,
-    "time": "2025-01-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 29,
-    "time": "2025-01-01 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Taiko",
     "blobs": 2307,
     "time": "2025-01-01 00:00:00.000 UTC"
@@ -75,6 +45,11 @@
     "time": "2025-01-01 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Phala Network",
+    "blobs": 76,
+    "time": "2025-01-01 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Swan Chain",
     "blobs": 8,
     "time": "2025-01-01 00:00:00.000 UTC"
@@ -90,11 +65,6 @@
     "time": "2025-01-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
-    "time": "2025-01-01 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Swell",
     "blobs": 25,
     "time": "2025-01-01 00:00:00.000 UTC"
@@ -105,8 +75,33 @@
     "time": "2025-01-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Phala Network",
-    "blobs": 76,
+    "blob_submitter": "ZERϴ Network",
+    "blobs": 3,
+    "time": "2025-01-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "BOB Network",
+    "blobs": 31,
+    "time": "2025-01-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 24,
+    "time": "2025-01-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Soneium",
+    "blobs": 8,
+    "time": "2025-01-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "pegglecoin",
+    "blobs": 12,
+    "time": "2025-01-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
     "time": "2025-01-01 00:00:00.000 UTC"
   },
   {
@@ -117,11 +112,6 @@
   {
     "blob_submitter": "Mode",
     "blobs": 52,
-    "time": "2025-01-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 358,
     "time": "2025-01-01 00:00:00.000 UTC"
   },
   {
@@ -137,6 +127,16 @@
   {
     "blob_submitter": "Abstract",
     "blobs": 3,
+    "time": "2025-01-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 71,
+    "time": "2025-01-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Fuel",
+    "blobs": 115,
     "time": "2025-01-01 00:00:00.000 UTC"
   }
 ]

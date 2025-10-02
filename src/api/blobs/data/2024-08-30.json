@@ -5,31 +5,6 @@
     "time": "2024-08-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 4840,
-    "time": "2024-08-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 139,
-    "time": "2024-08-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 15,
-    "time": "2024-08-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 25,
-    "time": "2024-08-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 9,
-    "time": "2024-08-30 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Mode",
     "blobs": 86,
     "time": "2024-08-30 00:00:00.000 UTC"
@@ -45,11 +20,6 @@
     "time": "2024-08-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1005,
-    "time": "2024-08-30 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arbitrum One",
     "blobs": 2061,
     "time": "2024-08-30 00:00:00.000 UTC"
@@ -57,6 +27,11 @@
   {
     "blob_submitter": "Boba Network",
     "blobs": 48,
+    "time": "2024-08-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1005,
     "time": "2024-08-30 00:00:00.000 UTC"
   },
   {
@@ -85,6 +60,31 @@
     "time": "2024-08-30 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Base",
+    "blobs": 4840,
+    "time": "2024-08-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 139,
+    "time": "2024-08-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 15,
+    "time": "2024-08-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 25,
+    "time": "2024-08-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 9,
+    "time": "2024-08-30 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Ethernity",
     "blobs": 4,
     "time": "2024-08-30 00:00:00.000 UTC"
@@ -102,6 +102,16 @@
   {
     "blob_submitter": "StarkNet",
     "blobs": 183,
+    "time": "2024-08-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
+    "blobs": 76,
+    "time": "2024-08-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 140,
     "time": "2024-08-30 00:00:00.000 UTC"
   }
 ]

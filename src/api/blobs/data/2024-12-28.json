@@ -1,50 +1,5 @@
 [
   {
-    "blob_submitter": "Nal",
-    "blobs": 25,
-    "time": "2024-12-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 73,
-    "time": "2024-12-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
-    "time": "2024-12-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2001,
-    "time": "2024-12-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 294,
-    "time": "2024-12-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 48,
-    "time": "2024-12-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Abstract",
-    "blobs": 3,
-    "time": "2024-12-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 25,
-    "time": "2024-12-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Unichain",
-    "blobs": 25,
-    "time": "2024-12-28 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Ethernity",
     "blobs": 5,
     "time": "2024-12-28 00:00:00.000 UTC"
@@ -72,6 +27,16 @@
   {
     "blob_submitter": "Mode",
     "blobs": 42,
+    "time": "2024-12-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Fuel",
+    "blobs": 135,
+    "time": "2024-12-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 27,
     "time": "2024-12-28 00:00:00.000 UTC"
   },
   {
@@ -110,18 +75,48 @@
     "time": "2024-12-28 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Nal",
+    "blobs": 25,
+    "time": "2024-12-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 73,
+    "time": "2024-12-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 6,
+    "time": "2024-12-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 25,
+    "time": "2024-12-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Unichain",
+    "blobs": 25,
+    "time": "2024-12-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2001,
+    "time": "2024-12-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 294,
+    "time": "2024-12-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 48,
+    "time": "2024-12-28 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "ZORA",
     "blobs": 45,
-    "time": "2024-12-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Fuel",
-    "blobs": 135,
-    "time": "2024-12-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 27,
     "time": "2024-12-28 00:00:00.000 UTC"
   },
   {
@@ -152,6 +147,11 @@
   {
     "blob_submitter": "Polynomial",
     "blobs": 21,
+    "time": "2024-12-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 71,
     "time": "2024-12-28 00:00:00.000 UTC"
   }
 ]
