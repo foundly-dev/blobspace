@@ -1,52 +1,27 @@
 [
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 19,
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
+    "blob_submitter": "Others",
+    "blobs": 148,
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 24,
+    "blob_submitter": "ZERϴ Network",
+    "blobs": 4,
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Katana",
-    "blobs": 209,
+    "blob_submitter": "Snaxchain",
+    "blobs": 16,
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ink",
-    "blobs": 456,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lighter",
-    "blobs": 296,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 312,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 11624,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
-    "blobs": 131,
+    "blob_submitter": "Phala Network",
+    "blobs": 16,
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
@@ -55,38 +30,13 @@
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Soneium",
-    "blobs": 860,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 18,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Codex",
-    "blobs": 102,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 226,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 97,
+    "blob_submitter": "Taiko",
+    "blobs": 472,
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Linea",
     "blobs": 191,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 472,
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
@@ -105,13 +55,8 @@
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 73,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "pegglecoin",
-    "blobs": 24,
+    "blob_submitter": "World Chain",
+    "blobs": 5724,
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
@@ -120,13 +65,13 @@
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1608,
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1608,
+    "blob_submitter": "Superseed",
+    "blobs": 16,
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
@@ -135,8 +80,8 @@
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 5724,
+    "blob_submitter": "Lisk",
+    "blobs": 73,
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
@@ -160,23 +105,38 @@
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Mint",
+    "blobs": 19,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metis",
+    "blobs": 62,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 29,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Shape",
     "blobs": 510,
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Morph",
-    "blobs": 554,
+    "blob_submitter": "Mode",
+    "blobs": 126,
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 376,
+    "blob_submitter": "Settlus",
+    "blobs": 16,
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arena-Z",
-    "blobs": 7,
+    "blob_submitter": "Abstract",
+    "blobs": 484,
     "time": "2025-08-19 00:00:00.000 UTC"
   }
 ]
