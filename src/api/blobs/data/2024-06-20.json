@@ -10,13 +10,48 @@
     "time": "2024-06-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 5840,
+    "blob_submitter": "Parallel",
+    "blobs": 42,
     "time": "2024-06-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 69,
+    "blob_submitter": "Mint",
+    "blobs": 11,
+    "time": "2024-06-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 3,
+    "time": "2024-06-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 253,
+    "time": "2024-06-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 4725,
+    "time": "2024-06-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 397,
+    "time": "2024-06-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 47,
+    "time": "2024-06-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 1466,
+    "time": "2024-06-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 5840,
     "time": "2024-06-20 00:00:00.000 UTC"
   },
   {
@@ -40,6 +75,11 @@
     "time": "2024-06-20 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Optopia",
+    "blobs": 69,
+    "time": "2024-06-20 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Scroll",
     "blobs": 1407,
     "time": "2024-06-20 00:00:00.000 UTC"
@@ -50,53 +90,23 @@
     "time": "2024-06-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 47,
+    "blob_submitter": "River",
+    "blobs": 182,
     "time": "2024-06-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 397,
+    "blob_submitter": "Taiko",
+    "blobs": 2836,
     "time": "2024-06-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 42,
-    "time": "2024-06-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 253,
-    "time": "2024-06-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 4725,
-    "time": "2024-06-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 10,
-    "time": "2024-06-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
+    "blob_submitter": "Lumio",
     "blobs": 11,
     "time": "2024-06-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 3,
-    "time": "2024-06-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 104,
-    "time": "2024-06-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "BOB Network",
-    "blobs": 22,
+    "blob_submitter": "Linea",
+    "blobs": 163,
     "time": "2024-06-20 00:00:00.000 UTC"
   }
 ]
