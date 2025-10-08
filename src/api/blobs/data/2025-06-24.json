@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "Lighter",
-    "blobs": 135,
-    "time": "2025-06-24 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Base",
     "blobs": 10419,
     "time": "2025-06-24 00:00:00.000 UTC"
@@ -20,76 +15,6 @@
     "time": "2025-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Unichain",
-    "blobs": 1051,
-    "time": "2025-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2601,
-    "time": "2025-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 53,
-    "time": "2025-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 23,
-    "time": "2025-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 10,
-    "time": "2025-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 362,
-    "time": "2025-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 55,
-    "time": "2025-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Abstract",
-    "blobs": 455,
-    "time": "2025-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Codex",
-    "blobs": 50,
-    "time": "2025-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 114,
-    "time": "2025-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metis",
-    "blobs": 66,
-    "time": "2025-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swellchain",
-    "blobs": 46,
-    "time": "2025-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Settlus",
-    "blobs": 16,
-    "time": "2025-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
-    "time": "2025-06-24 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Zircuit",
     "blobs": 95,
     "time": "2025-06-24 00:00:00.000 UTC"
@@ -100,16 +25,6 @@
     "time": "2025-06-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 16,
-    "time": "2025-06-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 21,
-    "time": "2025-06-24 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Hemi",
     "blobs": 463,
     "time": "2025-06-24 00:00:00.000 UTC"
@@ -117,6 +32,16 @@
   {
     "blob_submitter": "Katana",
     "blobs": 16,
+    "time": "2025-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 16,
+    "time": "2025-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 21,
     "time": "2025-06-24 00:00:00.000 UTC"
   },
   {
@@ -142,6 +67,81 @@
   {
     "blob_submitter": "Ethernity",
     "blobs": 5,
+    "time": "2025-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Codex",
+    "blobs": 50,
+    "time": "2025-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 114,
+    "time": "2025-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metis",
+    "blobs": 66,
+    "time": "2025-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swellchain",
+    "blobs": 46,
+    "time": "2025-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2601,
+    "time": "2025-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 53,
+    "time": "2025-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lighter",
+    "blobs": 135,
+    "time": "2025-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Unichain",
+    "blobs": 1051,
+    "time": "2025-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "R0AR Chain",
+    "blobs": 10,
+    "time": "2025-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 23,
+    "time": "2025-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Abstract",
+    "blobs": 455,
+    "time": "2025-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 8,
+    "time": "2025-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 55,
+    "time": "2025-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 362,
+    "time": "2025-06-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Settlus",
+    "blobs": 16,
     "time": "2025-06-24 00:00:00.000 UTC"
   },
   {

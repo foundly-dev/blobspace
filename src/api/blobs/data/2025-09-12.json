@@ -5,66 +5,6 @@
     "time": "2025-09-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Soneium",
-    "blobs": 1005,
-    "time": "2025-09-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 924,
-    "time": "2025-09-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ink",
-    "blobs": 396,
-    "time": "2025-09-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "pegglecoin",
-    "blobs": 19,
-    "time": "2025-09-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 25,
-    "time": "2025-09-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mantle",
-    "blobs": 1,
-    "time": "2025-09-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Infinaeon",
-    "blobs": 10,
-    "time": "2025-09-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERϴ Network",
-    "blobs": 11,
-    "time": "2025-09-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "BOB Network",
-    "blobs": 16,
-    "time": "2025-09-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 465,
-    "time": "2025-09-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "HashKey",
-    "blobs": 34,
-    "time": "2025-09-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lighter",
-    "blobs": 649,
-    "time": "2025-09-12 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Unichain",
     "blobs": 861,
     "time": "2025-09-12 00:00:00.000 UTC"
@@ -80,8 +20,23 @@
     "time": "2025-09-12 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Debank Chain",
+    "blobs": 23,
+    "time": "2025-09-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 79,
+    "time": "2025-09-12 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Mode",
     "blobs": 123,
+    "time": "2025-09-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERϴ Network",
+    "blobs": 11,
     "time": "2025-09-12 00:00:00.000 UTC"
   },
   {
@@ -92,11 +47,6 @@
   {
     "blob_submitter": "Scroll",
     "blobs": 660,
-    "time": "2025-09-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
     "time": "2025-09-12 00:00:00.000 UTC"
   },
   {
@@ -115,13 +65,18 @@
     "time": "2025-09-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 23,
+    "blob_submitter": "Katana",
+    "blobs": 207,
     "time": "2025-09-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 79,
+    "blob_submitter": "ZORA",
+    "blobs": 17,
+    "time": "2025-09-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
     "time": "2025-09-12 00:00:00.000 UTC"
   },
   {
@@ -130,13 +85,53 @@
     "time": "2025-09-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Katana",
-    "blobs": 207,
+    "blob_submitter": "BOB Network",
+    "blobs": 16,
     "time": "2025-09-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 17,
+    "blob_submitter": "Others",
+    "blobs": 924,
+    "time": "2025-09-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Soneium",
+    "blobs": 1005,
+    "time": "2025-09-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ink",
+    "blobs": 396,
+    "time": "2025-09-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "pegglecoin",
+    "blobs": 19,
+    "time": "2025-09-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 25,
+    "time": "2025-09-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Infinaeon",
+    "blobs": 10,
+    "time": "2025-09-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mantle",
+    "blobs": 1,
+    "time": "2025-09-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 465,
+    "time": "2025-09-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "HashKey",
+    "blobs": 34,
     "time": "2025-09-12 00:00:00.000 UTC"
   },
   {
@@ -152,6 +147,21 @@
   {
     "blob_submitter": "Snaxchain",
     "blobs": 9,
+    "time": "2025-09-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 7974,
+    "time": "2025-09-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Morph",
+    "blobs": 83,
+    "time": "2025-09-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
     "time": "2025-09-12 00:00:00.000 UTC"
   },
   {

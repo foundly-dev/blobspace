@@ -1,7 +1,7 @@
 [
   {
-    "blob_submitter": "Binary",
-    "blobs": 846,
+    "blob_submitter": "Snaxchain",
+    "blobs": 16,
     "time": "2024-10-05 00:00:00.000 UTC"
   },
   {
@@ -10,8 +10,63 @@
     "time": "2024-10-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Snaxchain",
+    "blob_submitter": "Mint",
+    "blobs": 100,
+    "time": "2024-10-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 10,
+    "time": "2024-10-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 15,
+    "time": "2024-10-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
     "blobs": 16,
+    "time": "2024-10-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 478,
+    "time": "2024-10-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2024-10-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 52,
+    "time": "2024-10-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 208,
+    "time": "2024-10-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 2819,
+    "time": "2024-10-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 516,
+    "time": "2024-10-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 320,
+    "time": "2024-10-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 846,
     "time": "2024-10-05 00:00:00.000 UTC"
   },
   {
@@ -30,18 +85,13 @@
     "time": "2024-10-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 83,
-    "time": "2024-10-05 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Hemi",
     "blobs": 59,
     "time": "2024-10-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 478,
+    "blob_submitter": "ZORA",
+    "blobs": 83,
     "time": "2024-10-05 00:00:00.000 UTC"
   },
   {
@@ -75,56 +125,6 @@
     "time": "2024-10-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 100,
-    "time": "2024-10-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 10,
-    "time": "2024-10-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2024-10-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
-    "time": "2024-10-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 52,
-    "time": "2024-10-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 208,
-    "time": "2024-10-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 15,
-    "time": "2024-10-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 2819,
-    "time": "2024-10-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 516,
-    "time": "2024-10-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 320,
-    "time": "2024-10-05 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "XGA",
     "blobs": 77,
     "time": "2024-10-05 00:00:00.000 UTC"
@@ -135,23 +135,23 @@
     "time": "2024-10-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 61,
-    "time": "2024-10-05 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Lambda",
     "blobs": 14,
     "time": "2024-10-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 76,
+    "blob_submitter": "Mode",
+    "blobs": 61,
     "time": "2024-10-05 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Arbitrum One",
     "blobs": 1710,
+    "time": "2024-10-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 76,
     "time": "2024-10-05 00:00:00.000 UTC"
   }
 ]

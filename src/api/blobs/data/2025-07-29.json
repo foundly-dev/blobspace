@@ -1,77 +1,12 @@
 [
   {
-    "blob_submitter": "World Chain",
-    "blobs": 6114,
-    "time": "2025-07-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 147,
-    "time": "2025-07-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "pegglecoin",
-    "blobs": 24,
-    "time": "2025-07-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 356,
-    "time": "2025-07-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 26,
-    "time": "2025-07-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
-    "time": "2025-07-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Infinaeon",
-    "blobs": 10,
-    "time": "2025-07-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1902,
-    "time": "2025-07-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "BOB Network",
-    "blobs": 16,
-    "time": "2025-07-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Katana",
-    "blobs": 207,
-    "time": "2025-07-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
-    "time": "2025-07-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Morph",
-    "blobs": 542,
-    "time": "2025-07-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 368,
+    "blob_submitter": "Others",
+    "blobs": 679,
     "time": "2025-07-29 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Taiko",
     "blobs": 1694,
-    "time": "2025-07-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 679,
     "time": "2025-07-29 00:00:00.000 UTC"
   },
   {
@@ -100,13 +35,68 @@
     "time": "2025-07-29 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Snaxchain",
+    "blobs": 16,
+    "time": "2025-07-29 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Phala Network",
     "blobs": 16,
     "time": "2025-07-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Snaxchain",
+    "blob_submitter": "pegglecoin",
+    "blobs": 24,
+    "time": "2025-07-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 6114,
+    "time": "2025-07-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 147,
+    "time": "2025-07-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1902,
+    "time": "2025-07-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "BOB Network",
     "blobs": 16,
+    "time": "2025-07-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 356,
+    "time": "2025-07-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 26,
+    "time": "2025-07-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2025-07-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Infinaeon",
+    "blobs": 10,
+    "time": "2025-07-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Katana",
+    "blobs": 207,
+    "time": "2025-07-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 8,
     "time": "2025-07-29 00:00:00.000 UTC"
   },
   {
@@ -132,6 +122,11 @@
   {
     "blob_submitter": "Ethernity",
     "blobs": 5,
+    "time": "2025-07-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 19,
     "time": "2025-07-29 00:00:00.000 UTC"
   },
   {

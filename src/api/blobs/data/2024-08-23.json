@@ -1,12 +1,27 @@
 [
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1625,
+    "blob_submitter": "Others",
+    "blobs": 139,
+    "time": "2024-08-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 5,
+    "time": "2024-08-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 15,
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Polynomial",
     "blobs": 17,
+    "time": "2024-08-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1625,
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
@@ -30,11 +45,6 @@
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 245,
-    "time": "2024-08-23 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "River",
     "blobs": 222,
     "time": "2024-08-23 00:00:00.000 UTC"
@@ -50,8 +60,13 @@
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
+    "blob_submitter": "Lambda",
+    "blobs": 15,
+    "time": "2024-08-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 245,
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
@@ -60,28 +75,13 @@
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 15,
-    "time": "2024-08-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 139,
-    "time": "2024-08-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 15,
+    "blob_submitter": "ZORA",
+    "blobs": 93,
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Nal",
     "blobs": 49,
-    "time": "2024-08-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 93,
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
@@ -100,13 +100,13 @@
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 6,
+    "blob_submitter": "Binary",
+    "blobs": 24,
     "time": "2024-08-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
-    "blobs": 24,
+    "blob_submitter": "Inscriptions",
+    "blobs": 6,
     "time": "2024-08-23 00:00:00.000 UTC"
   }
 ]

@@ -1,87 +1,7 @@
 [
   {
-    "blob_submitter": "Taiko",
-    "blobs": 5183,
-    "time": "2025-03-08 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Shape",
     "blobs": 29,
-    "time": "2025-03-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 2265,
-    "time": "2025-03-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Settlus",
-    "blobs": 16,
-    "time": "2025-03-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 32,
-    "time": "2025-03-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lighter",
-    "blobs": 62,
-    "time": "2025-03-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 29,
-    "time": "2025-03-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 53,
-    "time": "2025-03-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Unichain",
-    "blobs": 255,
-    "time": "2025-03-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Phala Network",
-    "blobs": 17,
-    "time": "2025-03-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Abstract",
-    "blobs": 290,
-    "time": "2025-03-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1911,
-    "time": "2025-03-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
-    "time": "2025-03-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 92,
-    "time": "2025-03-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 358,
-    "time": "2025-03-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 80,
-    "time": "2025-03-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 685,
     "time": "2025-03-08 00:00:00.000 UTC"
   },
   {
@@ -105,11 +25,6 @@
     "time": "2025-03-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 25,
-    "time": "2025-03-08 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Blast",
     "blobs": 300,
     "time": "2025-03-08 00:00:00.000 UTC"
@@ -120,6 +35,11 @@
     "time": "2025-03-08 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Boba Network",
+    "blobs": 25,
+    "time": "2025-03-08 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "HashKey",
     "blobs": 87,
     "time": "2025-03-08 00:00:00.000 UTC"
@@ -127,6 +47,86 @@
   {
     "blob_submitter": "Others",
     "blobs": 108,
+    "time": "2025-03-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1911,
+    "time": "2025-03-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 8,
+    "time": "2025-03-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 92,
+    "time": "2025-03-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Settlus",
+    "blobs": 16,
+    "time": "2025-03-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 32,
+    "time": "2025-03-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 5183,
+    "time": "2025-03-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 2265,
+    "time": "2025-03-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lighter",
+    "blobs": 62,
+    "time": "2025-03-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 29,
+    "time": "2025-03-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 53,
+    "time": "2025-03-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Unichain",
+    "blobs": 255,
+    "time": "2025-03-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Abstract",
+    "blobs": 290,
+    "time": "2025-03-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 80,
+    "time": "2025-03-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Phala Network",
+    "blobs": 17,
+    "time": "2025-03-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 358,
+    "time": "2025-03-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 685,
     "time": "2025-03-08 00:00:00.000 UTC"
   },
   {

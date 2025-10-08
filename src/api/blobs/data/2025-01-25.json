@@ -1,52 +1,17 @@
 [
   {
-    "blob_submitter": "Nal",
-    "blobs": 25,
+    "blob_submitter": "Linea",
+    "blobs": 173,
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 357,
+    "blob_submitter": "Abstract",
+    "blobs": 40,
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 364,
-    "time": "2025-01-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2025-01-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 17,
-    "time": "2025-01-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
-    "time": "2025-01-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 15,
-    "time": "2025-01-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 760,
-    "time": "2025-01-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 2898,
-    "time": "2025-01-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 84,
+    "blob_submitter": "River",
+    "blobs": 57,
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
@@ -57,31 +22,6 @@
   {
     "blob_submitter": "StarkNet",
     "blobs": 42,
-    "time": "2025-01-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Phala Network",
-    "blobs": 76,
-    "time": "2025-01-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 48,
-    "time": "2025-01-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 57,
-    "time": "2025-01-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 173,
-    "time": "2025-01-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Abstract",
-    "blobs": 40,
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
@@ -100,18 +40,8 @@
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 498,
-    "time": "2025-01-25 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Morph",
     "blobs": 102,
-    "time": "2025-01-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "HashKey",
-    "blobs": 59,
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
@@ -130,8 +60,78 @@
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "HashKey",
+    "blobs": 59,
+    "time": "2025-01-25 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Polynomial",
     "blobs": 18,
+    "time": "2025-01-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 498,
+    "time": "2025-01-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Phala Network",
+    "blobs": 76,
+    "time": "2025-01-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
+    "time": "2025-01-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 25,
+    "time": "2025-01-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 364,
+    "time": "2025-01-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 357,
+    "time": "2025-01-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 17,
+    "time": "2025-01-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2025-01-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 2898,
+    "time": "2025-01-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 84,
+    "time": "2025-01-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 760,
+    "time": "2025-01-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 15,
+    "time": "2025-01-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 48,
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {
@@ -147,6 +147,11 @@
   {
     "blob_submitter": "Arena-Z",
     "blobs": 5,
+    "time": "2025-01-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2085,
     "time": "2025-01-25 00:00:00.000 UTC"
   },
   {

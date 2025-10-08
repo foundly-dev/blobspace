@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "Codex",
-    "blobs": 49,
-    "time": "2025-07-07 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "OP Mainnet",
     "blobs": 2178,
     "time": "2025-07-07 00:00:00.000 UTC"
@@ -12,6 +7,76 @@
   {
     "blob_submitter": "Arena-Z",
     "blobs": 4,
+    "time": "2025-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 9906,
+    "time": "2025-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 36,
+    "time": "2025-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Katana",
+    "blobs": 67,
+    "time": "2025-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 86,
+    "time": "2025-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 8,
+    "time": "2025-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2286,
+    "time": "2025-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 26,
+    "time": "2025-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
+    "time": "2025-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 20,
+    "time": "2025-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 16,
+    "time": "2025-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 39,
+    "time": "2025-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 98,
+    "time": "2025-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 97,
+    "time": "2025-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Codex",
+    "blobs": 49,
     "time": "2025-07-07 00:00:00.000 UTC"
   },
   {
@@ -35,13 +100,18 @@
     "time": "2025-07-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 27,
+    "blob_submitter": "Swellchain",
+    "blobs": 36,
     "time": "2025-07-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 9,
+    "blob_submitter": "StarkNet",
+    "blobs": 138,
+    "time": "2025-07-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 362,
     "time": "2025-07-07 00:00:00.000 UTC"
   },
   {
@@ -55,83 +125,13 @@
     "time": "2025-07-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swellchain",
-    "blobs": 36,
+    "blob_submitter": "Paradex",
+    "blobs": 27,
     "time": "2025-07-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 138,
-    "time": "2025-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2286,
-    "time": "2025-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 362,
-    "time": "2025-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 9906,
-    "time": "2025-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 36,
-    "time": "2025-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
-    "blobs": 86,
-    "time": "2025-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Katana",
-    "blobs": 67,
-    "time": "2025-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
-    "time": "2025-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2025-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 26,
-    "time": "2025-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 20,
-    "time": "2025-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 98,
-    "time": "2025-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 16,
-    "time": "2025-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 97,
-    "time": "2025-07-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 39,
+    "blob_submitter": "R0AR Chain",
+    "blobs": 9,
     "time": "2025-07-07 00:00:00.000 UTC"
   },
   {

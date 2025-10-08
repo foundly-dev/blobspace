@@ -1,25 +1,5 @@
 [
   {
-    "blob_submitter": "Others",
-    "blobs": 133,
-    "time": "2024-06-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 225,
-    "time": "2024-06-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 4296,
-    "time": "2024-06-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
-    "time": "2024-06-03 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Linea",
     "blobs": 701,
     "time": "2024-06-03 00:00:00.000 UTC"
@@ -65,8 +45,28 @@
     "time": "2024-06-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
+    "blob_submitter": "Lambda",
+    "blobs": 14,
+    "time": "2024-06-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 133,
+    "time": "2024-06-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 4296,
+    "time": "2024-06-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 225,
+    "time": "2024-06-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 8,
     "time": "2024-06-03 00:00:00.000 UTC"
   },
   {
@@ -75,18 +75,23 @@
     "time": "2024-06-03 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-06-03 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "OP Mainnet",
     "blobs": 2005,
     "time": "2024-06-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 144,
+    "blob_submitter": "BOB Network",
+    "blobs": 42,
     "time": "2024-06-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "BOB Network",
-    "blobs": 42,
+    "blob_submitter": "Mode",
+    "blobs": 144,
     "time": "2024-06-03 00:00:00.000 UTC"
   }
 ]

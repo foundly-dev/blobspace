@@ -1,87 +1,7 @@
 [
   {
-    "blob_submitter": "Unichain",
-    "blobs": 245,
-    "time": "2025-03-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 359,
-    "time": "2025-03-16 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Fuel",
     "blobs": 44,
-    "time": "2025-03-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 24,
-    "time": "2025-03-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 2292,
-    "time": "2025-03-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 16,
-    "time": "2025-03-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
-    "time": "2025-03-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 690,
-    "time": "2025-03-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 25,
-    "time": "2025-03-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Phala Network",
-    "blobs": 17,
-    "time": "2025-03-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 50,
-    "time": "2025-03-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 5143,
-    "time": "2025-03-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1788,
-    "time": "2025-03-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 8,
-    "time": "2025-03-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 37,
-    "time": "2025-03-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 32,
-    "time": "2025-03-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 17,
     "time": "2025-03-16 00:00:00.000 UTC"
   },
   {
@@ -92,6 +12,16 @@
   {
     "blob_submitter": "BOB Network",
     "blobs": 33,
+    "time": "2025-03-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 17,
+    "time": "2025-03-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 89,
     "time": "2025-03-16 00:00:00.000 UTC"
   },
   {
@@ -120,13 +50,78 @@
     "time": "2025-03-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 89,
+    "blob_submitter": "Boba Network",
+    "blobs": 26,
     "time": "2025-03-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 26,
+    "blob_submitter": "Unichain",
+    "blobs": 245,
+    "time": "2025-03-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 359,
+    "time": "2025-03-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 24,
+    "time": "2025-03-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 2292,
+    "time": "2025-03-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 16,
+    "time": "2025-03-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 8,
+    "time": "2025-03-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Phala Network",
+    "blobs": 17,
+    "time": "2025-03-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 50,
+    "time": "2025-03-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 690,
+    "time": "2025-03-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 25,
+    "time": "2025-03-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 5143,
+    "time": "2025-03-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1788,
+    "time": "2025-03-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 8,
+    "time": "2025-03-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 37,
     "time": "2025-03-16 00:00:00.000 UTC"
   },
   {

@@ -1,40 +1,5 @@
 [
   {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
-    "time": "2024-05-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 8,
-    "time": "2024-05-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "BOB Network",
-    "blobs": 53,
-    "time": "2024-05-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1224,
-    "time": "2024-05-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 667,
-    "time": "2024-05-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 184,
-    "time": "2024-05-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 3927,
-    "time": "2024-05-31 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Inscriptions",
     "blobs": 21,
     "time": "2024-05-31 00:00:00.000 UTC"
@@ -52,6 +17,41 @@
   {
     "blob_submitter": "StarkNet",
     "blobs": 290,
+    "time": "2024-05-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 14,
+    "time": "2024-05-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 8,
+    "time": "2024-05-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "BOB Network",
+    "blobs": 53,
+    "time": "2024-05-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 184,
+    "time": "2024-05-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1224,
+    "time": "2024-05-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 667,
+    "time": "2024-05-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 3927,
     "time": "2024-05-31 00:00:00.000 UTC"
   },
   {

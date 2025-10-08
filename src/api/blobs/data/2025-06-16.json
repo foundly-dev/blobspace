@@ -5,41 +5,6 @@
     "time": "2025-06-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 24,
-    "time": "2025-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lighter",
-    "blobs": 135,
-    "time": "2025-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 174,
-    "time": "2025-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Codex",
-    "blobs": 49,
-    "time": "2025-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swellchain",
-    "blobs": 47,
-    "time": "2025-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 25,
-    "time": "2025-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "pegglecoin",
-    "blobs": 26,
-    "time": "2025-06-16 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Zircuit",
     "blobs": 98,
     "time": "2025-06-16 00:00:00.000 UTC"
@@ -55,38 +20,13 @@
     "time": "2025-06-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 4,
-    "time": "2025-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
-    "time": "2025-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
-    "time": "2025-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 361,
-    "time": "2025-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1921,
+    "blob_submitter": "Unichain",
+    "blobs": 1020,
     "time": "2025-06-16 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Arbitrum One",
     "blobs": 2706,
-    "time": "2025-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Unichain",
-    "blobs": 1020,
     "time": "2025-06-16 00:00:00.000 UTC"
   },
   {
@@ -100,6 +40,31 @@
     "time": "2025-06-16 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Ethernity",
+    "blobs": 4,
+    "time": "2025-06-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Codex",
+    "blobs": 49,
+    "time": "2025-06-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
+    "time": "2025-06-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 8,
+    "time": "2025-06-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 361,
+    "time": "2025-06-16 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Mode",
     "blobs": 119,
     "time": "2025-06-16 00:00:00.000 UTC"
@@ -110,8 +75,38 @@
     "time": "2025-06-16 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1921,
+    "time": "2025-06-16 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Base",
     "blobs": 14279,
+    "time": "2025-06-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swellchain",
+    "blobs": 47,
+    "time": "2025-06-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 24,
+    "time": "2025-06-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lighter",
+    "blobs": 135,
+    "time": "2025-06-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 25,
+    "time": "2025-06-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 174,
     "time": "2025-06-16 00:00:00.000 UTC"
   },
   {
@@ -165,13 +160,13 @@
     "time": "2025-06-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 57,
+    "blob_submitter": "Paradex",
+    "blobs": 25,
     "time": "2025-06-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 25,
+    "blob_submitter": "Mint",
+    "blobs": 57,
     "time": "2025-06-16 00:00:00.000 UTC"
   }
 ]

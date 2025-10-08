@@ -10,51 +10,6 @@
     "time": "2025-09-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "HashKey",
-    "blobs": 25,
-    "time": "2025-09-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 17,
-    "time": "2025-09-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2025-09-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Phala Network",
-    "blobs": 17,
-    "time": "2025-09-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 482,
-    "time": "2025-09-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 24,
-    "time": "2025-09-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 9,
-    "time": "2025-09-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1296,
-    "time": "2025-09-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 28,
-    "time": "2025-09-09 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Unichain",
     "blobs": 696,
     "time": "2025-09-09 00:00:00.000 UTC"
@@ -62,6 +17,11 @@
   {
     "blob_submitter": "Lisk",
     "blobs": 93,
+    "time": "2025-09-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swellchain",
+    "blobs": 50,
     "time": "2025-09-09 00:00:00.000 UTC"
   },
   {
@@ -85,23 +45,63 @@
     "time": "2025-09-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
-    "time": "2025-09-09 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Metal",
     "blobs": 360,
     "time": "2025-09-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swellchain",
-    "blobs": 50,
+    "blob_submitter": "Optopia",
+    "blobs": 8,
     "time": "2025-09-09 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Infinaeon",
     "blobs": 9,
+    "time": "2025-09-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1296,
+    "time": "2025-09-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "HashKey",
+    "blobs": 25,
+    "time": "2025-09-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 17,
+    "time": "2025-09-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
+    "time": "2025-09-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Phala Network",
+    "blobs": 17,
+    "time": "2025-09-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 9,
+    "time": "2025-09-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 28,
+    "time": "2025-09-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 482,
+    "time": "2025-09-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 24,
     "time": "2025-09-09 00:00:00.000 UTC"
   },
   {
@@ -117,6 +117,11 @@
   {
     "blob_submitter": "Snaxchain",
     "blobs": 10,
+    "time": "2025-09-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 88,
     "time": "2025-09-09 00:00:00.000 UTC"
   },
   {
