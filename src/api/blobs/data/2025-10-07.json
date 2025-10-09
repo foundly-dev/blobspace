@@ -5,11 +5,6 @@
     "time": "2025-10-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 10,
-    "time": "2025-10-07 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Boba Network",
     "blobs": 35,
     "time": "2025-10-07 00:00:00.000 UTC"
@@ -25,13 +20,18 @@
     "time": "2025-10-07 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
+    "time": "2025-10-07 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Phala Network",
     "blobs": 16,
     "time": "2025-10-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
+    "blob_submitter": "R0AR Chain",
+    "blobs": 10,
     "time": "2025-10-07 00:00:00.000 UTC"
   },
   {
@@ -75,6 +75,11 @@
     "time": "2025-10-07 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Morph",
+    "blobs": 38,
+    "time": "2025-10-07 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Blast",
     "blobs": 286,
     "time": "2025-10-07 00:00:00.000 UTC"
@@ -82,11 +87,6 @@
   {
     "blob_submitter": "Codex",
     "blobs": 102,
-    "time": "2025-10-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Morph",
-    "blobs": 38,
     "time": "2025-10-07 00:00:00.000 UTC"
   },
   {
@@ -110,13 +110,13 @@
     "time": "2025-10-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 359,
+    "blob_submitter": "Unichain",
+    "blobs": 819,
     "time": "2025-10-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Unichain",
-    "blobs": 819,
+    "blob_submitter": "Metal",
+    "blobs": 359,
     "time": "2025-10-07 00:00:00.000 UTC"
   },
   {
@@ -125,13 +125,13 @@
     "time": "2025-10-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Soneium",
-    "blobs": 1050,
+    "blob_submitter": "StarkNet",
+    "blobs": 564,
     "time": "2025-10-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 564,
+    "blob_submitter": "Soneium",
+    "blobs": 1050,
     "time": "2025-10-07 00:00:00.000 UTC"
   },
   {
@@ -142,6 +142,11 @@
   {
     "blob_submitter": "Hemi",
     "blobs": 123,
+    "time": "2025-10-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 4,
     "time": "2025-10-07 00:00:00.000 UTC"
   },
   {
@@ -162,16 +167,6 @@
   {
     "blob_submitter": "Scroll",
     "blobs": 3078,
-    "time": "2025-10-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 13452,
-    "time": "2025-10-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 17,
     "time": "2025-10-07 00:00:00.000 UTC"
   }
 ]

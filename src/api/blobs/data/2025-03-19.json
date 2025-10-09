@@ -5,11 +5,6 @@
     "time": "2025-03-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Unichain",
-    "blobs": 213,
-    "time": "2025-03-19 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Infinaeon",
     "blobs": 8,
     "time": "2025-03-19 00:00:00.000 UTC"
@@ -22,16 +17,6 @@
   {
     "blob_submitter": "Mode",
     "blobs": 79,
-    "time": "2025-03-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 945,
-    "time": "2025-03-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 50,
     "time": "2025-03-19 00:00:00.000 UTC"
   },
   {
@@ -52,6 +37,21 @@
   {
     "blob_submitter": "Optopia",
     "blobs": 8,
+    "time": "2025-03-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Unichain",
+    "blobs": 213,
+    "time": "2025-03-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 945,
+    "time": "2025-03-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 50,
     "time": "2025-03-19 00:00:00.000 UTC"
   },
   {
@@ -137,11 +137,6 @@
   {
     "blob_submitter": "Blast",
     "blobs": 420,
-    "time": "2025-03-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 88,
     "time": "2025-03-19 00:00:00.000 UTC"
   }
 ]

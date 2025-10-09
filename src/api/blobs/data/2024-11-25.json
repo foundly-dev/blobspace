@@ -10,11 +10,6 @@
     "time": "2024-11-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 56,
-    "time": "2024-11-25 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Scroll",
     "blobs": 126,
     "time": "2024-11-25 00:00:00.000 UTC"
@@ -30,11 +25,6 @@
     "time": "2024-11-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
-    "time": "2024-11-25 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "OP Mainnet",
     "blobs": 1065,
     "time": "2024-11-25 00:00:00.000 UTC"
@@ -47,6 +37,16 @@
   {
     "blob_submitter": "Metal",
     "blobs": 360,
+    "time": "2024-11-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 56,
+    "time": "2024-11-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 6,
     "time": "2024-11-25 00:00:00.000 UTC"
   },
   {
@@ -100,13 +100,13 @@
     "time": "2024-11-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Nal",
-    "blobs": 54,
+    "blob_submitter": "Optopia",
+    "blobs": 12,
     "time": "2024-11-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 12,
+    "blob_submitter": "Nal",
+    "blobs": 54,
     "time": "2024-11-25 00:00:00.000 UTC"
   },
   {
@@ -122,6 +122,16 @@
   {
     "blob_submitter": "R0AR Chain",
     "blobs": 4,
+    "time": "2024-11-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 2988,
+    "time": "2024-11-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 66,
     "time": "2024-11-25 00:00:00.000 UTC"
   },
   {
@@ -147,16 +157,6 @@
   {
     "blob_submitter": "Snaxchain",
     "blobs": 16,
-    "time": "2024-11-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 229,
-    "time": "2024-11-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 24,
     "time": "2024-11-25 00:00:00.000 UTC"
   }
 ]

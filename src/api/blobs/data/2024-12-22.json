@@ -5,18 +5,8 @@
     "time": "2024-12-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Nal",
-    "blobs": 24,
-    "time": "2024-12-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
-    "time": "2024-12-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 29,
+    "blob_submitter": "Base",
+    "blobs": 8495,
     "time": "2024-12-22 00:00:00.000 UTC"
   },
   {
@@ -35,11 +25,6 @@
     "time": "2024-12-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 8495,
-    "time": "2024-12-22 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Soneium",
     "blobs": 8,
     "time": "2024-12-22 00:00:00.000 UTC"
@@ -47,6 +32,21 @@
   {
     "blob_submitter": "Ink",
     "blobs": 19,
+    "time": "2024-12-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 24,
+    "time": "2024-12-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 6,
+    "time": "2024-12-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 29,
     "time": "2024-12-22 00:00:00.000 UTC"
   },
   {
@@ -125,6 +125,11 @@
     "time": "2024-12-22 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "pegglecoin",
+    "blobs": 12,
+    "time": "2024-12-22 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "HashKey",
     "blobs": 25,
     "time": "2024-12-22 00:00:00.000 UTC"
@@ -132,11 +137,6 @@
   {
     "blob_submitter": "Others",
     "blobs": 73,
-    "time": "2024-12-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
     "time": "2024-12-22 00:00:00.000 UTC"
   }
 ]

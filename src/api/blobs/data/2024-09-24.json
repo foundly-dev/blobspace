@@ -15,11 +15,6 @@
     "time": "2024-09-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 25,
-    "time": "2024-09-24 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Base",
     "blobs": 5050,
     "time": "2024-09-24 00:00:00.000 UTC"
@@ -27,6 +22,11 @@
   {
     "blob_submitter": "Inscriptions",
     "blobs": 5,
+    "time": "2024-09-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 25,
     "time": "2024-09-24 00:00:00.000 UTC"
   },
   {
@@ -60,13 +60,13 @@
     "time": "2024-09-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 76,
+    "blob_submitter": "Scroll",
+    "blobs": 401,
     "time": "2024-09-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 401,
+    "blob_submitter": "RACE",
+    "blobs": 76,
     "time": "2024-09-24 00:00:00.000 UTC"
   },
   {
@@ -125,6 +125,11 @@
     "time": "2024-09-24 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "zkSync Era",
+    "blobs": 114,
+    "time": "2024-09-24 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Swan Chain",
     "blobs": 15,
     "time": "2024-09-24 00:00:00.000 UTC"
@@ -142,16 +147,6 @@
   {
     "blob_submitter": "Kroma",
     "blobs": 199,
-    "time": "2024-09-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 361,
-    "time": "2024-09-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 4,
     "time": "2024-09-24 00:00:00.000 UTC"
   }
 ]

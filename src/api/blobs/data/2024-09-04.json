@@ -10,33 +10,18 @@
     "time": "2024-09-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 8,
-    "time": "2024-09-04 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Paradex",
     "blobs": 230,
     "time": "2024-09-04 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Swan Chain",
+    "blobs": 8,
+    "time": "2024-09-04 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "StarkNet",
     "blobs": 151,
-    "time": "2024-09-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 103,
-    "time": "2024-09-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
-    "time": "2024-09-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
     "time": "2024-09-04 00:00:00.000 UTC"
   },
   {
@@ -47,6 +32,11 @@
   {
     "blob_submitter": "Blast",
     "blobs": 504,
+    "time": "2024-09-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 103,
     "time": "2024-09-04 00:00:00.000 UTC"
   },
   {
@@ -67,6 +57,16 @@
   {
     "blob_submitter": "Polynomial",
     "blobs": 59,
+    "time": "2024-09-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 6,
+    "time": "2024-09-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
     "time": "2024-09-04 00:00:00.000 UTC"
   },
   {
@@ -110,6 +110,11 @@
     "time": "2024-09-04 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Scroll",
+    "blobs": 491,
+    "time": "2024-09-04 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Arbitrum One",
     "blobs": 2211,
     "time": "2024-09-04 00:00:00.000 UTC"
@@ -125,6 +130,11 @@
     "time": "2024-09-04 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Optopia",
+    "blobs": 71,
+    "time": "2024-09-04 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "XGA",
     "blobs": 76,
     "time": "2024-09-04 00:00:00.000 UTC"
@@ -132,21 +142,6 @@
   {
     "blob_submitter": "RACE",
     "blobs": 76,
-    "time": "2024-09-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 491,
-    "time": "2024-09-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1210,
-    "time": "2024-09-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 360,
     "time": "2024-09-04 00:00:00.000 UTC"
   }
 ]

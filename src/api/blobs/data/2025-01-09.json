@@ -5,18 +5,8 @@
     "time": "2025-01-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 2643,
-    "time": "2025-01-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
-    "blobs": 7,
-    "time": "2025-01-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 475,
+    "blob_submitter": "River",
+    "blobs": 67,
     "time": "2025-01-09 00:00:00.000 UTC"
   },
   {
@@ -35,8 +25,8 @@
     "time": "2025-01-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 35,
+    "blob_submitter": "Zircuit",
+    "blobs": 475,
     "time": "2025-01-09 00:00:00.000 UTC"
   },
   {
@@ -45,8 +35,8 @@
     "time": "2025-01-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 67,
+    "blob_submitter": "StarkNet",
+    "blobs": 35,
     "time": "2025-01-09 00:00:00.000 UTC"
   },
   {
@@ -67,6 +57,16 @@
   {
     "blob_submitter": "Soneium",
     "blobs": 17,
+    "time": "2025-01-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 2643,
+    "time": "2025-01-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 7,
     "time": "2025-01-09 00:00:00.000 UTC"
   },
   {
@@ -135,6 +135,11 @@
     "time": "2025-01-09 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Mode",
+    "blobs": 62,
+    "time": "2025-01-09 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "BOB Network",
     "blobs": 52,
     "time": "2025-01-09 00:00:00.000 UTC"
@@ -170,18 +175,8 @@
     "time": "2025-01-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 62,
-    "time": "2025-01-09 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "ZERϴ Network",
     "blobs": 4,
-    "time": "2025-01-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 910,
     "time": "2025-01-09 00:00:00.000 UTC"
   }
 ]

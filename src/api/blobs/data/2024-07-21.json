@@ -1,22 +1,7 @@
 [
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2166,
-    "time": "2024-07-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 76,
-    "time": "2024-07-21 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Nal",
     "blobs": 50,
-    "time": "2024-07-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 138,
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
@@ -65,6 +50,21 @@
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2166,
+    "time": "2024-07-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 76,
+    "time": "2024-07-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 138,
+    "time": "2024-07-21 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Kroma",
     "blobs": 240,
     "time": "2024-07-21 00:00:00.000 UTC"
@@ -105,8 +105,18 @@
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Mint",
+    "blobs": 35,
+    "time": "2024-07-21 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Others",
     "blobs": 6,
+    "time": "2024-07-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 3671,
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {
@@ -117,11 +127,6 @@
   {
     "blob_submitter": "World Chain",
     "blobs": 14,
-    "time": "2024-07-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 35,
     "time": "2024-07-21 00:00:00.000 UTC"
   },
   {

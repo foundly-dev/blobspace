@@ -15,11 +15,6 @@
     "time": "2025-07-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Infinaeon",
-    "blobs": 10,
-    "time": "2025-07-02 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Zircuit",
     "blobs": 96,
     "time": "2025-07-02 00:00:00.000 UTC"
@@ -42,6 +37,11 @@
   {
     "blob_submitter": "Ink",
     "blobs": 276,
+    "time": "2025-07-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Infinaeon",
+    "blobs": 10,
     "time": "2025-07-02 00:00:00.000 UTC"
   },
   {
@@ -162,16 +162,6 @@
   {
     "blob_submitter": "Morph",
     "blobs": 107,
-    "time": "2025-07-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 27,
-    "time": "2025-07-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 19,
     "time": "2025-07-02 00:00:00.000 UTC"
   }
 ]

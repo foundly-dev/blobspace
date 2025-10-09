@@ -10,16 +10,6 @@
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 505,
-    "time": "2024-10-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 43,
-    "time": "2024-10-22 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Lisk",
     "blobs": 5,
     "time": "2024-10-22 00:00:00.000 UTC"
@@ -40,11 +30,6 @@
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 3,
-    "time": "2024-10-22 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arbitrum One",
     "blobs": 2274,
     "time": "2024-10-22 00:00:00.000 UTC"
@@ -60,13 +45,28 @@
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
+    "blob_submitter": "Lambda",
+    "blobs": 3,
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "XGA",
     "blobs": 76,
+    "time": "2024-10-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 71,
+    "time": "2024-10-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 505,
+    "time": "2024-10-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 43,
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
@@ -80,13 +80,13 @@
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Nal",
-    "blobs": 49,
+    "blob_submitter": "Ethernity",
+    "blobs": 4,
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 4,
+    "blob_submitter": "Nal",
+    "blobs": 49,
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
@@ -105,13 +105,28 @@
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Kroma",
+    "blobs": 259,
+    "time": "2024-10-22 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "zkSync Era",
     "blobs": 77,
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 259,
+    "blob_submitter": "Taiko",
+    "blobs": 2491,
+    "time": "2024-10-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 392,
+    "time": "2024-10-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 15,
     "time": "2024-10-22 00:00:00.000 UTC"
   },
   {
@@ -127,16 +142,6 @@
   {
     "blob_submitter": "Superseed",
     "blobs": 16,
-    "time": "2024-10-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 10,
-    "time": "2024-10-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 48,
     "time": "2024-10-22 00:00:00.000 UTC"
   }
 ]

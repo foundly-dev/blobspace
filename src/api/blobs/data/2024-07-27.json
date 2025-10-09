@@ -10,38 +10,8 @@
     "time": "2024-07-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 15,
-    "time": "2024-07-27 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "World Chain",
     "blobs": 14,
-    "time": "2024-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 184,
-    "time": "2024-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 233,
-    "time": "2024-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 24,
-    "time": "2024-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 241,
-    "time": "2024-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 42,
     "time": "2024-07-27 00:00:00.000 UTC"
   },
   {
@@ -55,8 +25,23 @@
     "time": "2024-07-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 1338,
+    "blob_submitter": "River",
+    "blobs": 184,
+    "time": "2024-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 241,
+    "time": "2024-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 24,
+    "time": "2024-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 42,
     "time": "2024-07-27 00:00:00.000 UTC"
   },
   {
@@ -65,8 +50,23 @@
     "time": "2024-07-27 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Blast",
+    "blobs": 1338,
+    "time": "2024-07-27 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Taiko",
     "blobs": 3713,
+    "time": "2024-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 15,
+    "time": "2024-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 233,
     "time": "2024-07-27 00:00:00.000 UTC"
   },
   {
@@ -105,6 +105,11 @@
     "time": "2024-07-27 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Mode",
+    "blobs": 84,
+    "time": "2024-07-27 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Scroll",
     "blobs": 360,
     "time": "2024-07-27 00:00:00.000 UTC"
@@ -122,16 +127,6 @@
   {
     "blob_submitter": "Boba Network",
     "blobs": 47,
-    "time": "2024-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 84,
-    "time": "2024-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1340,
     "time": "2024-07-27 00:00:00.000 UTC"
   }
 ]

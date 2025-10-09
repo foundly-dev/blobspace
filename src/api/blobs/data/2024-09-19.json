@@ -20,11 +20,6 @@
     "time": "2024-09-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 4965,
-    "time": "2024-09-19 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Ethernity",
     "blobs": 5,
     "time": "2024-09-19 00:00:00.000 UTC"
@@ -52,6 +47,11 @@
   {
     "blob_submitter": "Binary",
     "blobs": 24,
+    "time": "2024-09-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 4965,
     "time": "2024-09-19 00:00:00.000 UTC"
   },
   {
@@ -107,11 +107,6 @@
   {
     "blob_submitter": "BOB Network",
     "blobs": 29,
-    "time": "2024-09-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 110,
     "time": "2024-09-19 00:00:00.000 UTC"
   }
 ]

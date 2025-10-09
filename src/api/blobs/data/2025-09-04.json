@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "Unichain",
-    "blobs": 795,
-    "time": "2025-09-04 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Zircuit",
     "blobs": 73,
     "time": "2025-09-04 00:00:00.000 UTC"
@@ -12,6 +7,11 @@
   {
     "blob_submitter": "OP Mainnet",
     "blobs": 1152,
+    "time": "2025-09-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 24,
     "time": "2025-09-04 00:00:00.000 UTC"
   },
   {
@@ -40,16 +40,6 @@
     "time": "2025-09-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 24,
-    "time": "2025-09-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Infinaeon",
-    "blobs": 10,
-    "time": "2025-09-04 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Base",
     "blobs": 13932,
     "time": "2025-09-04 00:00:00.000 UTC"
@@ -70,8 +60,18 @@
     "time": "2025-09-04 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Infinaeon",
+    "blobs": 10,
+    "time": "2025-09-04 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Swellchain",
     "blobs": 33,
+    "time": "2025-09-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Unichain",
+    "blobs": 795,
     "time": "2025-09-04 00:00:00.000 UTC"
   },
   {
@@ -110,11 +110,6 @@
     "time": "2025-09-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Katana",
-    "blobs": 201,
-    "time": "2025-09-04 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Others",
     "blobs": 153,
     "time": "2025-09-04 00:00:00.000 UTC"
@@ -125,8 +120,18 @@
     "time": "2025-09-04 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Katana",
+    "blobs": 201,
+    "time": "2025-09-04 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lumio",
     "blobs": 10,
+    "time": "2025-09-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 6072,
     "time": "2025-09-04 00:00:00.000 UTC"
   },
   {
@@ -160,13 +165,13 @@
     "time": "2025-09-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Snaxchain",
-    "blobs": 11,
+    "blob_submitter": "Linea",
+    "blobs": 215,
     "time": "2025-09-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 6072,
+    "blob_submitter": "Snaxchain",
+    "blobs": 11,
     "time": "2025-09-04 00:00:00.000 UTC"
   },
   {
@@ -182,16 +187,6 @@
   {
     "blob_submitter": "StarkNet",
     "blobs": 252,
-    "time": "2025-09-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metis",
-    "blobs": 52,
-    "time": "2025-09-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Settlus",
-    "blobs": 16,
     "time": "2025-09-04 00:00:00.000 UTC"
   }
 ]

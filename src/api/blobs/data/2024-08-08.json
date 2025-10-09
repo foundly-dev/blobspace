@@ -1,5 +1,10 @@
 [
   {
+    "blob_submitter": "Lambda",
+    "blobs": 15,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Arbitrum One",
     "blobs": 2541,
     "time": "2024-08-08 00:00:00.000 UTC"
@@ -10,23 +15,8 @@
     "time": "2024-08-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 485,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "XGA",
     "blobs": 14,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 15,
     "time": "2024-08-08 00:00:00.000 UTC"
   },
   {
@@ -52,6 +42,16 @@
   {
     "blob_submitter": "Mode",
     "blobs": 96,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 485,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
     "time": "2024-08-08 00:00:00.000 UTC"
   },
   {
@@ -110,6 +110,11 @@
     "time": "2024-08-08 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "River",
+    "blobs": 184,
+    "time": "2024-08-08 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Shape",
     "blobs": 15,
     "time": "2024-08-08 00:00:00.000 UTC"
@@ -127,21 +132,6 @@
   {
     "blob_submitter": "World Chain",
     "blobs": 18,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 184,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 472,
-    "time": "2024-08-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 16,
     "time": "2024-08-08 00:00:00.000 UTC"
   }
 ]

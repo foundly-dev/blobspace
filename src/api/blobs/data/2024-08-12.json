@@ -5,18 +5,8 @@
     "time": "2024-08-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 118,
-    "time": "2024-08-12 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Mint",
     "blobs": 35,
-    "time": "2024-08-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 14,
     "time": "2024-08-12 00:00:00.000 UTC"
   },
   {
@@ -30,13 +20,18 @@
     "time": "2024-08-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
+    "blob_submitter": "World Chain",
+    "blobs": 14,
     "time": "2024-08-12 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Linea",
     "blobs": 278,
+    "time": "2024-08-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
     "time": "2024-08-12 00:00:00.000 UTC"
   },
   {
@@ -55,6 +50,11 @@
     "time": "2024-08-12 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "zkSync Era",
+    "blobs": 118,
+    "time": "2024-08-12 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Metal",
     "blobs": 360,
     "time": "2024-08-12 00:00:00.000 UTC"
@@ -65,13 +65,13 @@
     "time": "2024-08-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Nal",
-    "blobs": 50,
+    "blob_submitter": "StarkNet",
+    "blobs": 375,
     "time": "2024-08-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 375,
+    "blob_submitter": "Nal",
+    "blobs": 50,
     "time": "2024-08-12 00:00:00.000 UTC"
   },
   {
@@ -115,13 +115,13 @@
     "time": "2024-08-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2991,
     "time": "2024-08-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1650,
+    "blob_submitter": "Lambda",
+    "blobs": 14,
     "time": "2024-08-12 00:00:00.000 UTC"
   }
 ]

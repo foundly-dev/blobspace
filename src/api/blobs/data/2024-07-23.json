@@ -10,18 +10,8 @@
     "time": "2024-07-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 77,
-    "time": "2024-07-23 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "OP Mainnet",
     "blobs": 1770,
-    "time": "2024-07-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 401,
     "time": "2024-07-23 00:00:00.000 UTC"
   },
   {
@@ -42,6 +32,16 @@
   {
     "blob_submitter": "Lisk",
     "blobs": 4,
+    "time": "2024-07-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 77,
+    "time": "2024-07-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 401,
     "time": "2024-07-23 00:00:00.000 UTC"
   },
   {
@@ -117,11 +117,6 @@
   {
     "blob_submitter": "Linea",
     "blobs": 1324,
-    "time": "2024-07-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 448,
     "time": "2024-07-23 00:00:00.000 UTC"
   }
 ]

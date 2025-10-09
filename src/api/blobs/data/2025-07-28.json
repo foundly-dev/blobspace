@@ -5,23 +5,13 @@
     "time": "2025-07-28 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 2466,
+    "time": "2025-07-28 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "StarkNet",
     "blobs": 126,
-    "time": "2025-07-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 1717,
-    "time": "2025-07-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 357,
-    "time": "2025-07-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Codex",
-    "blobs": 102,
     "time": "2025-07-28 00:00:00.000 UTC"
   },
   {
@@ -45,11 +35,6 @@
     "time": "2025-07-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 2466,
-    "time": "2025-07-28 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Zircuit",
     "blobs": 98,
     "time": "2025-07-28 00:00:00.000 UTC"
@@ -60,11 +45,6 @@
     "time": "2025-07-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Hemi",
-    "blobs": 86,
-    "time": "2025-07-28 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "RACE",
     "blobs": 24,
     "time": "2025-07-28 00:00:00.000 UTC"
@@ -72,6 +52,26 @@
   {
     "blob_submitter": "Scroll",
     "blobs": 61,
+    "time": "2025-07-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 86,
+    "time": "2025-07-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 1717,
+    "time": "2025-07-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 357,
+    "time": "2025-07-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Codex",
+    "blobs": 102,
     "time": "2025-07-28 00:00:00.000 UTC"
   },
   {
@@ -155,6 +155,11 @@
     "time": "2025-07-28 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Boba Network",
+    "blobs": 29,
+    "time": "2025-07-28 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lumio",
     "blobs": 16,
     "time": "2025-07-28 00:00:00.000 UTC"
@@ -182,11 +187,6 @@
   {
     "blob_submitter": "zkSync Era",
     "blobs": 12,
-    "time": "2025-07-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 29,
     "time": "2025-07-28 00:00:00.000 UTC"
   },
   {

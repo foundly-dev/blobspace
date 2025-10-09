@@ -15,16 +15,6 @@
     "time": "2025-08-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 11517,
-    "time": "2025-08-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Katana",
-    "blobs": 209,
-    "time": "2025-08-23 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Lighter",
     "blobs": 347,
     "time": "2025-08-23 00:00:00.000 UTC"
@@ -32,11 +22,6 @@
   {
     "blob_submitter": "Codex",
     "blobs": 103,
-    "time": "2025-08-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Morph",
-    "blobs": 93,
     "time": "2025-08-23 00:00:00.000 UTC"
   },
   {
@@ -65,13 +50,28 @@
     "time": "2025-08-23 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Ethernity",
+    "blobs": 9,
+    "time": "2025-08-23 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Soneium",
     "blobs": 1160,
     "time": "2025-08-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 9,
+    "blob_submitter": "Base",
+    "blobs": 11517,
+    "time": "2025-08-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Katana",
+    "blobs": 209,
+    "time": "2025-08-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Morph",
+    "blobs": 93,
     "time": "2025-08-23 00:00:00.000 UTC"
   },
   {
@@ -120,13 +120,13 @@
     "time": "2025-08-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
+    "blob_submitter": "Swellchain",
+    "blobs": 50,
     "time": "2025-08-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swellchain",
-    "blobs": 50,
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
     "time": "2025-08-23 00:00:00.000 UTC"
   },
   {
@@ -150,6 +150,11 @@
     "time": "2025-08-23 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "ZERϴ Network",
+    "blobs": 3,
+    "time": "2025-08-23 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Phala Network",
     "blobs": 17,
     "time": "2025-08-23 00:00:00.000 UTC"
@@ -157,16 +162,6 @@
   {
     "blob_submitter": "Swan Chain",
     "blobs": 7,
-    "time": "2025-08-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERϴ Network",
-    "blobs": 3,
-    "time": "2025-08-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 68,
     "time": "2025-08-23 00:00:00.000 UTC"
   }
 ]

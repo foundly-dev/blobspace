@@ -5,6 +5,21 @@
     "time": "2025-05-18 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Mode",
+    "blobs": 80,
+    "time": "2025-05-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 26,
+    "time": "2025-05-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 75,
+    "time": "2025-05-18 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "OP Mainnet",
     "blobs": 1238,
     "time": "2025-05-18 00:00:00.000 UTC"
@@ -12,11 +27,6 @@
   {
     "blob_submitter": "zkSync Era",
     "blobs": 27,
-    "time": "2025-05-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 75,
     "time": "2025-05-18 00:00:00.000 UTC"
   },
   {
@@ -32,16 +42,6 @@
   {
     "blob_submitter": "Arena-Z",
     "blobs": 7,
-    "time": "2025-05-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 80,
-    "time": "2025-05-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 26,
     "time": "2025-05-18 00:00:00.000 UTC"
   },
   {
@@ -120,6 +120,16 @@
     "time": "2025-05-18 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Snaxchain",
+    "blobs": 16,
+    "time": "2025-05-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 168,
+    "time": "2025-05-18 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "World Chain",
     "blobs": 4023,
     "time": "2025-05-18 00:00:00.000 UTC"
@@ -167,21 +177,6 @@
   {
     "blob_submitter": "Binary",
     "blobs": 8,
-    "time": "2025-05-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Snaxchain",
-    "blobs": 16,
-    "time": "2025-05-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 168,
-    "time": "2025-05-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 69,
     "time": "2025-05-18 00:00:00.000 UTC"
   }
 ]

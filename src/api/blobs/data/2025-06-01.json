@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "ZORA",
-    "blobs": 17,
-    "time": "2025-06-01 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Hemi",
     "blobs": 86,
     "time": "2025-06-01 00:00:00.000 UTC"
@@ -12,11 +7,6 @@
   {
     "blob_submitter": "Ethernity",
     "blobs": 5,
-    "time": "2025-06-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Infinaeon",
-    "blobs": 10,
     "time": "2025-06-01 00:00:00.000 UTC"
   },
   {
@@ -35,23 +25,23 @@
     "time": "2025-06-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Codex",
-    "blobs": 17,
-    "time": "2025-06-01 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Debank Chain",
     "blobs": 20,
     "time": "2025-06-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Soneium",
-    "blobs": 641,
+    "blob_submitter": "Codex",
+    "blobs": 17,
     "time": "2025-06-01 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "StarkNet",
     "blobs": 186,
+    "time": "2025-06-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Soneium",
+    "blobs": 641,
     "time": "2025-06-01 00:00:00.000 UTC"
   },
   {
@@ -62,6 +52,16 @@
   {
     "blob_submitter": "Unichain",
     "blobs": 678,
+    "time": "2025-06-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 17,
+    "time": "2025-06-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Infinaeon",
+    "blobs": 10,
     "time": "2025-06-01 00:00:00.000 UTC"
   },
   {
@@ -137,6 +137,11 @@
   {
     "blob_submitter": "Others",
     "blobs": 96,
+    "time": "2025-06-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 25,
     "time": "2025-06-01 00:00:00.000 UTC"
   },
   {

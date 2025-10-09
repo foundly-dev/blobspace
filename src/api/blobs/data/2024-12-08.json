@@ -1,7 +1,7 @@
 [
   {
-    "blob_submitter": "Others",
-    "blobs": 245,
+    "blob_submitter": "Lisk",
+    "blobs": 217,
     "time": "2024-12-08 00:00:00.000 UTC"
   },
   {
@@ -15,11 +15,6 @@
     "time": "2024-12-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 217,
-    "time": "2024-12-08 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Metal",
     "blobs": 361,
     "time": "2024-12-08 00:00:00.000 UTC"
@@ -27,6 +22,11 @@
   {
     "blob_submitter": "Arena-Z",
     "blobs": 5,
+    "time": "2024-12-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 245,
     "time": "2024-12-08 00:00:00.000 UTC"
   },
   {
@@ -115,6 +115,11 @@
     "time": "2024-12-08 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Swell",
+    "blobs": 25,
+    "time": "2024-12-08 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Snaxchain",
     "blobs": 16,
     "time": "2024-12-08 00:00:00.000 UTC"
@@ -142,11 +147,6 @@
   {
     "blob_submitter": "Debank Chain",
     "blobs": 29,
-    "time": "2024-12-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 33,
     "time": "2024-12-08 00:00:00.000 UTC"
   }
 ]

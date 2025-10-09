@@ -1,20 +1,5 @@
 [
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2412,
-    "time": "2024-06-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 78,
-    "time": "2024-06-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "BOB Network",
-    "blobs": 15,
-    "time": "2024-06-09 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "zkSync Era",
     "blobs": 280,
     "time": "2024-06-09 00:00:00.000 UTC"
@@ -25,8 +10,23 @@
     "time": "2024-06-09 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2412,
+    "time": "2024-06-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "BOB Network",
+    "blobs": 15,
+    "time": "2024-06-09 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Others",
     "blobs": 133,
+    "time": "2024-06-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 78,
     "time": "2024-06-09 00:00:00.000 UTC"
   },
   {

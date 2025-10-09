@@ -25,6 +25,11 @@
     "time": "2025-09-30 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 3432,
+    "time": "2025-09-30 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Metal",
     "blobs": 357,
     "time": "2025-09-30 00:00:00.000 UTC"
@@ -42,11 +47,6 @@
   {
     "blob_submitter": "Optopia",
     "blobs": 8,
-    "time": "2025-09-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 3432,
     "time": "2025-09-30 00:00:00.000 UTC"
   },
   {
@@ -105,6 +105,11 @@
     "time": "2025-09-30 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Shape",
+    "blobs": 203,
+    "time": "2025-09-30 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Mint",
     "blobs": 16,
     "time": "2025-09-30 00:00:00.000 UTC"
@@ -125,13 +130,13 @@
     "time": "2025-09-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 212,
+    "blob_submitter": "Abstract",
+    "blobs": 398,
     "time": "2025-09-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Abstract",
-    "blobs": 398,
+    "blob_submitter": "Taiko",
+    "blobs": 212,
     "time": "2025-09-30 00:00:00.000 UTC"
   },
   {
@@ -140,18 +145,8 @@
     "time": "2025-09-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 203,
-    "time": "2025-09-30 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "pegglecoin",
     "blobs": 12,
-    "time": "2025-09-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Codex",
-    "blobs": 103,
     "time": "2025-09-30 00:00:00.000 UTC"
   }
 ]

@@ -1,12 +1,7 @@
 [
   {
-    "blob_submitter": "Mint",
-    "blobs": 90,
-    "time": "2024-10-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 164,
+    "blob_submitter": "zkSync Era",
+    "blobs": 79,
     "time": "2024-10-08 00:00:00.000 UTC"
   },
   {
@@ -15,18 +10,8 @@
     "time": "2024-10-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 54,
-    "time": "2024-10-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 576,
-    "time": "2024-10-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
+    "blob_submitter": "Others",
+    "blobs": 164,
     "time": "2024-10-08 00:00:00.000 UTC"
   },
   {
@@ -35,8 +20,8 @@
     "time": "2024-10-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 79,
+    "blob_submitter": "Superseed",
+    "blobs": 16,
     "time": "2024-10-08 00:00:00.000 UTC"
   },
   {
@@ -45,13 +30,28 @@
     "time": "2024-10-08 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Swan Chain",
+    "blobs": 108,
+    "time": "2024-10-08 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lumio",
     "blobs": 16,
     "time": "2024-10-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 108,
+    "blob_submitter": "Mint",
+    "blobs": 90,
+    "time": "2024-10-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 576,
+    "time": "2024-10-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 54,
     "time": "2024-10-08 00:00:00.000 UTC"
   },
   {
@@ -90,6 +90,11 @@
     "time": "2024-10-08 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "XGA",
+    "blobs": 76,
+    "time": "2024-10-08 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "PandaSea",
     "blobs": 25,
     "time": "2024-10-08 00:00:00.000 UTC"
@@ -110,6 +115,11 @@
     "time": "2024-10-08 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Debank Chain",
+    "blobs": 24,
+    "time": "2024-10-08 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Arbitrum One",
     "blobs": 1989,
     "time": "2024-10-08 00:00:00.000 UTC"
@@ -122,16 +132,6 @@
   {
     "blob_submitter": "Kinto",
     "blobs": 6,
-    "time": "2024-10-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "XGA",
-    "blobs": 76,
-    "time": "2024-10-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
     "time": "2024-10-08 00:00:00.000 UTC"
   }
 ]

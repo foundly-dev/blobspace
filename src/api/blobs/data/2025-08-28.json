@@ -5,13 +5,18 @@
     "time": "2025-08-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Katana",
-    "blobs": 204,
+    "blob_submitter": "Unichain",
+    "blobs": 1293,
     "time": "2025-08-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Unichain",
-    "blobs": 1293,
+    "blob_submitter": "Soneium",
+    "blobs": 565,
+    "time": "2025-08-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Codex",
+    "blobs": 102,
     "time": "2025-08-28 00:00:00.000 UTC"
   },
   {
@@ -20,8 +25,23 @@
     "time": "2025-08-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Codex",
-    "blobs": 102,
+    "blob_submitter": "StarkNet",
+    "blobs": 336,
+    "time": "2025-08-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 17,
+    "time": "2025-08-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ink",
+    "blobs": 486,
+    "time": "2025-08-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Katana",
+    "blobs": 204,
     "time": "2025-08-28 00:00:00.000 UTC"
   },
   {
@@ -37,26 +57,6 @@
   {
     "blob_submitter": "Debank Chain",
     "blobs": 19,
-    "time": "2025-08-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 336,
-    "time": "2025-08-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 565,
-    "time": "2025-08-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 17,
-    "time": "2025-08-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ink",
-    "blobs": 486,
     "time": "2025-08-28 00:00:00.000 UTC"
   },
   {
@@ -100,11 +100,6 @@
     "time": "2025-08-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 10,
-    "time": "2025-08-28 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Base",
     "blobs": 12981,
     "time": "2025-08-28 00:00:00.000 UTC"
@@ -112,6 +107,11 @@
   {
     "blob_submitter": "Snaxchain",
     "blobs": 12,
+    "time": "2025-08-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "R0AR Chain",
+    "blobs": 10,
     "time": "2025-08-28 00:00:00.000 UTC"
   },
   {
@@ -135,6 +135,11 @@
     "time": "2025-08-28 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
+    "time": "2025-08-28 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "BOB Network",
     "blobs": 19,
     "time": "2025-08-28 00:00:00.000 UTC"
@@ -147,11 +152,6 @@
   {
     "blob_submitter": "Swellchain",
     "blobs": 49,
-    "time": "2025-08-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
     "time": "2025-08-28 00:00:00.000 UTC"
   }
 ]

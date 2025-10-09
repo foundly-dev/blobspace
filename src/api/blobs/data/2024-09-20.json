@@ -1,15 +1,5 @@
 [
   {
-    "blob_submitter": "Taiko",
-    "blobs": 2601,
-    "time": "2024-09-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Snaxchain",
-    "blobs": 16,
-    "time": "2024-09-20 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Others",
     "blobs": 143,
     "time": "2024-09-20 00:00:00.000 UTC"
@@ -20,18 +10,28 @@
     "time": "2024-09-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 371,
-    "time": "2024-09-20 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Paradex",
     "blobs": 58,
     "time": "2024-09-20 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Kroma",
+    "blobs": 371,
+    "time": "2024-09-20 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lumio",
     "blobs": 17,
+    "time": "2024-09-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 2601,
+    "time": "2024-09-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Snaxchain",
+    "blobs": 16,
     "time": "2024-09-20 00:00:00.000 UTC"
   },
   {
@@ -112,11 +112,6 @@
   {
     "blob_submitter": "Nal",
     "blobs": 49,
-    "time": "2024-09-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
     "time": "2024-09-20 00:00:00.000 UTC"
   }
 ]

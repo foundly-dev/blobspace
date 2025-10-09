@@ -1,12 +1,12 @@
 [
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
+    "blob_submitter": "Phala Network",
+    "blobs": 16,
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Phala Network",
-    "blobs": 16,
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
@@ -90,6 +90,11 @@
     "time": "2025-08-19 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "StarkNet",
+    "blobs": 312,
+    "time": "2025-08-19 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Debank Chain",
     "blobs": 19,
     "time": "2025-08-19 00:00:00.000 UTC"
@@ -122,16 +127,6 @@
   {
     "blob_submitter": "Ethernity",
     "blobs": 5,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 312,
-    "time": "2025-08-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 11624,
     "time": "2025-08-19 00:00:00.000 UTC"
   }
 ]

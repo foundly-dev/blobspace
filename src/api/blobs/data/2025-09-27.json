@@ -15,11 +15,6 @@
     "time": "2025-09-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swellchain",
-    "blobs": 46,
-    "time": "2025-09-27 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arbitrum One",
     "blobs": 4155,
     "time": "2025-09-27 00:00:00.000 UTC"
@@ -32,6 +27,11 @@
   {
     "blob_submitter": "Infinaeon",
     "blobs": 9,
+    "time": "2025-09-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swellchain",
+    "blobs": 46,
     "time": "2025-09-27 00:00:00.000 UTC"
   },
   {
@@ -90,6 +90,16 @@
     "time": "2025-09-27 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Shape",
+    "blobs": 1980,
+    "time": "2025-09-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2025-09-27 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Mint",
     "blobs": 17,
     "time": "2025-09-27 00:00:00.000 UTC"
@@ -130,23 +140,8 @@
     "time": "2025-09-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 1980,
-    "time": "2025-09-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
-    "time": "2025-09-27 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Metis",
     "blobs": 57,
-    "time": "2025-09-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Morph",
-    "blobs": 49,
     "time": "2025-09-27 00:00:00.000 UTC"
   }
 ]

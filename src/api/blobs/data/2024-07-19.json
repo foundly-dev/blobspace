@@ -15,18 +15,8 @@
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 439,
-    "time": "2024-07-19 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Inscriptions",
     "blobs": 13,
-    "time": "2024-07-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 77,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
@@ -35,13 +25,13 @@
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 88,
+    "blob_submitter": "RACE",
+    "blobs": 77,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 535,
+    "blob_submitter": "World Chain",
+    "blobs": 88,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
@@ -50,18 +40,28 @@
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Linea",
+    "blobs": 535,
+    "time": "2024-07-19 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Polynomial",
     "blobs": 16,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 296,
+    "blob_submitter": "StarkNet",
+    "blobs": 439,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Nal",
     "blobs": 50,
+    "time": "2024-07-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 296,
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
@@ -100,6 +100,16 @@
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1825,
+    "time": "2024-07-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 5,
+    "time": "2024-07-19 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Mode",
     "blobs": 88,
     "time": "2024-07-19 00:00:00.000 UTC"
@@ -115,13 +125,8 @@
     "time": "2024-07-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1825,
-    "time": "2024-07-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
+    "blob_submitter": "Lumio",
+    "blobs": 16,
     "time": "2024-07-19 00:00:00.000 UTC"
   }
 ]

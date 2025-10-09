@@ -15,6 +15,16 @@
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "RACE",
+    "blobs": 24,
+    "time": "2025-07-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 64,
+    "time": "2025-07-17 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Unichain",
     "blobs": 1266,
     "time": "2025-07-17 00:00:00.000 UTC"
@@ -27,16 +37,6 @@
   {
     "blob_submitter": "ZERϴ Network",
     "blobs": 3,
-    "time": "2025-07-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 24,
-    "time": "2025-07-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 64,
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
@@ -135,6 +135,11 @@
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Mint",
+    "blobs": 60,
+    "time": "2025-07-17 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Phala Network",
     "blobs": 16,
     "time": "2025-07-17 00:00:00.000 UTC"
@@ -162,11 +167,6 @@
   {
     "blob_submitter": "Taiko",
     "blobs": 1386,
-    "time": "2025-07-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 60,
     "time": "2025-07-17 00:00:00.000 UTC"
   }
 ]

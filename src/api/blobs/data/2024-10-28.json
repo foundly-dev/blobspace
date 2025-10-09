@@ -35,11 +35,6 @@
     "time": "2024-10-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "pegglecoin",
-    "blobs": 18,
-    "time": "2024-10-28 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Binary",
     "blobs": 8,
     "time": "2024-10-28 00:00:00.000 UTC"
@@ -77,6 +72,11 @@
   {
     "blob_submitter": "Nal",
     "blobs": 50,
+    "time": "2024-10-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "pegglecoin",
+    "blobs": 18,
     "time": "2024-10-28 00:00:00.000 UTC"
   },
   {
@@ -130,6 +130,11 @@
     "time": "2024-10-28 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Metal",
+    "blobs": 359,
+    "time": "2024-10-28 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lisk",
     "blobs": 8,
     "time": "2024-10-28 00:00:00.000 UTC"
@@ -142,11 +147,6 @@
   {
     "blob_submitter": "Boba Network",
     "blobs": 54,
-    "time": "2024-10-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 359,
     "time": "2024-10-28 00:00:00.000 UTC"
   }
 ]

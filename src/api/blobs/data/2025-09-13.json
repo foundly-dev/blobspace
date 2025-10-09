@@ -10,18 +10,13 @@
     "time": "2025-09-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Codex",
-    "blobs": 102,
-    "time": "2025-09-13 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "World Chain",
     "blobs": 7920,
     "time": "2025-09-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Settlus",
-    "blobs": 16,
+    "blob_submitter": "Snaxchain",
+    "blobs": 10,
     "time": "2025-09-13 00:00:00.000 UTC"
   },
   {
@@ -30,13 +25,8 @@
     "time": "2025-09-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 73,
-    "time": "2025-09-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 420,
+    "blob_submitter": "Settlus",
+    "blobs": 16,
     "time": "2025-09-13 00:00:00.000 UTC"
   },
   {
@@ -45,13 +35,13 @@
     "time": "2025-09-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "pegglecoin",
-    "blobs": 12,
+    "blob_submitter": "Shape",
+    "blobs": 420,
     "time": "2025-09-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Snaxchain",
-    "blobs": 10,
+    "blob_submitter": "pegglecoin",
+    "blobs": 12,
     "time": "2025-09-13 00:00:00.000 UTC"
   },
   {
@@ -77,6 +67,16 @@
   {
     "blob_submitter": "Blast",
     "blobs": 275,
+    "time": "2025-09-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Codex",
+    "blobs": 102,
+    "time": "2025-09-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 73,
     "time": "2025-09-13 00:00:00.000 UTC"
   },
   {
@@ -165,6 +165,16 @@
     "time": "2025-09-13 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Metal",
+    "blobs": 360,
+    "time": "2025-09-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Infinaeon",
+    "blobs": 10,
+    "time": "2025-09-13 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Arena-Z",
     "blobs": 5,
     "time": "2025-09-13 00:00:00.000 UTC"
@@ -177,11 +187,6 @@
   {
     "blob_submitter": "OP Mainnet",
     "blobs": 1026,
-    "time": "2025-09-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Unichain",
-    "blobs": 702,
     "time": "2025-09-13 00:00:00.000 UTC"
   }
 ]

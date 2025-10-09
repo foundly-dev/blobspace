@@ -1,15 +1,5 @@
 [
   {
-    "blob_submitter": "Linea",
-    "blobs": 252,
-    "time": "2025-08-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Settlus",
-    "blobs": 16,
-    "time": "2025-08-26 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Metis",
     "blobs": 60,
     "time": "2025-08-26 00:00:00.000 UTC"
@@ -25,8 +15,8 @@
     "time": "2025-08-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 342,
+    "blob_submitter": "Settlus",
+    "blobs": 16,
     "time": "2025-08-26 00:00:00.000 UTC"
   },
   {
@@ -50,6 +40,11 @@
     "time": "2025-08-26 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Blast",
+    "blobs": 453,
+    "time": "2025-08-26 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "World Chain",
     "blobs": 6330,
     "time": "2025-08-26 00:00:00.000 UTC"
@@ -60,11 +55,6 @@
     "time": "2025-08-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 453,
-    "time": "2025-08-26 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "R0AR Chain",
     "blobs": 10,
     "time": "2025-08-26 00:00:00.000 UTC"
@@ -72,6 +62,16 @@
   {
     "blob_submitter": "Lumio",
     "blobs": 12,
+    "time": "2025-08-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 252,
+    "time": "2025-08-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 342,
     "time": "2025-08-26 00:00:00.000 UTC"
   },
   {
@@ -120,6 +120,11 @@
     "time": "2025-08-26 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "BOB Network",
+    "blobs": 25,
+    "time": "2025-08-26 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Metal",
     "blobs": 360,
     "time": "2025-08-26 00:00:00.000 UTC"
@@ -135,18 +140,8 @@
     "time": "2025-08-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "BOB Network",
-    "blobs": 25,
-    "time": "2025-08-26 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arbitrum One",
     "blobs": 3648,
-    "time": "2025-08-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 678,
     "time": "2025-08-26 00:00:00.000 UTC"
   }
 ]

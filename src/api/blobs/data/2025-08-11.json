@@ -10,13 +10,13 @@
     "time": "2025-08-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 20,
+    "blob_submitter": "Superseed",
+    "blobs": 16,
     "time": "2025-08-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swellchain",
-    "blobs": 49,
+    "blob_submitter": "Mint",
+    "blobs": 20,
     "time": "2025-08-11 00:00:00.000 UTC"
   },
   {
@@ -30,8 +30,8 @@
     "time": "2025-08-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
+    "blob_submitter": "Others",
+    "blobs": 724,
     "time": "2025-08-11 00:00:00.000 UTC"
   },
   {
@@ -40,8 +40,8 @@
     "time": "2025-08-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 724,
+    "blob_submitter": "Swellchain",
+    "blobs": 49,
     "time": "2025-08-11 00:00:00.000 UTC"
   },
   {
@@ -70,6 +70,11 @@
     "time": "2025-08-11 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Paradex",
+    "blobs": 22,
+    "time": "2025-08-11 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Taiko",
     "blobs": 596,
     "time": "2025-08-11 00:00:00.000 UTC"
@@ -77,11 +82,6 @@
   {
     "blob_submitter": "Spire DA Builder",
     "blobs": 14,
-    "time": "2025-08-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 22,
     "time": "2025-08-11 00:00:00.000 UTC"
   },
   {
@@ -115,6 +115,16 @@
     "time": "2025-08-11 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Base",
+    "blobs": 11177,
+    "time": "2025-08-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Katana",
+    "blobs": 208,
+    "time": "2025-08-11 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Hemi",
     "blobs": 87,
     "time": "2025-08-11 00:00:00.000 UTC"
@@ -132,21 +142,6 @@
   {
     "blob_submitter": "Debank Chain",
     "blobs": 21,
-    "time": "2025-08-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 11177,
-    "time": "2025-08-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Katana",
-    "blobs": 208,
-    "time": "2025-08-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 730,
     "time": "2025-08-11 00:00:00.000 UTC"
   }
 ]

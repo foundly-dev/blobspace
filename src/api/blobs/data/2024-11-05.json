@@ -5,11 +5,6 @@
     "time": "2024-11-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 358,
-    "time": "2024-11-05 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "RACE",
     "blobs": 76,
     "time": "2024-11-05 00:00:00.000 UTC"
@@ -30,13 +25,13 @@
     "time": "2024-11-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Unichain",
-    "blobs": 122,
+    "blob_submitter": "Hemi",
+    "blobs": 71,
     "time": "2024-11-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Hemi",
-    "blobs": 71,
+    "blob_submitter": "Unichain",
+    "blobs": 122,
     "time": "2024-11-05 00:00:00.000 UTC"
   },
   {
@@ -50,13 +45,13 @@
     "time": "2024-11-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 148,
+    "blob_submitter": "Nal",
+    "blobs": 49,
     "time": "2024-11-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Nal",
-    "blobs": 49,
+    "blob_submitter": "Scroll",
+    "blobs": 148,
     "time": "2024-11-05 00:00:00.000 UTC"
   },
   {
@@ -72,6 +67,11 @@
   {
     "blob_submitter": "Optopia",
     "blobs": 57,
+    "time": "2024-11-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 358,
     "time": "2024-11-05 00:00:00.000 UTC"
   },
   {
@@ -105,6 +105,11 @@
     "time": "2024-11-05 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "World Chain",
+    "blobs": 1203,
+    "time": "2024-11-05 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Snaxchain",
     "blobs": 16,
     "time": "2024-11-05 00:00:00.000 UTC"
@@ -125,33 +130,8 @@
     "time": "2024-11-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 1203,
-    "time": "2024-11-05 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Shape",
     "blobs": 15,
-    "time": "2024-11-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 405,
-    "time": "2024-11-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 96,
-    "time": "2024-11-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 91,
-    "time": "2024-11-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 102,
     "time": "2024-11-05 00:00:00.000 UTC"
   }
 ]

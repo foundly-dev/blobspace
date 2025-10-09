@@ -25,11 +25,6 @@
     "time": "2024-08-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 1,
-    "time": "2024-08-22 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "StarkNet",
     "blobs": 248,
     "time": "2024-08-22 00:00:00.000 UTC"
@@ -60,6 +55,11 @@
     "time": "2024-08-22 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Parallel",
+    "blobs": 1,
+    "time": "2024-08-22 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Boba Network",
     "blobs": 48,
     "time": "2024-08-22 00:00:00.000 UTC"
@@ -75,13 +75,13 @@
     "time": "2024-08-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 123,
+    "blob_submitter": "Mint",
+    "blobs": 17,
     "time": "2024-08-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 17,
+    "blob_submitter": "zkSync Era",
+    "blobs": 123,
     "time": "2024-08-22 00:00:00.000 UTC"
   },
   {
@@ -112,6 +112,11 @@
   {
     "blob_submitter": "Metal",
     "blobs": 360,
+    "time": "2024-08-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "PandaSea",
+    "blobs": 24,
     "time": "2024-08-22 00:00:00.000 UTC"
   },
   {

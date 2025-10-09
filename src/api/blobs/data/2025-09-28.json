@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 28,
-    "time": "2025-09-28 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Taiko",
     "blobs": 216,
     "time": "2025-09-28 00:00:00.000 UTC"
@@ -12,6 +7,21 @@
   {
     "blob_submitter": "ZORA",
     "blobs": 20,
+    "time": "2025-09-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 143,
+    "time": "2025-09-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Codex",
+    "blobs": 102,
+    "time": "2025-09-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 312,
     "time": "2025-09-28 00:00:00.000 UTC"
   },
   {
@@ -30,23 +40,8 @@
     "time": "2025-09-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 312,
-    "time": "2025-09-28 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Hemi",
     "blobs": 87,
-    "time": "2025-09-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 143,
-    "time": "2025-09-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Codex",
-    "blobs": 102,
     "time": "2025-09-28 00:00:00.000 UTC"
   },
   {
@@ -55,13 +50,13 @@
     "time": "2025-09-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metis",
-    "blobs": 50,
+    "blob_submitter": "World Chain",
+    "blobs": 10884,
     "time": "2025-09-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 10884,
+    "blob_submitter": "Metis",
+    "blobs": 50,
     "time": "2025-09-28 00:00:00.000 UTC"
   },
   {
@@ -72,6 +67,11 @@
   {
     "blob_submitter": "Debank Chain",
     "blobs": 21,
+    "time": "2025-09-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 28,
     "time": "2025-09-28 00:00:00.000 UTC"
   },
   {
@@ -140,18 +140,13 @@
     "time": "2025-09-28 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Lisk",
+    "blobs": 66,
+    "time": "2025-09-28 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Boba Network",
     "blobs": 39,
-    "time": "2025-09-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1110,
-    "time": "2025-09-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 360,
     "time": "2025-09-28 00:00:00.000 UTC"
   }
 ]

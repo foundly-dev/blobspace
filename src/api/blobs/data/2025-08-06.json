@@ -5,18 +5,8 @@
     "time": "2025-08-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 358,
-    "time": "2025-08-06 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Others",
     "blobs": 726,
-    "time": "2025-08-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Infinaeon",
-    "blobs": 10,
     "time": "2025-08-06 00:00:00.000 UTC"
   },
   {
@@ -32,6 +22,16 @@
   {
     "blob_submitter": "Swan Chain",
     "blobs": 7,
+    "time": "2025-08-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 358,
+    "time": "2025-08-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Infinaeon",
+    "blobs": 10,
     "time": "2025-08-06 00:00:00.000 UTC"
   },
   {
@@ -100,6 +100,11 @@
     "time": "2025-08-06 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Codex",
+    "blobs": 102,
+    "time": "2025-08-06 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Katana",
     "blobs": 207,
     "time": "2025-08-06 00:00:00.000 UTC"
@@ -137,21 +142,6 @@
   {
     "blob_submitter": "Spire DA Builder",
     "blobs": 7,
-    "time": "2025-08-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 725,
-    "time": "2025-08-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 57,
-    "time": "2025-08-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
     "time": "2025-08-06 00:00:00.000 UTC"
   }
 ]

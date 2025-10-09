@@ -5,11 +5,6 @@
     "time": "2024-08-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
-    "blobs": 24,
-    "time": "2024-08-17 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Paradex",
     "blobs": 242,
     "time": "2024-08-17 00:00:00.000 UTC"
@@ -45,11 +40,6 @@
     "time": "2024-08-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 336,
-    "time": "2024-08-17 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Snaxchain",
     "blobs": 16,
     "time": "2024-08-17 00:00:00.000 UTC"
@@ -60,6 +50,11 @@
     "time": "2024-08-17 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "World Chain",
+    "blobs": 336,
+    "time": "2024-08-17 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Taiko",
     "blobs": 3978,
     "time": "2024-08-17 00:00:00.000 UTC"
@@ -67,6 +62,11 @@
   {
     "blob_submitter": "Kroma",
     "blobs": 163,
+    "time": "2024-08-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 24,
     "time": "2024-08-17 00:00:00.000 UTC"
   },
   {
@@ -127,11 +127,6 @@
   {
     "blob_submitter": "OP Mainnet",
     "blobs": 1390,
-    "time": "2024-08-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 491,
     "time": "2024-08-17 00:00:00.000 UTC"
   }
 ]

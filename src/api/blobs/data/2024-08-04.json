@@ -5,6 +5,21 @@
     "time": "2024-08-04 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Mint",
+    "blobs": 35,
+    "time": "2024-08-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 15,
+    "time": "2024-08-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 372,
+    "time": "2024-08-04 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Blast",
     "blobs": 1013,
     "time": "2024-08-04 00:00:00.000 UTC"
@@ -12,11 +27,6 @@
   {
     "blob_submitter": "Inscriptions",
     "blobs": 15,
-    "time": "2024-08-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 372,
     "time": "2024-08-04 00:00:00.000 UTC"
   },
   {
@@ -32,16 +42,6 @@
   {
     "blob_submitter": "Polynomial",
     "blobs": 16,
-    "time": "2024-08-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 35,
-    "time": "2024-08-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 15,
     "time": "2024-08-04 00:00:00.000 UTC"
   },
   {
@@ -100,6 +100,11 @@
     "time": "2024-08-04 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "BOB Network",
+    "blobs": 17,
+    "time": "2024-08-04 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "OP Mainnet",
     "blobs": 830,
     "time": "2024-08-04 00:00:00.000 UTC"
@@ -115,6 +120,11 @@
     "time": "2024-08-04 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "zkSync Era",
+    "blobs": 209,
+    "time": "2024-08-04 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lambda",
     "blobs": 14,
     "time": "2024-08-04 00:00:00.000 UTC"
@@ -122,11 +132,6 @@
   {
     "blob_submitter": "Metal",
     "blobs": 361,
-    "time": "2024-08-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "BOB Network",
-    "blobs": 17,
     "time": "2024-08-04 00:00:00.000 UTC"
   }
 ]

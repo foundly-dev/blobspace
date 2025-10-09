@@ -15,6 +15,11 @@
     "time": "2025-01-11 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Optopia",
+    "blobs": 8,
+    "time": "2025-01-11 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "OP Mainnet",
     "blobs": 735,
     "time": "2025-01-11 00:00:00.000 UTC"
@@ -27,11 +32,6 @@
   {
     "blob_submitter": "Hemi",
     "blobs": 7,
-    "time": "2025-01-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 18,
     "time": "2025-01-11 00:00:00.000 UTC"
   },
   {
@@ -60,11 +60,6 @@
     "time": "2025-01-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
-    "time": "2025-01-11 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arbitrum One",
     "blobs": 1977,
     "time": "2025-01-11 00:00:00.000 UTC"
@@ -77,6 +72,11 @@
   {
     "blob_submitter": "Arena-Z",
     "blobs": 5,
+    "time": "2025-01-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 18,
     "time": "2025-01-11 00:00:00.000 UTC"
   },
   {
@@ -140,6 +140,11 @@
     "time": "2025-01-11 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Paradex",
+    "blobs": 62,
+    "time": "2025-01-11 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Swan Chain",
     "blobs": 11,
     "time": "2025-01-11 00:00:00.000 UTC"
@@ -170,23 +175,8 @@
     "time": "2025-01-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 62,
-    "time": "2025-01-11 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Taiko",
     "blobs": 3095,
-    "time": "2025-01-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Phala Network",
-    "blobs": 76,
-    "time": "2025-01-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 115,
     "time": "2025-01-11 00:00:00.000 UTC"
   }
 ]

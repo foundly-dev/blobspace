@@ -25,8 +25,8 @@
     "time": "2025-02-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
+    "blob_submitter": "Kroma",
+    "blobs": 104,
     "time": "2025-02-28 00:00:00.000 UTC"
   },
   {
@@ -40,8 +40,13 @@
     "time": "2025-02-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Nal",
-    "blobs": 25,
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2025-02-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Morph",
+    "blobs": 123,
     "time": "2025-02-28 00:00:00.000 UTC"
   },
   {
@@ -52,16 +57,6 @@
   {
     "blob_submitter": "Settlus",
     "blobs": 18,
-    "time": "2025-02-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Morph",
-    "blobs": 123,
-    "time": "2025-02-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 104,
     "time": "2025-02-28 00:00:00.000 UTC"
   },
   {
@@ -100,6 +95,11 @@
     "time": "2025-02-28 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Nal",
+    "blobs": 25,
+    "time": "2025-02-28 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Paradex",
     "blobs": 187,
     "time": "2025-02-28 00:00:00.000 UTC"
@@ -122,6 +122,11 @@
   {
     "blob_submitter": "StarkNet",
     "blobs": 48,
+    "time": "2025-02-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 101,
     "time": "2025-02-28 00:00:00.000 UTC"
   },
   {
@@ -160,11 +165,6 @@
     "time": "2025-02-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 101,
-    "time": "2025-02-28 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arbitrum One",
     "blobs": 2877,
     "time": "2025-02-28 00:00:00.000 UTC"
@@ -187,11 +187,6 @@
   {
     "blob_submitter": "Mode",
     "blobs": 75,
-    "time": "2025-02-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
     "time": "2025-02-28 00:00:00.000 UTC"
   }
 ]

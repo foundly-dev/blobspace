@@ -1,5 +1,10 @@
 [
   {
+    "blob_submitter": "Others",
+    "blobs": 145,
+    "time": "2025-09-01 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Boba Network",
     "blobs": 29,
     "time": "2025-09-01 00:00:00.000 UTC"
@@ -7,11 +12,6 @@
   {
     "blob_submitter": "Swan Chain",
     "blobs": 7,
-    "time": "2025-09-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Phala Network",
-    "blobs": 16,
     "time": "2025-09-01 00:00:00.000 UTC"
   },
   {
@@ -30,11 +30,6 @@
     "time": "2025-09-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 145,
-    "time": "2025-09-01 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "BOB Network",
     "blobs": 18,
     "time": "2025-09-01 00:00:00.000 UTC"
@@ -42,6 +37,11 @@
   {
     "blob_submitter": "Arbitrum One",
     "blobs": 3222,
+    "time": "2025-09-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Phala Network",
+    "blobs": 16,
     "time": "2025-09-01 00:00:00.000 UTC"
   },
   {
@@ -65,13 +65,23 @@
     "time": "2025-09-01 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Ethernity",
+    "blobs": 6,
+    "time": "2025-09-01 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lumio",
     "blobs": 12,
     "time": "2025-09-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 6,
+    "blob_submitter": "World Chain",
+    "blobs": 6156,
+    "time": "2025-09-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 24,
     "time": "2025-09-01 00:00:00.000 UTC"
   },
   {
@@ -87,16 +97,6 @@
   {
     "blob_submitter": "Optopia",
     "blobs": 8,
-    "time": "2025-09-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 6156,
-    "time": "2025-09-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 24,
     "time": "2025-09-01 00:00:00.000 UTC"
   },
   {

@@ -15,11 +15,6 @@
     "time": "2025-06-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 27,
-    "time": "2025-06-03 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Fuel",
     "blobs": 37,
     "time": "2025-06-03 00:00:00.000 UTC"
@@ -27,11 +22,6 @@
   {
     "blob_submitter": "Lisk",
     "blobs": 42,
-    "time": "2025-06-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Codex",
-    "blobs": 50,
     "time": "2025-06-03 00:00:00.000 UTC"
   },
   {
@@ -60,11 +50,6 @@
     "time": "2025-06-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Unichain",
-    "blobs": 870,
-    "time": "2025-06-03 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Metal",
     "blobs": 358,
     "time": "2025-06-03 00:00:00.000 UTC"
@@ -72,6 +57,21 @@
   {
     "blob_submitter": "OP Mainnet",
     "blobs": 1320,
+    "time": "2025-06-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Unichain",
+    "blobs": 870,
+    "time": "2025-06-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 27,
+    "time": "2025-06-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Codex",
+    "blobs": 50,
     "time": "2025-06-03 00:00:00.000 UTC"
   },
   {
@@ -115,6 +115,11 @@
     "time": "2025-06-03 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Polynomial",
+    "blobs": 36,
+    "time": "2025-06-03 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "HashKey",
     "blobs": 36,
     "time": "2025-06-03 00:00:00.000 UTC"
@@ -152,26 +157,6 @@
   {
     "blob_submitter": "pegglecoin",
     "blobs": 26,
-    "time": "2025-06-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 36,
-    "time": "2025-06-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Abstract",
-    "blobs": 1030,
-    "time": "2025-06-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Morph",
-    "blobs": 72,
-    "time": "2025-06-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Settlus",
-    "blobs": 16,
     "time": "2025-06-03 00:00:00.000 UTC"
   }
 ]

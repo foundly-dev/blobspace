@@ -5,11 +5,6 @@
     "time": "2025-09-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Morph",
-    "blobs": 145,
-    "time": "2025-09-06 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "HashKey",
     "blobs": 38,
     "time": "2025-09-06 00:00:00.000 UTC"
@@ -22,16 +17,6 @@
   {
     "blob_submitter": "Lumio",
     "blobs": 9,
-    "time": "2025-09-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 513,
-    "time": "2025-09-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 972,
     "time": "2025-09-06 00:00:00.000 UTC"
   },
   {
@@ -60,6 +45,21 @@
     "time": "2025-09-06 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Morph",
+    "blobs": 145,
+    "time": "2025-09-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 513,
+    "time": "2025-09-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 972,
+    "time": "2025-09-06 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "RACE",
     "blobs": 24,
     "time": "2025-09-06 00:00:00.000 UTC"
@@ -85,13 +85,13 @@
     "time": "2025-09-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 357,
+    "blob_submitter": "StarkNet",
+    "blobs": 264,
     "time": "2025-09-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 264,
+    "blob_submitter": "Metal",
+    "blobs": 357,
     "time": "2025-09-06 00:00:00.000 UTC"
   },
   {
@@ -112,6 +112,11 @@
   {
     "blob_submitter": "Linea",
     "blobs": 144,
+    "time": "2025-09-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 138,
     "time": "2025-09-06 00:00:00.000 UTC"
   },
   {
@@ -147,11 +152,6 @@
   {
     "blob_submitter": "Debank Chain",
     "blobs": 19,
-    "time": "2025-09-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
-    "blobs": 138,
     "time": "2025-09-06 00:00:00.000 UTC"
   },
   {

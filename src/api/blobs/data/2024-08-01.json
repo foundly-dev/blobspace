@@ -5,17 +5,7 @@
     "time": "2024-08-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 19,
-    "time": "2024-08-01 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "RACE",
-    "blobs": 76,
-    "time": "2024-08-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
     "blobs": 76,
     "time": "2024-08-01 00:00:00.000 UTC"
   },
@@ -35,6 +25,11 @@
     "time": "2024-08-01 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "ZORA",
+    "blobs": 76,
+    "time": "2024-08-01 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Zircuit",
     "blobs": 513,
     "time": "2024-08-01 00:00:00.000 UTC"
@@ -50,6 +45,11 @@
     "time": "2024-08-01 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Debank Chain",
+    "blobs": 35,
+    "time": "2024-08-01 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "StarkNet",
     "blobs": 297,
     "time": "2024-08-01 00:00:00.000 UTC"
@@ -60,8 +60,8 @@
     "time": "2024-08-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 35,
+    "blob_submitter": "Inscriptions",
+    "blobs": 19,
     "time": "2024-08-01 00:00:00.000 UTC"
   },
   {
@@ -112,6 +112,11 @@
   {
     "blob_submitter": "Paradex",
     "blobs": 291,
+    "time": "2024-08-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 238,
     "time": "2024-08-01 00:00:00.000 UTC"
   },
   {

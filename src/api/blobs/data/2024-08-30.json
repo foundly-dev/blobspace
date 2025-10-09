@@ -25,13 +25,8 @@
     "time": "2024-08-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Snaxchain",
-    "blobs": 16,
-    "time": "2024-08-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 16,
+    "blob_submitter": "Taiko",
+    "blobs": 2728,
     "time": "2024-08-30 00:00:00.000 UTC"
   },
   {
@@ -40,18 +35,13 @@
     "time": "2024-08-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 2728,
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
     "time": "2024-08-30 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "ZORA",
     "blobs": 81,
-    "time": "2024-08-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 60,
     "time": "2024-08-30 00:00:00.000 UTC"
   },
   {
@@ -67,6 +57,16 @@
   {
     "blob_submitter": "Inscriptions",
     "blobs": 1,
+    "time": "2024-08-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 60,
+    "time": "2024-08-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Snaxchain",
+    "blobs": 16,
     "time": "2024-08-30 00:00:00.000 UTC"
   },
   {
@@ -110,6 +110,16 @@
     "time": "2024-08-30 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Scroll",
+    "blobs": 438,
+    "time": "2024-08-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "PandaSea",
+    "blobs": 24,
+    "time": "2024-08-30 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "RACE",
     "blobs": 76,
     "time": "2024-08-30 00:00:00.000 UTC"
@@ -117,21 +127,6 @@
   {
     "blob_submitter": "Optopia",
     "blobs": 71,
-    "time": "2024-08-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1005,
-    "time": "2024-08-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2061,
-    "time": "2024-08-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
     "time": "2024-08-30 00:00:00.000 UTC"
   }
 ]

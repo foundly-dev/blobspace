@@ -1,5 +1,35 @@
 [
   {
+    "blob_submitter": "Boba Network",
+    "blobs": 25,
+    "time": "2025-05-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 24,
+    "time": "2025-05-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 358,
+    "time": "2025-05-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 40,
+    "time": "2025-05-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 92,
+    "time": "2025-05-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERϴ Network",
+    "blobs": 3,
+    "time": "2025-05-31 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Kroma",
     "blobs": 76,
     "time": "2025-05-31 00:00:00.000 UTC"
@@ -22,36 +52,6 @@
   {
     "blob_submitter": "Shape",
     "blobs": 205,
-    "time": "2025-05-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 24,
-    "time": "2025-05-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 358,
-    "time": "2025-05-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 40,
-    "time": "2025-05-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 25,
-    "time": "2025-05-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 92,
-    "time": "2025-05-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERϴ Network",
-    "blobs": 3,
     "time": "2025-05-31 00:00:00.000 UTC"
   },
   {
@@ -142,11 +142,6 @@
   {
     "blob_submitter": "StarkNet",
     "blobs": 162,
-    "time": "2025-05-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Codex",
-    "blobs": 16,
     "time": "2025-05-31 00:00:00.000 UTC"
   }
 ]

@@ -10,11 +10,6 @@
     "time": "2024-12-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 484,
-    "time": "2024-12-04 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Base",
     "blobs": 8705,
     "time": "2024-12-04 00:00:00.000 UTC"
@@ -45,18 +40,23 @@
     "time": "2024-12-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 115,
-    "time": "2024-12-04 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Hemi",
     "blobs": 7,
     "time": "2024-12-04 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Scroll",
+    "blobs": 115,
+    "time": "2024-12-04 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Ethernity",
     "blobs": 5,
+    "time": "2024-12-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 484,
     "time": "2024-12-04 00:00:00.000 UTC"
   },
   {
@@ -95,13 +95,13 @@
     "time": "2024-12-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "pegglecoin",
-    "blobs": 12,
+    "blob_submitter": "Linea",
+    "blobs": 146,
     "time": "2024-12-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 146,
+    "blob_submitter": "pegglecoin",
+    "blobs": 12,
     "time": "2024-12-04 00:00:00.000 UTC"
   },
   {
@@ -132,11 +132,6 @@
   {
     "blob_submitter": "Swan Chain",
     "blobs": 16,
-    "time": "2024-12-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 118,
     "time": "2024-12-04 00:00:00.000 UTC"
   }
 ]

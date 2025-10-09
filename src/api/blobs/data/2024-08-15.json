@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "Others",
-    "blobs": 143,
-    "time": "2024-08-15 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Boba Network",
     "blobs": 47,
     "time": "2024-08-15 00:00:00.000 UTC"
@@ -27,6 +22,11 @@
   {
     "blob_submitter": "Arbitrum One",
     "blobs": 2343,
+    "time": "2024-08-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 143,
     "time": "2024-08-15 00:00:00.000 UTC"
   },
   {
@@ -112,11 +112,6 @@
   {
     "blob_submitter": "Lambda",
     "blobs": 14,
-    "time": "2024-08-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 34,
     "time": "2024-08-15 00:00:00.000 UTC"
   }
 ]

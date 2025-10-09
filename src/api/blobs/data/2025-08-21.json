@@ -15,11 +15,6 @@
     "time": "2025-08-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "HashKey",
-    "blobs": 44,
-    "time": "2025-08-21 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Blast",
     "blobs": 348,
     "time": "2025-08-21 00:00:00.000 UTC"
@@ -40,8 +35,13 @@
     "time": "2025-08-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 80,
+    "blob_submitter": "Metis",
+    "blobs": 52,
+    "time": "2025-08-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 224,
     "time": "2025-08-21 00:00:00.000 UTC"
   },
   {
@@ -52,16 +52,6 @@
   {
     "blob_submitter": "Morph",
     "blobs": 56,
-    "time": "2025-08-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metis",
-    "blobs": 52,
-    "time": "2025-08-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 224,
     "time": "2025-08-21 00:00:00.000 UTC"
   },
   {
@@ -92,6 +82,16 @@
   {
     "blob_submitter": "Superseed",
     "blobs": 16,
+    "time": "2025-08-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "HashKey",
+    "blobs": 44,
+    "time": "2025-08-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 80,
     "time": "2025-08-21 00:00:00.000 UTC"
   },
   {
@@ -130,6 +130,11 @@
     "time": "2025-08-21 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
+    "time": "2025-08-21 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Mode",
     "blobs": 114,
     "time": "2025-08-21 00:00:00.000 UTC"
@@ -145,8 +150,13 @@
     "time": "2025-08-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1446,
+    "time": "2025-08-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 294,
     "time": "2025-08-21 00:00:00.000 UTC"
   },
   {

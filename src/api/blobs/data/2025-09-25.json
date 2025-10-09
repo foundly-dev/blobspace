@@ -5,11 +5,6 @@
     "time": "2025-09-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 88,
-    "time": "2025-09-25 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Base",
     "blobs": 14660,
     "time": "2025-09-25 00:00:00.000 UTC"
@@ -20,13 +15,13 @@
     "time": "2025-09-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
+    "blob_submitter": "Katana",
+    "blobs": 215,
     "time": "2025-09-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 321,
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
     "time": "2025-09-25 00:00:00.000 UTC"
   },
   {
@@ -50,11 +45,6 @@
     "time": "2025-09-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Katana",
-    "blobs": 215,
-    "time": "2025-09-25 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "OP Mainnet",
     "blobs": 1824,
     "time": "2025-09-25 00:00:00.000 UTC"
@@ -65,13 +55,13 @@
     "time": "2025-09-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 20,
+    "blob_submitter": "Optopia",
+    "blobs": 7,
     "time": "2025-09-25 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 7,
+    "blob_submitter": "Debank Chain",
+    "blobs": 20,
     "time": "2025-09-25 00:00:00.000 UTC"
   },
   {
@@ -82,6 +72,16 @@
   {
     "blob_submitter": "Swellchain",
     "blobs": 50,
+    "time": "2025-09-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 88,
+    "time": "2025-09-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 321,
     "time": "2025-09-25 00:00:00.000 UTC"
   },
   {
@@ -140,6 +140,21 @@
     "time": "2025-09-25 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
+    "time": "2025-09-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 232,
+    "time": "2025-09-25 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 5,
+    "time": "2025-09-25 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Shape",
     "blobs": 763,
     "time": "2025-09-25 00:00:00.000 UTC"
@@ -147,16 +162,6 @@
   {
     "blob_submitter": "Blast",
     "blobs": 331,
-    "time": "2025-09-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Morph",
-    "blobs": 104,
-    "time": "2025-09-25 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Snaxchain",
-    "blobs": 5,
     "time": "2025-09-25 00:00:00.000 UTC"
   }
 ]

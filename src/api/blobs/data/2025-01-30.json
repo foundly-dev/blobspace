@@ -5,11 +5,6 @@
     "time": "2025-01-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 3692,
-    "time": "2025-01-30 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Ethernity",
     "blobs": 5,
     "time": "2025-01-30 00:00:00.000 UTC"
@@ -27,11 +22,6 @@
   {
     "blob_submitter": "Blast",
     "blobs": 439,
-    "time": "2025-01-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Unichain",
-    "blobs": 24,
     "time": "2025-01-30 00:00:00.000 UTC"
   },
   {
@@ -70,6 +60,16 @@
     "time": "2025-01-30 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Taiko",
+    "blobs": 3692,
+    "time": "2025-01-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Unichain",
+    "blobs": 24,
+    "time": "2025-01-30 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Mint",
     "blobs": 276,
     "time": "2025-01-30 00:00:00.000 UTC"
@@ -85,13 +85,13 @@
     "time": "2025-01-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1848,
+    "blob_submitter": "Lighter",
+    "blobs": 17,
     "time": "2025-01-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lighter",
-    "blobs": 17,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1848,
     "time": "2025-01-30 00:00:00.000 UTC"
   },
   {
@@ -150,23 +150,18 @@
     "time": "2025-01-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
-    "time": "2025-01-30 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "ZERϴ Network",
     "blobs": 4,
     "time": "2025-01-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 357,
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
     "time": "2025-01-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Infinaeon",
-    "blobs": 8,
+    "blob_submitter": "Metal",
+    "blobs": 357,
     "time": "2025-01-30 00:00:00.000 UTC"
   }
 ]

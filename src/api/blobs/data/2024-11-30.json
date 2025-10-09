@@ -10,18 +10,8 @@
     "time": "2024-11-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZERϴ Network",
-    "blobs": 24,
-    "time": "2024-11-30 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "zkSync Era",
     "blobs": 98,
-    "time": "2024-11-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 8,
     "time": "2024-11-30 00:00:00.000 UTC"
   },
   {
@@ -47,6 +37,16 @@
   {
     "blob_submitter": "Swan Chain",
     "blobs": 17,
+    "time": "2024-11-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERϴ Network",
+    "blobs": 24,
+    "time": "2024-11-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "R0AR Chain",
+    "blobs": 8,
     "time": "2024-11-30 00:00:00.000 UTC"
   },
   {
@@ -125,13 +125,28 @@
     "time": "2024-11-30 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
+    "blob_submitter": "Optopia",
+    "blobs": 12,
+    "time": "2024-11-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "PandaSea",
+    "blobs": 8,
+    "time": "2024-11-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
     "time": "2024-11-30 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "StarkNet",
     "blobs": 71,
+    "time": "2024-11-30 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 6,
     "time": "2024-11-30 00:00:00.000 UTC"
   },
   {
@@ -142,11 +157,6 @@
   {
     "blob_submitter": "Binary",
     "blobs": 8,
-    "time": "2024-11-30 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 8210,
     "time": "2024-11-30 00:00:00.000 UTC"
   }
 ]

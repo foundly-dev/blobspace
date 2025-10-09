@@ -5,21 +5,6 @@
     "time": "2024-06-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 184,
-    "time": "2024-06-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 5510,
-    "time": "2024-06-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 17,
-    "time": "2024-06-21 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "StarkNet",
     "blobs": 231,
     "time": "2024-06-21 00:00:00.000 UTC"
@@ -27,6 +12,16 @@
   {
     "blob_submitter": "ZORA",
     "blobs": 108,
+    "time": "2024-06-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 184,
+    "time": "2024-06-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 17,
     "time": "2024-06-21 00:00:00.000 UTC"
   },
   {
@@ -52,6 +47,11 @@
   {
     "blob_submitter": "Parallel",
     "blobs": 30,
+    "time": "2024-06-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 5510,
     "time": "2024-06-21 00:00:00.000 UTC"
   },
   {
@@ -97,11 +97,6 @@
   {
     "blob_submitter": "OP Mainnet",
     "blobs": 2125,
-    "time": "2024-06-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 6,
     "time": "2024-06-21 00:00:00.000 UTC"
   }
 ]

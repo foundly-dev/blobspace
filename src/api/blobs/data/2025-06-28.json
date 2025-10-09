@@ -5,16 +5,6 @@
     "time": "2025-06-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 228,
-    "time": "2025-06-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 17,
-    "time": "2025-06-28 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Kroma",
     "blobs": 76,
     "time": "2025-06-28 00:00:00.000 UTC"
@@ -25,18 +15,28 @@
     "time": "2025-06-28 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Taiko",
+    "blobs": 2114,
+    "time": "2025-06-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "HashKey",
+    "blobs": 40,
+    "time": "2025-06-28 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Mint",
     "blobs": 54,
     "time": "2025-06-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 63,
+    "blob_submitter": "Blast",
+    "blobs": 372,
     "time": "2025-06-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 372,
+    "blob_submitter": "Linea",
+    "blobs": 63,
     "time": "2025-06-28 00:00:00.000 UTC"
   },
   {
@@ -47,16 +47,6 @@
   {
     "blob_submitter": "Morph",
     "blobs": 90,
-    "time": "2025-06-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 2114,
-    "time": "2025-06-28 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "HashKey",
-    "blobs": 40,
     "time": "2025-06-28 00:00:00.000 UTC"
   },
   {
@@ -90,6 +80,16 @@
     "time": "2025-06-28 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Shape",
+    "blobs": 228,
+    "time": "2025-06-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 17,
+    "time": "2025-06-28 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Soneium",
     "blobs": 1250,
     "time": "2025-06-28 00:00:00.000 UTC"
@@ -120,13 +120,13 @@
     "time": "2025-06-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 29,
+    "blob_submitter": "Snaxchain",
+    "blobs": 16,
     "time": "2025-06-28 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Snaxchain",
-    "blobs": 16,
+    "blob_submitter": "Boba Network",
+    "blobs": 29,
     "time": "2025-06-28 00:00:00.000 UTC"
   },
   {
@@ -167,6 +167,11 @@
   {
     "blob_submitter": "Base",
     "blobs": 9642,
+    "time": "2025-06-28 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1881,
     "time": "2025-06-28 00:00:00.000 UTC"
   },
   {

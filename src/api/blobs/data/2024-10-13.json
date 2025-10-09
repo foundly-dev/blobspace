@@ -5,11 +5,6 @@
     "time": "2024-10-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 15,
-    "time": "2024-10-13 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Swan Chain",
     "blobs": 76,
     "time": "2024-10-13 00:00:00.000 UTC"
@@ -20,23 +15,8 @@
     "time": "2024-10-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 159,
-    "time": "2024-10-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 24,
-    "time": "2024-10-13 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Mint",
     "blobs": 86,
-    "time": "2024-10-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 115,
     "time": "2024-10-13 00:00:00.000 UTC"
   },
   {
@@ -45,8 +25,28 @@
     "time": "2024-10-13 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Linea",
+    "blobs": 115,
+    "time": "2024-10-13 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Snaxchain",
     "blobs": 16,
+    "time": "2024-10-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 15,
+    "time": "2024-10-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 159,
+    "time": "2024-10-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "R0AR Chain",
+    "blobs": 24,
     "time": "2024-10-13 00:00:00.000 UTC"
   },
   {
@@ -105,6 +105,11 @@
     "time": "2024-10-13 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Optopia",
+    "blobs": 70,
+    "time": "2024-10-13 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Base",
     "blobs": 6155,
     "time": "2024-10-13 00:00:00.000 UTC"
@@ -132,11 +137,6 @@
   {
     "blob_submitter": "Fuel",
     "blobs": 186,
-    "time": "2024-10-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 70,
     "time": "2024-10-13 00:00:00.000 UTC"
   }
 ]

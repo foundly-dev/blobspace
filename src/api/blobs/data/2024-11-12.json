@@ -5,13 +5,8 @@
     "time": "2024-11-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 54,
-    "time": "2024-11-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERϴ Network",
-    "blobs": 4,
+    "blob_submitter": "Shape",
+    "blobs": 26,
     "time": "2024-11-12 00:00:00.000 UTC"
   },
   {
@@ -22,16 +17,6 @@
   {
     "blob_submitter": "Lumio",
     "blobs": 16,
-    "time": "2024-11-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 76,
-    "time": "2024-11-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 50,
     "time": "2024-11-12 00:00:00.000 UTC"
   },
   {
@@ -50,11 +35,6 @@
     "time": "2024-11-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 26,
-    "time": "2024-11-12 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Mode",
     "blobs": 41,
     "time": "2024-11-12 00:00:00.000 UTC"
@@ -62,6 +42,26 @@
   {
     "blob_submitter": "Superseed",
     "blobs": 16,
+    "time": "2024-11-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 54,
+    "time": "2024-11-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERϴ Network",
+    "blobs": 4,
+    "time": "2024-11-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 76,
+    "time": "2024-11-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 50,
     "time": "2024-11-12 00:00:00.000 UTC"
   },
   {
@@ -100,6 +100,11 @@
     "time": "2024-11-12 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Metal",
+    "blobs": 357,
+    "time": "2024-11-12 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Unichain",
     "blobs": 40,
     "time": "2024-11-12 00:00:00.000 UTC"
@@ -107,11 +112,6 @@
   {
     "blob_submitter": "Optopia",
     "blobs": 16,
-    "time": "2024-11-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 357,
     "time": "2024-11-12 00:00:00.000 UTC"
   },
   {
@@ -132,6 +132,11 @@
   {
     "blob_submitter": "River",
     "blobs": 568,
+    "time": "2024-11-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 221,
     "time": "2024-11-12 00:00:00.000 UTC"
   },
   {
@@ -160,18 +165,13 @@
     "time": "2024-11-12 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Kinto",
+    "blobs": 6,
+    "time": "2024-11-12 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Polynomial",
     "blobs": 12,
-    "time": "2024-11-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 221,
-    "time": "2024-11-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 418,
     "time": "2024-11-12 00:00:00.000 UTC"
   }
 ]

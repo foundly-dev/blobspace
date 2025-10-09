@@ -1,5 +1,10 @@
 [
   {
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
+    "time": "2025-09-07 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Arbitrum One",
     "blobs": 2550,
     "time": "2025-09-07 00:00:00.000 UTC"
@@ -7,11 +12,6 @@
   {
     "blob_submitter": "Unichain",
     "blobs": 558,
-    "time": "2025-09-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
     "time": "2025-09-07 00:00:00.000 UTC"
   },
   {
@@ -50,13 +50,13 @@
     "time": "2025-09-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Infinaeon",
-    "blobs": 10,
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
     "time": "2025-09-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
+    "blob_submitter": "Infinaeon",
+    "blobs": 10,
     "time": "2025-09-07 00:00:00.000 UTC"
   },
   {
@@ -115,6 +115,11 @@
     "time": "2025-09-07 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Taiko",
+    "blobs": 500,
+    "time": "2025-09-07 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Morph",
     "blobs": 144,
     "time": "2025-09-07 00:00:00.000 UTC"
@@ -160,6 +165,16 @@
     "time": "2025-09-07 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "HashKey",
+    "blobs": 38,
+    "time": "2025-09-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2025-09-07 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Boba Network",
     "blobs": 29,
     "time": "2025-09-07 00:00:00.000 UTC"
@@ -167,16 +182,6 @@
   {
     "blob_submitter": "Settlus",
     "blobs": 16,
-    "time": "2025-09-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 500,
-    "time": "2025-09-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metis",
-    "blobs": 44,
     "time": "2025-09-07 00:00:00.000 UTC"
   }
 ]

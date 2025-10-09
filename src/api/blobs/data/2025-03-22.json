@@ -1,7 +1,12 @@
 [
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1535,
+    "blob_submitter": "Ink",
+    "blobs": 152,
+    "time": "2025-03-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 38,
     "time": "2025-03-22 00:00:00.000 UTC"
   },
   {
@@ -15,18 +20,8 @@
     "time": "2025-03-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 38,
-    "time": "2025-03-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "pegglecoin",
-    "blobs": 39,
-    "time": "2025-03-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "HashKey",
-    "blobs": 68,
+    "blob_submitter": "Metal",
+    "blobs": 358,
     "time": "2025-03-22 00:00:00.000 UTC"
   },
   {
@@ -35,18 +30,8 @@
     "time": "2025-03-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 358,
-    "time": "2025-03-22 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Optopia",
     "blobs": 8,
-    "time": "2025-03-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ink",
-    "blobs": 152,
     "time": "2025-03-22 00:00:00.000 UTC"
   },
   {
@@ -77,6 +62,21 @@
   {
     "blob_submitter": "Scroll",
     "blobs": 34,
+    "time": "2025-03-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1535,
+    "time": "2025-03-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "pegglecoin",
+    "blobs": 39,
+    "time": "2025-03-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "HashKey",
+    "blobs": 68,
     "time": "2025-03-22 00:00:00.000 UTC"
   },
   {
@@ -152,11 +152,6 @@
   {
     "blob_submitter": "Taiko",
     "blobs": 2686,
-    "time": "2025-03-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 792,
     "time": "2025-03-22 00:00:00.000 UTC"
   }
 ]

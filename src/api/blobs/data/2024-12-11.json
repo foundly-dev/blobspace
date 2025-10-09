@@ -25,6 +25,11 @@
     "time": "2024-12-11 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Fuel",
+    "blobs": 257,
+    "time": "2024-12-11 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lisk",
     "blobs": 240,
     "time": "2024-12-11 00:00:00.000 UTC"
@@ -45,18 +50,13 @@
     "time": "2024-12-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Fuel",
-    "blobs": 257,
+    "blob_submitter": "Mode",
+    "blobs": 39,
     "time": "2024-12-11 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "RACE",
     "blobs": 24,
-    "time": "2024-12-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 39,
     "time": "2024-12-11 00:00:00.000 UTC"
   },
   {
@@ -80,18 +80,23 @@
     "time": "2024-12-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 49,
-    "time": "2024-12-11 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "StarkNet",
     "blobs": 24,
     "time": "2024-12-11 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Paradex",
+    "blobs": 49,
+    "time": "2024-12-11 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Nal",
     "blobs": 56,
+    "time": "2024-12-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 33,
     "time": "2024-12-11 00:00:00.000 UTC"
   },
   {
@@ -142,26 +147,6 @@
   {
     "blob_submitter": "pegglecoin",
     "blobs": 12,
-    "time": "2024-12-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 33,
-    "time": "2024-12-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 2436,
-    "time": "2024-12-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2024-12-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 33,
     "time": "2024-12-11 00:00:00.000 UTC"
   }
 ]

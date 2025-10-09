@@ -15,11 +15,6 @@
     "time": "2025-09-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 240,
-    "time": "2025-09-21 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Abstract",
     "blobs": 325,
     "time": "2025-09-21 00:00:00.000 UTC"
@@ -80,6 +75,11 @@
     "time": "2025-09-21 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "StarkNet",
+    "blobs": 240,
+    "time": "2025-09-21 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Arbitrum One",
     "blobs": 2211,
     "time": "2025-09-21 00:00:00.000 UTC"
@@ -115,6 +115,11 @@
     "time": "2025-09-21 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Base",
+    "blobs": 16355,
+    "time": "2025-09-21 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lisk",
     "blobs": 77,
     "time": "2025-09-21 00:00:00.000 UTC"
@@ -145,6 +150,16 @@
     "time": "2025-09-21 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Debank Chain",
+    "blobs": 29,
+    "time": "2025-09-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERϴ Network",
+    "blobs": 3,
+    "time": "2025-09-21 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "RACE",
     "blobs": 24,
     "time": "2025-09-21 00:00:00.000 UTC"
@@ -157,16 +172,6 @@
   {
     "blob_submitter": "Optopia",
     "blobs": 8,
-    "time": "2025-09-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 16355,
-    "time": "2025-09-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
     "time": "2025-09-21 00:00:00.000 UTC"
   }
 ]

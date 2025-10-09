@@ -10,18 +10,8 @@
     "time": "2025-03-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Nal",
-    "blobs": 7,
-    "time": "2025-03-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 24,
-    "time": "2025-03-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 7855,
+    "blob_submitter": "Ethernity",
+    "blobs": 4,
     "time": "2025-03-02 00:00:00.000 UTC"
   },
   {
@@ -35,18 +25,13 @@
     "time": "2025-03-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Morph",
-    "blobs": 109,
+    "blob_submitter": "Base",
+    "blobs": 7855,
     "time": "2025-03-02 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Debank Chain",
     "blobs": 20,
-    "time": "2025-03-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 4,
     "time": "2025-03-02 00:00:00.000 UTC"
   },
   {
@@ -62,6 +47,21 @@
   {
     "blob_submitter": "Lighter",
     "blobs": 25,
+    "time": "2025-03-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 24,
+    "time": "2025-03-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 7,
+    "time": "2025-03-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Morph",
+    "blobs": 109,
     "time": "2025-03-02 00:00:00.000 UTC"
   },
   {
@@ -115,13 +115,13 @@
     "time": "2025-03-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1998,
     "time": "2025-03-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1998,
+    "blob_submitter": "Kinto",
+    "blobs": 6,
     "time": "2025-03-02 00:00:00.000 UTC"
   },
   {
@@ -177,11 +177,6 @@
   {
     "blob_submitter": "Others",
     "blobs": 113,
-    "time": "2025-03-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERϴ Network",
-    "blobs": 8,
     "time": "2025-03-02 00:00:00.000 UTC"
   }
 ]
