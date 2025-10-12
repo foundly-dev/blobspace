@@ -1,7 +1,12 @@
 [
   {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
+    "blob_submitter": "Snaxchain",
+    "blobs": 16,
+    "time": "2025-02-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 34,
     "time": "2025-02-06 00:00:00.000 UTC"
   },
   {
@@ -15,38 +20,18 @@
     "time": "2025-02-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Snaxchain",
-    "blobs": 16,
-    "time": "2025-02-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 34,
-    "time": "2025-02-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 66,
-    "time": "2025-02-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 51,
-    "time": "2025-02-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swell",
-    "blobs": 26,
-    "time": "2025-02-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
-    "blobs": 7,
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
     "time": "2025-02-06 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Debank Chain",
     "blobs": 16,
+    "time": "2025-02-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 25,
     "time": "2025-02-06 00:00:00.000 UTC"
   },
   {
@@ -65,53 +50,33 @@
     "time": "2025-02-06 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Swell",
+    "blobs": 26,
+    "time": "2025-02-06 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Binary",
     "blobs": 149,
     "time": "2025-02-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 25,
+    "blob_submitter": "Hemi",
+    "blobs": 7,
     "time": "2025-02-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 456,
+    "blob_submitter": "Mode",
+    "blobs": 51,
     "time": "2025-02-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
+    "blob_submitter": "Scroll",
+    "blobs": 66,
     "time": "2025-02-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 33,
-    "time": "2025-02-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 30,
-    "time": "2025-02-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 2436,
-    "time": "2025-02-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 87,
-    "time": "2025-02-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 358,
-    "time": "2025-02-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 3785,
+    "blob_submitter": "Linea",
+    "blobs": 91,
     "time": "2025-02-06 00:00:00.000 UTC"
   },
   {
@@ -127,11 +92,6 @@
   {
     "blob_submitter": "Swan Chain",
     "blobs": 7,
-    "time": "2025-02-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 91,
     "time": "2025-02-06 00:00:00.000 UTC"
   },
   {
@@ -165,8 +125,58 @@
     "time": "2025-02-06 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Others",
+    "blobs": 96,
+    "time": "2025-02-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 65,
+    "time": "2025-02-06 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Morph",
     "blobs": 105,
+    "time": "2025-02-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 17,
+    "time": "2025-02-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "HashKey",
+    "blobs": 37,
+    "time": "2025-02-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 2436,
+    "time": "2025-02-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 87,
+    "time": "2025-02-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 30,
+    "time": "2025-02-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 3785,
+    "time": "2025-02-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 358,
+    "time": "2025-02-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 33,
     "time": "2025-02-06 00:00:00.000 UTC"
   }
 ]
