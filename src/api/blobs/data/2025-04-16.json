@@ -1,17 +1,42 @@
 [
   {
-    "blob_submitter": "Swellchain",
-    "blobs": 26,
+    "blob_submitter": "Linea",
+    "blobs": 75,
     "time": "2025-04-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Codex",
+    "blob_submitter": "Snaxchain",
     "blobs": 16,
     "time": "2025-04-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 33,
+    "blob_submitter": "pegglecoin",
+    "blobs": 43,
+    "time": "2025-04-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "HashKey",
+    "blobs": 47,
+    "time": "2025-04-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 3036,
+    "time": "2025-04-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2025-04-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 895,
+    "time": "2025-04-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "BOB Network",
+    "blobs": 35,
     "time": "2025-04-16 00:00:00.000 UTC"
   },
   {
@@ -22,6 +47,31 @@
   {
     "blob_submitter": "Fuel",
     "blobs": 51,
+    "time": "2025-04-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 522,
+    "time": "2025-04-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 8,
+    "time": "2025-04-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swellchain",
+    "blobs": 26,
+    "time": "2025-04-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 33,
+    "time": "2025-04-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Codex",
+    "blobs": 16,
     "time": "2025-04-16 00:00:00.000 UTC"
   },
   {
@@ -50,6 +100,11 @@
     "time": "2025-04-16 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Morph",
+    "blobs": 125,
+    "time": "2025-04-16 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Mode",
     "blobs": 73,
     "time": "2025-04-16 00:00:00.000 UTC"
@@ -60,13 +115,8 @@
     "time": "2025-04-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Morph",
-    "blobs": 125,
-    "time": "2025-04-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "LaChain",
-    "blobs": 1,
+    "blob_submitter": "Lighter",
+    "blobs": 176,
     "time": "2025-04-16 00:00:00.000 UTC"
   },
   {
@@ -75,18 +125,13 @@
     "time": "2025-04-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
+    "blob_submitter": "LaChain",
+    "blobs": 1,
+    "time": "2025-04-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Infinaeon",
     "blobs": 8,
-    "time": "2025-04-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
-    "blobs": 87,
-    "time": "2025-04-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 681,
     "time": "2025-04-16 00:00:00.000 UTC"
   },
   {
@@ -100,83 +145,28 @@
     "time": "2025-04-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 196,
-    "time": "2025-04-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 53,
-    "time": "2025-04-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 33,
-    "time": "2025-04-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 28,
-    "time": "2025-04-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ink",
-    "blobs": 154,
-    "time": "2025-04-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 96,
-    "time": "2025-04-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 34,
-    "time": "2025-04-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2025-04-16 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Kinto",
     "blobs": 5,
     "time": "2025-04-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Snaxchain",
-    "blobs": 16,
+    "blob_submitter": "RACE",
+    "blobs": 196,
     "time": "2025-04-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 75,
+    "blob_submitter": "Hemi",
+    "blobs": 87,
     "time": "2025-04-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "pegglecoin",
-    "blobs": 43,
+    "blob_submitter": "Soneium",
+    "blobs": 681,
     "time": "2025-04-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "HashKey",
-    "blobs": 47,
-    "time": "2025-04-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Infinaeon",
+    "blob_submitter": "Binary",
     "blobs": 8,
-    "time": "2025-04-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
-    "time": "2025-04-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 895,
     "time": "2025-04-16 00:00:00.000 UTC"
   }
 ]

@@ -1,55 +1,5 @@
 [
   {
-    "blob_submitter": "Lambda",
-    "blobs": 15,
-    "time": "2024-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 135,
-    "time": "2024-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 24,
-    "time": "2024-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 72,
-    "time": "2024-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 1372,
-    "time": "2024-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 162,
-    "time": "2024-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 925,
-    "time": "2024-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 7,
-    "time": "2024-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 5142,
-    "time": "2024-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 360,
-    "time": "2024-06-16 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Parallel",
     "blobs": 16,
     "time": "2024-06-16 00:00:00.000 UTC"
@@ -60,8 +10,13 @@
     "time": "2024-06-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 15,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2127,
+    "time": "2024-06-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 21,
     "time": "2024-06-16 00:00:00.000 UTC"
   },
   {
@@ -70,13 +25,43 @@
     "time": "2024-06-16 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Mint",
+    "blobs": 15,
+    "time": "2024-06-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 15,
+    "time": "2024-06-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 135,
+    "time": "2024-06-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "BOB Network",
+    "blobs": 35,
+    "time": "2024-06-16 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "zkSync Era",
     "blobs": 297,
     "time": "2024-06-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 21,
+    "blob_submitter": "Mode",
+    "blobs": 162,
+    "time": "2024-06-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 72,
+    "time": "2024-06-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 24,
     "time": "2024-06-16 00:00:00.000 UTC"
   }
 ]

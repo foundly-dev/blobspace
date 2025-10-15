@@ -1,5 +1,40 @@
 [
   {
+    "blob_submitter": "StarkNet",
+    "blobs": 282,
+    "time": "2024-05-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 601,
+    "time": "2024-05-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 22,
+    "time": "2024-05-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 184,
+    "time": "2024-05-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 361,
+    "time": "2024-05-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1962,
+    "time": "2024-05-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "BOB Network",
+    "blobs": 46,
+    "time": "2024-05-24 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Scroll",
     "blobs": 1443,
     "time": "2024-05-24 00:00:00.000 UTC"
@@ -7,6 +42,11 @@
   {
     "blob_submitter": "Boba Network",
     "blobs": 48,
+    "time": "2024-05-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 18,
     "time": "2024-05-24 00:00:00.000 UTC"
   },
   {
@@ -25,8 +65,8 @@
     "time": "2024-05-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 18,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2808,
     "time": "2024-05-24 00:00:00.000 UTC"
   },
   {
@@ -35,38 +75,8 @@
     "time": "2024-05-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 21,
-    "time": "2024-05-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2808,
-    "time": "2024-05-24 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Optopia",
     "blobs": 72,
-    "time": "2024-05-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1962,
-    "time": "2024-05-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 601,
-    "time": "2024-05-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 22,
-    "time": "2024-05-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 361,
     "time": "2024-05-24 00:00:00.000 UTC"
   }
 ]

@@ -1,5 +1,55 @@
 [
   {
+    "blob_submitter": "Unichain",
+    "blobs": 873,
+    "time": "2025-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
+    "time": "2025-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swellchain",
+    "blobs": 40,
+    "time": "2025-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 22,
+    "time": "2025-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Phala Network",
+    "blobs": 16,
+    "time": "2025-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lighter",
+    "blobs": 181,
+    "time": "2025-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Codex",
+    "blobs": 103,
+    "time": "2025-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 78,
+    "time": "2025-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 8,
+    "time": "2025-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 18,
+    "time": "2025-07-27 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Katana",
     "blobs": 206,
     "time": "2025-07-27 00:00:00.000 UTC"
@@ -60,8 +110,8 @@
     "time": "2025-07-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Snaxchain",
-    "blobs": 16,
+    "blob_submitter": "Base",
+    "blobs": 10914,
     "time": "2025-07-27 00:00:00.000 UTC"
   },
   {
@@ -70,8 +120,28 @@
     "time": "2025-07-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 690,
+    "blob_submitter": "Snaxchain",
+    "blobs": 16,
+    "time": "2025-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 24,
+    "time": "2025-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Morph",
+    "blobs": 557,
+    "time": "2025-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2025-07-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 102,
     "time": "2025-07-27 00:00:00.000 UTC"
   },
   {
@@ -85,38 +155,8 @@
     "time": "2025-07-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 24,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 102,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 6126,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 2402,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 10,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Morph",
-    "blobs": 557,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
+    "blob_submitter": "Shape",
+    "blobs": 690,
     "time": "2025-07-27 00:00:00.000 UTC"
   },
   {
@@ -135,53 +175,8 @@
     "time": "2025-07-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Unichain",
-    "blobs": 873,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swellchain",
-    "blobs": 40,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 22,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Phala Network",
-    "blobs": 16,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 18,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lighter",
-    "blobs": 181,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Codex",
-    "blobs": 103,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 78,
-    "time": "2025-07-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
+    "blob_submitter": "R0AR Chain",
+    "blobs": 10,
     "time": "2025-07-27 00:00:00.000 UTC"
   }
 ]

@@ -1,7 +1,47 @@
 [
   {
+    "blob_submitter": "zkSync Era",
+    "blobs": 67,
+    "time": "2024-10-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 5,
+    "time": "2024-10-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Morph",
+    "blobs": 72,
+    "time": "2024-10-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
+    "blobs": 77,
+    "time": "2024-10-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2517,
+    "time": "2024-10-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 50,
+    "time": "2024-10-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 1,
+    "time": "2024-10-23 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Others",
     "blobs": 239,
+    "time": "2024-10-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 60,
     "time": "2024-10-23 00:00:00.000 UTC"
   },
   {
@@ -35,18 +75,18 @@
     "time": "2024-10-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 358,
-    "time": "2024-10-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 506,
+    "blob_submitter": "Mint",
+    "blobs": 76,
     "time": "2024-10-23 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Scroll",
     "blobs": 1025,
+    "time": "2024-10-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1121,
     "time": "2024-10-23 00:00:00.000 UTC"
   },
   {
@@ -60,33 +100,8 @@
     "time": "2024-10-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 55,
-    "time": "2024-10-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 40,
-    "time": "2024-10-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 76,
-    "time": "2024-10-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
-    "time": "2024-10-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 73,
-    "time": "2024-10-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1121,
+    "blob_submitter": "Metal",
+    "blobs": 358,
     "time": "2024-10-23 00:00:00.000 UTC"
   },
   {
@@ -95,33 +110,8 @@
     "time": "2024-10-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 67,
-    "time": "2024-10-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 5,
-    "time": "2024-10-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Morph",
-    "blobs": 72,
-    "time": "2024-10-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 1,
-    "time": "2024-10-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 76,
-    "time": "2024-10-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "XGA",
-    "blobs": 77,
+    "blob_submitter": "Optopia",
+    "blobs": 73,
     "time": "2024-10-23 00:00:00.000 UTC"
   }
 ]

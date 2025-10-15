@@ -1,82 +1,12 @@
 [
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2024-09-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 2501,
-    "time": "2024-09-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 135,
-    "time": "2024-09-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
-    "time": "2024-09-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 76,
-    "time": "2024-09-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1435,
-    "time": "2024-09-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 774,
-    "time": "2024-09-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 229,
-    "time": "2024-09-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 88,
-    "time": "2024-09-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 102,
-    "time": "2024-09-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
+    "blob_submitter": "Others",
     "blobs": 14,
-    "time": "2024-09-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Snaxchain",
-    "blobs": 16,
-    "time": "2024-09-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 47,
-    "time": "2024-09-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 61,
     "time": "2024-09-26 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Scroll",
     "blobs": 479,
-    "time": "2024-09-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 14,
     "time": "2024-09-26 00:00:00.000 UTC"
   },
   {
@@ -100,6 +30,36 @@
     "time": "2024-09-26 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Hemi",
+    "blobs": 60,
+    "time": "2024-09-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 1,
+    "time": "2024-09-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 116,
+    "time": "2024-09-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-09-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 25,
+    "time": "2024-09-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 496,
+    "time": "2024-09-26 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Base",
     "blobs": 4965,
     "time": "2024-09-26 00:00:00.000 UTC"
@@ -110,18 +70,83 @@
     "time": "2024-09-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 496,
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
     "time": "2024-09-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
-    "blobs": 25,
+    "blob_submitter": "Nal",
+    "blobs": 46,
     "time": "2024-09-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
+    "blob_submitter": "Polynomial",
+    "blobs": 9,
+    "time": "2024-09-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2024-09-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 2501,
+    "time": "2024-09-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 135,
+    "time": "2024-09-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1435,
+    "time": "2024-09-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2024-09-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 76,
+    "time": "2024-09-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 229,
+    "time": "2024-09-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 88,
+    "time": "2024-09-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 47,
+    "time": "2024-09-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 14,
+    "time": "2024-09-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 102,
+    "time": "2024-09-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 774,
+    "time": "2024-09-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 61,
     "time": "2024-09-26 00:00:00.000 UTC"
   }
 ]

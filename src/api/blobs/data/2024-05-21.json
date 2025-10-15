@@ -1,12 +1,27 @@
 [
   {
-    "blob_submitter": "Base",
-    "blobs": 3378,
+    "blob_submitter": "Paradex",
+    "blobs": 411,
     "time": "2024-05-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 133,
+    "blob_submitter": "StarkNet",
+    "blobs": 342,
+    "time": "2024-05-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 371,
+    "time": "2024-05-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 71,
+    "time": "2024-05-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 3378,
     "time": "2024-05-21 00:00:00.000 UTC"
   },
   {
@@ -15,8 +30,8 @@
     "time": "2024-05-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 1221,
+    "blob_submitter": "Others",
+    "blobs": 133,
     "time": "2024-05-21 00:00:00.000 UTC"
   },
   {
@@ -35,21 +50,6 @@
     "time": "2024-05-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 47,
-    "time": "2024-05-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1998,
-    "time": "2024-05-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 174,
-    "time": "2024-05-21 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arbitrum One",
     "blobs": 2724,
     "time": "2024-05-21 00:00:00.000 UTC"
@@ -60,23 +60,18 @@
     "time": "2024-05-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 411,
+    "blob_submitter": "Scroll",
+    "blobs": 1221,
     "time": "2024-05-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 342,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1998,
     "time": "2024-05-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
-    "time": "2024-05-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 371,
+    "blob_submitter": "Mode",
+    "blobs": 174,
     "time": "2024-05-21 00:00:00.000 UTC"
   }
 ]
