@@ -1,5 +1,65 @@
 [
   {
+    "blob_submitter": "Nal",
+    "blobs": 24,
+    "time": "2025-01-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Soneium",
+    "blobs": 315,
+    "time": "2025-01-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 7,
+    "time": "2025-01-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 7,
+    "time": "2025-01-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 35,
+    "time": "2025-01-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 8655,
+    "time": "2025-01-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 18,
+    "time": "2025-01-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
+    "time": "2025-01-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 39,
+    "time": "2025-01-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ink",
+    "blobs": 128,
+    "time": "2025-01-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Snaxchain",
+    "blobs": 16,
+    "time": "2025-01-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lighter",
+    "blobs": 22,
+    "time": "2025-01-31 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Mint",
     "blobs": 273,
     "time": "2025-01-31 00:00:00.000 UTC"
@@ -85,13 +145,8 @@
     "time": "2025-01-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "HashKey",
-    "blobs": 41,
-    "time": "2025-01-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "BOB Network",
-    "blobs": 31,
+    "blob_submitter": "Abstract",
+    "blobs": 328,
     "time": "2025-01-31 00:00:00.000 UTC"
   },
   {
@@ -100,23 +155,13 @@
     "time": "2025-01-31 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "BOB Network",
+    "blobs": 31,
+    "time": "2025-01-31 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "OP Mainnet",
     "blobs": 880,
-    "time": "2025-01-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 2388,
-    "time": "2025-01-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "pegglecoin",
-    "blobs": 27,
-    "time": "2025-01-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
     "time": "2025-01-31 00:00:00.000 UTC"
   },
   {
@@ -127,81 +172,6 @@
   {
     "blob_submitter": "Polynomial",
     "blobs": 21,
-    "time": "2025-01-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Infinaeon",
-    "blobs": 8,
-    "time": "2025-01-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "River",
-    "blobs": 82,
-    "time": "2025-01-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 111,
-    "time": "2025-01-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 12,
-    "time": "2025-01-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Abstract",
-    "blobs": 328,
-    "time": "2025-01-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 24,
-    "time": "2025-01-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 315,
-    "time": "2025-01-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 7,
-    "time": "2025-01-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
-    "blobs": 7,
-    "time": "2025-01-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 8655,
-    "time": "2025-01-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 18,
-    "time": "2025-01-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2025-01-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 39,
-    "time": "2025-01-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Snaxchain",
-    "blobs": 16,
-    "time": "2025-01-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lighter",
-    "blobs": 22,
     "time": "2025-01-31 00:00:00.000 UTC"
   }
 ]

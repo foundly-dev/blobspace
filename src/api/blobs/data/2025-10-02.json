@@ -1,5 +1,55 @@
 [
   {
+    "blob_submitter": "Ethernity",
+    "blobs": 6,
+    "time": "2025-10-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "R0AR Chain",
+    "blobs": 10,
+    "time": "2025-10-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 49,
+    "time": "2025-10-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Settlus",
+    "blobs": 16,
+    "time": "2025-10-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Abstract",
+    "blobs": 393,
+    "time": "2025-10-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 168,
+    "time": "2025-10-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ink",
+    "blobs": 403,
+    "time": "2025-10-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 16,
+    "time": "2025-10-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metis",
+    "blobs": 54,
+    "time": "2025-10-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lighter",
+    "blobs": 404,
+    "time": "2025-10-02 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Hemi",
     "blobs": 86,
     "time": "2025-10-02 00:00:00.000 UTC"
@@ -65,13 +115,13 @@
     "time": "2025-10-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1668,
+    "blob_submitter": "pegglecoin",
+    "blobs": 12,
     "time": "2025-10-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 24,
+    "blob_submitter": "Unichain",
+    "blobs": 855,
     "time": "2025-10-02 00:00:00.000 UTC"
   },
   {
@@ -85,8 +135,8 @@
     "time": "2025-10-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Unichain",
-    "blobs": 855,
+    "blob_submitter": "Phala Network",
+    "blobs": 16,
     "time": "2025-10-02 00:00:00.000 UTC"
   },
   {
@@ -95,8 +145,8 @@
     "time": "2025-10-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Phala Network",
-    "blobs": 16,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 3054,
     "time": "2025-10-02 00:00:00.000 UTC"
   },
   {
@@ -105,83 +155,13 @@
     "time": "2025-10-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 3054,
-    "time": "2025-10-02 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Swellchain",
     "blobs": 28,
     "time": "2025-10-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 357,
-    "time": "2025-10-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 65,
-    "time": "2025-10-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 208,
-    "time": "2025-10-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Codex",
-    "blobs": 102,
-    "time": "2025-10-02 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "StarkNet",
     "blobs": 384,
-    "time": "2025-10-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "pegglecoin",
-    "blobs": 12,
-    "time": "2025-10-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 10,
-    "time": "2025-10-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 49,
-    "time": "2025-10-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Settlus",
-    "blobs": 16,
-    "time": "2025-10-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 6,
-    "time": "2025-10-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lighter",
-    "blobs": 404,
-    "time": "2025-10-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ink",
-    "blobs": 403,
-    "time": "2025-10-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 16,
-    "time": "2025-10-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metis",
-    "blobs": 54,
     "time": "2025-10-02 00:00:00.000 UTC"
   }
 ]

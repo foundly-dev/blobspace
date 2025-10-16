@@ -1,7 +1,47 @@
 [
   {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 24,
+    "blob_submitter": "Blast",
+    "blobs": 810,
+    "time": "2024-10-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 45,
+    "time": "2024-10-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Snaxchain",
+    "blobs": 16,
+    "time": "2024-10-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2024-10-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 81,
+    "time": "2024-10-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 239,
+    "time": "2024-10-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 22,
+    "time": "2024-10-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 148,
+    "time": "2024-10-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 2,
     "time": "2024-10-17 00:00:00.000 UTC"
   },
   {
@@ -10,8 +50,8 @@
     "time": "2024-10-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 2,
+    "blob_submitter": "R0AR Chain",
+    "blobs": 24,
     "time": "2024-10-17 00:00:00.000 UTC"
   },
   {
@@ -65,8 +105,8 @@
     "time": "2024-10-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
+    "blob_submitter": "zkSync Era",
+    "blobs": 58,
     "time": "2024-10-17 00:00:00.000 UTC"
   },
   {
@@ -112,51 +152,6 @@
   {
     "blob_submitter": "StarkNet",
     "blobs": 89,
-    "time": "2024-10-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 12,
-    "time": "2024-10-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 76,
-    "time": "2024-10-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 359,
-    "time": "2024-10-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 58,
-    "time": "2024-10-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 810,
-    "time": "2024-10-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 45,
-    "time": "2024-10-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 239,
-    "time": "2024-10-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 22,
-    "time": "2024-10-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 148,
     "time": "2024-10-17 00:00:00.000 UTC"
   }
 ]

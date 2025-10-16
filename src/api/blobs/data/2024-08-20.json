@@ -1,5 +1,40 @@
 [
   {
+    "blob_submitter": "Zircuit",
+    "blobs": 492,
+    "time": "2024-08-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 6,
+    "time": "2024-08-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 89,
+    "time": "2024-08-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 49,
+    "time": "2024-08-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "XGA",
+    "blobs": 14,
+    "time": "2024-08-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2316,
+    "time": "2024-08-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 4640,
+    "time": "2024-08-20 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Scroll",
     "blobs": 397,
     "time": "2024-08-20 00:00:00.000 UTC"
@@ -45,18 +80,23 @@
     "time": "2024-08-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 79,
+    "blob_submitter": "PandaSea",
+    "blobs": 24,
     "time": "2024-08-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 259,
+    "blob_submitter": "Snaxchain",
+    "blobs": 16,
     "time": "2024-08-20 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Ethernity",
     "blobs": 5,
+    "time": "2024-08-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 259,
     "time": "2024-08-20 00:00:00.000 UTC"
   },
   {
@@ -90,58 +130,8 @@
     "time": "2024-08-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 361,
-    "time": "2024-08-20 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "OP Mainnet",
     "blobs": 1925,
-    "time": "2024-08-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 242,
-    "time": "2024-08-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "PandaSea",
-    "blobs": 24,
-    "time": "2024-08-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Snaxchain",
-    "blobs": 16,
-    "time": "2024-08-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 492,
-    "time": "2024-08-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 49,
-    "time": "2024-08-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "XGA",
-    "blobs": 14,
-    "time": "2024-08-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 89,
-    "time": "2024-08-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2316,
-    "time": "2024-08-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 4640,
     "time": "2024-08-20 00:00:00.000 UTC"
   }
 ]

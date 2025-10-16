@@ -1,12 +1,37 @@
 [
   {
-    "blob_submitter": "Lisk",
-    "blobs": 10,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1860,
+    "time": "2024-05-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 1517,
+    "time": "2024-05-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 14,
+    "time": "2024-05-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 162,
+    "time": "2024-05-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 3420,
     "time": "2024-05-29 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Parallel",
     "blobs": 24,
+    "time": "2024-05-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 10,
     "time": "2024-05-29 00:00:00.000 UTC"
   },
   {
@@ -30,23 +55,18 @@
     "time": "2024-05-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 33,
-    "time": "2024-05-29 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "BOB Network",
     "blobs": 61,
     "time": "2024-05-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 134,
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
     "time": "2024-05-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
+    "blob_submitter": "Others",
+    "blobs": 134,
     "time": "2024-05-29 00:00:00.000 UTC"
   },
   {
@@ -57,26 +77,6 @@
   {
     "blob_submitter": "Base",
     "blobs": 3786,
-    "time": "2024-05-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1860,
-    "time": "2024-05-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 1517,
-    "time": "2024-05-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
-    "time": "2024-05-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 162,
     "time": "2024-05-29 00:00:00.000 UTC"
   }
 ]

@@ -1,5 +1,75 @@
 [
   {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1140,
+    "time": "2024-12-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "BOB Network",
+    "blobs": 64,
+    "time": "2024-12-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 11,
+    "time": "2024-12-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 76,
+    "time": "2024-12-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Unichain",
+    "blobs": 24,
+    "time": "2024-12-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 15,
+    "time": "2024-12-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 53,
+    "time": "2024-12-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 3225,
+    "time": "2024-12-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 479,
+    "time": "2024-12-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arena-Z",
+    "blobs": 4,
+    "time": "2024-12-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 112,
+    "time": "2024-12-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 39,
+    "time": "2024-12-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 127,
+    "time": "2024-12-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Fuel",
+    "blobs": 89,
+    "time": "2024-12-02 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Metal",
     "blobs": 359,
     "time": "2024-12-02 00:00:00.000 UTC"
@@ -25,16 +95,6 @@
     "time": "2024-12-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 28,
-    "time": "2024-12-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
-    "blobs": 7,
-    "time": "2024-12-02 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Swan Chain",
     "blobs": 18,
     "time": "2024-12-02 00:00:00.000 UTC"
@@ -45,6 +105,16 @@
     "time": "2024-12-02 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Debank Chain",
+    "blobs": 28,
+    "time": "2024-12-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 7,
+    "time": "2024-12-02 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "ZERϴ Network",
     "blobs": 16,
     "time": "2024-12-02 00:00:00.000 UTC"
@@ -52,66 +122,6 @@
   {
     "blob_submitter": "Base",
     "blobs": 8415,
-    "time": "2024-12-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 244,
-    "time": "2024-12-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "BOB Network",
-    "blobs": 64,
-    "time": "2024-12-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 11,
-    "time": "2024-12-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 76,
-    "time": "2024-12-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 127,
-    "time": "2024-12-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Fuel",
-    "blobs": 89,
-    "time": "2024-12-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1140,
-    "time": "2024-12-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 39,
-    "time": "2024-12-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 3225,
-    "time": "2024-12-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 479,
-    "time": "2024-12-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arena-Z",
-    "blobs": 4,
-    "time": "2024-12-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 112,
     "time": "2024-12-02 00:00:00.000 UTC"
   }
 ]

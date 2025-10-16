@@ -1,5 +1,35 @@
 [
   {
+    "blob_submitter": "zkSync Era",
+    "blobs": 80,
+    "time": "2024-12-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 148,
+    "time": "2024-12-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERϴ Network",
+    "blobs": 11,
+    "time": "2024-12-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 112,
+    "time": "2024-12-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "BOB Network",
+    "blobs": 34,
+    "time": "2024-12-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 79,
+    "time": "2024-12-09 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Fuel",
     "blobs": 158,
     "time": "2024-12-09 00:00:00.000 UTC"
@@ -70,8 +100,13 @@
     "time": "2024-12-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1165,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 3042,
+    "time": "2024-12-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Abstract",
+    "blobs": 4,
     "time": "2024-12-09 00:00:00.000 UTC"
   },
   {
@@ -105,58 +140,8 @@
     "time": "2024-12-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2024-12-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 17,
-    "time": "2024-12-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 217,
-    "time": "2024-12-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 46,
-    "time": "2024-12-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "pegglecoin",
-    "blobs": 12,
-    "time": "2024-12-09 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Metal",
     "blobs": 360,
-    "time": "2024-12-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 3042,
-    "time": "2024-12-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Abstract",
-    "blobs": 4,
-    "time": "2024-12-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 80,
-    "time": "2024-12-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 112,
-    "time": "2024-12-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 79,
     "time": "2024-12-09 00:00:00.000 UTC"
   }
 ]
