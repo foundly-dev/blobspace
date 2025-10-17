@@ -1,5 +1,15 @@
 [
   {
+    "blob_submitter": "Base",
+    "blobs": 4152,
+    "time": "2024-04-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "BOB Network",
+    "blobs": 8,
+    "time": "2024-04-15 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Paradex",
     "blobs": 332,
     "time": "2024-04-15 00:00:00.000 UTC"
@@ -20,28 +30,13 @@
     "time": "2024-04-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 4152,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1980,
     "time": "2024-04-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "BOB Network",
-    "blobs": 8,
-    "time": "2024-04-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2034,
-    "time": "2024-04-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 78,
-    "time": "2024-04-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 580,
+    "blob_submitter": "Mode",
+    "blobs": 132,
     "time": "2024-04-15 00:00:00.000 UTC"
   }
 ]

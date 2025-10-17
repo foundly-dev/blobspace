@@ -1,22 +1,42 @@
 [
   {
-    "blob_submitter": "ZORA",
-    "blobs": 46,
+    "blob_submitter": "BOB Network",
+    "blobs": 31,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 28,
+    "blob_submitter": "ZERϴ Network",
+    "blobs": 87,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "pegglecoin",
-    "blobs": 12,
+    "blob_submitter": "Others",
+    "blobs": 133,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 88,
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2025-01-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ink",
+    "blobs": 47,
+    "time": "2025-01-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 7,
+    "time": "2025-01-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "HashKey",
+    "blobs": 26,
+    "time": "2025-01-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Soneium",
+    "blobs": 13,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
@@ -35,13 +55,33 @@
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 120,
+    "blob_submitter": "pegglecoin",
+    "blobs": 12,
+    "time": "2025-01-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 88,
+    "time": "2025-01-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 46,
+    "time": "2025-01-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 28,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Snaxchain",
     "blobs": 16,
+    "time": "2025-01-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 120,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
@@ -52,11 +92,6 @@
   {
     "blob_submitter": "Abstract",
     "blobs": 3,
-    "time": "2025-01-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 138,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
@@ -90,58 +125,68 @@
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "BOB Network",
-    "blobs": 31,
+    "blob_submitter": "Linea",
+    "blobs": 138,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZERϴ Network",
-    "blobs": 87,
+    "blob_submitter": "Debank Chain",
+    "blobs": 24,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 133,
+    "blob_submitter": "Metal",
+    "blobs": 356,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
+    "blob_submitter": "Scroll",
+    "blobs": 68,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "HashKey",
-    "blobs": 26,
+    "blob_submitter": "Unichain",
+    "blobs": 22,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ink",
-    "blobs": 47,
+    "blob_submitter": "Lisk",
+    "blobs": 348,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Hemi",
-    "blobs": 7,
+    "blob_submitter": "Fuel",
+    "blobs": 185,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Soneium",
-    "blobs": 13,
+    "blob_submitter": "Infinaeon",
+    "blobs": 368,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 128,
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Nal",
-    "blobs": 25,
+    "blob_submitter": "Base",
+    "blobs": 9895,
     "time": "2025-01-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 34,
+    "blob_submitter": "Mode",
+    "blobs": 49,
+    "time": "2025-01-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 24,
+    "time": "2025-01-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
     "time": "2025-01-06 00:00:00.000 UTC"
   }
 ]

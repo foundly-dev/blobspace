@@ -1,50 +1,5 @@
 [
   {
-    "blob_submitter": "Base",
-    "blobs": 7650,
-    "time": "2024-11-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2024-11-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 25,
-    "time": "2024-11-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 50,
-    "time": "2024-11-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
-    "blobs": 59,
-    "time": "2024-11-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Unichain",
-    "blobs": 25,
-    "time": "2024-11-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "PandaSea",
-    "blobs": 8,
-    "time": "2024-11-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 191,
-    "time": "2024-11-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
-    "time": "2024-11-22 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "World Chain",
     "blobs": 1947,
     "time": "2024-11-22 00:00:00.000 UTC"
@@ -65,11 +20,6 @@
     "time": "2024-11-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 3890,
-    "time": "2024-11-22 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "RACE",
     "blobs": 76,
     "time": "2024-11-22 00:00:00.000 UTC"
@@ -77,6 +27,11 @@
   {
     "blob_submitter": "Polynomial",
     "blobs": 13,
+    "time": "2024-11-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 3890,
     "time": "2024-11-22 00:00:00.000 UTC"
   },
   {
@@ -105,63 +60,83 @@
     "time": "2024-11-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 662,
+    "blob_submitter": "Base",
+    "blobs": 7650,
     "time": "2024-11-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Abstract",
-    "blobs": 3,
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
     "time": "2024-11-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 97,
-    "time": "2024-11-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 85,
-    "time": "2024-11-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 45,
-    "time": "2024-11-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 245,
-    "time": "2024-11-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nanon Network",
+    "blob_submitter": "Debank Chain",
     "blobs": 25,
     "time": "2024-11-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Snaxchain",
+    "blob_submitter": "StarkNet",
+    "blobs": 191,
+    "time": "2024-11-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 59,
+    "time": "2024-11-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Unichain",
+    "blobs": 25,
+    "time": "2024-11-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "PandaSea",
+    "blobs": 8,
+    "time": "2024-11-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 6,
+    "time": "2024-11-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 50,
+    "time": "2024-11-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 84,
+    "time": "2024-11-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
     "blobs": 16,
     "time": "2024-11-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 46,
+    "blob_submitter": "zkSync Era",
+    "blobs": 80,
     "time": "2024-11-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2679,
+    "blob_submitter": "Mint",
+    "blobs": 162,
     "time": "2024-11-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Morph",
-    "blobs": 72,
+    "blob_submitter": "Swan Chain",
+    "blobs": 142,
     "time": "2024-11-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 8,
+    "blob_submitter": "pegglecoin",
+    "blobs": 12,
+    "time": "2024-11-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 292,
     "time": "2024-11-22 00:00:00.000 UTC"
   }
 ]

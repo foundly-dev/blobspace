@@ -1,5 +1,55 @@
 [
   {
+    "blob_submitter": "Phala Network",
+    "blobs": 16,
+    "time": "2025-06-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 26,
+    "time": "2025-06-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "HashKey",
+    "blobs": 51,
+    "time": "2025-06-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1509,
+    "time": "2025-06-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Infinaeon",
+    "blobs": 10,
+    "time": "2025-06-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
+    "time": "2025-06-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 24,
+    "time": "2025-06-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 1526,
+    "time": "2025-06-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2025-06-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 71,
+    "time": "2025-06-26 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Codex",
     "blobs": 49,
     "time": "2025-06-26 00:00:00.000 UTC"
@@ -35,6 +85,16 @@
     "time": "2025-06-26 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Hemi",
+    "blobs": 143,
+    "time": "2025-06-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Katana",
+    "blobs": 20,
+    "time": "2025-06-26 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Soneium",
     "blobs": 1330,
     "time": "2025-06-26 00:00:00.000 UTC"
@@ -60,108 +120,38 @@
     "time": "2025-06-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Hemi",
-    "blobs": 143,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2703,
     "time": "2025-06-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Katana",
-    "blobs": 20,
+    "blob_submitter": "Swan Chain",
+    "blobs": 17,
     "time": "2025-06-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Phala Network",
-    "blobs": 16,
+    "blob_submitter": "Unichain",
+    "blobs": 1273,
     "time": "2025-06-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Superseed",
-    "blobs": 26,
+    "blob_submitter": "Others",
+    "blobs": 204,
     "time": "2025-06-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "HashKey",
-    "blobs": 51,
+    "blob_submitter": "Swellchain",
+    "blobs": 44,
     "time": "2025-06-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1509,
-    "time": "2025-06-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Infinaeon",
-    "blobs": 10,
-    "time": "2025-06-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
+    "blob_submitter": "ZERϴ Network",
     "blobs": 5,
     "time": "2025-06-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 1526,
-    "time": "2025-06-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 24,
-    "time": "2025-06-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2025-06-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 71,
-    "time": "2025-06-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
-    "time": "2025-06-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 10301,
-    "time": "2025-06-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 342,
-    "time": "2025-06-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Abstract",
-    "blobs": 1085,
-    "time": "2025-06-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 19,
-    "time": "2025-06-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 98,
-    "time": "2025-06-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 76,
-    "time": "2025-06-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 80,
-    "time": "2025-06-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 42,
+    "blob_submitter": "Lisk",
+    "blobs": 47,
     "time": "2025-06-26 00:00:00.000 UTC"
   }
 ]

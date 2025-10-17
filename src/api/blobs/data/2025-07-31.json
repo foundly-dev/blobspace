@@ -1,12 +1,67 @@
 [
   {
-    "blob_submitter": "Lisk",
-    "blobs": 38,
+    "blob_submitter": "Ink",
+    "blobs": 276,
+    "time": "2025-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 85,
+    "time": "2025-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 18,
+    "time": "2025-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Katana",
+    "blobs": 206,
+    "time": "2025-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERϴ Network",
+    "blobs": 4,
+    "time": "2025-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Soneium",
+    "blobs": 955,
+    "time": "2025-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
+    "time": "2025-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 277,
+    "time": "2025-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 16,
+    "time": "2025-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 12216,
+    "time": "2025-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 103,
     "time": "2025-07-31 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "OP Mainnet",
     "blobs": 1400,
+    "time": "2025-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 38,
     "time": "2025-07-31 00:00:00.000 UTC"
   },
   {
@@ -25,16 +80,6 @@
     "time": "2025-07-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Infinaeon",
-    "blobs": 10,
-    "time": "2025-07-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "LaChain",
-    "blobs": 1,
-    "time": "2025-07-31 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Scroll",
     "blobs": 56,
     "time": "2025-07-31 00:00:00.000 UTC"
@@ -42,6 +87,11 @@
   {
     "blob_submitter": "BOB Network",
     "blobs": 17,
+    "time": "2025-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "LaChain",
+    "blobs": 1,
     "time": "2025-07-31 00:00:00.000 UTC"
   },
   {
@@ -70,88 +120,43 @@
     "time": "2025-07-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Hemi",
-    "blobs": 85,
+    "blob_submitter": "Infinaeon",
+    "blobs": 10,
     "time": "2025-07-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 18,
-    "time": "2025-07-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ink",
-    "blobs": 276,
-    "time": "2025-07-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Katana",
-    "blobs": 206,
-    "time": "2025-07-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 955,
-    "time": "2025-07-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
-    "time": "2025-07-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERϴ Network",
-    "blobs": 4,
-    "time": "2025-07-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 277,
-    "time": "2025-07-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
+    "blob_submitter": "Lumio",
     "blobs": 16,
     "time": "2025-07-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 12216,
+    "blob_submitter": "Polynomial",
+    "blobs": 58,
     "time": "2025-07-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 103,
+    "blob_submitter": "World Chain",
+    "blobs": 5484,
     "time": "2025-07-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
+    "blob_submitter": "HashKey",
+    "blobs": 37,
     "time": "2025-07-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
+    "blob_submitter": "Linea",
+    "blobs": 130,
     "time": "2025-07-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Phala Network",
+    "blob_submitter": "Mint",
+    "blobs": 108,
+    "time": "2025-07-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Settlus",
     "blobs": 16,
-    "time": "2025-07-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 38,
-    "time": "2025-07-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 96,
-    "time": "2025-07-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Codex",
-    "blobs": 103,
     "time": "2025-07-31 00:00:00.000 UTC"
   }
 ]
