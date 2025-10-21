@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "Snaxchain",
-    "blobs": 16,
-    "time": "2025-03-08 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Scroll",
     "blobs": 35,
     "time": "2025-03-08 00:00:00.000 UTC"
@@ -45,11 +40,6 @@
     "time": "2025-03-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Soneium",
-    "blobs": 1080,
-    "time": "2025-03-08 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Infinaeon",
     "blobs": 8,
     "time": "2025-03-08 00:00:00.000 UTC"
@@ -62,6 +52,16 @@
   {
     "blob_submitter": "Swell",
     "blobs": 25,
+    "time": "2025-03-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Snaxchain",
+    "blobs": 16,
+    "time": "2025-03-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Soneium",
+    "blobs": 1080,
     "time": "2025-03-08 00:00:00.000 UTC"
   },
   {
@@ -115,13 +115,18 @@
     "time": "2025-03-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Abstract",
-    "blobs": 290,
+    "blob_submitter": "Unichain",
+    "blobs": 255,
     "time": "2025-03-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Unichain",
-    "blobs": 255,
+    "blob_submitter": "Metal",
+    "blobs": 358,
+    "time": "2025-03-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Abstract",
+    "blobs": 290,
     "time": "2025-03-08 00:00:00.000 UTC"
   },
   {
@@ -135,33 +140,28 @@
     "time": "2025-03-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 358,
+    "blob_submitter": "Shape",
+    "blobs": 29,
     "time": "2025-03-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 685,
+    "blob_submitter": "zkSync Era",
+    "blobs": 33,
     "time": "2025-03-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ink",
-    "blobs": 147,
+    "blob_submitter": "Lumio",
+    "blobs": 16,
     "time": "2025-03-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 19,
+    "blob_submitter": "Kroma",
+    "blobs": 150,
     "time": "2025-03-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 101,
-    "time": "2025-03-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 8,
+    "blob_submitter": "Morph",
+    "blobs": 118,
     "time": "2025-03-08 00:00:00.000 UTC"
   }
 ]

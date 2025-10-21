@@ -35,18 +35,13 @@
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 21,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 332,
-    "time": "2024-08-18 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Binary",
     "blobs": 25,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 35,
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
@@ -60,8 +55,13 @@
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 35,
+    "blob_submitter": "Inscriptions",
+    "blobs": 332,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 21,
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
@@ -100,28 +100,38 @@
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 196,
+    "blob_submitter": "Lisk",
+    "blobs": 5,
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 138,
+    "blob_submitter": "Mode",
+    "blobs": 67,
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 185,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1470,
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Snaxchain",
-    "blobs": 16,
+    "blob_submitter": "Base",
+    "blobs": 4425,
     "time": "2024-08-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 1,
+    "blob_submitter": "Optopia",
+    "blobs": 71,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 361,
+    "time": "2024-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1572,
     "time": "2024-08-18 00:00:00.000 UTC"
   }
 ]

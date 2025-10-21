@@ -1,15 +1,5 @@
 [
   {
-    "blob_submitter": "Taiko",
-    "blobs": 2585,
-    "time": "2024-09-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1255,
-    "time": "2024-09-09 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "StarkNet",
     "blobs": 116,
     "time": "2024-09-09 00:00:00.000 UTC"
@@ -50,6 +40,16 @@
     "time": "2024-09-09 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Taiko",
+    "blobs": 2585,
+    "time": "2024-09-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1255,
+    "time": "2024-09-09 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "PandaSea",
     "blobs": 25,
     "time": "2024-09-09 00:00:00.000 UTC"
@@ -85,13 +85,23 @@
     "time": "2024-09-09 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Kroma",
+    "blobs": 163,
+    "time": "2024-09-09 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "zkSync Era",
     "blobs": 90,
     "time": "2024-09-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 163,
+    "blob_submitter": "ZORA",
+    "blobs": 90,
+    "time": "2024-09-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 24,
     "time": "2024-09-09 00:00:00.000 UTC"
   },
   {
@@ -115,43 +125,23 @@
     "time": "2024-09-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 90,
+    "blob_submitter": "Linea",
+    "blobs": 422,
     "time": "2024-09-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
-    "blobs": 24,
+    "blob_submitter": "Mint",
+    "blobs": 144,
     "time": "2024-09-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 360,
+    "blob_submitter": "Paradex",
+    "blobs": 69,
     "time": "2024-09-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2244,
-    "time": "2024-09-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 68,
-    "time": "2024-09-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 47,
-    "time": "2024-09-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 15,
-    "time": "2024-09-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "BOB Network",
-    "blobs": 16,
+    "blob_submitter": "Blast",
+    "blobs": 450,
     "time": "2024-09-09 00:00:00.000 UTC"
   }
 ]

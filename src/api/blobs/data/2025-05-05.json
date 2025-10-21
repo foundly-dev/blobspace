@@ -5,18 +5,13 @@
     "time": "2025-05-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 19,
+    "blob_submitter": "Binary",
+    "blobs": 8,
     "time": "2025-05-05 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Boba Network",
     "blobs": 25,
-    "time": "2025-05-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 8,
     "time": "2025-05-05 00:00:00.000 UTC"
   },
   {
@@ -60,6 +55,11 @@
     "time": "2025-05-05 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Debank Chain",
+    "blobs": 19,
+    "time": "2025-05-05 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "StarkNet",
     "blobs": 108,
     "time": "2025-05-05 00:00:00.000 UTC"
@@ -95,6 +95,11 @@
     "time": "2025-05-05 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "World Chain",
+    "blobs": 3819,
+    "time": "2025-05-05 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Codex",
     "blobs": 16,
     "time": "2025-05-05 00:00:00.000 UTC"
@@ -120,53 +125,38 @@
     "time": "2025-05-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 3819,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 950,
     "time": "2025-05-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Abstract",
-    "blobs": 366,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1782,
     "time": "2025-05-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "HashKey",
-    "blobs": 41,
+    "blob_submitter": "Mode",
+    "blobs": 62,
     "time": "2025-05-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "pegglecoin",
-    "blobs": 38,
+    "blob_submitter": "Scroll",
+    "blobs": 51,
     "time": "2025-05-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Superseed",
-    "blobs": 41,
+    "blob_submitter": "Zircuit",
+    "blobs": 99,
     "time": "2025-05-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Morph",
-    "blobs": 73,
+    "blob_submitter": "Unichain",
+    "blobs": 511,
     "time": "2025-05-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2025-05-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 220,
-    "time": "2025-05-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Settlus",
-    "blobs": 16,
-    "time": "2025-05-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 107,
+    "blob_submitter": "Base",
+    "blobs": 7320,
     "time": "2025-05-05 00:00:00.000 UTC"
   }
 ]

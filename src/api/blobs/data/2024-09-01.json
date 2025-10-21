@@ -30,11 +30,6 @@
     "time": "2024-09-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2024-09-01 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Optopia",
     "blobs": 72,
     "time": "2024-09-01 00:00:00.000 UTC"
@@ -62,6 +57,11 @@
   {
     "blob_submitter": "Lumio",
     "blobs": 16,
+    "time": "2024-09-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
     "time": "2024-09-01 00:00:00.000 UTC"
   },
   {
@@ -105,18 +105,13 @@
     "time": "2024-09-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 510,
-    "time": "2024-09-01 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Mint",
     "blobs": 16,
     "time": "2024-09-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 4600,
+    "blob_submitter": "Kroma",
+    "blobs": 510,
     "time": "2024-09-01 00:00:00.000 UTC"
   },
   {
@@ -125,18 +120,28 @@
     "time": "2024-09-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 94,
+    "blob_submitter": "Base",
+    "blobs": 4600,
     "time": "2024-09-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
+    "blob_submitter": "Kinto",
+    "blobs": 6,
     "time": "2024-09-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1785,
+    "blob_submitter": "StarkNet",
+    "blobs": 180,
+    "time": "2024-09-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 50,
+    "time": "2024-09-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 18,
     "time": "2024-09-01 00:00:00.000 UTC"
   }
 ]

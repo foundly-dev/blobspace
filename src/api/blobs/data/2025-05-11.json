@@ -40,11 +40,6 @@
     "time": "2025-05-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
-    "blobs": 8,
-    "time": "2025-05-11 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Shape",
     "blobs": 156,
     "time": "2025-05-11 00:00:00.000 UTC"
@@ -52,6 +47,11 @@
   {
     "blob_submitter": "Kinto",
     "blobs": 6,
+    "time": "2025-05-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 8,
     "time": "2025-05-11 00:00:00.000 UTC"
   },
   {
@@ -67,6 +67,11 @@
   {
     "blob_submitter": "Ethernity",
     "blobs": 4,
+    "time": "2025-05-11 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
     "time": "2025-05-11 00:00:00.000 UTC"
   },
   {
@@ -90,53 +95,48 @@
     "time": "2025-05-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
+    "blob_submitter": "Phala Network",
     "blobs": 16,
     "time": "2025-05-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2742,
+    "blob_submitter": "Mint",
+    "blobs": 16,
     "time": "2025-05-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 99,
+    "blob_submitter": "World Chain",
+    "blobs": 4239,
     "time": "2025-05-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swellchain",
-    "blobs": 31,
+    "blob_submitter": "StarkNet",
+    "blobs": 162,
     "time": "2025-05-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 356,
+    "blob_submitter": "Kroma",
+    "blobs": 222,
     "time": "2025-05-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 15,
+    "blob_submitter": "Soneium",
+    "blobs": 780,
     "time": "2025-05-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Infinaeon",
-    "blobs": 8,
+    "blob_submitter": "Paradex",
+    "blobs": 22,
     "time": "2025-05-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 11418,
+    "blob_submitter": "Snaxchain",
+    "blobs": 16,
     "time": "2025-05-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 24,
-    "time": "2025-05-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERϴ Network",
-    "blobs": 4,
+    "blob_submitter": "Swan Chain",
+    "blobs": 9,
     "time": "2025-05-11 00:00:00.000 UTC"
   }
 ]

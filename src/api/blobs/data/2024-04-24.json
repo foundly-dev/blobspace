@@ -35,18 +35,28 @@
     "time": "2024-04-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 2100,
-    "time": "2024-04-24 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Linea",
     "blobs": 477,
     "time": "2024-04-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 47,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 2100,
+    "time": "2024-04-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 126,
+    "time": "2024-04-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Parallel",
+    "blobs": 2,
+    "time": "2024-04-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 172,
     "time": "2024-04-24 00:00:00.000 UTC"
   }
 ]

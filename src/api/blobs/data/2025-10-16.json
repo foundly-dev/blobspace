@@ -5,6 +5,11 @@
     "time": "2025-10-16 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Boba Network",
+    "blobs": 41,
+    "time": "2025-10-16 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Morph",
     "blobs": 38,
     "time": "2025-10-16 00:00:00.000 UTC"
@@ -12,11 +17,6 @@
   {
     "blob_submitter": "R0AR Chain",
     "blobs": 9,
-    "time": "2025-10-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 41,
     "time": "2025-10-16 00:00:00.000 UTC"
   },
   {
@@ -45,8 +45,8 @@
     "time": "2025-10-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 1053,
+    "blob_submitter": "Settlus",
+    "blobs": 16,
     "time": "2025-10-16 00:00:00.000 UTC"
   },
   {
@@ -70,8 +70,8 @@
     "time": "2025-10-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Settlus",
-    "blobs": 16,
+    "blob_submitter": "Scroll",
+    "blobs": 1053,
     "time": "2025-10-16 00:00:00.000 UTC"
   },
   {
@@ -145,13 +145,48 @@
     "time": "2025-10-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swellchain",
-    "blobs": 47,
+    "blob_submitter": "Debank Chain",
+    "blobs": 22,
     "time": "2025-10-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
+    "blob_submitter": "Codex",
+    "blobs": 102,
+    "time": "2025-10-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lighter",
+    "blobs": 502,
+    "time": "2025-10-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Soneium",
+    "blobs": 1030,
+    "time": "2025-10-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ink",
+    "blobs": 591,
+    "time": "2025-10-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 14377,
+    "time": "2025-10-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 420,
+    "time": "2025-10-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 16,
+    "time": "2025-10-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 6,
     "time": "2025-10-16 00:00:00.000 UTC"
   }
 ]

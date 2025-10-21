@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "Hemi",
-    "blobs": 86,
-    "time": "2025-10-02 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Scroll",
     "blobs": 2970,
     "time": "2025-10-02 00:00:00.000 UTC"
@@ -40,13 +35,13 @@
     "time": "2025-10-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Soneium",
-    "blobs": 1110,
+    "blob_submitter": "Katana",
+    "blobs": 207,
     "time": "2025-10-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 117,
+    "blob_submitter": "Debank Chain",
+    "blobs": 20,
     "time": "2025-10-02 00:00:00.000 UTC"
   },
   {
@@ -60,13 +55,18 @@
     "time": "2025-10-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Katana",
-    "blobs": 207,
+    "blob_submitter": "Hemi",
+    "blobs": 86,
     "time": "2025-10-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 20,
+    "blob_submitter": "Soneium",
+    "blobs": 1110,
+    "time": "2025-10-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 117,
     "time": "2025-10-02 00:00:00.000 UTC"
   },
   {
@@ -125,6 +125,11 @@
     "time": "2025-10-02 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Lisk",
+    "blobs": 65,
+    "time": "2025-10-02 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "StarkNet",
     "blobs": 384,
     "time": "2025-10-02 00:00:00.000 UTC"
@@ -140,32 +145,22 @@
     "time": "2025-10-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 65,
+    "blob_submitter": "HashKey",
+    "blobs": 36,
     "time": "2025-10-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 6,
+    "blob_submitter": "Shape",
+    "blobs": 287,
     "time": "2025-10-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lighter",
-    "blobs": 404,
+    "blob_submitter": "Morph",
+    "blobs": 39,
     "time": "2025-10-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 10,
-    "time": "2025-10-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 49,
-    "time": "2025-10-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Settlus",
+    "blob_submitter": "Superseed",
     "blobs": 16,
     "time": "2025-10-02 00:00:00.000 UTC"
   }

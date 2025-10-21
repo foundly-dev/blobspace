@@ -25,8 +25,13 @@
     "time": "2025-08-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 19,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 3639,
+    "time": "2025-08-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 702,
     "time": "2025-08-27 00:00:00.000 UTC"
   },
   {
@@ -50,13 +55,8 @@
     "time": "2025-08-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 3639,
-    "time": "2025-08-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 702,
+    "blob_submitter": "Mint",
+    "blobs": 19,
     "time": "2025-08-27 00:00:00.000 UTC"
   },
   {
@@ -120,53 +120,38 @@
     "time": "2025-08-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 480,
+    "blob_submitter": "Metal",
+    "blobs": 360,
     "time": "2025-08-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 270,
-    "time": "2025-08-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Codex",
-    "blobs": 103,
-    "time": "2025-08-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Snaxchain",
-    "blobs": 12,
-    "time": "2025-08-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metis",
-    "blobs": 51,
-    "time": "2025-08-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 530,
-    "time": "2025-08-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ink",
-    "blobs": 492,
-    "time": "2025-08-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
+    "blob_submitter": "Arena-Z",
     "blobs": 5,
     "time": "2025-08-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lighter",
-    "blobs": 430,
+    "blob_submitter": "Others",
+    "blobs": 160,
     "time": "2025-08-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 9,
+    "blob_submitter": "Boba Network",
+    "blobs": 29,
+    "time": "2025-08-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 8,
+    "time": "2025-08-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 86,
+    "time": "2025-08-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swellchain",
+    "blobs": 50,
     "time": "2025-08-27 00:00:00.000 UTC"
   }
 ]

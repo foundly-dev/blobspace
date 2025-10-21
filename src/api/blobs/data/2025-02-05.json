@@ -5,11 +5,6 @@
     "time": "2025-02-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2277,
-    "time": "2025-02-05 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Lighter",
     "blobs": 20,
     "time": "2025-02-05 00:00:00.000 UTC"
@@ -80,6 +75,11 @@
     "time": "2025-02-05 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2277,
+    "time": "2025-02-05 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Polynomial",
     "blobs": 24,
     "time": "2025-02-05 00:00:00.000 UTC"
@@ -100,6 +100,11 @@
     "time": "2025-02-05 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "World Chain",
+    "blobs": 2469,
+    "time": "2025-02-05 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Linea",
     "blobs": 102,
     "time": "2025-02-05 00:00:00.000 UTC"
@@ -107,11 +112,6 @@
   {
     "blob_submitter": "Lisk",
     "blobs": 580,
-    "time": "2025-02-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 2469,
     "time": "2025-02-05 00:00:00.000 UTC"
   },
   {
@@ -125,48 +125,43 @@
     "time": "2025-02-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 62,
+    "blob_submitter": "Kroma",
+    "blobs": 129,
     "time": "2025-02-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Soneium",
-    "blobs": 545,
+    "blob_submitter": "Snaxchain",
+    "blobs": 17,
     "time": "2025-02-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 98,
+    "blob_submitter": "ZERϴ Network",
+    "blobs": 7,
     "time": "2025-02-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
+    "blob_submitter": "Taiko",
+    "blobs": 3527,
+    "time": "2025-02-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 215,
+    "time": "2025-02-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Phala Network",
     "blobs": 76,
     "time": "2025-02-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
+    "blob_submitter": "Others",
+    "blobs": 97,
     "time": "2025-02-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ink",
-    "blobs": 112,
-    "time": "2025-02-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
-    "blobs": 9,
-    "time": "2025-02-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2025-02-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 7375,
+    "blob_submitter": "Swell",
+    "blobs": 25,
     "time": "2025-02-05 00:00:00.000 UTC"
   }
 ]

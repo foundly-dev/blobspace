@@ -55,8 +55,13 @@
     "time": "2024-12-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 483,
+    "blob_submitter": "Swell",
+    "blobs": 25,
+    "time": "2024-12-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Snaxchain",
+    "blobs": 16,
     "time": "2024-12-22 00:00:00.000 UTC"
   },
   {
@@ -75,13 +80,8 @@
     "time": "2024-12-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swell",
-    "blobs": 25,
-    "time": "2024-12-22 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Snaxchain",
-    "blobs": 16,
+    "blob_submitter": "Zircuit",
+    "blobs": 483,
     "time": "2024-12-22 00:00:00.000 UTC"
   },
   {
@@ -150,23 +150,38 @@
     "time": "2024-12-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 256,
+    "blob_submitter": "Hemi",
+    "blobs": 8,
     "time": "2024-12-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 64,
+    "blob_submitter": "Nal",
+    "blobs": 24,
     "time": "2024-12-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "HashKey",
+    "blob_submitter": "Kinto",
+    "blobs": 6,
+    "time": "2024-12-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 29,
+    "time": "2024-12-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 150,
+    "time": "2024-12-22 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Unichain",
     "blobs": 25,
     "time": "2024-12-22 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 73,
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
     "time": "2024-12-22 00:00:00.000 UTC"
   }
 ]

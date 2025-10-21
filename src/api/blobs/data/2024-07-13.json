@@ -65,11 +65,6 @@
     "time": "2024-07-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
-    "blobs": 24,
-    "time": "2024-07-13 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Blast",
     "blobs": 666,
     "time": "2024-07-13 00:00:00.000 UTC"
@@ -77,6 +72,16 @@
   {
     "blob_submitter": "Mode",
     "blobs": 72,
+    "time": "2024-07-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 104,
+    "time": "2024-07-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 24,
     "time": "2024-07-13 00:00:00.000 UTC"
   },
   {
@@ -100,28 +105,18 @@
     "time": "2024-07-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 104,
+    "blob_submitter": "Lisk",
+    "blobs": 4,
     "time": "2024-07-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Nal",
-    "blobs": 50,
+    "blob_submitter": "XGA",
+    "blobs": 14,
     "time": "2024-07-13 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 26,
-    "time": "2024-07-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 211,
-    "time": "2024-07-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 2,
+    "blob_submitter": "Others",
+    "blobs": 140,
     "time": "2024-07-13 00:00:00.000 UTC"
   }
 ]

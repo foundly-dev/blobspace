@@ -50,6 +50,11 @@
     "time": "2025-08-05 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Base",
+    "blobs": 11723,
+    "time": "2025-08-05 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Debank Chain",
     "blobs": 19,
     "time": "2025-08-05 00:00:00.000 UTC"
@@ -62,11 +67,6 @@
   {
     "blob_submitter": "Katana",
     "blobs": 207,
-    "time": "2025-08-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 11723,
     "time": "2025-08-05 00:00:00.000 UTC"
   },
   {
@@ -130,33 +130,43 @@
     "time": "2025-08-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Infinaeon",
+    "blob_submitter": "Polynomial",
+    "blobs": 38,
+    "time": "2025-08-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
+    "time": "2025-08-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 5592,
+    "time": "2025-08-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "R0AR Chain",
     "blobs": 9,
     "time": "2025-08-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZERϴ Network",
-    "blobs": 3,
+    "blob_submitter": "Metis",
+    "blobs": 43,
     "time": "2025-08-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 359,
+    "blob_submitter": "Linea",
+    "blobs": 84,
     "time": "2025-08-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 117,
+    "blob_submitter": "Blast",
+    "blobs": 376,
     "time": "2025-08-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 29,
-    "time": "2025-08-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 41,
+    "blob_submitter": "ZORA",
+    "blobs": 17,
     "time": "2025-08-05 00:00:00.000 UTC"
   }
 ]

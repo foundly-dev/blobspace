@@ -1,5 +1,10 @@
 [
   {
+    "blob_submitter": "Mode",
+    "blobs": 102,
+    "time": "2024-06-26 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Blast",
     "blobs": 1908,
     "time": "2024-06-26 00:00:00.000 UTC"
@@ -15,11 +20,6 @@
     "time": "2024-06-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 102,
-    "time": "2024-06-26 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Kroma",
     "blobs": 252,
     "time": "2024-06-26 00:00:00.000 UTC"
@@ -27,16 +27,6 @@
   {
     "blob_submitter": "Mint",
     "blobs": 16,
-    "time": "2024-06-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 286,
-    "time": "2024-06-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 8,
     "time": "2024-06-26 00:00:00.000 UTC"
   },
   {
@@ -52,6 +42,16 @@
   {
     "blob_submitter": "Base",
     "blobs": 6120,
+    "time": "2024-06-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 286,
+    "time": "2024-06-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 8,
     "time": "2024-06-26 00:00:00.000 UTC"
   },
   {
@@ -80,6 +80,11 @@
     "time": "2024-06-26 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1830,
+    "time": "2024-06-26 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Optopia",
     "blobs": 72,
     "time": "2024-06-26 00:00:00.000 UTC"
@@ -95,18 +100,8 @@
     "time": "2024-06-26 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1830,
-    "time": "2024-06-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 47,
-    "time": "2024-06-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2799,
+    "blob_submitter": "Parallel",
+    "blobs": 7,
     "time": "2024-06-26 00:00:00.000 UTC"
   }
 ]

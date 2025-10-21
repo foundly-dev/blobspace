@@ -30,11 +30,6 @@
     "time": "2025-01-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 58,
-    "time": "2025-01-24 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Linea",
     "blobs": 95,
     "time": "2025-01-24 00:00:00.000 UTC"
@@ -52,6 +47,11 @@
   {
     "blob_submitter": "Polynomial",
     "blobs": 22,
+    "time": "2025-01-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 58,
     "time": "2025-01-24 00:00:00.000 UTC"
   },
   {
@@ -120,48 +120,23 @@
     "time": "2025-01-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
+    "blob_submitter": "RACE",
+    "blobs": 15,
     "time": "2025-01-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 96,
-    "time": "2025-01-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Abstract",
+    "blob_submitter": "Optopia",
     "blobs": 8,
     "time": "2025-01-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 96,
+    "blob_submitter": "Base",
+    "blobs": 8890,
     "time": "2025-01-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "HashKey",
-    "blobs": 50,
-    "time": "2025-01-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
-    "time": "2025-01-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "pegglecoin",
-    "blobs": 12,
-    "time": "2025-01-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 31,
-    "time": "2025-01-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 780,
+    "blob_submitter": "Infinaeon",
+    "blobs": 9,
     "time": "2025-01-24 00:00:00.000 UTC"
   }
 ]

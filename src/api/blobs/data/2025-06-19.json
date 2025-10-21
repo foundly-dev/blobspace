@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "Snaxchain",
-    "blobs": 16,
-    "time": "2025-06-19 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "ZORA",
     "blobs": 18,
     "time": "2025-06-19 00:00:00.000 UTC"
@@ -35,11 +30,6 @@
     "time": "2025-06-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZERϴ Network",
-    "blobs": 9,
-    "time": "2025-06-19 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Mode",
     "blobs": 119,
     "time": "2025-06-19 00:00:00.000 UTC"
@@ -55,6 +45,16 @@
     "time": "2025-06-19 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Soneium",
+    "blobs": 816,
+    "time": "2025-06-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "pegglecoin",
+    "blobs": 13,
+    "time": "2025-06-19 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "R0AR Chain",
     "blobs": 10,
     "time": "2025-06-19 00:00:00.000 UTC"
@@ -65,13 +65,13 @@
     "time": "2025-06-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Soneium",
-    "blobs": 816,
+    "blob_submitter": "Snaxchain",
+    "blobs": 16,
     "time": "2025-06-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "pegglecoin",
-    "blobs": 13,
+    "blob_submitter": "ZERϴ Network",
+    "blobs": 9,
     "time": "2025-06-19 00:00:00.000 UTC"
   },
   {
@@ -145,38 +145,23 @@
     "time": "2025-06-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 14,
+    "blob_submitter": "Debank Chain",
+    "blobs": 20,
     "time": "2025-06-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 55,
+    "blob_submitter": "Zircuit",
+    "blobs": 96,
     "time": "2025-06-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Morph",
-    "blobs": 72,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2748,
     "time": "2025-06-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2025-06-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "HashKey",
-    "blobs": 33,
-    "time": "2025-06-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 26,
-    "time": "2025-06-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Abstract",
-    "blobs": 549,
+    "blob_submitter": "Hemi",
+    "blobs": 85,
     "time": "2025-06-19 00:00:00.000 UTC"
   }
 ]

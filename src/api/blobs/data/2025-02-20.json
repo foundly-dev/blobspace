@@ -20,13 +20,13 @@
     "time": "2025-02-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 7610,
+    "blob_submitter": "Debank Chain",
+    "blobs": 25,
     "time": "2025-02-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 25,
+    "blob_submitter": "HashKey",
+    "blobs": 45,
     "time": "2025-02-20 00:00:00.000 UTC"
   },
   {
@@ -50,8 +50,8 @@
     "time": "2025-02-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "HashKey",
-    "blobs": 45,
+    "blob_submitter": "Base",
+    "blobs": 7610,
     "time": "2025-02-20 00:00:00.000 UTC"
   },
   {
@@ -75,6 +75,11 @@
     "time": "2025-02-20 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
+    "time": "2025-02-20 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Unichain",
     "blobs": 226,
     "time": "2025-02-20 00:00:00.000 UTC"
@@ -90,53 +95,68 @@
     "time": "2025-02-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
+    "blob_submitter": "Abstract",
+    "blobs": 410,
     "time": "2025-02-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Infinaeon",
-    "blobs": 8,
-    "time": "2025-02-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 496,
-    "time": "2025-02-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 805,
-    "time": "2025-02-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 356,
-    "time": "2025-02-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
+    "blob_submitter": "Swell",
     "blobs": 25,
     "time": "2025-02-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arena-Z",
-    "blobs": 4,
+    "blob_submitter": "Settlus",
+    "blobs": 22,
     "time": "2025-02-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 24,
+    "blob_submitter": "Snaxchain",
+    "blobs": 16,
     "time": "2025-02-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1785,
+    "blob_submitter": "Kroma",
+    "blobs": 137,
     "time": "2025-02-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 43,
+    "blob_submitter": "Lumio",
+    "blobs": 17,
+    "time": "2025-02-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 2592,
+    "time": "2025-02-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "R0AR Chain",
+    "blobs": 8,
+    "time": "2025-02-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 20,
+    "time": "2025-02-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 28,
+    "time": "2025-02-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 10,
+    "time": "2025-02-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 240,
+    "time": "2025-02-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 111,
     "time": "2025-02-20 00:00:00.000 UTC"
   }
 ]
