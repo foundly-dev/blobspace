@@ -1,25 +1,5 @@
 [
   {
-    "blob_submitter": "Base",
-    "blobs": 5244,
-    "time": "2024-06-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 30,
-    "time": "2024-06-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 739,
-    "time": "2024-06-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 2,
-    "time": "2024-06-18 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Swan Chain",
     "blobs": 8,
     "time": "2024-06-18 00:00:00.000 UTC"
@@ -37,6 +17,51 @@
   {
     "blob_submitter": "Others",
     "blobs": 133,
+    "time": "2024-06-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 126,
+    "time": "2024-06-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 8,
+    "time": "2024-06-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2748,
+    "time": "2024-06-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 1400,
+    "time": "2024-06-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 1341,
+    "time": "2024-06-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 138,
+    "time": "2024-06-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 47,
+    "time": "2024-06-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 23,
+    "time": "2024-06-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 203,
     "time": "2024-06-18 00:00:00.000 UTC"
   },
   {
@@ -60,6 +85,11 @@
     "time": "2024-06-18 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Lisk",
+    "blobs": 13,
+    "time": "2024-06-18 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lumio",
     "blobs": 8,
     "time": "2024-06-18 00:00:00.000 UTC"
@@ -67,16 +97,6 @@
   {
     "blob_submitter": "Lambda",
     "blobs": 15,
-    "time": "2024-06-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 372,
-    "time": "2024-06-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 8,
     "time": "2024-06-18 00:00:00.000 UTC"
   }
 ]
