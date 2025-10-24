@@ -1,75 +1,5 @@
 [
   {
-    "blob_submitter": "Lighter",
-    "blobs": 427,
-    "time": "2025-10-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Abstract",
-    "blobs": 332,
-    "time": "2025-10-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 240,
-    "time": "2025-10-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 62,
-    "time": "2025-10-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Codex",
-    "blobs": 102,
-    "time": "2025-10-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 1380,
-    "time": "2025-10-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Morph",
-    "blobs": 42,
-    "time": "2025-10-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 16,
-    "time": "2025-10-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Settlus",
-    "blobs": 16,
-    "time": "2025-10-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 131,
-    "time": "2025-10-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metis",
-    "blobs": 44,
-    "time": "2025-10-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 10131,
-    "time": "2025-10-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 18,
-    "time": "2025-10-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 10,
-    "time": "2025-10-10 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Katana",
     "blobs": 187,
     "time": "2025-10-10 00:00:00.000 UTC"
@@ -95,6 +25,11 @@
     "time": "2025-10-10 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Debank Chain",
+    "blobs": 20,
+    "time": "2025-10-10 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "HashKey",
     "blobs": 27,
     "time": "2025-10-10 00:00:00.000 UTC"
@@ -115,11 +50,6 @@
     "time": "2025-10-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 2418,
-    "time": "2025-10-10 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Others",
     "blobs": 193,
     "time": "2025-10-10 00:00:00.000 UTC"
@@ -135,58 +65,88 @@
     "time": "2025-10-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 20,
+    "blob_submitter": "Scroll",
+    "blobs": 2418,
     "time": "2025-10-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 225,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 3960,
     "time": "2025-10-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 356,
+    "blob_submitter": "Infinaeon",
+    "blobs": 9,
     "time": "2025-10-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 76,
-    "time": "2025-10-10 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
+    "blob_submitter": "Arena-Z",
     "blobs": 5,
     "time": "2025-10-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 74,
+    "blob_submitter": "Mode",
+    "blobs": 135,
     "time": "2025-10-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swellchain",
-    "blobs": 31,
+    "blob_submitter": "BOB Network",
+    "blobs": 22,
     "time": "2025-10-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Phala Network",
+    "blob_submitter": "Boba Network",
+    "blobs": 42,
+    "time": "2025-10-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lighter",
+    "blobs": 427,
+    "time": "2025-10-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 131,
+    "time": "2025-10-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metis",
+    "blobs": 44,
+    "time": "2025-10-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Abstract",
+    "blobs": 332,
+    "time": "2025-10-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 240,
+    "time": "2025-10-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
     "blobs": 16,
     "time": "2025-10-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Unichain",
-    "blobs": 1020,
+    "blob_submitter": "Settlus",
+    "blobs": 16,
     "time": "2025-10-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
+    "blob_submitter": "Polynomial",
+    "blobs": 62,
     "time": "2025-10-10 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 2567,
+    "blob_submitter": "Codex",
+    "blobs": 102,
+    "time": "2025-10-10 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 1380,
     "time": "2025-10-10 00:00:00.000 UTC"
   }
 ]
