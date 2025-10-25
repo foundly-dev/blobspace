@@ -35,61 +35,6 @@
     "time": "2025-09-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 227,
-    "time": "2025-09-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Phala Network",
-    "blobs": 16,
-    "time": "2025-09-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
-    "time": "2025-09-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 10353,
-    "time": "2025-09-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 841,
-    "time": "2025-09-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 301,
-    "time": "2025-09-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 191,
-    "time": "2025-09-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 58,
-    "time": "2025-09-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "HashKey",
-    "blobs": 32,
-    "time": "2025-09-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Morph",
-    "blobs": 44,
-    "time": "2025-09-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
-    "time": "2025-09-29 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Zircuit",
     "blobs": 218,
     "time": "2025-09-29 00:00:00.000 UTC"
@@ -100,13 +45,8 @@
     "time": "2025-09-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Katana",
-    "blobs": 221,
-    "time": "2025-09-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1134,
+    "blob_submitter": "Base",
+    "blobs": 13569,
     "time": "2025-09-29 00:00:00.000 UTC"
   },
   {
@@ -117,6 +57,16 @@
   {
     "blob_submitter": "Hemi",
     "blobs": 88,
+    "time": "2025-09-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Katana",
+    "blobs": 221,
+    "time": "2025-09-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1134,
     "time": "2025-09-29 00:00:00.000 UTC"
   },
   {
@@ -142,6 +92,51 @@
   {
     "blob_submitter": "RACE",
     "blobs": 26,
+    "time": "2025-09-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 1068,
+    "time": "2025-09-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 65,
+    "time": "2025-09-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 20,
+    "time": "2025-09-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2025-09-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 301,
+    "time": "2025-09-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 191,
+    "time": "2025-09-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 58,
+    "time": "2025-09-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "HashKey",
+    "blobs": 32,
+    "time": "2025-09-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 227,
     "time": "2025-09-29 00:00:00.000 UTC"
   }
 ]

@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 26,
-    "time": "2025-07-08 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Metis",
     "blobs": 47,
     "time": "2025-07-08 00:00:00.000 UTC"
@@ -12,6 +7,11 @@
   {
     "blob_submitter": "Blast",
     "blobs": 288,
+    "time": "2025-07-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 26,
     "time": "2025-07-08 00:00:00.000 UTC"
   },
   {
@@ -27,11 +27,6 @@
   {
     "blob_submitter": "R0AR Chain",
     "blobs": 10,
-    "time": "2025-07-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lighter",
-    "blobs": 201,
     "time": "2025-07-08 00:00:00.000 UTC"
   },
   {
@@ -60,58 +55,8 @@
     "time": "2025-07-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 336,
-    "time": "2025-07-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 26,
-    "time": "2025-07-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Codex",
-    "blobs": 50,
-    "time": "2025-07-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Phala Network",
-    "blobs": 16,
-    "time": "2025-07-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 4992,
-    "time": "2025-07-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 53,
-    "time": "2025-07-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 1920,
-    "time": "2025-07-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "pegglecoin",
-    "blobs": 38,
-    "time": "2025-07-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 119,
-    "time": "2025-07-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Snaxchain",
-    "blobs": 16,
-    "time": "2025-07-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 13,
+    "blob_submitter": "Lighter",
+    "blobs": 201,
     "time": "2025-07-08 00:00:00.000 UTC"
   },
   {
@@ -122,6 +67,16 @@
   {
     "blob_submitter": "Lisk",
     "blobs": 37,
+    "time": "2025-07-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 8,
+    "time": "2025-07-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 24,
     "time": "2025-07-08 00:00:00.000 UTC"
   },
   {
@@ -162,6 +117,61 @@
   {
     "blob_submitter": "Ink",
     "blobs": 354,
+    "time": "2025-07-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 2154,
+    "time": "2025-07-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Unichain",
+    "blobs": 887,
+    "time": "2025-07-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swellchain",
+    "blobs": 25,
+    "time": "2025-07-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 99,
+    "time": "2025-07-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Phala Network",
+    "blobs": 16,
+    "time": "2025-07-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 26,
+    "time": "2025-07-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Codex",
+    "blobs": 50,
+    "time": "2025-07-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 4992,
+    "time": "2025-07-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 1920,
+    "time": "2025-07-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "pegglecoin",
+    "blobs": 38,
+    "time": "2025-07-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 336,
     "time": "2025-07-08 00:00:00.000 UTC"
   }
 ]

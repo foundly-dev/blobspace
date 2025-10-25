@@ -10,11 +10,6 @@
     "time": "2024-09-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1350,
-    "time": "2024-09-19 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Paradex",
     "blobs": 52,
     "time": "2024-09-19 00:00:00.000 UTC"
@@ -22,6 +17,11 @@
   {
     "blob_submitter": "Lisk",
     "blobs": 4,
+    "time": "2024-09-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1350,
     "time": "2024-09-19 00:00:00.000 UTC"
   },
   {
@@ -70,13 +70,33 @@
     "time": "2024-09-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 25,
+    "blob_submitter": "Lumio",
+    "blobs": 16,
     "time": "2024-09-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 71,
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-09-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "BOB Network",
+    "blobs": 29,
+    "time": "2024-09-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 110,
+    "time": "2024-09-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2024-09-19 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 110,
     "time": "2024-09-19 00:00:00.000 UTC"
   },
   {
@@ -100,38 +120,8 @@
     "time": "2024-09-19 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 122,
-    "time": "2024-09-19 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Zircuit",
     "blobs": 488,
-    "time": "2024-09-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 467,
-    "time": "2024-09-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 24,
-    "time": "2024-09-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2024-09-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
-    "time": "2024-09-19 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "BOB Network",
-    "blobs": 29,
     "time": "2024-09-19 00:00:00.000 UTC"
   }
 ]

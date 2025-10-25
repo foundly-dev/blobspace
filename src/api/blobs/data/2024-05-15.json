@@ -1,7 +1,7 @@
 [
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2478,
+    "blob_submitter": "Parallel",
+    "blobs": 36,
     "time": "2024-05-15 00:00:00.000 UTC"
   },
   {
@@ -10,8 +10,8 @@
     "time": "2024-05-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 36,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2478,
     "time": "2024-05-15 00:00:00.000 UTC"
   },
   {
@@ -35,7 +35,27 @@
     "time": "2024-05-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
+    "blob_submitter": "Others",
+    "blobs": 186,
+    "time": "2024-05-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 178,
+    "time": "2024-05-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 8,
+    "time": "2024-05-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 106,
+    "time": "2024-05-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
     "blobs": 8,
     "time": "2024-05-15 00:00:00.000 UTC"
   },
@@ -50,11 +70,6 @@
     "time": "2024-05-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 8,
-    "time": "2024-05-15 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "OP Mainnet",
     "blobs": 1128,
     "time": "2024-05-15 00:00:00.000 UTC"
@@ -65,18 +80,8 @@
     "time": "2024-05-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 3024,
-    "time": "2024-05-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 186,
-    "time": "2024-05-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 178,
+    "blob_submitter": "Lisk",
+    "blobs": 8,
     "time": "2024-05-15 00:00:00.000 UTC"
   }
 ]

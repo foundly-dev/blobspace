@@ -40,13 +40,43 @@
     "time": "2024-08-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
+    "blob_submitter": "Metal",
+    "blobs": 360,
+    "time": "2024-08-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 10,
+    "time": "2024-08-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "BOB Network",
     "blobs": 25,
     "time": "2024-08-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 77,
+    "blob_submitter": "Optopia",
+    "blobs": 71,
+    "time": "2024-08-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "PandaSea",
+    "blobs": 25,
+    "time": "2024-08-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 173,
+    "time": "2024-08-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-08-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 5,
     "time": "2024-08-27 00:00:00.000 UTC"
   },
   {
@@ -60,58 +90,23 @@
     "time": "2024-08-27 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Binary",
+    "blobs": 25,
+    "time": "2024-08-27 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 77,
+    "time": "2024-08-27 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Paradex",
     "blobs": 301,
     "time": "2024-08-27 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 5049,
-    "time": "2024-08-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2024-08-27 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Nal",
     "blobs": 49,
-    "time": "2024-08-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 248,
-    "time": "2024-08-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 1,
-    "time": "2024-08-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 17,
-    "time": "2024-08-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 10,
-    "time": "2024-08-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 360,
-    "time": "2024-08-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "BOB Network",
-    "blobs": 25,
-    "time": "2024-08-27 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
     "time": "2024-08-27 00:00:00.000 UTC"
   }
 ]

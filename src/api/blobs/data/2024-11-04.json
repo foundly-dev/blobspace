@@ -35,13 +35,13 @@
     "time": "2024-11-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 5818,
+    "blob_submitter": "World Chain",
+    "blobs": 1230,
     "time": "2024-11-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 1230,
+    "blob_submitter": "Taiko",
+    "blobs": 5818,
     "time": "2024-11-04 00:00:00.000 UTC"
   },
   {
@@ -52,51 +52,6 @@
   {
     "blob_submitter": "Linea",
     "blobs": 146,
-    "time": "2024-11-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2024-11-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERϴ Network",
-    "blobs": 2,
-    "time": "2024-11-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 356,
-    "time": "2024-11-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 68,
-    "time": "2024-11-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 5,
-    "time": "2024-11-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 273,
-    "time": "2024-11-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 54,
-    "time": "2024-11-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 104,
-    "time": "2024-11-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 186,
     "time": "2024-11-04 00:00:00.000 UTC"
   },
   {
@@ -132,6 +87,61 @@
   {
     "blob_submitter": "StarkNet",
     "blobs": 92,
+    "time": "2024-11-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 6,
+    "time": "2024-11-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 158,
+    "time": "2024-11-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 498,
+    "time": "2024-11-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 50,
+    "time": "2024-11-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
+    "time": "2024-11-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 6890,
+    "time": "2024-11-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERϴ Network",
+    "blobs": 2,
+    "time": "2024-11-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 356,
+    "time": "2024-11-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 68,
+    "time": "2024-11-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 273,
+    "time": "2024-11-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 54,
     "time": "2024-11-04 00:00:00.000 UTC"
   }
 ]

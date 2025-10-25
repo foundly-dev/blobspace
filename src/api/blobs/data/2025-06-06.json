@@ -70,8 +70,63 @@
     "time": "2025-06-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Unichain",
-    "blobs": 1122,
+    "blob_submitter": "Superseed",
+    "blobs": 20,
+    "time": "2025-06-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 75,
+    "time": "2025-06-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "HashKey",
+    "blobs": 35,
+    "time": "2025-06-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 15,
+    "time": "2025-06-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Snaxchain",
+    "blobs": 16,
+    "time": "2025-06-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Morph",
+    "blobs": 72,
+    "time": "2025-06-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 101,
+    "time": "2025-06-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Phala Network",
+    "blobs": 16,
+    "time": "2025-06-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 22,
+    "time": "2025-06-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 96,
+    "time": "2025-06-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "pegglecoin",
+    "blobs": 27,
+    "time": "2025-06-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 61,
     "time": "2025-06-06 00:00:00.000 UTC"
   },
   {
@@ -105,11 +160,6 @@
     "time": "2025-06-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 24,
-    "time": "2025-06-06 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Swellchain",
     "blobs": 254,
     "time": "2025-06-06 00:00:00.000 UTC"
@@ -120,43 +170,8 @@
     "time": "2025-06-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 99,
-    "time": "2025-06-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 19,
-    "time": "2025-06-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 20,
-    "time": "2025-06-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Snaxchain",
-    "blobs": 16,
-    "time": "2025-06-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 15,
-    "time": "2025-06-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Morph",
-    "blobs": 72,
-    "time": "2025-06-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 101,
-    "time": "2025-06-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Phala Network",
-    "blobs": 16,
+    "blob_submitter": "Unichain",
+    "blobs": 1122,
     "time": "2025-06-06 00:00:00.000 UTC"
   }
 ]

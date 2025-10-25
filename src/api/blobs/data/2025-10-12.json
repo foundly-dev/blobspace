@@ -1,15 +1,5 @@
 [
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1944,
-    "time": "2025-10-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Infinaeon",
-    "blobs": 10,
-    "time": "2025-10-12 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "pegglecoin",
     "blobs": 12,
     "time": "2025-10-12 00:00:00.000 UTC"
@@ -22,6 +12,16 @@
   {
     "blob_submitter": "RACE",
     "blobs": 24,
+    "time": "2025-10-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1944,
+    "time": "2025-10-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Infinaeon",
+    "blobs": 10,
     "time": "2025-10-12 00:00:00.000 UTC"
   },
   {
@@ -65,28 +65,23 @@
     "time": "2025-10-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
+    "blob_submitter": "Debank Chain",
+    "blobs": 20,
     "time": "2025-10-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 46,
+    "blob_submitter": "Zircuit",
+    "blobs": 217,
     "time": "2025-10-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Phala Network",
-    "blobs": 16,
+    "blob_submitter": "Codex",
+    "blobs": 102,
     "time": "2025-10-12 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZERϴ Network",
-    "blobs": 3,
-    "time": "2025-10-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 201,
+    "blob_submitter": "ZORA",
+    "blobs": 17,
     "time": "2025-10-12 00:00:00.000 UTC"
   },
   {
@@ -102,21 +97,6 @@
   {
     "blob_submitter": "Hemi",
     "blobs": 120,
-    "time": "2025-10-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Codex",
-    "blobs": 102,
-    "time": "2025-10-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 17,
-    "time": "2025-10-12 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 217,
     "time": "2025-10-12 00:00:00.000 UTC"
   },
   {
@@ -137,6 +117,36 @@
   {
     "blob_submitter": "Ethernity",
     "blobs": 5,
+    "time": "2025-10-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 8,
+    "time": "2025-10-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Katana",
+    "blobs": 207,
+    "time": "2025-10-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERϴ Network",
+    "blobs": 3,
+    "time": "2025-10-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 46,
+    "time": "2025-10-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Phala Network",
+    "blobs": 16,
+    "time": "2025-10-12 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
     "time": "2025-10-12 00:00:00.000 UTC"
   }
 ]

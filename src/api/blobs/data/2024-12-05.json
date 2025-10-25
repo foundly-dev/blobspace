@@ -40,11 +40,6 @@
     "time": "2024-12-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 58,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Metal",
     "blobs": 360,
     "time": "2024-12-05 00:00:00.000 UTC"
@@ -55,53 +50,13 @@
     "time": "2024-12-05 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "RACE",
+    "blobs": 58,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "World Chain",
     "blobs": 2237,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 20,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERϴ Network",
-    "blobs": 11,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 156,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "pegglecoin",
-    "blobs": 12,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 139,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 371,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 130,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
     "time": "2024-12-05 00:00:00.000 UTC"
   },
   {
@@ -112,11 +67,6 @@
   {
     "blob_submitter": "Hemi",
     "blobs": 7,
-    "time": "2024-12-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 6,
     "time": "2024-12-05 00:00:00.000 UTC"
   },
   {
@@ -135,8 +85,43 @@
     "time": "2024-12-05 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Soneium",
+    "blobs": 6,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Zircuit",
     "blobs": 495,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 28,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 28,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 20,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERϴ Network",
+    "blobs": 11,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 371,
+    "time": "2024-12-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
     "time": "2024-12-05 00:00:00.000 UTC"
   }
 ]

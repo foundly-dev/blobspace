@@ -1,12 +1,12 @@
 [
   {
-    "blob_submitter": "Others",
-    "blobs": 141,
+    "blob_submitter": "Swan Chain",
+    "blobs": 8,
     "time": "2024-09-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 8,
+    "blob_submitter": "Others",
+    "blobs": 141,
     "time": "2024-09-05 00:00:00.000 UTC"
   },
   {
@@ -30,18 +30,13 @@
     "time": "2024-09-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 444,
-    "time": "2024-09-05 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Debank Chain",
     "blobs": 29,
     "time": "2024-09-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 89,
+    "blob_submitter": "Blast",
+    "blobs": 444,
     "time": "2024-09-05 00:00:00.000 UTC"
   },
   {
@@ -70,6 +65,36 @@
     "time": "2024-09-05 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "ZORA",
+    "blobs": 89,
+    "time": "2024-09-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 6,
+    "time": "2024-09-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 139,
+    "time": "2024-09-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 481,
+    "time": "2024-09-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
+    "time": "2024-09-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 243,
+    "time": "2024-09-05 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "BOB Network",
     "blobs": 26,
     "time": "2024-09-05 00:00:00.000 UTC"
@@ -82,31 +107,6 @@
   {
     "blob_submitter": "Arbitrum One",
     "blobs": 2040,
-    "time": "2024-09-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
-    "time": "2024-09-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 167,
-    "time": "2024-09-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 139,
-    "time": "2024-09-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
-    "time": "2024-09-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 481,
     "time": "2024-09-05 00:00:00.000 UTC"
   }
 ]

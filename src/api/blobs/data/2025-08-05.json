@@ -15,16 +15,6 @@
     "time": "2025-08-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Hemi",
-    "blobs": 86,
-    "time": "2025-08-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ink",
-    "blobs": 348,
-    "time": "2025-08-05 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Superseed",
     "blobs": 16,
     "time": "2025-08-05 00:00:00.000 UTC"
@@ -35,8 +25,23 @@
     "time": "2025-08-05 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Ink",
+    "blobs": 348,
+    "time": "2025-08-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 86,
+    "time": "2025-08-05 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "HashKey",
     "blobs": 36,
+    "time": "2025-08-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 11723,
     "time": "2025-08-05 00:00:00.000 UTC"
   },
   {
@@ -47,11 +52,6 @@
   {
     "blob_submitter": "pegglecoin",
     "blobs": 24,
-    "time": "2025-08-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 11723,
     "time": "2025-08-05 00:00:00.000 UTC"
   },
   {
@@ -70,73 +70,18 @@
     "time": "2025-08-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 38,
+    "blob_submitter": "Metal",
+    "blobs": 359,
     "time": "2025-08-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 5592,
-    "time": "2025-08-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 9,
-    "time": "2025-08-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2025-08-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 376,
-    "time": "2025-08-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metis",
-    "blobs": 43,
-    "time": "2025-08-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 84,
-    "time": "2025-08-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 17,
-    "time": "2025-08-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Spire DA Builder",
-    "blobs": 6,
-    "time": "2025-08-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Settlus",
+    "blob_submitter": "Lumio",
     "blobs": 16,
     "time": "2025-08-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lighter",
-    "blobs": 245,
-    "time": "2025-08-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Abstract",
-    "blobs": 494,
-    "time": "2025-08-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 102,
-    "time": "2025-08-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 359,
+    "blob_submitter": "Mode",
+    "blobs": 117,
     "time": "2025-08-05 00:00:00.000 UTC"
   },
   {
@@ -150,11 +95,6 @@
     "time": "2025-08-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 117,
-    "time": "2025-08-05 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Boba Network",
     "blobs": 29,
     "time": "2025-08-05 00:00:00.000 UTC"
@@ -162,6 +102,61 @@
   {
     "blob_submitter": "Lisk",
     "blobs": 41,
+    "time": "2025-08-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1404,
+    "time": "2025-08-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "BOB Network",
+    "blobs": 18,
+    "time": "2025-08-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
+    "time": "2025-08-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
+    "time": "2025-08-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 5592,
+    "time": "2025-08-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "R0AR Chain",
+    "blobs": 9,
+    "time": "2025-08-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metis",
+    "blobs": 43,
+    "time": "2025-08-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 84,
+    "time": "2025-08-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Spire DA Builder",
+    "blobs": 6,
+    "time": "2025-08-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Settlus",
+    "blobs": 16,
+    "time": "2025-08-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 38,
     "time": "2025-08-05 00:00:00.000 UTC"
   }
 ]

@@ -1,12 +1,12 @@
 [
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 16,
+    "blob_submitter": "Linea",
+    "blobs": 787,
     "time": "2024-07-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 787,
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
     "time": "2024-07-29 00:00:00.000 UTC"
   },
   {
@@ -55,8 +55,33 @@
     "time": "2024-07-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Nal",
-    "blobs": 50,
+    "blob_submitter": "Mint",
+    "blobs": 77,
+    "time": "2024-07-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 295,
+    "time": "2024-07-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
+    "time": "2024-07-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 157,
+    "time": "2024-07-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 6,
+    "time": "2024-07-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 76,
     "time": "2024-07-29 00:00:00.000 UTC"
   },
   {
@@ -75,23 +100,8 @@
     "time": "2024-07-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 76,
-    "time": "2024-07-29 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Lambda",
     "blobs": 15,
-    "time": "2024-07-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 32,
-    "time": "2024-07-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "XGA",
-    "blobs": 14,
     "time": "2024-07-29 00:00:00.000 UTC"
   },
   {
@@ -102,16 +112,6 @@
   {
     "blob_submitter": "PandaSea",
     "blobs": 24,
-    "time": "2024-07-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 295,
-    "time": "2024-07-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
     "time": "2024-07-29 00:00:00.000 UTC"
   }
 ]

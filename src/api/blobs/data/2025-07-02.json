@@ -10,13 +10,13 @@
     "time": "2025-07-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 11745,
+    "blob_submitter": "Mode",
+    "blobs": 115,
     "time": "2025-07-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 115,
+    "blob_submitter": "Base",
+    "blobs": 11745,
     "time": "2025-07-02 00:00:00.000 UTC"
   },
   {
@@ -25,23 +25,13 @@
     "time": "2025-07-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Snaxchain",
-    "blobs": 16,
-    "time": "2025-07-02 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Fuel",
     "blobs": 33,
     "time": "2025-07-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 10,
-    "time": "2025-07-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 29,
+    "blob_submitter": "Snaxchain",
+    "blobs": 16,
     "time": "2025-07-02 00:00:00.000 UTC"
   },
   {
@@ -50,8 +40,18 @@
     "time": "2025-07-02 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Boba Network",
+    "blobs": 29,
+    "time": "2025-07-02 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Scroll",
     "blobs": 48,
+    "time": "2025-07-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "R0AR Chain",
+    "blobs": 10,
     "time": "2025-07-02 00:00:00.000 UTC"
   },
   {
@@ -65,63 +65,18 @@
     "time": "2025-07-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 20,
-    "time": "2025-07-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lighter",
-    "blobs": 224,
-    "time": "2025-07-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2328,
-    "time": "2025-07-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 96,
-    "time": "2025-07-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Infinaeon",
-    "blobs": 10,
-    "time": "2025-07-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2025-07-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Unichain",
-    "blobs": 939,
-    "time": "2025-07-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Katana",
-    "blobs": 66,
-    "time": "2025-07-02 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ink",
-    "blobs": 276,
-    "time": "2025-07-02 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Shape",
     "blobs": 139,
     "time": "2025-07-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 390,
+    "blob_submitter": "pegglecoin",
+    "blobs": 39,
     "time": "2025-07-02 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Abstract",
-    "blobs": 549,
+    "blob_submitter": "Settlus",
+    "blobs": 16,
     "time": "2025-07-02 00:00:00.000 UTC"
   },
   {
@@ -132,6 +87,11 @@
   {
     "blob_submitter": "BOB Network",
     "blobs": 22,
+    "time": "2025-07-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Abstract",
+    "blobs": 549,
     "time": "2025-07-02 00:00:00.000 UTC"
   },
   {
@@ -150,6 +110,11 @@
     "time": "2025-07-02 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Blast",
+    "blobs": 390,
+    "time": "2025-07-02 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lumio",
     "blobs": 16,
     "time": "2025-07-02 00:00:00.000 UTC"
@@ -157,6 +122,36 @@
   {
     "blob_submitter": "Morph",
     "blobs": 107,
+    "time": "2025-07-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 27,
+    "time": "2025-07-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 19,
+    "time": "2025-07-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Infinaeon",
+    "blobs": 10,
+    "time": "2025-07-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 96,
+    "time": "2025-07-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Katana",
+    "blobs": 66,
+    "time": "2025-07-02 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 20,
     "time": "2025-07-02 00:00:00.000 UTC"
   }
 ]

@@ -1,12 +1,12 @@
 [
   {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
+    "blob_submitter": "Lumio",
+    "blobs": 8,
     "time": "2024-06-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 8,
+    "blob_submitter": "Lambda",
+    "blobs": 14,
     "time": "2024-06-17 00:00:00.000 UTC"
   },
   {
@@ -22,36 +22,6 @@
   {
     "blob_submitter": "Polynomial",
     "blobs": 8,
-    "time": "2024-06-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2361,
-    "time": "2024-06-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 5334,
-    "time": "2024-06-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "BOB Network",
-    "blobs": 37,
-    "time": "2024-06-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 13,
-    "time": "2024-06-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metal",
-    "blobs": 358,
-    "time": "2024-06-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 75,
     "time": "2024-06-17 00:00:00.000 UTC"
   },
   {
@@ -72,6 +42,36 @@
   {
     "blob_submitter": "Parallel",
     "blobs": 23,
+    "time": "2024-06-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 482,
+    "time": "2024-06-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 293,
+    "time": "2024-06-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2361,
+    "time": "2024-06-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 5334,
+    "time": "2024-06-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 13,
+    "time": "2024-06-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 358,
     "time": "2024-06-17 00:00:00.000 UTC"
   }
 ]
