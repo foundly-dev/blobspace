@@ -1,77 +1,7 @@
 [
   {
-    "blob_submitter": "Infinaeon",
-    "blobs": 10,
-    "time": "2025-09-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "pegglecoin",
-    "blobs": 12,
-    "time": "2025-09-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 117,
-    "time": "2025-09-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 15302,
-    "time": "2025-09-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 298,
-    "time": "2025-09-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Snaxchain",
-    "blobs": 9,
-    "time": "2025-09-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
-    "time": "2025-09-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
-    "blobs": 86,
-    "time": "2025-09-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2025-09-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
-    "time": "2025-09-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metis",
-    "blobs": 75,
-    "time": "2025-09-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERϴ Network",
-    "blobs": 13,
-    "time": "2025-09-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 1075,
-    "time": "2025-09-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Katana",
-    "blobs": 211,
-    "time": "2025-09-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 792,
+    "blob_submitter": "Debank Chain",
+    "blobs": 27,
     "time": "2025-09-15 00:00:00.000 UTC"
   },
   {
@@ -80,13 +10,8 @@
     "time": "2025-09-15 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 27,
-    "time": "2025-09-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ink",
-    "blobs": 444,
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
     "time": "2025-09-15 00:00:00.000 UTC"
   },
   {
@@ -132,6 +57,101 @@
   {
     "blob_submitter": "HashKey",
     "blobs": 42,
+    "time": "2025-09-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 400,
+    "time": "2025-09-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 188,
+    "time": "2025-09-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Morph",
+    "blobs": 40,
+    "time": "2025-09-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2025-09-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 10,
+    "time": "2025-09-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ink",
+    "blobs": 444,
+    "time": "2025-09-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 357,
+    "time": "2025-09-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Settlus",
+    "blobs": 16,
+    "time": "2025-09-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2406,
+    "time": "2025-09-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Phala Network",
+    "blobs": 16,
+    "time": "2025-09-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 32,
+    "time": "2025-09-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swellchain",
+    "blobs": 50,
+    "time": "2025-09-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 258,
+    "time": "2025-09-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 465,
+    "time": "2025-09-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Unichain",
+    "blobs": 853,
+    "time": "2025-09-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 16,
+    "time": "2025-09-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1140,
+    "time": "2025-09-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 545,
+    "time": "2025-09-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 24,
     "time": "2025-09-15 00:00:00.000 UTC"
   }
 ]
