@@ -5,6 +5,11 @@
     "time": "2024-04-18 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Base",
+    "blobs": 3804,
+    "time": "2024-04-18 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Arbitrum One",
     "blobs": 1968,
     "time": "2024-04-18 00:00:00.000 UTC"
@@ -20,28 +25,18 @@
     "time": "2024-04-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 396,
-    "time": "2024-04-18 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "zkSync Era",
     "blobs": 538,
     "time": "2024-04-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "BOB Network",
+    "blob_submitter": "Linea",
+    "blobs": 396,
+    "time": "2024-04-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
     "blobs": 8,
-    "time": "2024-04-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 3804,
-    "time": "2024-04-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 37,
     "time": "2024-04-18 00:00:00.000 UTC"
   }
 ]

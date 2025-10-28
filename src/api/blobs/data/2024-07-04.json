@@ -40,6 +40,11 @@
     "time": "2024-07-04 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Parallel",
+    "blobs": 12,
+    "time": "2024-07-04 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Scroll",
     "blobs": 357,
     "time": "2024-07-04 00:00:00.000 UTC"
@@ -47,6 +52,11 @@
   {
     "blob_submitter": "Nal",
     "blobs": 50,
+    "time": "2024-07-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 71,
     "time": "2024-07-04 00:00:00.000 UTC"
   },
   {
@@ -60,8 +70,8 @@
     "time": "2024-07-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 71,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2670,
     "time": "2024-07-04 00:00:00.000 UTC"
   },
   {
@@ -80,38 +90,23 @@
     "time": "2024-07-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2670,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1880,
     "time": "2024-07-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Parallel",
-    "blobs": 12,
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
     "time": "2024-07-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 201,
+    "blob_submitter": "Lumio",
+    "blobs": 16,
     "time": "2024-07-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 25,
-    "time": "2024-07-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 160,
-    "time": "2024-07-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 152,
-    "time": "2024-07-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 47,
+    "blob_submitter": "Lambda",
+    "blobs": 14,
     "time": "2024-07-04 00:00:00.000 UTC"
   }
 ]

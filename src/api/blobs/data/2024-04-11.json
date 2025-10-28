@@ -5,11 +5,6 @@
     "time": "2024-04-11 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 4529,
-    "time": "2024-04-11 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "StarkNet",
     "blobs": 211,
     "time": "2024-04-11 00:00:00.000 UTC"
@@ -30,6 +25,11 @@
     "time": "2024-04-11 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Inscriptions",
+    "blobs": 4529,
+    "time": "2024-04-11 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Metal",
     "blobs": 8,
     "time": "2024-04-11 00:00:00.000 UTC"
@@ -42,11 +42,6 @@
   {
     "blob_submitter": "BOB Network",
     "blobs": 1,
-    "time": "2024-04-11 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1902,
     "time": "2024-04-11 00:00:00.000 UTC"
   }
 ]

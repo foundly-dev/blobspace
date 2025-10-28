@@ -1,10 +1,5 @@
 [
   {
-    "blob_submitter": "Base",
-    "blobs": 5840,
-    "time": "2024-06-20 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Lambda",
     "blobs": 14,
     "time": "2024-06-20 00:00:00.000 UTC"
@@ -15,13 +10,18 @@
     "time": "2024-06-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 1407,
+    "blob_submitter": "zkSync Era",
+    "blobs": 397,
     "time": "2024-06-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 2139,
+    "blob_submitter": "Boba Network",
+    "blobs": 47,
+    "time": "2024-06-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 5840,
     "time": "2024-06-20 00:00:00.000 UTC"
   },
   {
@@ -45,8 +45,28 @@
     "time": "2024-06-20 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Lisk",
+    "blobs": 16,
+    "time": "2024-06-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 1407,
+    "time": "2024-06-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 2139,
+    "time": "2024-06-20 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Blast",
     "blobs": 1466,
+    "time": "2024-06-20 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kroma",
+    "blobs": 178,
     "time": "2024-06-20 00:00:00.000 UTC"
   },
   {
@@ -55,8 +75,8 @@
     "time": "2024-06-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 178,
+    "blob_submitter": "Linea",
+    "blobs": 163,
     "time": "2024-06-20 00:00:00.000 UTC"
   },
   {
@@ -70,18 +90,8 @@
     "time": "2024-06-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 163,
-    "time": "2024-06-20 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Paradex",
     "blobs": 248,
-    "time": "2024-06-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 16,
     "time": "2024-06-20 00:00:00.000 UTC"
   },
   {
@@ -90,13 +100,8 @@
     "time": "2024-06-20 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 10,
-    "time": "2024-06-20 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 104,
+    "blob_submitter": "Parallel",
+    "blobs": 42,
     "time": "2024-06-20 00:00:00.000 UTC"
   }
 ]

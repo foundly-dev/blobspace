@@ -10,6 +10,11 @@
     "time": "2025-03-24 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "ZORA",
+    "blobs": 36,
+    "time": "2025-03-24 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Arbitrum One",
     "blobs": 2205,
     "time": "2025-03-24 00:00:00.000 UTC"
@@ -20,13 +25,13 @@
     "time": "2025-03-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 970,
+    "blob_submitter": "Fuel",
+    "blobs": 38,
     "time": "2025-03-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Fuel",
-    "blobs": 38,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 970,
     "time": "2025-03-24 00:00:00.000 UTC"
   },
   {
@@ -35,13 +40,13 @@
     "time": "2025-03-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 25,
+    "blob_submitter": "BOB Network",
+    "blobs": 32,
     "time": "2025-03-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "BOB Network",
-    "blobs": 32,
+    "blob_submitter": "Boba Network",
+    "blobs": 25,
     "time": "2025-03-24 00:00:00.000 UTC"
   },
   {
@@ -65,8 +70,18 @@
     "time": "2025-03-24 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Arena-Z",
+    "blobs": 7,
+    "time": "2025-03-24 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "pegglecoin",
     "blobs": 38,
+    "time": "2025-03-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 2817,
     "time": "2025-03-24 00:00:00.000 UTC"
   },
   {
@@ -80,8 +95,13 @@
     "time": "2025-03-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 2817,
+    "blob_submitter": "HashKey",
+    "blobs": 66,
+    "time": "2025-03-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lighter",
+    "blobs": 79,
     "time": "2025-03-24 00:00:00.000 UTC"
   },
   {
@@ -100,13 +120,13 @@
     "time": "2025-03-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "HashKey",
-    "blobs": 66,
+    "blob_submitter": "Settlus",
+    "blobs": 16,
     "time": "2025-03-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Settlus",
-    "blobs": 16,
+    "blob_submitter": "Inscriptions",
+    "blobs": 6,
     "time": "2025-03-24 00:00:00.000 UTC"
   },
   {
@@ -116,11 +136,6 @@
   },
   {
     "blob_submitter": "Kinto",
-    "blobs": 6,
-    "time": "2025-03-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
     "blobs": 6,
     "time": "2025-03-24 00:00:00.000 UTC"
   },
@@ -135,63 +150,33 @@
     "time": "2025-03-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lighter",
-    "blobs": 79,
+    "blob_submitter": "Codex",
+    "blobs": 16,
     "time": "2025-03-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arena-Z",
-    "blobs": 7,
+    "blob_submitter": "RACE",
+    "blobs": 14,
     "time": "2025-03-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swell",
-    "blobs": 26,
+    "blob_submitter": "Lumio",
+    "blobs": 17,
     "time": "2025-03-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 99,
+    "blob_submitter": "StarkNet",
+    "blobs": 43,
     "time": "2025-03-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 225,
+    "blob_submitter": "Optopia",
+    "blobs": 8,
     "time": "2025-03-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 42,
-    "time": "2025-03-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 1400,
-    "time": "2025-03-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
-    "blobs": 86,
-    "time": "2025-03-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 22,
-    "time": "2025-03-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 36,
-    "time": "2025-03-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERϴ Network",
-    "blobs": 6,
-    "time": "2025-03-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mantle",
-    "blobs": 7,
+    "blob_submitter": "Taiko",
+    "blobs": 2630,
     "time": "2025-03-24 00:00:00.000 UTC"
   }
 ]

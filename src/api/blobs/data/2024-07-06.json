@@ -1,5 +1,10 @@
 [
   {
+    "blob_submitter": "World Chain",
+    "blobs": 14,
+    "time": "2024-07-06 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Kroma",
     "blobs": 160,
     "time": "2024-07-06 00:00:00.000 UTC"
@@ -20,18 +25,8 @@
     "time": "2024-07-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 10,
-    "time": "2024-07-06 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Binary",
     "blobs": 24,
-    "time": "2024-07-06 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 49,
     "time": "2024-07-06 00:00:00.000 UTC"
   },
   {
@@ -47,6 +42,21 @@
   {
     "blob_submitter": "Zircuit",
     "blobs": 515,
+    "time": "2024-07-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 14,
+    "time": "2024-07-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 49,
+    "time": "2024-07-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 10,
     "time": "2024-07-06 00:00:00.000 UTC"
   },
   {
@@ -70,18 +80,23 @@
     "time": "2024-07-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
+    "blob_submitter": "Optopia",
+    "blobs": 69,
     "time": "2024-07-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
+    "blob_submitter": "Lisk",
+    "blobs": 5,
     "time": "2024-07-06 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 1441,
+    "blob_submitter": "Linea",
+    "blobs": 395,
+    "time": "2024-07-06 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2043,
     "time": "2024-07-06 00:00:00.000 UTC"
   }
 ]

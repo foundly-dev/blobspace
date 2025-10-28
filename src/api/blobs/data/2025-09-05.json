@@ -1,12 +1,22 @@
 [
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 30,
+    "blob_submitter": "Codex",
+    "blobs": 102,
     "time": "2025-09-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 24,
+    "blob_submitter": "Shape",
+    "blobs": 888,
+    "time": "2025-09-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 18,
+    "time": "2025-09-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 30,
     "time": "2025-09-05 00:00:00.000 UTC"
   },
   {
@@ -20,18 +30,8 @@
     "time": "2025-09-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Codex",
-    "blobs": 102,
-    "time": "2025-09-05 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Lighter",
     "blobs": 470,
-    "time": "2025-09-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 10,
     "time": "2025-09-05 00:00:00.000 UTC"
   },
   {
@@ -45,6 +45,11 @@
     "time": "2025-09-05 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "R0AR Chain",
+    "blobs": 10,
+    "time": "2025-09-05 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "pegglecoin",
     "blobs": 25,
     "time": "2025-09-05 00:00:00.000 UTC"
@@ -52,6 +57,11 @@
   {
     "blob_submitter": "Paradex",
     "blobs": 22,
+    "time": "2025-09-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 24,
     "time": "2025-09-05 00:00:00.000 UTC"
   },
   {
@@ -80,18 +90,13 @@
     "time": "2025-09-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 146,
-    "time": "2025-09-05 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Swellchain",
     "blobs": 49,
     "time": "2025-09-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZERϴ Network",
-    "blobs": 29,
+    "blob_submitter": "Others",
+    "blobs": 146,
     "time": "2025-09-05 00:00:00.000 UTC"
   },
   {
@@ -100,33 +105,53 @@
     "time": "2025-09-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 473,
+    "blob_submitter": "ZERϴ Network",
+    "blobs": 29,
     "time": "2025-09-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "World Chain",
-    "blobs": 6072,
+    "blob_submitter": "Morph",
+    "blobs": 289,
     "time": "2025-09-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
+    "blob_submitter": "Mint",
+    "blobs": 62,
     "time": "2025-09-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1248,
+    "blob_submitter": "Hemi",
+    "blobs": 100,
     "time": "2025-09-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 10,
+    "blob_submitter": "Katana",
+    "blobs": 208,
     "time": "2025-09-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
+    "blob_submitter": "Mode",
+    "blobs": 150,
+    "time": "2025-09-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 528,
+    "time": "2025-09-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 73,
+    "time": "2025-09-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metis",
+    "blobs": 58,
+    "time": "2025-09-05 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 13290,
     "time": "2025-09-05 00:00:00.000 UTC"
   }
 ]

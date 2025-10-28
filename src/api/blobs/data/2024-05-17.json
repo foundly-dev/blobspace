@@ -1,7 +1,12 @@
 [
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 39,
+    "blob_submitter": "StarkNet",
+    "blobs": 253,
+    "time": "2024-05-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 35,
     "time": "2024-05-17 00:00:00.000 UTC"
   },
   {
@@ -45,6 +50,11 @@
     "time": "2024-05-17 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Boba Network",
+    "blobs": 39,
+    "time": "2024-05-17 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Linea",
     "blobs": 395,
     "time": "2024-05-17 00:00:00.000 UTC"
@@ -65,23 +75,8 @@
     "time": "2024-05-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 1793,
-    "time": "2024-05-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 3006,
-    "time": "2024-05-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kroma",
-    "blobs": 179,
-    "time": "2024-05-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 133,
+    "blob_submitter": "Paradex",
+    "blobs": 167,
     "time": "2024-05-17 00:00:00.000 UTC"
   }
 ]

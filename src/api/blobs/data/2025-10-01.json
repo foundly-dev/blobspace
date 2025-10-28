@@ -1,32 +1,17 @@
 [
   {
+    "blob_submitter": "Base",
+    "blobs": 14202,
+    "time": "2025-10-01 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Boba Network",
     "blobs": 35,
     "time": "2025-10-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 16,
-    "time": "2025-10-01 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "R0AR Chain",
     "blobs": 10,
-    "time": "2025-10-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 138,
-    "time": "2025-10-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 266,
-    "time": "2025-10-01 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metis",
-    "blobs": 51,
     "time": "2025-10-01 00:00:00.000 UTC"
   },
   {
@@ -50,13 +35,23 @@
     "time": "2025-10-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Settlus",
-    "blobs": 16,
+    "blob_submitter": "Linea",
+    "blobs": 138,
     "time": "2025-10-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Codex",
-    "blobs": 102,
+    "blob_submitter": "Blast",
+    "blobs": 266,
+    "time": "2025-10-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metis",
+    "blobs": 51,
+    "time": "2025-10-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Settlus",
+    "blobs": 16,
     "time": "2025-10-01 00:00:00.000 UTC"
   },
   {
@@ -70,6 +65,11 @@
     "time": "2025-10-01 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Codex",
+    "blobs": 102,
+    "time": "2025-10-01 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Polynomial",
     "blobs": 53,
     "time": "2025-10-01 00:00:00.000 UTC"
@@ -77,6 +77,16 @@
   {
     "blob_submitter": "Shape",
     "blobs": 1878,
+    "time": "2025-10-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "HashKey",
+    "blobs": 35,
+    "time": "2025-10-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 16,
     "time": "2025-10-01 00:00:00.000 UTC"
   },
   {
@@ -120,38 +130,38 @@
     "time": "2025-10-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 359,
-    "time": "2025-10-01 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arena-Z",
     "blobs": 5,
     "time": "2025-10-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "HashKey",
-    "blobs": 35,
+    "blob_submitter": "Metal",
+    "blobs": 359,
     "time": "2025-10-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 213,
+    "blob_submitter": "Hemi",
+    "blobs": 86,
     "time": "2025-10-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 24,
+    "blob_submitter": "Katana",
+    "blobs": 203,
     "time": "2025-10-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 30,
+    "blob_submitter": "Ink",
+    "blobs": 379,
     "time": "2025-10-01 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 69,
+    "blob_submitter": "Scroll",
+    "blobs": 2922,
+    "time": "2025-10-01 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Soneium",
+    "blobs": 950,
     "time": "2025-10-01 00:00:00.000 UTC"
   }
 ]
