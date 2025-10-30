@@ -1,5 +1,20 @@
 [
   {
+    "blob_submitter": "StarkNet",
+    "blobs": 331,
+    "time": "2024-03-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 1977,
+    "time": "2024-03-26 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 112,
+    "time": "2024-03-26 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Others",
     "blobs": 19,
     "time": "2024-03-26 00:00:00.000 UTC"
@@ -7,21 +22,6 @@
   {
     "blob_submitter": "Paradex",
     "blobs": 111,
-    "time": "2024-03-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2376,
-    "time": "2024-03-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 126,
-    "time": "2024-03-26 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 597,
     "time": "2024-03-26 00:00:00.000 UTC"
   }
 ]
