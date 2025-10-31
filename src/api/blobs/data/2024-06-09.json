@@ -1,32 +1,12 @@
 [
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2412,
+    "blob_submitter": "Inscriptions",
+    "blobs": 78,
     "time": "2024-06-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "BOB Network",
-    "blobs": 15,
-    "time": "2024-06-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 280,
-    "time": "2024-06-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
-    "time": "2024-06-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 133,
-    "time": "2024-06-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 29,
+    "blob_submitter": "River",
+    "blobs": 184,
     "time": "2024-06-09 00:00:00.000 UTC"
   },
   {
@@ -35,8 +15,8 @@
     "time": "2024-06-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 132,
+    "blob_submitter": "Mint",
+    "blobs": 8,
     "time": "2024-06-09 00:00:00.000 UTC"
   },
   {
@@ -45,8 +25,18 @@
     "time": "2024-06-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 8,
+    "blob_submitter": "Kroma",
+    "blobs": 180,
+    "time": "2024-06-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 14,
+    "time": "2024-06-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 1441,
     "time": "2024-06-09 00:00:00.000 UTC"
   },
   {
@@ -60,18 +50,38 @@
     "time": "2024-06-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 1441,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2412,
     "time": "2024-06-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 14,
+    "blob_submitter": "Others",
+    "blobs": 133,
     "time": "2024-06-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 180,
+    "blob_submitter": "zkSync Era",
+    "blobs": 280,
+    "time": "2024-06-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-06-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "BOB Network",
+    "blobs": 15,
+    "time": "2024-06-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 71,
+    "time": "2024-06-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metal",
+    "blobs": 358,
     "time": "2024-06-09 00:00:00.000 UTC"
   }
 ]
