@@ -15,41 +15,6 @@
     "time": "2025-08-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 11256,
-    "time": "2025-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Infinaeon",
-    "blobs": 9,
-    "time": "2025-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Phala Network",
-    "blobs": 16,
-    "time": "2025-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Settlus",
-    "blobs": 17,
-    "time": "2025-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lighter",
-    "blobs": 311,
-    "time": "2025-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Morph",
-    "blobs": 594,
-    "time": "2025-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 450,
-    "time": "2025-08-18 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Arbitrum One",
     "blobs": 3330,
     "time": "2025-08-18 00:00:00.000 UTC"
@@ -60,68 +25,18 @@
     "time": "2025-08-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 16,
+    "blob_submitter": "Lighter",
+    "blobs": 311,
     "time": "2025-08-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Codex",
-    "blobs": 103,
+    "blob_submitter": "Shape",
+    "blobs": 450,
     "time": "2025-08-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 457,
-    "time": "2025-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 16,
-    "time": "2025-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 10,
-    "time": "2025-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Snaxchain",
-    "blobs": 16,
-    "time": "2025-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 22,
-    "time": "2025-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 935,
-    "time": "2025-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Linea",
-    "blobs": 203,
-    "time": "2025-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 327,
-    "time": "2025-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metis",
-    "blobs": 58,
-    "time": "2025-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "World Chain",
-    "blobs": 5844,
-    "time": "2025-08-18 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 264,
+    "blob_submitter": "Morph",
+    "blobs": 594,
     "time": "2025-08-18 00:00:00.000 UTC"
   },
   {
@@ -135,8 +50,23 @@
     "time": "2025-08-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "HashKey",
-    "blobs": 41,
+    "blob_submitter": "Base",
+    "blobs": 11256,
+    "time": "2025-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Infinaeon",
+    "blobs": 9,
+    "time": "2025-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Katana",
+    "blobs": 208,
+    "time": "2025-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
     "time": "2025-08-18 00:00:00.000 UTC"
   },
   {
@@ -150,13 +80,68 @@
     "time": "2025-08-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Katana",
-    "blobs": 208,
+    "blob_submitter": "Superseed",
+    "blobs": 16,
     "time": "2025-08-18 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
+    "time": "2025-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 88,
+    "time": "2025-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
+    "time": "2025-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "HashKey",
+    "blobs": 41,
+    "time": "2025-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Phala Network",
     "blobs": 16,
+    "time": "2025-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Settlus",
+    "blobs": 17,
+    "time": "2025-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Blast",
+    "blobs": 327,
+    "time": "2025-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 16,
+    "time": "2025-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Codex",
+    "blobs": 103,
+    "time": "2025-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 264,
+    "time": "2025-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "World Chain",
+    "blobs": 5844,
+    "time": "2025-08-18 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metis",
+    "blobs": 58,
     "time": "2025-08-18 00:00:00.000 UTC"
   }
 ]
