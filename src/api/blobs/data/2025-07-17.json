@@ -1,62 +1,77 @@
 [
   {
-    "blob_submitter": "Lighter",
-    "blobs": 205,
+    "blob_submitter": "Base",
+    "blobs": 13034,
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 27,
+    "blob_submitter": "Mode",
+    "blobs": 108,
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Debank Chain",
-    "blobs": 26,
+    "blob_submitter": "Swellchain",
+    "blobs": 50,
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Morph",
-    "blobs": 187,
+    "blob_submitter": "RACE",
+    "blobs": 24,
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Hemi",
-    "blobs": 86,
+    "blob_submitter": "Scroll",
+    "blobs": 64,
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 90,
+    "blob_submitter": "Unichain",
+    "blobs": 1266,
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 16,
+    "blob_submitter": "Katana",
+    "blobs": 215,
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
-    "blobs": 97,
+    "blob_submitter": "ZERϴ Network",
+    "blobs": 3,
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 378,
+    "blob_submitter": "Infinaeon",
+    "blobs": 9,
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 30,
+    "blob_submitter": "Lisk",
+    "blobs": 38,
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "R0AR Chain",
-    "blobs": 10,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 3333,
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metis",
-    "blobs": 73,
+    "blob_submitter": "Metal",
+    "blobs": 359,
+    "time": "2025-07-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 2082,
+    "time": "2025-07-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 8,
+    "time": "2025-07-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
@@ -80,18 +95,8 @@
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2025-07-17 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Superseed",
     "blobs": 25,
-    "time": "2025-07-17 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 27,
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
@@ -100,48 +105,58 @@
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 13034,
+    "blob_submitter": "Ethernity",
+    "blobs": 5,
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 108,
+    "blob_submitter": "Polynomial",
+    "blobs": 27,
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swellchain",
-    "blobs": 50,
+    "blob_submitter": "Shape",
+    "blobs": 90,
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Scroll",
-    "blobs": 64,
+    "blob_submitter": "Hemi",
+    "blobs": 86,
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "RACE",
-    "blobs": 24,
+    "blob_submitter": "zkSync Era",
+    "blobs": 27,
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Unichain",
-    "blobs": 1266,
+    "blob_submitter": "Lighter",
+    "blobs": 205,
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Katana",
-    "blobs": 215,
+    "blob_submitter": "Morph",
+    "blobs": 187,
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZERϴ Network",
-    "blobs": 3,
+    "blob_submitter": "Debank Chain",
+    "blobs": 26,
     "time": "2025-07-17 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Infinaeon",
-    "blobs": 9,
+    "blob_submitter": "ZORA",
+    "blobs": 16,
+    "time": "2025-07-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Metis",
+    "blobs": 73,
+    "time": "2025-07-17 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 30,
     "time": "2025-07-17 00:00:00.000 UTC"
   }
 ]

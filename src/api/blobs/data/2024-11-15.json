@@ -1,90 +1,5 @@
 [
   {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
-    "time": "2024-11-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 205,
-    "time": "2024-11-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 105,
-    "time": "2024-11-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ethernity",
-    "blobs": 4,
-    "time": "2024-11-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 49,
-    "time": "2024-11-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERϴ Network",
-    "blobs": 56,
-    "time": "2024-11-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nanon Network",
-    "blobs": 26,
-    "time": "2024-11-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 72,
-    "time": "2024-11-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 2,
-    "time": "2024-11-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 479,
-    "time": "2024-11-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 8765,
-    "time": "2024-11-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 8,
-    "time": "2024-11-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 128,
-    "time": "2024-11-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "PandaSea",
-    "blobs": 8,
-    "time": "2024-11-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 24,
-    "time": "2024-11-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Zircuit",
-    "blobs": 478,
-    "time": "2024-11-15 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
-    "blobs": 59,
-    "time": "2024-11-15 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Scroll",
     "blobs": 98,
     "time": "2024-11-15 00:00:00.000 UTC"
@@ -122,6 +37,106 @@
   {
     "blob_submitter": "BOB Network",
     "blobs": 33,
+    "time": "2024-11-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
+    "time": "2024-11-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lisk",
+    "blobs": 6,
+    "time": "2024-11-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Unichain",
+    "blobs": 24,
+    "time": "2024-11-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2523,
+    "time": "2024-11-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "RACE",
+    "blobs": 76,
+    "time": "2024-11-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mode",
+    "blobs": 41,
+    "time": "2024-11-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERϴ Network",
+    "blobs": 56,
+    "time": "2024-11-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 479,
+    "time": "2024-11-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nanon Network",
+    "blobs": 26,
+    "time": "2024-11-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 8765,
+    "time": "2024-11-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 72,
+    "time": "2024-11-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 2,
+    "time": "2024-11-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Binary",
+    "blobs": 8,
+    "time": "2024-11-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 128,
+    "time": "2024-11-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "PandaSea",
+    "blobs": 8,
+    "time": "2024-11-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 24,
+    "time": "2024-11-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 478,
+    "time": "2024-11-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 59,
+    "time": "2024-11-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 205,
+    "time": "2024-11-15 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 49,
     "time": "2024-11-15 00:00:00.000 UTC"
   }
 ]

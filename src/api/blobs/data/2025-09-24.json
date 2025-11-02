@@ -1,82 +1,42 @@
 [
   {
-    "blob_submitter": "Lighter",
-    "blobs": 803,
+    "blob_submitter": "Taiko",
+    "blobs": 223,
     "time": "2025-09-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lisk",
-    "blobs": 84,
+    "blob_submitter": "Boba Network",
+    "blobs": 34,
     "time": "2025-09-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Codex",
-    "blobs": 102,
+    "blob_submitter": "Metal",
+    "blobs": 359,
     "time": "2025-09-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Unichain",
-    "blobs": 783,
+    "blob_submitter": "Others",
+    "blobs": 192,
     "time": "2025-09-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
+    "blob_submitter": "Lumio",
+    "blobs": 10,
     "time": "2025-09-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Abstract",
-    "blobs": 499,
+    "blob_submitter": "ZERϴ Network",
+    "blobs": 5,
     "time": "2025-09-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 296,
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
     "time": "2025-09-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Morph",
-    "blobs": 40,
-    "time": "2025-09-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
+    "blob_submitter": "Phala Network",
     "blobs": 16,
-    "time": "2025-09-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metis",
-    "blobs": 89,
-    "time": "2025-09-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 4479,
-    "time": "2025-09-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 1908,
-    "time": "2025-09-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 141,
-    "time": "2025-09-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Settlus",
-    "blobs": 16,
-    "time": "2025-09-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swellchain",
-    "blobs": 52,
-    "time": "2025-09-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Paradex",
-    "blobs": 233,
     "time": "2025-09-24 00:00:00.000 UTC"
   },
   {
@@ -85,8 +45,13 @@
     "time": "2025-09-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Snaxchain",
-    "blobs": 10,
+    "blob_submitter": "Base",
+    "blobs": 14387,
+    "time": "2025-09-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Infinaeon",
+    "blobs": 9,
     "time": "2025-09-24 00:00:00.000 UTC"
   },
   {
@@ -95,23 +60,18 @@
     "time": "2025-09-24 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Snaxchain",
+    "blobs": 10,
+    "time": "2025-09-24 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Swan Chain",
     "blobs": 8,
     "time": "2025-09-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 14387,
-    "time": "2025-09-24 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Mantle",
     "blobs": 1,
-    "time": "2025-09-24 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Infinaeon",
-    "blobs": 9,
     "time": "2025-09-24 00:00:00.000 UTC"
   },
   {
@@ -140,28 +100,53 @@
     "time": "2025-09-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Taiko",
-    "blobs": 223,
+    "blob_submitter": "Lighter",
+    "blobs": 803,
     "time": "2025-09-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 34,
+    "blob_submitter": "Lisk",
+    "blobs": 84,
     "time": "2025-09-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 359,
+    "blob_submitter": "Abstract",
+    "blobs": 499,
     "time": "2025-09-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 192,
+    "blob_submitter": "Morph",
+    "blobs": 40,
     "time": "2025-09-24 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lumio",
-    "blobs": 10,
+    "blob_submitter": "Blast",
+    "blobs": 296,
+    "time": "2025-09-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Unichain",
+    "blobs": 783,
+    "time": "2025-09-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Optopia",
+    "blobs": 8,
+    "time": "2025-09-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Codex",
+    "blobs": 102,
+    "time": "2025-09-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 16,
+    "time": "2025-09-24 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 233,
     "time": "2025-09-24 00:00:00.000 UTC"
   }
 ]

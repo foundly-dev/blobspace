@@ -1,47 +1,42 @@
 [
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2562,
-    "time": "2024-10-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Blast",
-    "blobs": 738,
-    "time": "2024-10-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 103,
-    "time": "2024-10-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
-    "time": "2024-10-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Binary",
-    "blobs": 846,
-    "time": "2024-10-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 18,
-    "time": "2024-10-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 77,
-    "time": "2024-10-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
+    "blob_submitter": "Paradex",
     "blobs": 68,
     "time": "2024-10-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 54,
+    "blob_submitter": "Kroma",
+    "blobs": 320,
+    "time": "2024-10-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2024-10-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 82,
+    "time": "2024-10-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Snaxchain",
+    "blobs": 16,
+    "time": "2024-10-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 123,
+    "time": "2024-10-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Taiko",
+    "blobs": 2684,
+    "time": "2024-10-03 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 220,
     "time": "2024-10-03 00:00:00.000 UTC"
   },
   {
@@ -55,8 +50,8 @@
     "time": "2024-10-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 220,
+    "blob_submitter": "Lambda",
+    "blobs": 14,
     "time": "2024-10-03 00:00:00.000 UTC"
   },
   {
@@ -75,28 +70,18 @@
     "time": "2024-10-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2562,
     "time": "2024-10-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 68,
+    "blob_submitter": "Binary",
+    "blobs": 846,
     "time": "2024-10-03 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 320,
-    "time": "2024-10-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2024-10-03 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 82,
+    "blob_submitter": "Shape",
+    "blobs": 18,
     "time": "2024-10-03 00:00:00.000 UTC"
   }
 ]

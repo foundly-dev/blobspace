@@ -1,85 +1,5 @@
 [
   {
-    "blob_submitter": "Swan Chain",
-    "blobs": 54,
-    "time": "2024-12-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERϴ Network",
-    "blobs": 11,
-    "time": "2024-12-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
-    "time": "2024-12-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
-    "blobs": 8,
-    "time": "2024-12-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ink",
-    "blobs": 5,
-    "time": "2024-12-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "BOB Network",
-    "blobs": 25,
-    "time": "2024-12-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 8,
-    "time": "2024-12-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 178,
-    "time": "2024-12-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2058,
-    "time": "2024-12-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 27,
-    "time": "2024-12-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 199,
-    "time": "2024-12-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Kinto",
-    "blobs": 10,
-    "time": "2024-12-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 2,
-    "time": "2024-12-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 113,
-    "time": "2024-12-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 54,
-    "time": "2024-12-07 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 54,
-    "time": "2024-12-07 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Paradex",
     "blobs": 82,
     "time": "2024-12-07 00:00:00.000 UTC"
@@ -125,6 +45,11 @@
     "time": "2024-12-07 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Linea",
+    "blobs": 188,
+    "time": "2024-12-07 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Blast",
     "blobs": 433,
     "time": "2024-12-07 00:00:00.000 UTC"
@@ -135,11 +60,6 @@
     "time": "2024-12-07 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 188,
-    "time": "2024-12-07 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Lumio",
     "blobs": 16,
     "time": "2024-12-07 00:00:00.000 UTC"
@@ -147,6 +67,71 @@
   {
     "blob_submitter": "Abstract",
     "blobs": 3,
+    "time": "2024-12-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "River",
+    "blobs": 186,
+    "time": "2024-12-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 26,
+    "time": "2024-12-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mint",
+    "blobs": 199,
+    "time": "2024-12-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Kinto",
+    "blobs": 10,
+    "time": "2024-12-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Inscriptions",
+    "blobs": 2,
+    "time": "2024-12-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2058,
+    "time": "2024-12-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nal",
+    "blobs": 27,
+    "time": "2024-12-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 113,
+    "time": "2024-12-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 54,
+    "time": "2024-12-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 54,
+    "time": "2024-12-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERϴ Network",
+    "blobs": 11,
+    "time": "2024-12-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 54,
+    "time": "2024-12-07 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "BOB Network",
+    "blobs": 25,
     "time": "2024-12-07 00:00:00.000 UTC"
   }
 ]

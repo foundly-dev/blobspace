@@ -1,32 +1,32 @@
 [
   {
-    "blob_submitter": "Blast",
-    "blobs": 954,
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
     "time": "2024-06-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2334,
+    "blob_submitter": "Lisk",
+    "blobs": 16,
     "time": "2024-06-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 274,
+    "blob_submitter": "Scroll",
+    "blobs": 1540,
     "time": "2024-06-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 9,
+    "blob_submitter": "Mode",
+    "blobs": 150,
     "time": "2024-06-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kroma",
-    "blobs": 198,
+    "blob_submitter": "Optopia",
+    "blobs": 71,
     "time": "2024-06-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Paradex",
-    "blobs": 197,
+    "blob_submitter": "Metal",
+    "blobs": 8,
     "time": "2024-06-04 00:00:00.000 UTC"
   },
   {
@@ -37,6 +37,11 @@
   {
     "blob_submitter": "Linea",
     "blobs": 350,
+    "time": "2024-06-04 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 134,
     "time": "2024-06-04 00:00:00.000 UTC"
   },
   {
@@ -60,18 +65,8 @@
     "time": "2024-06-04 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Others",
-    "blobs": 134,
-    "time": "2024-06-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
-    "time": "2024-06-04 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 16,
+    "blob_submitter": "Blast",
+    "blobs": 954,
     "time": "2024-06-04 00:00:00.000 UTC"
   }
 ]
