@@ -1,5 +1,25 @@
 [
   {
+    "blob_submitter": "Lumio",
+    "blobs": 16,
+    "time": "2024-06-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lambda",
+    "blobs": 14,
+    "time": "2024-06-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "BOB Network",
+    "blobs": 21,
+    "time": "2024-06-29 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 133,
+    "time": "2024-06-29 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "ZORA",
     "blobs": 118,
     "time": "2024-06-29 00:00:00.000 UTC"
@@ -15,11 +35,6 @@
     "time": "2024-06-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 292,
-    "time": "2024-06-29 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "River",
     "blobs": 184,
     "time": "2024-06-29 00:00:00.000 UTC"
@@ -30,8 +45,8 @@
     "time": "2024-06-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Polynomial",
-    "blobs": 16,
+    "blob_submitter": "Linea",
+    "blobs": 292,
     "time": "2024-06-29 00:00:00.000 UTC"
   },
   {
@@ -45,6 +60,11 @@
     "time": "2024-06-29 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Polynomial",
+    "blobs": 16,
+    "time": "2024-06-29 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "StarkNet",
     "blobs": 301,
     "time": "2024-06-29 00:00:00.000 UTC"
@@ -55,13 +75,13 @@
     "time": "2024-06-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 197,
+    "blob_submitter": "Mint",
+    "blobs": 16,
     "time": "2024-06-29 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mint",
-    "blobs": 16,
+    "blob_submitter": "zkSync Era",
+    "blobs": 197,
     "time": "2024-06-29 00:00:00.000 UTC"
   },
   {
@@ -77,36 +97,6 @@
   {
     "blob_submitter": "Parallel",
     "blobs": 2,
-    "time": "2024-06-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nal",
-    "blobs": 50,
-    "time": "2024-06-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
-    "time": "2024-06-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Inscriptions",
-    "blobs": 19,
-    "time": "2024-06-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lambda",
-    "blobs": 14,
-    "time": "2024-06-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2024-06-29 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "BOB Network",
-    "blobs": 21,
     "time": "2024-06-29 00:00:00.000 UTC"
   }
 ]

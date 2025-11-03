@@ -1,5 +1,45 @@
 [
   {
+    "blob_submitter": "Mint",
+    "blobs": 54,
+    "time": "2025-06-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Morph",
+    "blobs": 37,
+    "time": "2025-06-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lighter",
+    "blobs": 147,
+    "time": "2025-06-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2346,
+    "time": "2025-06-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 222,
+    "time": "2025-06-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "zkSync Era",
+    "blobs": 35,
+    "time": "2025-06-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Unichain",
+    "blobs": 984,
+    "time": "2025-06-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Paradex",
+    "blobs": 17,
+    "time": "2025-06-21 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Infinaeon",
     "blobs": 10,
     "time": "2025-06-21 00:00:00.000 UTC"
@@ -45,11 +85,6 @@
     "time": "2025-06-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swellchain",
-    "blobs": 45,
-    "time": "2025-06-21 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "OP Mainnet",
     "blobs": 1500,
     "time": "2025-06-21 00:00:00.000 UTC"
@@ -57,6 +92,11 @@
   {
     "blob_submitter": "RACE",
     "blobs": 24,
+    "time": "2025-06-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swellchain",
+    "blobs": 45,
     "time": "2025-06-21 00:00:00.000 UTC"
   },
   {
@@ -85,11 +125,6 @@
     "time": "2025-06-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Katana",
-    "blobs": 16,
-    "time": "2025-06-21 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Hemi",
     "blobs": 86,
     "time": "2025-06-21 00:00:00.000 UTC"
@@ -97,6 +132,11 @@
   {
     "blob_submitter": "Ink",
     "blobs": 275,
+    "time": "2025-06-21 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Katana",
+    "blobs": 16,
     "time": "2025-06-21 00:00:00.000 UTC"
   },
   {
@@ -110,11 +150,6 @@
     "time": "2025-06-21 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "HashKey",
-    "blobs": 34,
-    "time": "2025-06-21 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "pegglecoin",
     "blobs": 12,
     "time": "2025-06-21 00:00:00.000 UTC"
@@ -122,36 +157,6 @@
   {
     "blob_submitter": "Others",
     "blobs": 96,
-    "time": "2025-06-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 16,
-    "time": "2025-06-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lighter",
-    "blobs": 147,
-    "time": "2025-06-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2346,
-    "time": "2025-06-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 222,
-    "time": "2025-06-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "zkSync Era",
-    "blobs": 35,
-    "time": "2025-06-21 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Unichain",
-    "blobs": 984,
     "time": "2025-06-21 00:00:00.000 UTC"
   }
 ]

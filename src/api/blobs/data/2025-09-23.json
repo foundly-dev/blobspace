@@ -1,5 +1,80 @@
 [
   {
+    "blob_submitter": "Katana",
+    "blobs": 225,
+    "time": "2025-09-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swan Chain",
+    "blobs": 7,
+    "time": "2025-09-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Mantle",
+    "blobs": 1,
+    "time": "2025-09-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Morph",
+    "blobs": 40,
+    "time": "2025-09-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Hemi",
+    "blobs": 109,
+    "time": "2025-09-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 314,
+    "time": "2025-09-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Scroll",
+    "blobs": 3090,
+    "time": "2025-09-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ink",
+    "blobs": 390,
+    "time": "2025-09-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arena-Z",
+    "blobs": 4,
+    "time": "2025-09-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Debank Chain",
+    "blobs": 20,
+    "time": "2025-09-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 219,
+    "time": "2025-09-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "pegglecoin",
+    "blobs": 12,
+    "time": "2025-09-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERϴ Network",
+    "blobs": 4,
+    "time": "2025-09-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Snaxchain",
+    "blobs": 9,
+    "time": "2025-09-23 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Base",
+    "blobs": 14649,
+    "time": "2025-09-23 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lighter",
     "blobs": 839,
     "time": "2025-09-23 00:00:00.000 UTC"
@@ -15,13 +90,13 @@
     "time": "2025-09-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Abstract",
-    "blobs": 421,
+    "blob_submitter": "ZORA",
+    "blobs": 23,
     "time": "2025-09-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Blast",
-    "blobs": 305,
+    "blob_submitter": "Abstract",
+    "blobs": 421,
     "time": "2025-09-23 00:00:00.000 UTC"
   },
   {
@@ -30,13 +105,13 @@
     "time": "2025-09-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Shape",
-    "blobs": 576,
+    "blob_submitter": "Blast",
+    "blobs": 305,
     "time": "2025-09-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metis",
-    "blobs": 96,
+    "blob_submitter": "Shape",
+    "blobs": 576,
     "time": "2025-09-23 00:00:00.000 UTC"
   },
   {
@@ -45,13 +120,13 @@
     "time": "2025-09-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Soneium",
-    "blobs": 1640,
+    "blob_submitter": "Metis",
+    "blobs": 96,
     "time": "2025-09-23 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 23,
+    "blob_submitter": "Soneium",
+    "blobs": 1640,
     "time": "2025-09-23 00:00:00.000 UTC"
   },
   {
@@ -72,11 +147,6 @@
   {
     "blob_submitter": "Mint",
     "blobs": 16,
-    "time": "2025-09-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 1470,
     "time": "2025-09-23 00:00:00.000 UTC"
   },
   {
@@ -107,56 +177,6 @@
   {
     "blob_submitter": "Taiko",
     "blobs": 208,
-    "time": "2025-09-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "RACE",
-    "blobs": 26,
-    "time": "2025-09-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Unichain",
-    "blobs": 876,
-    "time": "2025-09-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 9,
-    "time": "2025-09-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 90,
-    "time": "2025-09-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swan Chain",
-    "blobs": 7,
-    "time": "2025-09-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Morph",
-    "blobs": 40,
-    "time": "2025-09-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "pegglecoin",
-    "blobs": 12,
-    "time": "2025-09-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mantle",
-    "blobs": 1,
-    "time": "2025-09-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Ink",
-    "blobs": 390,
-    "time": "2025-09-23 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arena-Z",
-    "blobs": 4,
     "time": "2025-09-23 00:00:00.000 UTC"
   }
 ]

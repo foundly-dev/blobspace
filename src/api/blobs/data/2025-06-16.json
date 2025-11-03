@@ -1,5 +1,35 @@
 [
   {
+    "blob_submitter": "zkSync Era",
+    "blobs": 24,
+    "time": "2025-06-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Codex",
+    "blobs": 49,
+    "time": "2025-06-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lighter",
+    "blobs": 135,
+    "time": "2025-06-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Swellchain",
+    "blobs": 47,
+    "time": "2025-06-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 25,
+    "time": "2025-06-16 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 174,
+    "time": "2025-06-16 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Debank Chain",
     "blobs": 20,
     "time": "2025-06-16 00:00:00.000 UTC"
@@ -15,6 +45,11 @@
     "time": "2025-06-16 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Base",
+    "blobs": 14279,
+    "time": "2025-06-16 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "RACE",
     "blobs": 53,
     "time": "2025-06-16 00:00:00.000 UTC"
@@ -25,13 +60,13 @@
     "time": "2025-06-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Unichain",
-    "blobs": 1020,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 2706,
     "time": "2025-06-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2706,
+    "blob_submitter": "Unichain",
+    "blobs": 1020,
     "time": "2025-06-16 00:00:00.000 UTC"
   },
   {
@@ -50,13 +85,13 @@
     "time": "2025-06-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
     "time": "2025-06-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
+    "blob_submitter": "Optopia",
+    "blobs": 8,
     "time": "2025-06-16 00:00:00.000 UTC"
   },
   {
@@ -75,18 +110,13 @@
     "time": "2025-06-16 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Base",
-    "blobs": 14279,
+    "blob_submitter": "ZERϴ Network",
+    "blobs": 7,
     "time": "2025-06-16 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "pegglecoin",
     "blobs": 26,
-    "time": "2025-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERϴ Network",
-    "blobs": 7,
     "time": "2025-06-16 00:00:00.000 UTC"
   },
   {
@@ -117,36 +147,6 @@
   {
     "blob_submitter": "Ink",
     "blobs": 247,
-    "time": "2025-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 16,
-    "time": "2025-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "BOB Network",
-    "blobs": 21,
-    "time": "2025-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Codex",
-    "blobs": 49,
-    "time": "2025-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lighter",
-    "blobs": 135,
-    "time": "2025-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Swellchain",
-    "blobs": 47,
-    "time": "2025-06-16 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 25,
     "time": "2025-06-16 00:00:00.000 UTC"
   }
 ]

@@ -1,5 +1,40 @@
 [
   {
+    "blob_submitter": "Polynomial",
+    "blobs": 14,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "BOB Network",
+    "blobs": 42,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Nanon Network",
+    "blobs": 24,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZORA",
+    "blobs": 173,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERϴ Network",
+    "blobs": 8,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 272,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "pegglecoin",
+    "blobs": 12,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Swan Chain",
     "blobs": 136,
     "time": "2024-10-31 00:00:00.000 UTC"
@@ -50,21 +85,6 @@
     "time": "2024-10-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Linea",
-    "blobs": 323,
-    "time": "2024-10-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Shape",
-    "blobs": 14,
-    "time": "2024-10-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Superseed",
-    "blobs": 16,
-    "time": "2024-10-31 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Mint",
     "blobs": 149,
     "time": "2024-10-31 00:00:00.000 UTC"
@@ -75,13 +95,18 @@
     "time": "2024-10-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Binary",
-    "blobs": 8,
+    "blob_submitter": "Superseed",
+    "blobs": 16,
     "time": "2024-10-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 54,
+    "blob_submitter": "Linea",
+    "blobs": 323,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Shape",
+    "blobs": 14,
     "time": "2024-10-31 00:00:00.000 UTC"
   },
   {
@@ -90,48 +115,23 @@
     "time": "2024-10-31 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Boba Network",
+    "blobs": 54,
+    "time": "2024-10-31 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "zkSync Era",
     "blobs": 85,
     "time": "2024-10-31 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Nal",
-    "blobs": 50,
-    "time": "2024-10-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 2268,
+    "blob_submitter": "Binary",
+    "blobs": 8,
     "time": "2024-10-31 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "StarkNet",
     "blobs": 1218,
-    "time": "2024-10-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 173,
-    "time": "2024-10-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Nanon Network",
-    "blobs": 24,
-    "time": "2024-10-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZERϴ Network",
-    "blobs": 8,
-    "time": "2024-10-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "BOB Network",
-    "blobs": 42,
-    "time": "2024-10-31 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Others",
-    "blobs": 272,
     "time": "2024-10-31 00:00:00.000 UTC"
   }
 ]

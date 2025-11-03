@@ -1,5 +1,30 @@
 [
   {
+    "blob_submitter": "Metal",
+    "blobs": 7,
+    "time": "2024-04-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "BOB Network",
+    "blobs": 8,
+    "time": "2024-04-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "OP Mainnet",
+    "blobs": 1698,
+    "time": "2024-04-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "StarkNet",
+    "blobs": 352,
+    "time": "2024-04-13 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Linea",
+    "blobs": 367,
+    "time": "2024-04-13 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Arbitrum One",
     "blobs": 2070,
     "time": "2024-04-13 00:00:00.000 UTC"
@@ -17,16 +42,6 @@
   {
     "blob_submitter": "Inscriptions",
     "blobs": 19,
-    "time": "2024-04-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mode",
-    "blobs": 144,
-    "time": "2024-04-13 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "ZORA",
-    "blobs": 378,
     "time": "2024-04-13 00:00:00.000 UTC"
   }
 ]
