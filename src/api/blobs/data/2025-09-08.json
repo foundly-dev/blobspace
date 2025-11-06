@@ -1,57 +1,7 @@
 [
   {
-    "blob_submitter": "RACE",
-    "blobs": 26,
-    "time": "2025-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arena-Z",
-    "blobs": 5,
-    "time": "2025-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lighter",
-    "blobs": 532,
-    "time": "2025-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Boba Network",
-    "blobs": 31,
-    "time": "2025-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "R0AR Chain",
+    "blob_submitter": "Snaxchain",
     "blobs": 10,
-    "time": "2025-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 282,
-    "time": "2025-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Codex",
-    "blobs": 102,
-    "time": "2025-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Mint",
-    "blobs": 16,
-    "time": "2025-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 3216,
-    "time": "2025-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 24,
-    "time": "2025-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Abstract",
-    "blobs": 404,
     "time": "2025-09-08 00:00:00.000 UTC"
   },
   {
@@ -60,13 +10,13 @@
     "time": "2025-09-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Snaxchain",
-    "blobs": 10,
+    "blob_submitter": "Morph",
+    "blobs": 144,
     "time": "2025-09-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Morph",
-    "blobs": 144,
+    "blob_submitter": "Metis",
+    "blobs": 40,
     "time": "2025-09-08 00:00:00.000 UTC"
   },
   {
@@ -77,11 +27,6 @@
   {
     "blob_submitter": "pegglecoin",
     "blobs": 24,
-    "time": "2025-09-08 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Metis",
-    "blobs": 40,
     "time": "2025-09-08 00:00:00.000 UTC"
   },
   {
@@ -105,12 +50,22 @@
     "time": "2025-09-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Settlus",
-    "blobs": 16,
+    "blob_submitter": "Polynomial",
+    "blobs": 24,
+    "time": "2025-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Abstract",
+    "blobs": 404,
     "time": "2025-09-08 00:00:00.000 UTC"
   },
   {
     "blob_submitter": "Phala Network",
+    "blobs": 16,
+    "time": "2025-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Settlus",
     "blobs": 16,
     "time": "2025-09-08 00:00:00.000 UTC"
   },
@@ -125,6 +80,56 @@
     "time": "2025-09-08 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Lumio",
+    "blobs": 10,
+    "time": "2025-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "ZERϴ Network",
+    "blobs": 19,
+    "time": "2025-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "BOB Network",
+    "blobs": 18,
+    "time": "2025-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Katana",
+    "blobs": 205,
+    "time": "2025-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "HashKey",
+    "blobs": 37,
+    "time": "2025-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Others",
+    "blobs": 123,
+    "time": "2025-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Superseed",
+    "blobs": 16,
+    "time": "2025-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Soneium",
+    "blobs": 750,
+    "time": "2025-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ink",
+    "blobs": 378,
+    "time": "2025-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Lighter",
+    "blobs": 532,
+    "time": "2025-09-08 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Hemi",
     "blobs": 86,
     "time": "2025-09-08 00:00:00.000 UTC"
@@ -135,8 +140,13 @@
     "time": "2025-09-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Swellchain",
-    "blobs": 50,
+    "blob_submitter": "RACE",
+    "blobs": 26,
+    "time": "2025-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Arena-Z",
+    "blobs": 5,
     "time": "2025-09-08 00:00:00.000 UTC"
   },
   {
@@ -150,8 +160,13 @@
     "time": "2025-09-08 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Metal",
-    "blobs": 358,
+    "blob_submitter": "Swellchain",
+    "blobs": 50,
+    "time": "2025-09-08 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Boba Network",
+    "blobs": 31,
     "time": "2025-09-08 00:00:00.000 UTC"
   }
 ]
