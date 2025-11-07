@@ -1,72 +1,32 @@
 [
   {
-    "blob_submitter": "Nal",
-    "blobs": 24,
+    "blob_submitter": "ZERϴ Network",
+    "blobs": 4,
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 29,
+    "blob_submitter": "Kroma",
+    "blobs": 136,
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Zircuit",
+    "blob_submitter": "Others",
     "blobs": 97,
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ethernity",
-    "blobs": 5,
-    "time": "2025-02-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Debank Chain",
-    "blobs": 17,
-    "time": "2025-02-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lighter",
-    "blobs": 29,
-    "time": "2025-02-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Hemi",
+    "blob_submitter": "Swan Chain",
     "blobs": 7,
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Kinto",
-    "blobs": 6,
+    "blob_submitter": "Paradex",
+    "blobs": 61,
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Ink",
-    "blobs": 144,
-    "time": "2025-02-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 53,
-    "time": "2025-02-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Soneium",
-    "blobs": 595,
-    "time": "2025-02-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Optopia",
-    "blobs": 8,
-    "time": "2025-02-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "StarkNet",
-    "blobs": 33,
-    "time": "2025-02-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Base",
-    "blobs": 7960,
+    "blob_submitter": "Phala Network",
+    "blobs": 77,
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
@@ -95,6 +55,11 @@
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Taiko",
+    "blobs": 4091,
+    "time": "2025-02-09 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Lisk",
     "blobs": 444,
     "time": "2025-02-09 00:00:00.000 UTC"
@@ -102,21 +67,6 @@
   {
     "blob_submitter": "Infinaeon",
     "blobs": 8,
-    "time": "2025-02-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "pegglecoin",
-    "blobs": 26,
-    "time": "2025-02-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Polynomial",
-    "blobs": 19,
-    "time": "2025-02-09 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Taiko",
-    "blobs": 4091,
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
@@ -130,13 +80,23 @@
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "HashKey",
-    "blobs": 30,
+    "blob_submitter": "OP Mainnet",
+    "blobs": 896,
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "OP Mainnet",
-    "blobs": 896,
+    "blob_submitter": "pegglecoin",
+    "blobs": 26,
+    "time": "2025-02-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Polynomial",
+    "blobs": 19,
+    "time": "2025-02-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "HashKey",
+    "blobs": 30,
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
@@ -145,23 +105,33 @@
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 47,
+    "blob_submitter": "Debank Chain",
+    "blobs": 17,
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZERϴ Network",
-    "blobs": 4,
+    "blob_submitter": "Lighter",
+    "blobs": 29,
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Mode",
-    "blobs": 36,
+    "blob_submitter": "Nal",
+    "blobs": 24,
     "time": "2025-02-09 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arena-Z",
+    "blob_submitter": "ZORA",
+    "blobs": 29,
+    "time": "2025-02-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Ethernity",
     "blobs": 5,
+    "time": "2025-02-09 00:00:00.000 UTC"
+  },
+  {
+    "blob_submitter": "Zircuit",
+    "blobs": 97,
     "time": "2025-02-09 00:00:00.000 UTC"
   }
 ]

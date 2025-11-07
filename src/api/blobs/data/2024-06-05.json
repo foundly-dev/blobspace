@@ -1,27 +1,17 @@
 [
   {
-    "blob_submitter": "StarkNet",
-    "blobs": 338,
+    "blob_submitter": "zkSync Era",
+    "blobs": 322,
     "time": "2024-06-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Inscriptions",
-    "blobs": 78,
+    "blob_submitter": "Others",
+    "blobs": 134,
     "time": "2024-06-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "ZORA",
-    "blobs": 84,
-    "time": "2024-06-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Parallel",
-    "blobs": 24,
-    "time": "2024-06-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Scroll",
-    "blobs": 1427,
+    "blob_submitter": "BOB Network",
+    "blobs": 39,
     "time": "2024-06-05 00:00:00.000 UTC"
   },
   {
@@ -40,18 +30,13 @@
     "time": "2024-06-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Arbitrum One",
-    "blobs": 1926,
-    "time": "2024-06-05 00:00:00.000 UTC"
-  },
-  {
     "blob_submitter": "Debank Chain",
     "blobs": 15,
     "time": "2024-06-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "Boba Network",
-    "blobs": 48,
+    "blob_submitter": "Arbitrum One",
+    "blobs": 1926,
     "time": "2024-06-05 00:00:00.000 UTC"
   },
   {
@@ -60,28 +45,23 @@
     "time": "2024-06-05 00:00:00.000 UTC"
   },
   {
+    "blob_submitter": "Boba Network",
+    "blobs": 48,
+    "time": "2024-06-05 00:00:00.000 UTC"
+  },
+  {
     "blob_submitter": "Base",
     "blobs": 5256,
     "time": "2024-06-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "River",
-    "blobs": 184,
+    "blob_submitter": "Scroll",
+    "blobs": 1427,
     "time": "2024-06-05 00:00:00.000 UTC"
   },
   {
-    "blob_submitter": "zkSync Era",
-    "blobs": 322,
-    "time": "2024-06-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lumio",
-    "blobs": 8,
-    "time": "2024-06-05 00:00:00.000 UTC"
-  },
-  {
-    "blob_submitter": "Lisk",
-    "blobs": 12,
+    "blob_submitter": "StarkNet",
+    "blobs": 338,
     "time": "2024-06-05 00:00:00.000 UTC"
   }
 ]
